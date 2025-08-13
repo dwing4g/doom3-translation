@@ -2764,8 +2764,8 @@ OPERATOR ACCESS
 操作员入口
 
 > #str_00361
-CURRENT LOCATION:
-目前位置：
+ CURRENT LOCATION:
+ 目前位置：
 
 > #str_00362
 """RECALL CRANE
@@ -3008,8 +3008,8 @@ TRANSMIT MESSAGE:
 发送信息：
 
 > #str_00406
-DISTRESS CALL TO ORBITAL FLEET'?
-DISTRESS CALL TO ORBITAL FLEET'?
+'DISTRESS CALL TO ORBITAL FLEET'?
+'DISTRESS CALL TO ORBITAL FLEET'?
 
 > #str_00407
 INSERT TRANSMISSION CARD
@@ -3542,48 +3542,48 @@ Online"""
 上线"""
 
 > #str_00502
-"""
+""" 
 All Status
 Normal
 All Stations
 Online"""
-"""
+""" 
 一切状态
 正常
 所有基站
 连线"""
 
 > #str_00503
-"""
+""" 
  
 Normal
 All Stations
 Online"""
-"""
+""" 
  
 正常
 所有基站
 连线"""
 
 > #str_00504
-"""
+""" 
  
  
 All Stations
 Online"""
-"""
+""" 
  
  
 所有基站
 连线"""
 
 > #str_00505
-"""
+""" 
  
  
  
 Online"""
-"""
+""" 
  
  
  
@@ -4460,8 +4460,8 @@ OPEN"""
 已经开启"""
 
 > #str_00657
-OPEN
-开放
+   OPEN
+   开放
 
 > #str_00658
 STATUS:OPEN  
@@ -4666,9 +4666,9 @@ current pressure
 当前压力
 
 > #str_00695
-"""
+""" 
 AI"""
-"""
+""" 
 AI"""
 
 > #str_00696
@@ -4776,16 +4776,16 @@ ALPHA LABS
 阿尔法实验室
 
 > #str_00719
-SHUTDOWN
-关闭
+  SHUTDOWN
+  关闭
 
 > #str_00720
-SECURITY LOCK
-安全锁
+  SECURITY LOCK
+  安全锁
 
 > #str_00721
-ACCESS ONLY
-仅限进入
+  ACCESS ONLY
+  仅限进入
 
 > #str_00722
 Area Access
@@ -5361,8 +5361,8 @@ Primary Level
 主要等级
 
 > #str_00835
-Attention                    Pumping Systems will be initiated and all reservoirs purged. Continue?
-注意                    抽液系统即将启动，所有储液槽都将清空。继续吗？
+                    Attention                    Pumping Systems will be initiated and all reservoirs purged. Continue?
+                    注意                    抽液系统即将启动，所有储液槽都将清空。继续吗？
 
 > #str_00836
 Yes
@@ -7287,8 +7287,8 @@ Area Lock Down
 区域封锁
 
 > #str_01206
-Toxic Air Level
-空气毒性等级
+ Toxic Air Level
+ 空气毒性等级
 
 > #str_01207
 AREA LOCKED
@@ -7319,16 +7319,16 @@ O2      20.3%
 O2      20.3%
 
 > #str_01214
-WARNING
-警告
+  WARNING
+  警告
 
 > #str_01215
-Atmospheric Test Lab
-大气测试实验室
+ Atmospheric Test Lab
+ 大气测试实验室
 
 > #str_01216
-Entry Prohibited Mars Standard Atmosphere
-禁止进入火星标准大气
+                     Entry Prohibited Mars Standard Atmosphere
+                     禁止进入火星标准大气
 
 > #str_01217
 nitr 02.7%
@@ -7393,8 +7393,8 @@ SUB 1
 替补 1
 
 > #str_01230
-S1
-S1
+   S1
+   S1
 
 > #str_01231
 Currently on Sublevel 1
@@ -10802,16 +10802,16 @@ TEMP
 临时
 
 > #str_01807
-EMP
-EMP
+   EMP
+   EMP
 
 > #str_01808
-MP
-MP
+      MP
+      MP
 
 > #str_01809
-P
-P
+          P
+          P
 
 > #str_01810
 TE
@@ -11606,8 +11606,8 @@ Spectators
 旁观者
 
 > #str_01988
-START GAME
-开始游戏
+   START GAME
+   开始游戏
 
 > #str_01989
 Force server start
@@ -11806,12 +11806,12 @@ Oxygen-
 氧气-
 
 > #str_02016
-Incoming Communication -
-通讯呼入 - 
+ Incoming Communication -
+ 通讯呼入 - 
 
 > #str_02017
-Radio Transmission Active -
-无线电通讯激活 - 
+ Radio Transmission Active -
+ 无线电通讯激活 - 
 
 > #str_02018
 Playing Audio Log
@@ -12320,8 +12320,8 @@ Reset all system options to default values
 重置所有系统选项至默认
 
 > #str_02143
-APPLY VIDEO CHANGES
-应用视频设定
+ APPLY VIDEO CHANGES
+ 应用视频设定
 
 > #str_02144
 Apply video changes
@@ -12348,8 +12348,8 @@ Low Quality
 低质量
 
 > #str_02150
-Load Recommended
-建议读取
+     Load Recommended
+     建议读取
 
 > #str_02151
 Load the quality recommended for your system
@@ -12372,8 +12372,8 @@ Brightness
 亮度
 
 > #str_02156
-APPLY AUDIO CHANGES
-应用音频更变
+ APPLY AUDIO CHANGES
+ 应用音频更变
 
 > #str_02157
 Apply audio changes
@@ -12432,32 +12432,32 @@ Customize audio/video settings
 自定义音频/视频设定
 
 > #str_02171
-EASY MODE
-简单模式
+ EASY MODE
+ 简单模式
 
 > #str_02172
 Don't shoot yourself in the foot recruit
 新来的，小心别射到你自己的脚
 
 > #str_02173
-NORMAL MODE
-普通模式
+ NORMAL MODE
+ 普通模式
 
 > #str_02174
 You can hit a moving target...usually
 你可以击中移动中的目标...基本是这样
 
 > #str_02175
-HARD MODE
-困难模式
+ HARD MODE
+ 困难模式
 
 > #str_02176
 Shoot first and ask questions later
 先射再问
 
 > #str_02177
-NIGHTMARE MODE
-噩梦模式
+ NIGHTMARE MODE
+ 噩梦模式
 
 > #str_02178
 An unstoppable death dealing machine
@@ -12488,8 +12488,8 @@ THIRTY CHARACTER NAME 30303030
 30个角色名称 30303030
 
 > #str_02185
-SAVE GAME
-保存游戏
+ SAVE GAME
+ 保存游戏
 
 > #str_02186
 Save game
@@ -12500,16 +12500,16 @@ LOAD GAME
 载入游戏
 
 > #str_02188
-LOAD GAME
-读取游戏
+ LOAD GAME
+ 读取游戏
 
 > #str_02189
 Load selected game
 载入选择的游戏
 
 > #str_02190
-DELETE
-删除
+    DELETE
+    删除
 
 > #str_02191
 Delete selected game
@@ -12532,8 +12532,8 @@ Player Skin
 玩家皮肤
 
 > #str_02196
-APPLY SETTINGS
-应用设定
+ APPLY SETTINGS
+ 应用设定
 
 > #str_02197
 Save player settings
@@ -12608,8 +12608,8 @@ Close multiplayer section
 关闭多人游戏组件
 
 > #str_02215
-Play or create multiplayer online games
-联机玩游戏或创建游戏房间
+Online functionality not available.
+联机功能不可用。
 
 > #str_02216
 QUIT CURRENT GAME
@@ -12792,20 +12792,20 @@ Lead Designer
 设计总监
 
 > #str_02261
-ADDITIONAL CREDIT
-额外开发团队
+   ADDITIONAL CREDIT
+   额外开发团队
 
 > #str_02262
-ID SOFTWARE CREDIT
-ID SOFTWARE CREDIT
+   ID SOFTWARE CREDIT
+   ID SOFTWARE CREDIT
 
 > #str_02263
 BACK TO MENU
 回到菜单
 
 > #str_02264
-MULTIPLAYER
-多人游戏
+ MULTIPLAYER
+ 多人游戏
 
 > #str_02265
 GAME BROWSER
@@ -12820,8 +12820,8 @@ Create a new game server
 建立新游戏服务器
 
 > #str_02268
-Server Name
-服务器名称
+ Server Name
+ 服务器名称
 
 > #str_02269
 Arrange servers by name
@@ -12836,16 +12836,16 @@ Arrange servers by ping
 按延迟进行服务器排序
 
 > #str_02272
-Gametype
-游戏类型
+ Gametype
+ 游戏类型
 
 > #str_02273
 Arrange servers by gametype
 按游戏类型进行服务器排序
 
 > #str_02274
-Map
-地图
+ Map
+ 地图
 
 > #str_02275
 Arrange servers by map name
@@ -12860,32 +12860,32 @@ Refresh server list
 刷新服务器列表
 
 > #str_02278
-GET NEW LIST
-获取新列表
+  GET NEW LIST
+  获取新列表
 
 > #str_02279
 Get new server list
 取得新的服务器列表
 
 > #str_02280
-INTERNET
-因特网
+  INTERNET
+  因特网
 
 > #str_02281
 Search for Internet game servers
 寻找联网游戏服务器
 
 > #str_02282
-LAN
-局域网
+  LAN
+  局域网
 
 > #str_02283
 Search for LAN game servers
 寻找局域网游戏服务器
 
 > #str_02284
-APPLY FILTER
-应用过滤器
+ APPLY FILTER
+ 应用过滤器
 
 > #str_02285
 Apply browser filter
@@ -12900,8 +12900,8 @@ Connect directly to ip/server address
 直接连接至IP/服务器地址
 
 > #str_02288
-JOIN GAME
-加入游戏
+   JOIN GAME
+   加入游戏
 
 > #str_02289
 Join selected game
@@ -14163,56 +14163,56 @@ located
 定位
 
 > #str_02582
-M
-M
+       M
+       M
 
 > #str_02583
-MA
-MA
+       MA
+       MA
 
 > #str_02584
-MAR
-MAR
+       MAR
+       MAR
 
 > #str_02585
-MARS
-MARS
+       MARS
+       MARS
 
 > #str_02586
-MARS B
-MARS B
+       MARS B
+       MARS B
 
 > #str_02587
-MARS BA
-MARS BA
+       MARS BA
+       MARS BA
 
 > #str_02588
-MARS BAS
-MARS BAS
+       MARS BAS
+       MARS BAS
 
 > #str_02589
-MARS BASE
-MARS BASE
+       MARS BASE
+       MARS BASE
 
 > #str_02590
-MARS BASE U
-MARS BASE U
+       MARS BASE U
+       MARS BASE U
 
 > #str_02591
-MARS BASE UA
-MARS BASE UA
+       MARS BASE UA
+       MARS BASE UA
 
 > #str_02592
-MARS BASE UAC
-MARS BASE UAC
+       MARS BASE UAC
+       MARS BASE UAC
 
 > #str_02593
-MARS BASE UACM
-MARS BASE UACM
+       MARS BASE UACM
+       MARS BASE UACM
 
 > #str_02594
-MARS BASE UACM1
-MARS BASE UACM1
+       MARS BASE UACM1
+       MARS BASE UACM1
 
 > #str_02595
 Uniion Aerospace Corpoqztion
@@ -14947,16 +14947,16 @@ Delta Labs Sector 4
 德尔塔实验室 4区
 
 > #str_02778
-Access Codes
-进入密码
+    Access Codes
+    进入密码
 
 > #str_02779
 SECURITY-ARMORY
 安全-武器房
 
 > #str_02780
-Required
-需要
+       Required
+       需要
 
 > #str_02781
 map_delta2a::proc_cage3
@@ -17778,14 +17778,14 @@ L4
 L1-L4"""
 
 > #str_03413
-"""BMD
+""" BMD
 ---------
 0.642
 0.679
 0.767
 0.832
 0.738"""
-"""BMD
+""" BMD
 ---------
 0.642
 0.679
@@ -17794,14 +17794,14 @@ L1-L4"""
 0.738"""
 
 > #str_03414
-"""T(30.0)
+"""  T(30.0)
 ---------------
 -2.57 69%
 -3.17 66%
 -2.80 71%
 -2.58 75%
 -2.81 71%"""
-"""T(30.0)
+"""  T(30.0)
 ---------------
 -2.57 69%
 -3.17 66%
@@ -17810,14 +17810,14 @@ L1-L4"""
 -2.81 71%"""
 
 > #str_03415
-"""Z
+"""       Z
 ---------------
 -0.61 90%
 -1.03 86%
 -0.63 92%
 -0.26 97%
 -0.63 91%"""
-"""Z
+"""       Z
 ---------------
 -0.61 90%
 -1.03 86%
@@ -21175,8 +21175,8 @@ Video changes accepted
 已接受视频更改
 
 > #str_04076
-ADVANCED OPTIONS
-高级设置
+    ADVANCED OPTIONS
+    高级设置
 
 > #str_04077
 Open advanced option settings
@@ -21187,8 +21187,8 @@ Ultra Quality
 超高质量
 
 > #str_04079
-Scan hardware and
-扫描硬件并
+   Scan hardware and
+   扫描硬件并
 
 > #str_04080
 Detect the recommended quality setting
@@ -21199,12 +21199,12 @@ Recommended quality selected
 已选推荐品质
 
 > #str_04082
-select optimal
-选择最佳选项
+         select optimal
+         选择最佳选项
 
 > #str_04083
-video quality
-视频质量
+           video quality
+           视频质量
 
 > #str_04084
 Click 'apply changes' to accept
@@ -21267,8 +21267,8 @@ MODS
 MODS
 
 > #str_04099
-LOAD MOD
-读取MOD
+  LOAD MOD
+  读取MOD
 
 > #str_04100
 MULTIPLAYER SETTINGS
@@ -21283,8 +21283,8 @@ Always Run (MP)
 总是运行 (MP)
 
 > #str_04103
-SAVE SETTINGS
-保存设置
+  SAVE SETTINGS
+  保存设置
 
 > #str_04104
 DISCONNECT FROM SERVER
@@ -21307,16 +21307,16 @@ Load game mods
 载入游戏mod
 
 > #str_04109
-ADVANCED SERVER OPTIONS
-高级服务器设置
+    ADVANCED SERVER OPTIONS
+    高级服务器设置
 
 > #str_04110
 Open advanced server settings
 打开高级服务器设定
 
 > #str_04111
-CREATE MULTIPLAYER GAME SERVER
-创建多人游戏服务器
+   CREATE MULTIPLAYER GAME SERVER
+   创建多人游戏服务器
 
 > #str_04112
 ADVANCED SERVER OPTIONS
@@ -21347,8 +21347,8 @@ Configure Server Rate
 设置服务器速率
 
 > #str_04119
-CLOSE SERVER OPTIONS
-关闭服务器选项
+ CLOSE SERVER OPTIONS
+ 关闭服务器选项
 
 > #str_04120
 Close advanced server options
@@ -21534,12 +21534,12 @@ VIDEO FILE"""
 选项 A  影像档案
 
 > #str_04165
-STOP
-停止
+  STOP
+  停止
 
 > #str_04166
-PLAY
-开始游戏
+  PLAY
+  开始游戏
 
 > #str_04167
 Recent Audio Logs by 
@@ -21554,8 +21554,8 @@ CURRENT MISSION OBJECTIVES
 当前任务目标
 
 > #str_04170
-Current Mission Objectives
-当前任务目标
+ Current Mission Objectives
+ 当前任务目标
 
 > #str_04171
 Email Inbox of 
@@ -21822,8 +21822,8 @@ Quit to the Main Menu
 退出至主菜单
 
 > #str_04216
-CANCEL
-取消
+ CANCEL
+ 取消
 
 > #str_04217
 Severity: 
@@ -24880,19 +24880,19 @@ Warmup - You are not ready
 预热 - 你还没有准备好
 
 > #str_07003
-- Waiting in line
+ - Waiting in line
  - 排队等待中
 
 > #str_07004
-- Waiting first in line
+ - Waiting first in line
  - 等待队列中的第一个
 
 > #str_07005
-- Waiting second in line
+ - Waiting second in line
  - 等待队列中的第二个
 
 > #str_07006
-- Waiting %d in line
+ - Waiting %d in line
 - 等待队列中的 %d
 
 > #str_07007
@@ -25615,8 +25615,8 @@ Hide;Show
 隐藏;显示
 
 > #str_07183
-or 
-或 
+ or 
+ 或 
 
 > #str_07184
 D3 Key
@@ -29895,12 +29895,12 @@ NOVEMBER
 NOVEMBER
 
 > #str_00100864
-45962
-45962
+NOVEMBER 1
+NOVEMBER 1
 
 > #str_00100865
-45976
-45976
+NOVEMBER 15
+NOVEMBER 15
 
 > #str_00100866
 NOVEMBER 15 -
@@ -29935,8 +29935,8 @@ MAY
 五月
 
 > #str_00100874
-45778
-45778
+MAY 1
+MAY 1
 
 > #str_00100875
 MAY 1 -
@@ -29979,8 +29979,8 @@ AUGUST
 八月 8 号
 
 > #str_00100885
-45877
-45877
+AUGUST 8
+AUGUST 8
 
 > #str_00100886
 AUGUST 8 -
@@ -30351,8 +30351,8 @@ Additional Development Support
 额外开发支持
 
 > #str_00100978
-by id Software
-by id Software
+ by id Software
+ by id Software
 
 > #str_00100979
 herp
@@ -31886,8 +31886,8 @@ Controller Spec.
 10-09-2145
 
 > #str_admin_moses_email_1_email_from
-508
-508
+0508
+0508
 
 > #str_admin_moses_email_1_email_subject
 Free Stuff!!
@@ -36735,28 +36735,28 @@ A new party leader has been chosen.
 已选择了一个新的队伍领袖。
 
 > #str_dlg_pc_online_connection_lost_main_menu_return
-The connection to Steam has been lost.
-和Steam的连接断开。
+Online functionality not available.
+联机功能不可用。
 
 > #str_dlg_pc_online_connection_lost_no_leaderboard
-The connection to Steam has been lost. Your results will not be posted to the leaderboard.
-和Steam的连接断开。你的结果将不会被发布到排行榜上。
+Online functionality not available.
+联机功能不可用。
 
 > #str_dlg_pc_online_join_error_two_profiles_one_box
 Unable to join match, a local steam profile is already in this lobby
 无法加入比赛，一个本地Stream账户已经进入这个大厅
 
 > #str_dlg_pc_online_signin_request
-You need to be signed into Steam to access Steam game play features.
-你需要登录Steam网络来使用Steam网络游戏特性。
+Online functionality not available.
+联机功能不可用。
 
 > #str_dlg_pc_online_signing_request_leaderboards
-You need to be signed into Steam to access the leaderboard(s).
-你需要登录Steam网络来进入排行榜。
+Online functionality not available.
+联机功能不可用。
 
 > #str_dlg_pc_overlay_disabled
-You must have Steam Community In-Game enabled in order to invite friends. You may need to restart the game after you enable this feature in Steam.
-你必须开启Steam Community In-Game才能邀请好友。你可能需要在于Steam中开启这个特性后重新启动游戏。
+Online functionality not available.
+联机功能不可用。
 
 > #str_dlg_pc_partner_left
 Your partner has been disconnected. You are now being returned to the lobby.
@@ -37740,8 +37740,8 @@ Sean H. Weston
 肖恩·H.韦斯顿
 
 > #str_erebus2_weston_pda_id
-147864
-147864
+2304-11
+2304-11
 
 > #str_erebus2_weston_pda_name
 Sean Weston
@@ -39194,8 +39194,8 @@ id Software
 id Software
 
 > #str_hellhole_id_pda_id
-38200
-38200
+2004-08
+2004-08
 
 > #str_hellhole_id_pda_name
 id Software
@@ -40668,8 +40668,8 @@ Travis E Folsom
 Travis E Folsom
 
 > #str_le_exis_folsom_pda_id
-11567
-11567
+1931-09
+1931-09
 
 > #str_le_exis_folsom_pda_name
 Travis Folsom
@@ -40952,8 +40952,8 @@ Bernice F Tooley
 Bernice F Tooley
 
 > #str_le_exis_tooley_pda_id
-533681
-533681
+3361-03
+3361-03
 
 > #str_le_exis_tooley_pda_name
 Bernice Tooley
@@ -42572,8 +42572,8 @@ Karl P. Cullen
 卡尔· P.库伦
 
 > #str_monorail_cullen_pda_id
-1558673
-1558673
+6167-07
+6167-07
 
 > #str_monorail_cullen_pda_name
 Karl Cullen
@@ -43308,8 +43308,8 @@ Bernard R. Fresko
 Bernard R. Fresko
 
 > #str_phobos1_fresko_pda_id
-90551
-90551
+2147-12
+2147-12
 
 > #str_phobos1_fresko_pda_name
 Bernard Fresko
@@ -43484,8 +43484,8 @@ Seth J. Killian
 赛斯 J 基里安
 
 > #str_phobos2_killian_pda_id
-228583
-228583
+2525-11
+2525-11
 
 > #str_phobos2_killian_pda_name
 Seth Killian
@@ -44357,8 +44357,8 @@ Scott P. Johnson
 斯科特·P.约翰逊
 
 > #str_recycling2_johnson_pda_id
-844411
-844411
+4211-12
+4211-12
 
 > #str_recycling2_johnson_pda_name
 Scott Johnson
