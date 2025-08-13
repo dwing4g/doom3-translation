@@ -454,6 +454,10 @@ Cover the flank!
 Flank left!
 从左翼包抄！
 
+> #cc_combatchatter_00000000006
+""""""
+""""""
+
 > #cc_combatchatter_00000000007
 Go, go, I'll cover you!
 走，走，我掩护你！
@@ -3245,6 +3249,10 @@ I've got the teleporter ready to go. All you need to do is go into the chamber a
 > #cc_exis2_00000000013
 of what happened here. It explains everything. The advanced teleporter, how the madness started, everything. It's over there on the console. Please take it. The world needs to know the truth, and good luck.
 交给你。它解释了一切。先进的传送器，疯狂是如何开始的，所有的一切。就在那边的控制台上。请拿上它。世界需要知道真相，祝你好运。
+
+> #cc_exis2_00000000014
+""""""
+""""""
 
 > #cc_hell_00000000001
 What did you hope to accomplish by coming here?
@@ -6978,6 +6986,10 @@ Oxygen at dangerous levels. Temperature: -4 degrees and falling. Auxiliary power
 (POCKETS ZIPPING, ITEMS SLIDING)
 (口袋拉链声，物品滑动声)
 
+> #cc_recycling1_00000000001
+""""""
+""""""
+
 > #cc_recycling1_00000000002
 Demonic roar
 恶魔的咆哮声
@@ -7090,6 +7102,10 @@ Warning: Flow control system failure. Toxins identified. Execute cleanup procedu
 Pump disengaged
 泵已脱离
 
+> #cc_recycling2_00000000001
+""""""
+""""""
+
 > #cc_recycling2_00000000002
 M. Betruger: Making progress, are we? And in such a hurry to find us... to find me.
 M.贝特鲁格：有进展了，是吗？还这么急着找我们……找我。
@@ -7113,6 +7129,10 @@ They will join my legion, and with their ships, I will bring this hell to Earth.
 > #cc_recycling2_00000000007
 You won't live to see it, and you will die long before you have a chance to warn them.
 你活不到看见那一天，而且你会在有机会警告他们之前很久就死去。
+
+> #cc_recycling2_00000000008
+""""""
+""""""
 
 > #cc_recycling2_00000000009
 M. Betruger: Making progress, are we? And in such a hurry to find us... to find me.
@@ -8337,6 +8357,14 @@ If you are a guest you may bring up any issue with your appointed UAC liason.
 > #cc_videos_00000000196
 Thank you, and have a nice day.
 谢谢您，祝您有愉快的一天。
+
+> #cc_videos_00000000197
+""""""
+""""""
+
+> #cc_videos_00000000198
+""""""
+""""""
 
 > #cc_videos_00000000199
 The UAC AM3 series portable power plant is an ideal redundant energy solution for military and commercial applications.
