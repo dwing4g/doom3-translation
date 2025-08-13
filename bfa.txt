@@ -1,0 +1,240 @@
+> #str_zoom
+Zoom
+缩放
+
+> #str_shadow_mapping
+Soft Shadows
+软阴影
+
+> #str_shadow_mapping_lod
+Soft Shadows LOD
+软阴影LOD
+
+> #str_hdr
+HDR
+HDR
+
+> #str_adaptive_hdr
+Adaptive Tonemapping HDR
+自适应色调映射HDR
+
+> #str_damage_motion
+Damage Motion
+受击模糊
+
+> #str_ssao
+SSAO
+SSAO
+
+> #str_filmic
+Filmic Post Proccessing
+电影化后处理
+
+> #str_flashlight
+Flashlight mode
+手电筒模式
+
+> #str_flashlight_bfg
+BFG
+BFG
+
+> #str_flashlight_og
+Original
+原始
+
+> #str_flashlight_bfg_mix
+BFG Mix
+BFG混合
+
+> #str_pm_fov
+View Model Field of View
+视角模型FOV
+
+> #str_advanced_heading
+ADVANCED OPTIONS
+进阶选项
+
+> #str_swf_advanced
+Advanced Options
+进阶选项
+
+> #str_swf_advanced_desc
+Change Advanced Settings
+改变进阶设定
+
+> #str_advanced_graphics_heading
+ADVANCED GRAPHICS
+进阶画面
+
+> #str_swf_advanced_graphics
+Advanced Graphics
+进阶画面
+
+> #str_swf_advanced_graphics_desc
+Change Advanced Graphics
+改变进阶画面
+
+> #str_ssgi
+SSGI
+SSGI
+
+> #str_hli
+Half-Lambert Lighting
+半兰伯特光照
+
+> #str_FPS_counter
+FPS Counter
+FPS计量器
+
+> #str_FPS_all
+FPS + Metrics
+FPS+指标
+
+> #str_FPS_only
+Only FPS
+仅FPS
+
+> #str_fullscreen
+Fullscreen Mode
+全屏模式
+
+> #str_swf_borderless
+Borderless
+无边框
+
+> #str_swf_windowed
+Windowed
+窗口化
+
+> #str_swf_exclusive_fullscreen
+Exclusive
+全屏独占
+
+> #str_swf_aspect
+Aspect Ratio
+宽高比
+
+> #str_swf_aspect_dynamic
+Dynamic
+动态分辨率
+
+> #str_swf_crosshair
+Crosshair
+准星
+
+> #str_swf_classic_pose
+Classic Weapon View
+经典持枪视角
+
+> #str_swf_layout
+Controller Interface
+控制器界面
+
+> #str_swf_x360
+XBOX360
+XBOX360
+
+> #stf_swf_ps3
+PS3
+PS3
+
+> #str_swf_xbone
+Xbox One
+Xbox One
+
+> #str_swf_ps4
+Ps4
+Ps4
+
+> #str_swf_switch
+Switch
+Switch
+
+> #str_swf_muzzle_flash
+Muzzle Flash
+枪口火光
+
+> #str_weapon_flashlight_desc
+Light dark areas. It's quite heavy and could harm others.
+照亮黑暗的区域。真的很亮并且可能会伤人。
+
+> #str_auto_save_title
+Auto Save
+自动保存
+
+> #str_auto_save_success
+Game Saved
+游戏已保存
+
+> #str_lang_menu
+Language
+语言
+
+> #str_swf_tp_buton
+Photo Mode
+照片模式
+
+> #str_smart_hud
+Smart HUD
+智能HUD
+
+> #str_sapi
+Audio API
+音频API
+
+> #str_swf_xaudio
+XAudio 2
+XAudio 2
+
+> #str_swf_openAL
+OpenAL-soft
+OpenAL软件
+
+> #str_04102
+Always Run
+保持奔跑
+
+> #str_swf_only_MP
+Only MP
+仅多人
+
+> #str_swf_adv_controls
+Advanced Control Settings
+进阶控制设定
+
+> #str_swf_adv_controls_desc
+Adjust Additional Control Settings
+调节附加控制设定
+
+> #str_swf_adv_controls_heading
+Advanced Controls
+进阶控制
+
+> #str_swf_toggle_run
+Toggle Run
+切换奔跑
+
+> #str_swf_toggle_crouch
+Toggle Crouch
+切换蹲下
+
+> #str_swf_toggle_zoom
+Toggle Zoom
+切换缩放
+
+> #str_swf_center_camera_button
+Center Camera
+相机居中
+
+> #str_swf_stereo_vr
+Virtual Reality
+虚拟现实
+
+> #str_swf_custom_game
+Mod Name
+模组名称
+
+> #str_swf_start_map
+First Map to load
+要加载的首张地图
+
