@@ -25,7 +25,7 @@ local function parseTxt(fileName, func)
 end
 
 local function escape(s)
-	return '"' .. s:gsub('\\', '\\\\'):gsub('\r', '\\r'):gsub('\n', '\\n'):gsub('\t', '\\t') .. '"'
+	return '"' .. s:gsub('\\', '\\\\'):gsub('\r', '\\r'):gsub('\n', '\\n'):gsub('\t', '\\t'):gsub('"', '\\"') .. '"'
 end
 
 local f = io.open(arg[2], 'wb')

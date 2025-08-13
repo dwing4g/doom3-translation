@@ -4,6 +4,9 @@ local function parseLang(fileName)
 	local i, t = 0, {}
 	for line in io.lines(fileName) do
 		line = line:gsub('\r+$', '')
+		if line:find '^\xef\xbb\xbf' then
+			line = line:sub(4, -1)
+		end
 		i = i + 1
 		local k, v = line:match '^[%s/]*"(.-)"%s+"(.-)"%s*$'
 		if k then
@@ -13,7 +16,7 @@ local function parseLang(fileName)
 			else
 				t[k] = v
 			end
-		elseif not line:find '^%s*//' then
+		elseif not line:find '^%s*//' and not line:find '^%s*[{}]%s*$' then
 			error('ERROR: invalid line ' .. i .. ': ' .. line)
 		end
 	end
