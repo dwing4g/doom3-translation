@@ -1,4 +1,4 @@
--- luajit txt2lang.lua <input.txt> <output.lang> <1|2>
+-- luajit txt2lang.lua <input.txt> <output.lang> [1|2]
 
 local function parseTxt(fileName, func)
 	local i, k, e, v = 0
