@@ -17,28 +17,31 @@ end
 local p = readInt4Be(f)
 f:seek('set', p)
 local fn = readInt4Be(f)
-local basePath = (arg[2] or '.'):gsub('[/\\]+$', '') .. '/'
+local basePath = arg[2] and (arg[2]:gsub('[/\\]+$', '') .. '/')
 local t = {}
 for i = 1, fn do
 	local n = readInt4(f)
-	local path = basePath .. f:read(n):gsub('%z', '')
-	print(path)
-	local dir = path:gsub('/', '\\'):gsub('\\[^\\]*$', '')
-	if not t[dir] then
-		t[dir] = true
-		os.execute('mkdir ' .. dir .. ' 2>nul')
-	end
-	local fo = io.open(path, 'wb')
-	if not fo then
-		error('ERROR: can not create file: ' .. path)
-	end
+	local path = f:read(n):gsub('%z', '')
 	p = readInt4Be(f)
 	n = readInt4Be(f)
-	local q = f:seek()
-	f:seek('set', p)
-	fo:write((f:read(n)))
-	fo:close()
-	f:seek('set', q)
+	print(string.format('%8X %9d %s', p, n, path))
+	if basePath then
+		path = basePath .. path
+		local dir = path:gsub('/', '\\'):gsub('\\[^\\]*$', '')
+		if not t[dir] then
+			t[dir] = true
+			os.execute('mkdir ' .. dir .. ' 2>nul')
+		end
+		local fo = io.open(path, 'wb')
+		if not fo then
+			error('ERROR: can not create file: ' .. path)
+		end
+		local q = f:seek()
+		f:seek('set', p)
+		fo:write((f:read(n)))
+		fo:close()
+		f:seek('set', q)
+	end
 end
 f:close()
 

@@ -2345,7 +2345,7 @@ SECTOR 2
 
 > #str_00292
 SECTOR 3
-区域 3 
+区域 3
 
 > #str_00293
 SECTOR 4
@@ -3647,11 +3647,11 @@ MONORAIL ACCESS
 Power Systems - OFFLINE
 Weapon Systems - OFFLINE
 Tracking System - OFFLINE"""
-"""哨兵兵种 167-A 
+"""哨兵单位167-A
 
-能量系统-下线 
-武器系统-下线
-追踪系统-下线"""
+能量系统-离线
+武器系统-离线
+追踪系统-离线"""
 
 > #str_00518
 """POWER SYSTEM
@@ -3996,7 +3996,7 @@ Lockdown in effect
 > #str_00585
 """Security Lockdown initiated 13:20 clearance code 731
 User Campbell."""
-"""安防锁定启动 13：20 权限密码 73 
+"""安防锁定启动 13：20 权限密码 731
 使用者坎贝尔。"""
 
 > #str_00586
@@ -4125,26 +4125,26 @@ RESTARTING
 CURRENT SCAN"""
 """热能状态
 读数正常
-处理
-类型2-一中
-处理
+处理中
+类型2-一
+处理中
 类型2-二
-类型2-三
+状态2-三
 未定义
 记录至
 文件778-N82中
 数据已记录
-正重新开始
+正在重新开始
 当前扫描"""
 
 > #str_00607
 NO SCAN
-无扫描
+未扫描
 
 > #str_00608
 """NO CURRENT
 SCAN"""
-"""当前没有
+"""当前未
 扫描"""
 
 > #str_00609
@@ -4612,13 +4612,13 @@ SEQ"""
 > #str_00685
 """COMP
 SEQU"""
-"""氵  
+"""氵
 序列"""
 
 > #str_00686
 """COMPRE
 SEQUE"""
-"""浓  
+"""浓
 序列"""
 
 > #str_00687
@@ -4648,8 +4648,8 @@ error"""
 > #str_00691
 """error
 internal"""
-"""error
-internal"""
+"""内部
+错误"""
 
 > #str_00692
 STATUS:NOT READY
@@ -6235,7 +6235,7 @@ Door Errors (2 reports, 85% functionality)
 > #str_01004
 """Delta 1 - Reactor Door not responding
 Delta 2 - Office lockdown active"""
-"""德尔塔1 - 反应堆门无反应 
+"""德尔塔1 - 反应堆门无反应
 德尔塔2 - 办公室封锁激活"""
 
 > #str_01005
@@ -8434,11 +8434,11 @@ USER I.D.
 
 > #str_01445
 VIDEO DISKS 
-视频碟片 
+视频碟片
 
 > #str_01446
 VOICEMAIL 
-语言留言 
+语言留言
 
 > #str_01447
 VOICEMAIL
@@ -11409,11 +11409,11 @@ F 1.3
 
 > #str_01942
 Blah blah
-什么 什么的
+什么什么的
 
 > #str_01943
 Onan's TicTacToe!
-Onan的 TicTacToe!
+Onan的TicTacToe！
 
 > #str_01944
 Player1 wins!
@@ -11807,11 +11807,11 @@ Oxygen-
 
 > #str_02016
  Incoming Communication -
- 通讯呼入 - 
+ 通讯呼入 -
 
 > #str_02017
  Radio Transmission Active -
- 无线电通讯激活 - 
+ 无线电通讯激活 -
 
 > #str_02018
 Playing Audio Log
@@ -12145,7 +12145,7 @@ Action
 
 > #str_02099
 Key Assignment
-密匙分配
+键位分配
 
 > #str_02100
 Forward
@@ -12153,7 +12153,7 @@ Forward
 
 > #str_02101
 Backpedal
-后踏板
+后退
 
 > #str_02102
 Move Left
@@ -12165,11 +12165,11 @@ Move Right
 
 > #str_02104
 Jump
-跳
+跳跃
 
 > #str_02105
 Crouch
-蹲下
+下蹲
 
 > #str_02106
 Turn Left
@@ -12193,7 +12193,7 @@ Rockets
 
 > #str_02111
 Soulcube
-灵魂立方体
+灵魂方块
 
 > #str_02112
 Attack
@@ -12621,15 +12621,15 @@ Quit current game
 
 > #str_02218
 CREDITS
-3DM汉化
+制作人员
 
 > #str_02219
 The creators of Doom 3
-毁灭战士3的创造者
+Doom3的创造者们
 
 > #str_02220
 Doom 3 Assistance
-毁灭战士3辅助
+Doom3支持
 
 > #str_02221
 Timothee Besset
@@ -12645,7 +12645,7 @@ Ed Lima
 
 > #str_02224
 Sound Engineer
-声音工程师
+音效工程师
 
 > #str_02225
 Id Software is
@@ -12669,7 +12669,7 @@ Technical Director
 
 > #str_02230
 Kevin Cloud
-凯文·克劳德
+Kevin Cloud
 
 > #str_02231
 Christian Antkow
@@ -12693,7 +12693,7 @@ Artist
 
 > #str_02236
 Jim Dosé
-吉姆·道斯
+Jim Dosé
 
 > #str_02237
 Pat Duffy
@@ -12705,7 +12705,7 @@ Media Artist
 
 > #str_02239
 Robert A. Duffy
-罗伯特 A. 达菲
+Robert A. Duffy
 
 > #str_02240
 Todd Hollenshead
@@ -12721,7 +12721,7 @@ Matt Hooper
 
 > #str_02243
 James Houska
-詹姆斯·豪斯卡
+James Houska
 
 > #str_02244
 Animator
@@ -12737,11 +12737,11 @@ Office Manager & id Mom
 
 > #str_02247
 Jerry Keehan
-杰瑞·基恩
+Jerry Keehan
 
 > #str_02248
 Seneca Menard
-塞尼卡 梅娜德
+Seneca Menard
 
 > #str_02249
 Artist
@@ -12753,11 +12753,11 @@ Fredrik Nilsson
 
 > #str_02251
 Steve Rescoe
-斯蒂夫 莱斯科
+Steve Rescoe
 
 > #str_02252
 Kenneth Scott
-肯尼斯·斯科特
+Kenneth Scott
 
 > #str_02253
 Marty Stratton
@@ -12793,11 +12793,11 @@ Lead Designer
 
 > #str_02261
    ADDITIONAL CREDIT
-   额外开发团队
+   额外制作人员
 
 > #str_02262
    ID SOFTWARE CREDIT
-   ID SOFTWARE CREDIT
+   ID SOFTWARE 制作人员
 
 > #str_02263
 BACK TO MENU
@@ -12869,7 +12869,7 @@ Get new server list
 
 > #str_02280
   INTERNET
-  因特网
+  互联网
 
 > #str_02281
 Search for Internet game servers
@@ -12889,7 +12889,7 @@ Search for LAN game servers
 
 > #str_02285
 Apply browser filter
-应用浏览过滤
+应用浏览器过滤
 
 > #str_02286
 IP CONNECT
@@ -12931,9 +12931,9 @@ IP:
 """No
 Server
 Selected"""
-"""无
-服务器
-已选"""
+"""未
+选择
+服务器"""
 
 > #str_02296
 Game Map
@@ -12977,7 +12977,7 @@ MAIN MENU
 
 > #str_02306
 OVERWRITE SAVED GAME?
-覆盖存档么？
+覆盖存档吗？
 
 > #str_02307
 Are you sure you want to overwrite the following saved game?
@@ -13423,7 +13423,7 @@ Forward:
 
 > #str_02415
 Backpedal:
-后踏板：
+后退：
 
 > #str_02416
 Move Left:
@@ -13511,7 +13511,7 @@ BFG:
 
 > #str_02437
 Soulcube:
-灵魂立方体：
+灵魂方块：
 
 > #str_02438
 Chainsaw:
@@ -17847,7 +17847,7 @@ Research report filed November 14, 2145"""
 
 在洞穴考古挖掘的3号挖掘点发现
 
-研究报告于11/14, 2145 上交。"""
+研究报告于2145年11月14日送交。"""
 
 > #str_03420
 STORAGE 02 OPEN
@@ -20287,7 +20287,7 @@ ET: 11-20-21
 
 > #str_03882
 ET: 11-20-2145
-预计时间： 11-20-2145
+预计时间：2145-11-20
 
 > #str_03883
 LOC
@@ -20339,7 +20339,7 @@ ID: 侦察
 
 > #str_03895
 ID: RECON
-ID: 侦察队 
+ID: 侦察队
 
 > #str_03896
 ID: RECON ZU
@@ -27360,7 +27360,7 @@ Lab Systems Maintenance
 
 > #str_00100250
 Lab Systems
-实验室 系统 
+实验室系统
 
 > #str_00100251
 Artifact Storage Access
@@ -29920,7 +29920,7 @@ NOVEMBER 15 - 214
 
 > #str_00100870
 NOVEMBER 15 - 2145
-NOVEMBER 15 - 2145
+2145年11月15日
 
 > #str_00100871
 NOVEMBER 15 - 
@@ -29932,7 +29932,7 @@ MA
 
 > #str_00100873
 MAY
-五月
+MAY
 
 > #str_00100874
 MAY 1
@@ -29940,23 +29940,23 @@ MAY 1
 
 > #str_00100875
 MAY 1 -
-五月一号 -
+MAY 1 -
 
 > #str_00100876
 MAY 1 - 2
-五月一号 - 2
+MAY 1 - 2
 
 > #str_00100877
 MAY 1 - 21
-五月一号 - 21
+MAY 1 - 21
 
 > #str_00100878
 MAY 1 - 214
-五月一号 - 2146
+MAY 1 - 214
 
 > #str_00100879
 MAY 1 - 2146
-五月一号 - 2146
+2146年5月1日
 
 > #str_00100880
 AU
@@ -29964,19 +29964,19 @@ AU
 
 > #str_00100881
 AUG
-八
+AUG
 
 > #str_00100882
 AUGU
-八月
+AUGU
 
 > #str_00100883
 AUGUS
-八月 8 
+AUGUS
 
 > #str_00100884
 AUGUST
-八月 8 号
+AUGUST
 
 > #str_00100885
 AUGUST 8
@@ -29984,23 +29984,23 @@ AUGUST 8
 
 > #str_00100886
 AUGUST 8 -
-八月 8 号 -
+AUGUST 8 -
 
 > #str_00100887
 AUGUST 8 - 2
-八月 8 号- 2
+AUGUST 8 - 2
 
 > #str_00100888
 AUGUST 8 - 21
-八月 8 号- 21
+AUGUST 8 - 21
 
 > #str_00100889
 AUGUST 8 - 214
-八月 8 号- 214
+AUGUST 8 - 214
 
 > #str_00100890
 AUGUST 8 - 2146
-八月 8 号- 2146
+2146年8月8日
 
 > #str_00100891
 video disk
@@ -39895,7 +39895,7 @@ Fredrik"""
 
 感谢……
 
-Fredrik和3DM职业汉化组"""
+Fredrik"""
 
 > #str_id_18_email_to
 Doom Player
@@ -44724,7 +44724,7 @@ Pierce"""
 
 ----初始信息----
 发送：11-15-2145
-到：伊丽莎白 麦克尼尔
+到：伊丽莎白·麦克尼尔
 
 现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦,我能做的就是祈祷你能收到这条信息。
 博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
@@ -44768,17 +44768,17 @@ Date: 10/05/45
 
 Central Authority Research Archive"""
 """中央机构
-日期: 10/05/45
+日期: 45-10-5
 
 中央机构研究档案馆"""
 
 > #str_soulcube_video_name
 Soul Cube
-灵魂立方体
+灵魂方块
 
 > #str_soulcubeemail_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_soulcubeemail_email_from
 Research Archive
@@ -44786,7 +44786,7 @@ Research Archive
 
 > #str_soulcubeemail_email_subject
 The Soul Cube
-灵魂魔方
+灵魂方块
 
 > #str_soulcubeemail_email_text
 """Report filed by Ian McCormick:
@@ -44842,7 +44842,7 @@ Melee/Grabber
 
 > #str_swf_action_impulse12
 Soulcube/Artifact
-灵魂立方体/工艺品
+灵魂方块/神器
 
 > #str_swf_action_impulse13
 Reload
@@ -44978,7 +44978,7 @@ CONTROLLER LAYOUT
 
 > #str_swf_controls_keyboard
 Key Bindings
-密匙绑定
+键位绑定
 
 > #str_swf_corrupt_file
 File Corrupt
@@ -44994,7 +44994,7 @@ Create Private Match
 
 > #str_swf_credits
 CREDITS
-3DM汉化
+制作人员
 
 > #str_swf_ctf_desc
 Find and capture the enemy flag
@@ -45138,7 +45138,7 @@ KEEP CHANGES
 
 > #str_swf_keyboard
 Key Bindings
-密匙绑定
+键位绑定
 
 > #str_swf_kick
 KICK PLAYER
@@ -45384,7 +45384,7 @@ SETTINGS
 
 > #str_swf_soulcube_artifact
 Soulcube/Artifact
-灵魂立方体/工艺品
+灵魂方块/神器
 
 > #str_swf_start_match
 Start Match
@@ -45682,7 +45682,7 @@ Smaller enemies can be picked up with the Grabber.  Grab and throw them for an i
 
 > #str_loadtip_15
 The Soulcube kills its target instantly.  It also restores the player’s health.
-灵魂魔方能够瞬间杀死目标。它还可以回复玩家的生命值。
+灵魂方块能够瞬间杀死目标。它还可以回复玩家的生命值。
 
 > #str_loadtip_16
 Smaller enemies are weak, but harder to hit. Use spread weapons like the Machine Gun to take them out quickly.
@@ -45758,7 +45758,7 @@ Frame Rate
 
 > #str_swf_key_assignment
 Key Assignment
-密匙分配
+键位分配
 
 > #str_swf_action
 Action
