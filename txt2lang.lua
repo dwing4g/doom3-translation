@@ -32,6 +32,7 @@ local f = io.open(arg[2], 'wb')
 f:write '\xef\xbb\xbf{\r\n'
 local n = 0
 parseTxt(arg[1], function(k, e, v)
+--	v = v:gsub('(%d+%-%d+)%-(214[57])', '%2-%1')
 	f:write('\t', escape(k), '\t', escape(arg[3] == '1' and e or v), '\r\n')
 	n = n + 1
 end)

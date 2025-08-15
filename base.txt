@@ -28,11 +28,11 @@ SECURITY TERMINAL
 
 > #str_00002
 ACCESS DOOR 2 LOCKED
-2号入口已锁定
+2号通道门已锁定
 
 > #str_00003
 ACCESS DOOR 1 LOCKED
-1号入口已锁定
+1号通道门已锁定
 
 > #str_00004
 AREA SEALED
@@ -44,15 +44,15 @@ GENERAL ACCESS
 
 > #str_00006
 ACCESS DOOR 1 OPEN
-1号入口开启
+1号通道门开放
 
 > #str_00007
 ACCESS DOOR 2 OPEN
-2号入口开启
+2号通道门开放
 
 > #str_00008
 INSUFFICIENT SECURITY CLEARANCE TO PROCESS SECURITY LOCKDOWN
-缺少安全许可来解除安全封锁
+缺少安全许可来解除安防封锁
 
 > #str_00009
 SECURITY OVERRIDE
@@ -96,11 +96,11 @@ Executive Offices
 
 > #str_00019
 RESTRICTED ACCESS
-限制通行
+限制访问
 
 > #str_00020
 Access Denied
-访问拒绝
+拒绝访问
 
 > #str_00021
 Area secured through:
@@ -108,7 +108,7 @@ Area secured through:
 
 > #str_00022
 Terminal 3 - Data Library
-终点 3 - 数据库
+终端3 - 数据库
 
 > #str_00023
 UNLOCKED
@@ -116,7 +116,7 @@ UNLOCKED
 
 > #str_00024
 Click to Access
-点击以进入
+点击以访问
 
 > #str_00025
 NETWORK ADMINISTRATION CONTROL
@@ -228,7 +228,7 @@ ABORTING NETWORK LOGIN"""
 
 网络连接失败
 
-取消网络登录"""
+中止网络登录"""
 
 > #str_00038
 ADMINISTRATIVE STATION
@@ -236,7 +236,7 @@ ADMINISTRATIVE STATION
 
 > #str_00039
 UAC
-联合航天公司
+UAC
 
 > #str_00040
 NO CURRENT USER 
@@ -244,7 +244,7 @@ NO CURRENT USER
 
 > #str_00041
 LOGIN TO GAIN USER ACCESS
-登录获得用户许可
+登录以获得用户访问
 
 > #str_00042
 NETWORK CONNECTION FAILED
@@ -268,7 +268,7 @@ MISALIGNED
 
 > #str_00047
 link active
-连接激活
+链接激活
 
 > #str_00048
 """CALL
@@ -278,7 +278,7 @@ ENDED"""
 
 > #str_00049
 standby
-standby
+待命
 
 > #str_00050
 DATA CONTROL
@@ -290,7 +290,7 @@ DT1 -
 
 > #str_00052
 DATA PREP
-数据预科
+数据准备
 
 > #str_00053
 DATA LOAD
@@ -311,13 +311,13 @@ Upload Cmd
 Flash Dat
 Verifying"""
 """上传命令
-闪存数
+发送数据
 验证中
 上传命令
-闪存数
+发送数据
 验证中
 上传命令
-闪存数
+发送数据
 验证中"""
 
 > #str_00056
@@ -330,13 +330,13 @@ Upload Cmd
 Flash Dat
 Verifying
 Upload Cmd"""
-"""闪存数据
+"""发送数据
 验证中
 上传命令
-闪存数据
+发送数据
 验证中
 上传命令
-闪存数据
+发送数据
 验证中
 上传命令"""
 
@@ -352,21 +352,21 @@ Upload Cmd
 Flash Dat"""
 """验证中
 上传命令
-闪存数
+发送数据
 验证中
 上传命令
-闪存数
+发送数据
 验证中
 上传命令
-闪存数"""
+发送数据"""
 
 > #str_00058
 Office 132
-办公室 132
+办公室132
 
 > #str_00059
 Office 666
-办公室 666
+办公室666
 
 > #str_00060
 Malcolm Betruger
@@ -374,7 +374,7 @@ Malcolm Betruger
 
 > #str_00061
 ADMINISTRATIVE OFFICE
-管理办公室
+行政办公室
 
 > #str_00062
 CDIE4U-1B166 M&4ITG1
@@ -382,7 +382,7 @@ CDIE4U-1B166 M&4ITG1
 
 > #str_00063
 HELLAWAITS2 KILL-YOU
-地狱等待着杀掉你
+地狱等着干掉你
 
 > #str_00064
 DEATH-HB9Z0 1&4ITGHU
@@ -390,7 +390,7 @@ DEATH-HB9Z0 1&4ITGHU
 
 > #str_00065
 UAC Administrative Office
-联合航天公司行政办公室
+UAC行政办公室
 
 > #str_00066
 General Access
@@ -398,7 +398,7 @@ General Access
 
 > #str_00067
 Office 131
-办公室 131
+办公室131
 
 > #str_00068
 Director of Operations
@@ -416,7 +416,7 @@ RESUMING GAS PIPE SAFETY SCANS
 
 > #str_00071
 STATION ID : 13477 - UAC  GAS MONITOR
-中心ID： 13477-UAC 气体监控
+中心ID: 13477-UAC 气体监控
 
 > #str_00072
 GAS TRANSFER MONITOR STATION
@@ -478,7 +478,7 @@ CHAMBER REPAIR ACCESS
 
 > #str_00083
 ALPHA LABS 1 ACCESS
-阿尔法实验室 1 进入
+阿尔法1号实验室通道
 
 > #str_00084
 AREA LIGHTS SHUTDOWN
@@ -490,7 +490,7 @@ ACCESS DOORS LOCKED
 
 > #str_00086
 ACCESS DOORS OPEN
-通道门开启
+通道门开放
 
 > #str_00087
 AREA LIGHTS ON
@@ -678,11 +678,11 @@ LADDER"""
 
 > #str_00107
 MAINTENANCE ACCESS
-维护站安全许可
+维护站通道
 
 > #str_00108
 MAINTENANCE CONTROL
-维护站 控制室
+维护站控制
 
 > #str_00109
 """Open Main
@@ -692,7 +692,7 @@ Vent Hatch"""
 
 > #str_00110
 Accessing
-正在进入
+正在访问
 
 > #str_00111
 """Airflow block detected
@@ -735,10 +735,10 @@ Airflow
 127.5 cfm
 Current discharge
 rate 103.4 cfm"""
-"""当前流入率：
+"""当前流入率:
 127.5 cfm
-当前放能
-率 103.4 cfm"""
+当前放能率
+103.4 cfm"""
 
 > #str_00119
 Total Average Loss
@@ -1241,12 +1241,12 @@ Systems Ready
 > #str_00160
 """ACTIVATE EFR
 SYSTEM"""
-"""激活 EFR
+"""激活EFR
 系统"""
 
 > #str_00161
 SYSTEM TANDBY
-系统待
+系统待机
 
 > #str_00162
 SYSTEM ANDBY
@@ -1254,19 +1254,19 @@ SYSTEM ANDBY
 
 > #str_00163
 SYSTEM NDBY
-系统待
+系统机
 
 > #str_00164
 SYSTEM DBY
-DBY系统 应该是standby的拆散混乱显示
+系统机
 
 > #str_00165
 SYSTEM BY
-BY系统
+系统
 
 > #str_00166
 SYSTEM Y
-系统。。
+系统
 
 > #str_00167
 SYSTEM
@@ -1274,7 +1274,7 @@ SYSTEM
 
 > #str_00168
 SYSTEM D
-D系统
+系统
 
 > #str_00169
 SYSTEM TED
@@ -1286,7 +1286,7 @@ SYSTEM VATED
 
 > #str_00171
 SYSTEM TIVATED
-系统启
+系统启动
 
 > #str_00172
 SYSTEM ACTIVATED
@@ -1300,27 +1300,27 @@ BRIDGE"""
 
 > #str_00174
 SYSTEM E
-E系统
+系统
 
 > #str_00175
 SYSTEM NCE
-系统理
+系统
 
 > #str_00176
 SYSTEM NANCE
-系统修
+系统护
 
 > #str_00177
 SYSTEM TENANCE
-系统理
+系统护
 
 > #str_00178
 SYSTEM INTENANCE
-系统理
+系统维护
 
 > #str_00179
 SYSTEM MAINTENANCE
-系统修理
+系统维护
 
 > #str_00180
 EFR
@@ -2147,7 +2147,7 @@ Shotgun
 
 > #str_00244
 Machine Gun
-机关枪
+机枪
 
 > #str_00245
 Chain Gun
@@ -2191,7 +2191,7 @@ SECURITY SCANNER
 
 > #str_00255
 CAMERA STATUS -ONLINE-
-摄像机状态 -打开-
+摄像机状态 -在线-
 
 > #str_00256
 Security Checkpoint Junction
@@ -2207,7 +2207,7 @@ Coolant Junction
 
 > #str_00259
 MFS Compressor
-MFS 压缩机
+MFS压缩机
 
 > #str_00260
 Storage and Engineering
@@ -2255,15 +2255,15 @@ Main Entrance Hall
 
 > #str_00271
 Lab A Meeting Room
-实验室 A 会议室
+实验室A会议室
 
 > #str_00272
 Lab A Entrance
-实验室 A 入口
+实验室A入口
 
 > #str_00273
 SecMon Entrance
-SECMON 入口
+SecMon入口
 
 > #str_00274
 Elevator Access Hall
@@ -2311,7 +2311,11 @@ LIFT ACCESS
 CONTROLS
 LOCATED
 AT STATION 2"""
-子层 1 电梯访问权  控制  位置在第二中心
+"""子层1
+电梯访问
+控制
+位于
+2号站点"""
 
 > #str_00285
 DOOR SEALED
@@ -2401,7 +2405,7 @@ loadUACOS ifNL
 ERROR ERROR ERROR
 SysOver
 InitCounter load.Prog"""
-"""设置CMD初始化界面.Shell
+"""set CMD initiate interface.Shell
 nexLoad control.App door
 Access Control
 Outer door control subLevel.1
@@ -2661,11 +2665,11 @@ LOWER LEVEL"""
 """TEMPORARY
 LOCKDOWN"""
 """临时
-关闭"""
+封锁"""
 
 > #str_00341
 Primary Transfer lift dock
-主要传输升降机港
+主要传输电梯港
 
 > #str_00342
 Lift maintenance
@@ -2725,7 +2729,7 @@ Excavation - Phase 2
 
 > #str_00356
 Alert: all shifts
-警告：所有轮岗人员
+警告: 所有轮岗人员
 
 > #str_00357
 """This area is being shut down pending removal of all artifacts due to the structural instability issues. Shutdown procedures will begin after the science team has transported research artifacts to the upper level. Make sure all
@@ -2748,7 +2752,7 @@ Filter chamber shutdown - Brad Stevens"""
 封闭建设集装箱 - 第2小队
 便携设备移出 - 第7小队
 发电机关闭 - Ty Leeson
-安全封锁 - Brad Stevens
+安防封锁 - Brad Stevens
 过滤室关闭 - Brad Stevens"""
 
 > #str_00358
@@ -2765,7 +2769,7 @@ OPERATOR ACCESS
 
 > #str_00361
  CURRENT LOCATION:
- 目前位置：
+ 目前位置:
 
 > #str_00362
 """RECALL CRANE
@@ -2826,7 +2830,7 @@ Color Settings - KEY Gui_Parm4
 VALUE 1 = Red       2 = Blue
 3 = Green             4 = Doom Green
 5 = Yellow            6 = Orange"""
-"""This GUI activates a script command once.Set the script name as a keyval, KEY Gui_Parm6 value script_name.
+"""This GUI activates a script command once. Set the script name as a keyval, KEY Gui_Parm6 value script_name.
 
 Color Settings - KEY Gui_Parm4
 VALUE 1 = Red       2 = Blue
@@ -2852,7 +2856,7 @@ Color Settings - KEY Gui_Parm4
 VALUE 1 = Red       2 = Blue
 3 = Green             4 = Doom Green
 5 = Yellow            6 = Orange"""
-"""This GUI activates a script command on click.Set the script name as a keyval, KEY Gui_Parm6 value script_name.
+"""This GUI activates a script command on click. Set the script name as a keyval, KEY Gui_Parm6 value script_name.
 
 Color Settings - KEY Gui_Parm4
 VALUE 1 = Red       2 = Blue
@@ -2877,11 +2881,11 @@ DOWN
 
 > #str_00378
 RUN SCRIPT 3
-运行脚本 3
+运行脚本3
 
 > #str_00379
 RUN SCRIPT 4
-运行脚本 4
+运行脚本4
 
 > #str_00380
 """This GUI activates 4 seperate script command on click. Set the script names as a keyval, KEY Gui_Parm# value script_name. The gui parm #'s are 6, 7, 8, 9.
@@ -3005,7 +3009,7 @@ READY TO TRANSMIT
 
 > #str_00405
 TRANSMIT MESSAGE:
-发送信息：
+发送信息:
 
 > #str_00406
 'DISTRESS CALL TO ORBITAL FLEET'?
@@ -3595,7 +3599,7 @@ SCAN
 
 > #str_00507
 locked by swann
-已锁
+已被斯旺锁定
 
 > #str_00508
 """ACCESS
@@ -3859,7 +3863,7 @@ MOVING TO UPPER LEVEL
 
 > #str_00557
 RAISE LIFT
-升起升降机
+升起电梯
 
 > #str_00558
 PRESSURIZING
@@ -3867,7 +3871,7 @@ PRESSURIZING
 
 > #str_00559
 TRANSFER STATION 1
-中转站1
+1号中转站
 
 > #str_00560
 """MOVING LIFT
@@ -3877,7 +3881,7 @@ TO STATION 1"""
 
 > #str_00561
 TRANSFER STATION 2
-中转站2
+2号中转站
 
 > #str_00562
 """MOVING LIFT
@@ -3930,7 +3934,7 @@ NO CURRENT TRANSFERS
 > #str_00572
 """TRANSFER LIFT
 ALREADY MOVED"""
-"""中转升降机
+"""中转电梯
 已经移动"""
 
 > #str_00573
@@ -3941,11 +3945,11 @@ CLEARANCE REQUIRED"""
 
 > #str_00574
 STATION 1
-中心 1
+1号站点
 
 > #str_00575
 STATION 2
-中心 2
+2号站点
 
 > #str_00576
 STATION 3
@@ -3996,12 +4000,12 @@ Lockdown in effect
 > #str_00585
 """Security Lockdown initiated 13:20 clearance code 731
 User Campbell."""
-"""安防锁定启动 13：20 权限密码 731
-使用者坎贝尔。"""
+"""安防封锁已在13:20启动，权限密码731
+用户坎贝尔。"""
 
 > #str_00586
 Contact shift Maintenance administrator for security override clearance.
-联系当班维护主管来取得保安优先许可。
+联系当班维护管理员来取得保安优先许可。
 
 > #str_00587
 Current transfer
@@ -4010,8 +4014,8 @@ Current transfer
 > #str_00588
 """Security Lockdown initiated 13:20 clearance code 73 User Campbell.
 Contact the Maintenance administrator for security override permission."""
-"""安防锁定启动 13：20 权限密码 73 使用者 坎贝尔。
-如需安防超控批准请联系管理员"""
+"""安防封锁已在13:20启动，权限密码73，用户坎贝尔。
+如需安防超控批准请联系维护管理员"""
 
 > #str_00589
 Scheduled transfers
@@ -4451,7 +4455,7 @@ SEALED
 
 > #str_00655
 STATUS:READY
-状态：准备完毕
+状态: 准备完毕
 
 > #str_00656
 """AIRLOCK
@@ -4465,7 +4469,7 @@ OPEN"""
 
 > #str_00658
 STATUS:OPEN  
-状态：开启
+状态: 开启
 
 > #str_00659
 external
@@ -4653,7 +4657,7 @@ internal"""
 
 > #str_00692
 STATUS:NOT READY
-状态：未准备
+状态: 未准备
 
 > #str_00693
 """EXTERNAL     
@@ -4742,8 +4746,8 @@ BRIDGE ACCESS CONTROL
 > #str_00711
 """ACCESS RESTRICTED
 See Local Administrator"""
-"""登入受限
-访问本地管理员"""
+"""访问受限
+找本地管理员""""
 
 > #str_00712
 LOCKER ID
@@ -4862,7 +4866,7 @@ SYSTEMS FAILURE"""
 > #str_00738
 """SYSTEM ACTIVITY
 NORMAL"""
-系统状态：正常
+系统状态: 正常
 
 > #str_00739
 RESTART SYSTEM
@@ -5086,7 +5090,7 @@ EMERGENCY MEDICAL STATION
 
 > #str_00772
 STATION ID : 219 - UAC HEALTH STATION
-中心ID： 219 - UAC 卫生中心
+中心ID: 219 - UAC 卫生中心
 
 > #str_00773
 INJECTION CHARGES
@@ -5133,7 +5137,7 @@ DISCHARGING
 > #str_00783
 """Current charge rate: 127.556
 Current discharge rate 126.412"""
-"""当前充能率： 127.556
+"""当前充能率: 127.556
 当前放能率 126.412"""
 
 > #str_00784
@@ -5146,7 +5150,7 @@ Total Yield
 
 > #str_00786
 Weekly estimated total: 272693.39
-周际估计总数：272693.39
+周际估计总数: 272693.39
 
 > #str_00787
 Current Readings
@@ -5154,7 +5158,7 @@ Current Readings
 
 > #str_00788
 HYDROCON LAB STATION 2
-HYDROCON实验工作站 2
+HYDROCON实验室2号站点
 
 > #str_00789
 Cross Alignment
@@ -5179,8 +5183,8 @@ Converter Alignment
 Rotational: -0.01
 Offsets within range
 Rotations within range"""
-"""垂直：0.11
-旋转：-0.01
+"""垂直: 0.11
+旋转: -0.01
 范围内偏移
 范围内旋转"""
 
@@ -5211,13 +5215,13 @@ GENERATOR 2
 > #str_00798
 """Current charge rate: 126.554
 Current discharge rate 124.410"""
-"""当前充能率： 126.554
+"""当前充能率: 126.554
 当前放能率 124.410"""
 
 > #str_00799
 """Current charge rate: 127.554
 Current discharge rate 125.402"""
-"""当前充能率： 127.554
+"""当前充能率: 127.554
 当前放能率 125.402"""
 
 > #str_00800
@@ -5290,15 +5294,15 @@ MOVE LIFT FORWARD
 
 > #str_00817
 CARGO TRANSFER LIFT
-货物转移升降级
+货物转移电梯
 
 > #str_00818
 ROTATE LIFT LEFT
-向左旋转升降机
+向左旋转电梯
 
 > #str_00819
 ROTATE LIFT RIGHT
-向右旋转升降机
+向右旋转电梯
 
 > #str_00820
 MOVE LIFT BACK
@@ -5318,11 +5322,11 @@ MOVE TO STATION 1 - LOADING
 
 > #str_00824
 MOVE TO STATION 2 - CONTROL
-移动至站点2 - 控制室
+移动至2号站点 - 控制室
 
 > #str_00825
 MOVE TO STATION 3 - LIFT EXIT
-移动至站点3 - 电梯出口
+移动至3号站点 - 电梯出口
 
 > #str_00826
 MOVE TO STATION 1
@@ -5586,7 +5590,7 @@ DELTA LABS SECURITY DOORS
 
 > #str_00891
 AN ERROR WAS ENCOUNTERED WHILE TRYING TO PROCESS SECURITY LOCKDOWN
-尝试进行安全锁定时遇到错误
+尝试进行安防封锁时遇到错误
 
 > #str_00892
 OPEN LOCK
@@ -6164,7 +6168,7 @@ SHOW ALL
 
 > #str_00989
 DELTA COMPLEX FACILITY CONTROL
-德尔塔综合楼设施控制
+德尔塔综合设施控制
 
 > #str_00990
 SYSTEM ACTIVE
@@ -6248,13 +6252,13 @@ Delta 1 - Elevator systems shut down due to low backup power
 
 > #str_01007
 Security Lockdowns (2 reports)
-安防锁定 （2 个报告）
+安防封锁(2个报告)
 
 > #str_01008
 """Delta 1 - Main crane access lockdown.
 Delta 2 - Security center lockdown, Halon leak detected."""
 """德尔塔1 - 主吊车通路封锁。
-德尔塔2 - 保安中心封锁，检测到Halon泄漏。"""
+德尔塔2 - 安保中心封锁，检测到Halon泄漏。"""
 
 > #str_01009
 INITIALIZE DATALINKER
@@ -6382,7 +6386,7 @@ ENVIRONMENTAL CONTROL"""
 
 > #str_01031
 ventilation:active
-通风：激活
+通风: 激活
 
 > #str_01032
 temp 72
@@ -6420,7 +6424,7 @@ oxygen purge"""
 
 > #str_01039
 ventilation:none
-通风：无
+通风:无
 
 > #str_01040
 temp 78
@@ -6433,7 +6437,8 @@ SECURITY
 > #str_01042
 """SECURITY
 LOCKDOWN"""
-安全-锁定
+"""安防
+封锁"""
 
 > #str_01043
 SECURITY STATION
@@ -6497,8 +6502,8 @@ Area Locked
 > #str_01057
 """Restricted area
 unlocked"""
-"""限制区
-解锁"""
+"""限制区域
+已解锁"""
 
 > #str_01058
 """Security alarm
@@ -6555,7 +6560,7 @@ Teleporter 1
 
 > #str_01070
 Destination:
-目的地：
+目的地:
 
 > #str_01071
 Locked On
@@ -7195,7 +7200,7 @@ TOXIC LEVELS NOMINAL
 
 > #str_01188
 Restricted Access
-限制区
+限制访问
 
 > #str_01189
 A.C.O. Clearance Required
@@ -7254,7 +7259,7 @@ INVALID SECURITY CLEARANCE
 
 > #str_01198
 Authorized Personnel on file:
-授权工作人员：
+授权工作人员:
 
 > #str_01199
 PDA
@@ -7960,7 +7965,7 @@ SYSTEMS ACCESS CONTROL
 """Thursday, 1/30: Carlise paged Bob and wanted to know if he has seen the analysis before the 1/29 comcall. That was not a miscommunication or a problem. ECOM personnel on the 107 team had seen the analysis. In a situation where a conduit is considered lost, MMCA has responsibility in the MCS to coordinate determining the affected hardware parallel to the conduit.
 
 Since the analysis had determined there would not be burn-through, MMCA was not called to begin the process of assessing affected equipment. MMCA personnel discussed the analysis with DAB personnel who said they had seen the analysis from the MMT and did not consider it to be a concern."""
-"""1月30日，星期四：Carlise呼喊着Bob并且想知道他是否在1月29日的通信之前见过那份分析。这不是一次理解错误或者小问题。ECOM人员在107队见过那份分析。在一个导管被认为是丢失了的情况下，MMCA有责任配合找出受到丢失导管影响的MCS硬件。
+"""1月30日，星期四: Carlise呼喊着Bob并且想知道他是否在1月29日的通信之前见过那份分析。这不是一次理解错误或者小问题。ECOM人员在107队见过那份分析。在一个导管被认为是丢失了的情况下，MMCA有责任配合找出受到丢失导管影响的MCS硬件。
 
 由于该分析决定烧穿的存在性，MMCA没有开始对受影响的设备进行评估。MMCA人员经过与建国这份分析的DAB人员讨论后，认为此事没有深究的必要。"""
 
@@ -8002,7 +8007,7 @@ Access Control text.
 
 > #str_01348
 CURRENT USER : BRASKY, B.
-当前用户：BRASKY, B.
+当前用户: BRASKY, B.
 
 > #str_01349
 SYSTEM MAINTENANCE ENGINEER
@@ -8086,7 +8091,7 @@ Office Directory
 
 > #str_01367
 Dr. Salvez                        Dr. Lhuve                    Cmdr. Takay                    Dr. Duglif                           D. Jackson                         B. Kirtley
-Salvez博士                        Lhuve博士                    Takay中校                    Duglif博士                           D. Jackson                         B. Kirtley
+Salvez博士                        Lhuve博士                    Takay中校                      Duglif博士                           D. Jackson                         B. Kirtley
 
 > #str_01368
 Warehouse Access
@@ -8098,11 +8103,11 @@ Delta Office Suites
 
 > #str_01370
 CPU Complex Access
-CPU群通道
+CPU综合设施通道
 
 > #str_01371
 Delta Complex Main Lobby
-德尔塔综合楼主大厅
+德尔塔综合设施主大堂
 
 > #str_01372
 Central Control
@@ -8114,7 +8119,7 @@ Monorail Access
 
 > #str_01374
 Delta Complex
-德尔塔综合楼
+德尔塔综合设施
 
 > #str_01375
 Delta 1
@@ -8122,7 +8127,7 @@ Delta 1
 
 > #str_01376
 INTERFACE IN PROGRESS             Central Command        Office Suites      Warehouse Power      Reactor Faciitites
-接口进度             中央司令部        办公套件      仓库电源      反应堆设施
+接口进度                          中央司令部             办公套件           仓库电源             反应堆设施
 
 > #str_01377
 ACCESING
@@ -8130,7 +8135,7 @@ ACCESING
 
 > #str_01378
 Machinegun
-Machinegun
+机枪
 
 > #str_01379
 Panel
@@ -8344,7 +8349,7 @@ Plasmagun
 
 > #str_01424
 Rocket Launcher
-火箭炮
+火箭发射器
 
 > #str_01425
 Chainsaw
@@ -8398,7 +8403,7 @@ UAC雇员私人仓库设备
 
 > #str_01436
 UAC - PDA
-联合航天公司 - PDA
+UAC - PDA
 
 > #str_01437
 USER ID
@@ -8450,7 +8455,7 @@ EMAIL
 
 > #str_01449
 Name :
-名字 ：
+名字 : 
 
 > #str_01450
 I.D. :
@@ -8458,7 +8463,7 @@ I.D. :
 
 > #str_01451
 Post :
-发布：
+发布 :
 
 > #str_01452
 Security Clearance
@@ -8570,7 +8575,7 @@ Soul Cube"""
 链枪
 手雷
 等离子枪
-火箭发射前
+火箭发射器
 BFG
 电锯
 照明弹
@@ -8608,7 +8613,7 @@ Ammo Factory
 
 > #str_01482
 Update: 24 / 10 / 03
-更新：24 / 10 / 03
+更新: 24 / 10 / 03
 
 > #str_01483
 """Notes:
@@ -8645,8 +8650,8 @@ and transported to Site 3 for evaluation and analysis."""
 Broadcast dishes are aligned for communications directly with UAC-Earth and
 bridged for deep space communications via the Phobos Routing Station uplink."""
 """通信塔是星球外通信的最主要的连接。
-广播天线盘整齐排列来和联合航天公司-地球分部进行直接通信以及
-为通过Phobos路由站上行线路的深层空间通信提供中转桥接。"""
+广播天线盘整齐排列来和UAC-地球分部进行直接通信以及
+为通过火卫一路由站上行线路的深层空间通信提供中转桥接。"""
 
 > #str_01487
 """Comm Transfer connects Enpro and Communications, and acts as a multipurpose facility for power distribution, equipment repair, and cargo transfer to other base sectors. Due
@@ -8660,7 +8665,7 @@ Central Processing houses the control systems which are used to process data for
 
 > #str_01489
 The Delta Complex is the most advanced research facility on Mars. Sector 1 contains the power systems, energy core distribution center, and services the administrative functions of the entire Delta Complex.
-德尔塔综合设施时火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
+德尔塔综合设施是火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
 
 > #str_01490
 Delta Labs Research Facility - Sector 2 South contains the Matter Transfer division focusing on human experimentation and other biological testing. The prototype transfer platform is contained in the upper research hall. Teleporter distance is limited, serving only to test biological effects of matter transference.
@@ -8681,12 +8686,11 @@ Delta Labs - Sector 4 houses the third generation transfer portal. All teleporte
 > #str_01494
 """The Delta Complex is the most advanced research facility on Mars. The complex is divided into three main sectors each serving unique purposes and one smaller sector that houses the main test portal. Access can only be gained through the Monorail or
 CPU Complex."""
-"""德尔塔综合设施时火星上面最为先进的研究设施。这个综合设施分为3个主要的区域，每个都有专用的功能，还要一个较小的区域里面放置了主测试传送门。只有通过单轨或者CPU综合设施才能
-到达那里。"""
+德尔塔综合设施时火星上面最为先进的研究设施。这个综合设施分为3个主要的区域，每个都有专用的功能，还要一个较小的区域里面放置了主测试传送门。只有通过单轨或者CPU综合设施才能到达那里。
 
 > #str_01495
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
-Enpro电站为主要为通信塔功能，并为全部火星联合航天公司设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
+Enpro电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
 > #str_01496
 Frag Chamber
@@ -8694,7 +8698,7 @@ Frag Chamber
 
 > #str_01497
 Update: 31 / 10 / 03
-更新：31 / 10 / 03
+更新: 31 / 10 / 03
 
 > #str_01498
 """Notes:
@@ -8768,7 +8772,7 @@ The Mars City sublevel was one of the first multi-purpose installations built on
 
 > #str_01505
 The Monorail serves as transportation between the low level access sectors of the UAC Complex and the priority access research facilities. Have all identification and security clearance data prepared for inspection.
-单轨是连接联合航天公司底层人员准入区域和上层准入的研究设施的交通手段。请准备好所有的证件和安全调查数据来接受检查。
+单轨是连接UAC综合设施底层人员准入区域和上层准入的研究设施的交通手段。请准备好所有的证件和安全调查数据来接受检查。
 
 > #str_01506
 Processor Of Elimination
@@ -8776,7 +8780,7 @@ Processor Of Elimination
 
 > #str_01507
 Update: 06 / 10 / 03
-更新：06 / 10 / 03
+更新: 06 / 10 / 03
 
 > #str_01508
 """Notes:
@@ -8831,7 +8835,7 @@ Changelog:
 -向之前的Edges致敬。
 - 用传送器快速获得强化道具
 
-改动记录：
+改动记录:
 添加了音频通道
 - 传送器西边的房间和照明开关相连
 -地图东边工业区有更多细节
@@ -8955,7 +8959,7 @@ LIFT MOTOR FAILURE
 WARNING"""
 """警告
 
-升降机马达失效
+电梯马达失效
 
 警告"""
 
@@ -10052,7 +10056,7 @@ LOCKER 2
 
 > #str_01653
 CURRENT LOGIN : BROOKS, T.
-当前登录：BROOKS, T.
+当前登录: BROOKS, T.
 
 > #str_01654
 MARS SECURITY ADMINISTRATOR
@@ -10310,7 +10314,7 @@ you can't click now
 
 > #str_01713
 NOTE: this GUI suffers from the focus bug
-注意：这个图形用户界面里有焦点错误
+注意: 这个图形用户界面里有焦点错误
 
 > #str_01714
 """( disabled until
@@ -10548,25 +10552,25 @@ BOOT SEQUENCE FAILED
 > #str_01762
 """Location : Delta
 Status : Offline"""
-"""位置：德尔塔
+"""位置: 德尔塔
 状态 : 离线"""
 
 > #str_01763
 """Location : Administration
 Status : Offline"""
-"""位置：管理部门
+"""位置 : 管理部门
 状态 : 离线"""
 
 > #str_01764
 """Location : Mars City
 Status : Offline"""
-"""位置：火星城
+"""位置: 火星城
 状态 : 离线"""
 
 > #str_01765
 """Location : Comm Center
 Status : Power Failure"""
-"""位置：指挥中心
+"""位置: 指挥中心
 状态 : 电力失效"""
 
 > #str_01766
@@ -11053,11 +11057,11 @@ this is temporary text this is temporary text
 
 > #str_01855
 Frag Limit:
-杀敌数限制：
+杀敌数限制:
 
 > #str_01856
 Time Limit:
-时间限制：
+时间限制:
 
 > #str_01857
 player1
@@ -11109,27 +11113,27 @@ demos
 
 > #str_01869
 Location : Delta
-位置：德尔塔
+位置: 德尔塔
 
 > #str_01870
 Status : Offline
-状态：离线
+状态: 离线
 
 > #str_01871
 Location : Administration
-位置：管理部门
+位置 : 管理部门
 
 > #str_01872
 Location : Mars City
-位置：火星城
+位置 : 火星城
 
 > #str_01873
 Location : Comm Center
-位置：指挥中心
+位置 : 指挥中心
 
 > #str_01874
 Status : Power Failure
-状态：电力关闭
+状态 : 电力失效
 
 > #str_01875
 Concept Sketch 1
@@ -11516,10 +11520,10 @@ UNLOCKED"""
 CLEARANCE
 TO INITIATE
 LOCKDOWN"""
-"""无效的
+"""启动
+封锁的
 许可
-来启动
-封锁"""
+无效"""
 
 > #str_01967
 Cycle Vent Systems
@@ -11539,7 +11543,7 @@ Toggle ready status
 
 > #str_01971
 SAY:
-说：
+说:
 
 > #str_01972
 Pregame
@@ -11903,27 +11907,27 @@ OBJECTIVE UPDATE
 
 > #str_02040
 Game Name:
-游戏名称：
+游戏名称:
 
 > #str_02041
 Server:
-服务器：
+服务器:
 
 > #str_02042
 Host:
-主机：
+主机:
 
 > #str_02043
 Password:
-密码：
+密码:
 
 > #str_02044
 Game Type:
-游戏类型：
+游戏类型:
 
 > #str_02045
 Map:
-地图：
+地图:
 
 > #str_02046
 Create
@@ -11951,7 +11955,7 @@ Refresh
 
 > #str_02052
 Connect
-连接至IP：
+连接
 
 > #str_02053
 Server name here
@@ -11979,7 +11983,7 @@ Player 4
 
 > #str_02059
 Dedicated:
-专用：
+专用:
 
 > #str_02060
 Buddies
@@ -11991,11 +11995,11 @@ Channels
 
 > #str_02062
 Nickname:
-昵称：
+昵称:
 
 > #str_02063
 GUID:
-GUID：
+GUID:
 
 > #str_02064
 CD KEY
@@ -12003,7 +12007,7 @@ CD KEY
 
 > #str_02065
 testers: use default key GWATDCR7H73GBHWA
-测试人员：使用默认密匙GWATDCR7H73GBHWA
+测试人员: 使用默认密匙GWATDCR7H73GBHWA
 
 > #str_02066
 CD Key:
@@ -12031,7 +12035,7 @@ Back to Main Menu
 
 > #str_02072
 Player:
-玩家：
+玩家:
 
 > #str_02073
 """Use Playback controls to advance or pause
@@ -12193,7 +12197,7 @@ Rockets
 
 > #str_02111
 Soulcube
-灵魂方块
+灵魂魔方
 
 > #str_02112
 Attack
@@ -13241,11 +13245,11 @@ start server
 
 > #str_02372
 Player Name:
-玩家名：
+玩家名:
 
 > #str_02373
 Player Skin:
-玩家皮肤：
+玩家皮肤:
 
 > #str_02374
 Map Name
@@ -13269,11 +13273,11 @@ Lan Search
 
 > #str_02379
 Connect to IP:
-连接至IP：
+连接至IP:
 
 > #str_02380
 Network Speed: LAN
-网速：局域网
+网速: 局域网
 
 > #str_02381
 Main
@@ -13339,23 +13343,23 @@ scores and stats"""
 
 > #str_02394
 Game Map:
-游戏地图：
+游戏地图:
 
 > #str_02395
 Team Damage:
-小队伤害：
+小队伤害:
 
 > #str_02396
 Number of Players:
-玩家数：
+玩家人数:
 
 > #str_02397
 Allow Spectators:
-允许观察者：
+允许观察者:
 
 > #str_02398
 Warmup:
-预热：
+预热:
 
 > #str_02399
 Start Game
@@ -13391,27 +13395,27 @@ Misc
 
 > #str_02407
 Look Up:
-往上看：
+往上看:
 
 > #str_02408
 Look Down:
-往下看：
+往下看:
 
 > #str_02409
 Mouse Look:
-鼠标观察：
+鼠标观察:
 
 > #str_02410
 Center View:
-中央视角：
+居中视角:
 
 > #str_02411
 Zoom View:
-缩放视野：
+缩放视野:
 
 > #str_02412
 Free Look:
-自由观察：
+自由观察:
 
 > #str_02413
 Always Run (MP):
@@ -13419,67 +13423,67 @@ Always Run (MP):
 
 > #str_02414
 Forward:
-前进：
+前进:
 
 > #str_02415
 Backpedal:
-后退：
+后退:
 
 > #str_02416
 Move Left:
-左移：
+左移:
 
 > #str_02417
 Move Right:
-右移：
+右移:
 
 > #str_02418
 Jump:
-跳：
+跳跃:
 
 > #str_02419
 Crouch:
-蹲下：
+下蹲:
 
 > #str_02420
 Turn Left:
-向左转：
+向左转:
 
 > #str_02421
 Turn Right:
-向右转：
+向右转:
 
 > #str_02422
 Strafe:
-平移：
+平移:
 
 > #str_02423
 Sprint:
-冲刺：
+冲刺:
 
 > #str_02424
 Attack:
-攻击：
+攻击:
 
 > #str_02425
 Previous Weapon:
-前一武器：
+上一武器:
 
 > #str_02426
 Next Weapon:
-下个武器：
+下一武器:
 
 > #str_02427
 Auto switch:
-自动更换：
+自动切换:
 
 > #str_02428
 Reload:
-装弹：
+装弹:
 
 > #str_02429
 Pistol:
-手枪：
+手枪:
 
 > #str_02430
 Shotgun:
@@ -13487,23 +13491,23 @@ Shotgun:
 
 > #str_02431
 Machine Gun:
-机关枪：
+机枪:
 
 > #str_02432
 Chain Gun:
-链枪：
+链枪:
 
 > #str_02433
 Grenades:
-手雷：
+手雷:
 
 > #str_02434
 Plasma Gun:
-等离子枪：
+等离子枪:
 
 > #str_02435
 Rocket Launcher:
-火箭炮：
+火箭发射器:
 
 > #str_02436
 BFG:
@@ -13511,11 +13515,11 @@ BFG:
 
 > #str_02437
 Soulcube:
-灵魂方块：
+灵魂魔方:
 
 > #str_02438
 Chainsaw:
-电锯：
+电锯:
 
 > #str_02439
 Fists:
@@ -13523,11 +13527,11 @@ Fists:
 
 > #str_02440
 Open PDA:
-打开PDA：
+打开PDA:
 
 > #str_02441
 Invert Mouse:
-反转鼠标：
+反转鼠标:
 
 > #str_02442
 Smooth Mouse:
@@ -13535,11 +13539,11 @@ Smooth Mouse:
 
 > #str_02443
 Flashlight:
-手电筒：
+手电筒:
 
 > #str_02444
 Mouse Sensitivity:
-鼠标灵敏度：
+鼠标灵敏度:
 
 > #str_02445
 Show Scoreboard:
@@ -13547,39 +13551,39 @@ Show Scoreboard:
 
 > #str_02446
 Chat:
-聊天：
+聊天:
 
 > #str_02447
 Team Chat:
-小队聊天：
+小队聊天:
 
 > #str_02448
 System Chat:
-系统聊天：
+系统聊天:
 
 > #str_02449
 Join Red:
-加入红队：
+加入红队:
 
 > #str_02450
 Join Blue:
-加入蓝队：
+加入蓝队:
 
 > #str_02451
 Spectate:
-旁观：
+旁观:
 
 > #str_02452
 Ready to Play:
-准备游戏：
+准备游戏:
 
 > #str_02453
 Vote Yes:
-投票赞成：
+投票赞成:
 
 > #str_02454
 Vote No:
-投票反对：
+投票反对:
 
 > #str_02455
 Violence
@@ -13709,7 +13713,7 @@ FISTS
 
 > #str_02476
 MACHINE GUN
-机关枪
+机枪
 
 > #str_02477
 CHAIN GUN
@@ -13765,23 +13769,23 @@ New Time Limit:
 
 > #str_02490
 New Frag Limit:
-新杀敌数上限：
+新杀敌数上限:
 
 > #str_02491
 New Last Man Max Lives:
-新最后一人最大生命：
+新最后一人最大生命:
 
 > #str_02492
 New Game Type:
-新游戏类型：
+新游戏类型:
 
 > #str_02493
 Kick Player:
-踢出玩家：
+踢出玩家:
 
 > #str_02494
 Select Map:
-选择地图：
+选择地图:
 
 > #str_02495
 Set Status:
@@ -13797,7 +13801,7 @@ click to toggle
 
 > #str_02498
 Team:
-小队：
+小队:
 
 > #str_02499
 Red
@@ -13809,7 +13813,7 @@ Blue
 
 > #str_02501
 Vote:
-投票：
+投票:
 
 > #str_02502
 Vote Type
@@ -13973,7 +13977,7 @@ Self powered chain-blade cutting tool. Part of a shipment incorrectly routed to 
 
 > #str_02542
 An artifact discovered in the caverns excavation site. Research of the Cube's origin and function are ongoing.
-在洞穴的挖掘点发现了一个神器。关于这个方块的功能与来源正在研究。
+在洞穴的挖掘点发现了一个遗物。关于这个魔方的功能与来源正在研究。
 
 > #str_02543
 IDENTIFICATION  
@@ -14081,7 +14085,7 @@ Systems Normal"""
 
 > #str_02568
 DELTA COMPLEX
-德尔塔综合楼
+德尔塔综合设施
 
 > #str_02569
 """Research
@@ -14093,8 +14097,8 @@ Level 12 Clearance"""
 """研究
 最大可支撑生命数 825
 系统正常
-状态：最高机密
-项目：最高机密
+状态: 最高机密
+项目: 最高机密
 需要等级12"""
 
 > #str_02570
@@ -14304,7 +14308,7 @@ Uq A C
 
 > #str_02617
 U AC
-联合航天公司
+U AC
 
 > #str_02618
 SCOREBOARD
@@ -14328,7 +14332,7 @@ West
 
 > #str_02623
 Note:
-注：
+注:
 
 > #str_02624
 Shadow Test
@@ -14388,7 +14392,7 @@ Prev Anim
 
 > #str_02638
 Player name:
-玩家名：
+玩家名:
 
 > #str_02639
 Rescan
@@ -14400,15 +14404,15 @@ Inet 地址:
 
 > #str_02641
 Num Players:
-玩家数：
+玩家数:
 
 > #str_02642
 UAC - Exploration  Research  Development
-联合航天公司 - 探测研究开发
+UAC - 探测研究开发
 
 > #str_02643
 UAC - Current Project : 
-联合航天公司 - 当前项目： 
+UAC - 当前项目 : 
 
 > #str_02644
 CLASSIFIED
@@ -14424,11 +14428,11 @@ J. 威瑟曼
 
 > #str_02647
 Administration
-管理权限
+管理部门
 
 > #str_02648
 Checkpoint
-储存点
+检查点
 
 > #str_02649
 G3 Science Team
@@ -14492,7 +14496,7 @@ Alphalabs
 
 > #str_02664
 Malcolm Betruger
-Malcolm Betruger
+马尔科姆·贝特鲁格
 
 > #str_02665
 Alpha Labs Level 1
@@ -14744,7 +14748,7 @@ You found the Data Linker!
 
 > #str_02727
 Reactor Online!
-反应堆启动！
+反应堆上线！
 
 > #str_02728
 Delta Authority
@@ -14792,7 +14796,7 @@ Go to sector security and terminate the ops lock down.
 
 > #str_02739
 Terminate Lockdown
-解除封锁
+终止封锁
 
 > #str_02740
 Ops Archives
@@ -14804,11 +14808,11 @@ RECORDS
 
 > #str_02742
 Storage: Archives D-116 - 274
-储藏：档案 D-116 - 274
+储藏: 档案 D-116 - 274
 
 > #str_02743
 Status: Closed
-状态：关闭
+状态: 关闭
 
 > #str_02744
 Retrieve the plasma conduit from the Ops storage closet
@@ -14828,7 +14832,7 @@ Hooper, Matt  M1-6367132
 
 > #str_02748
 Status: In
-状态：进入
+状态: 进入
 
 > #str_02749
 Level 2- Archives
@@ -14852,7 +14856,7 @@ Rescoe, Steve  M1-6603473
 
 > #str_02754
 Status: Relocated
-状态：重新定位
+状态: 重新定位
 
 > #str_02755
 OFFICE D2-15
@@ -14904,7 +14908,7 @@ Chang, Andy  M1-4137771
 
 > #str_02767
 Status: Missing
-状态：丢失
+状态: 丢失
 
 > #str_02768
 Personnel
@@ -15144,11 +15148,11 @@ Chamber 2 Access
 
 > #str_02827
 Swann's PDA
-Swann的PDA
+斯旺的PDA
 
 > #str_02828
 E. Swann
-E. Swann
+E.斯旺
 
 > #str_02829
 MSgt Kelly
@@ -15252,7 +15256,7 @@ Marine HQ
 
 > #str_02854
 Access Alpha Labs through ACO Administration
-通过ACO管理权限进入阿尔法实验室
+通过ACO管理权限访问阿尔法实验室
 
 > #str_02855
 Head toward Alpha Labs
@@ -15336,15 +15340,15 @@ Maintenance Level 1
 
 > #str_02875
 Make your way to the Delta Complex
-设法去Delta区
+设法前去德尔塔综合设施
 
 > #str_02876
 Enter the Delta Complex
-进入Delta工业区
+进入德尔塔综合设施
 
 > #str_02877
 Site 2
-站点 2
+2号地点
 
 > #str_02878
 lifter2
@@ -15844,7 +15848,7 @@ Reactor Engineering
 
 > #str_03002
 CPU Complex
-CPU群
+CPU综合设施
 
 > #str_03003
 Science Team C6
@@ -15992,7 +15996,7 @@ Han Lee
 
 > #str_03039
 Using Swann's PDA gain entrance into the CPU Complex
-使用Swann的PDA来进入CPU综合设施
+使用斯旺的PDA来获取进入CPU综合设施的入口
 
 > #str_03040
 Coolant Rod 2
@@ -16092,7 +16096,7 @@ Join up with Bravo Team in Alpha Labs.  Go through Administration for entry into
 
 > #str_03064
 Alpha Labs Administration
-阿尔法实验室管理
+阿尔法实验室管理部门
 
 > #str_03065
 Hangar Bay
@@ -16216,7 +16220,7 @@ item_objective_3
 
 > #str_03095
 Site3 Security Lockdown
-站点 3 安全系统锁定
+3号地点的安防封锁
 
 > #str_03096
 item_objective_2
@@ -16304,7 +16308,7 @@ LATEST HEADLINES
 Europa crash investigation underway.
 
 Armo Aerosospace's new orbiter platform prototype successfully deployed."""
-"""爆炸新闻:：NEA Amun意外事件报告，死亡9人。
+"""爆炸新闻:: NEA Amun意外事件报告，死亡9人。
 
 Europa 坠毁调查进行中。
 
@@ -16344,7 +16348,7 @@ Discovered in Caverns archeological dig
 June 15, 2143
 
 Research report filed September 1, 2143"""
-"""神器序号：U1
+"""遗物序号: U1
 在洞穴考古挖掘中发现
 6月15日，2143
 
@@ -16432,11 +16436,11 @@ TOPOGRAPHIC
 Pressure: 8.16 mb
 
 Dust storm outlook: Clear"""
-"""当前温度：-93.3 C / -135.9 F
+"""当前温度: -93.3 C / -135.9 F
 
-压力： 8.16mb
+压力:  8.16mb
 
-沙尘暴几率：无"""
+沙尘暴几率: 无"""
 
 > #str_03138
 CAMERA ERROR
@@ -16458,13 +16462,13 @@ This shipment contains various small artifacts packaged in the lower level resea
 Authorized by Transfer coordinator Bill Kirtley"""
 """运送清单
 -------
-此货件中包含在较低水平的研究所打包的各种小型神器。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。
+此货件中包含在较低水平的研究所打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。
 -------- 
-审批员：传输协调员比尔柯特利"""
+审批员: 传输协调员比尔柯特利"""
 
 > #str_03142
 ADMINISTRATOR ACCESS
-管理员登入
+管理员访问
 
 > #str_03143
 EMERGENCY MESSAGE CHANNEL
@@ -16477,7 +16481,7 @@ MARKED URGENT - PRIORITY 1
 > #str_03145
 """SECURITY REQUEST
 From Admin: Gibson Goldstein"""
-安全要求 ：  来自管理者： 吉普森 勾斯登
+安全要求 :   来自管理者:  吉普森 勾斯登
 
 > #str_03146
 In need of immediate assistance. Multiple injury reports coming in following an explosion of unknow origin. Weapons fire can be heard from my sta
@@ -16493,15 +16497,15 @@ TRANSFER SCHEDULE
 12:00 - CONSTRUCTION CONTAINER TRANSFER
 
 18:30 - PORTABLE EQUIPMENT REMOVAL"""
-"""08:00 - 最后一个神器移除
+"""08:00 - 最终遗物移除
 
-12:00 -容器建造转移
+12:00 - 建造容器转移
 
 18:30 - 便携装备移除"""
 
 > #str_03149
 06:30 - LARGE ARTIFACT REMOVAL - COMPLETED 07:38
-06:30 - 大型神器移除 - 完成 07:38
+06:30 - 大型遗物移除 - 完成 07:38
 
 > #str_03150
 Storage Room 11
@@ -16549,7 +16553,7 @@ Lift will automatically relock in one hour
 
 > #str_03160
 UNLOCK CARGO LIFT CONTROLS
-解锁货物升降机控制
+解锁货物电梯控制
 
 > #str_03161
 LIFT CONTROL ACCESS ONLINE
@@ -16575,9 +16579,9 @@ TRANSMISSION FAILED
 """ENCRYPTED DATA DELETED
 REMOTELY BY UAC ADMIN
 USER: E. SWANN"""
-"""加密数据已经
-由UAC管理员远程删除
-用户：E. Swann"""
+"""加密数据已经被
+UAC管理员远程删除
+用户: E.斯旺"""
 
 > #str_03166
 FLOW TERMINAL
@@ -16642,8 +16646,8 @@ Approved: R. Ridge
 08:30 - Jeff - atmospheric monitoring equipment.
 13:00 - Brian -  transport engine upgrades.
 15:30 - James -  storage crates."""
-"""归档人：E. Lindner
-核准人：R. Ridge
+"""归档人: E. Lindner
+核准人: R. Ridge
 
 08:30 - Jeff - 大气监测设备。
 13:00 - Brian -  载具引擎升级。
@@ -16778,7 +16782,7 @@ REACTOR OFFLINE
 """Reactor shutdown initiated by power surge in primary coupling.
 Detected cause: Missing datalinker"""
 """反应堆关闭启动
-启动原因：却是数据连接器"""
+启动原因: 却是数据连接器"""
 
 > #str_03211
 """Datalinker power processing active.
@@ -16866,7 +16870,7 @@ LOBBY ELEVATORS
 
 > #str_03230
 ADMINISTRATION
-管理权限
+管理部门
 
 > #str_03231
 WAREHOUSE
@@ -16900,12 +16904,12 @@ MONDAY 11/15
 
 > #str_03238
 16:00 - Administration Meeting
-16:00 - 管理会议
+16:00 - 管理部门会议
 
 > #str_03239
 """17:30 - Shift 2 Energy and Administration
                  Meetings"""
-"""17:30 - 第二轮能量及管理
+"""17:30 - 第2轮能源及管理部门
                  会议"""
 
 > #str_03240
@@ -16980,7 +16984,7 @@ RING 2 MONITORING STATION
 
 > #str_03257
 PRIMARY REACTOR CONTROL
-主反应器控制
+主反应堆控制
 
 > #str_03258
 PRIMARY POWER CAPACITY CURRENTLY AT FULL OUTPUT
@@ -17080,7 +17084,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03281
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非联合航天公司的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03282
 10-29-45 REPORT
@@ -17108,7 +17112,7 @@ We sent the first batch of volunteers through the teleporter today. Subjects wer
 
 > #str_03288
 CURRENT USER: RALEIGH, P.
-当前用户：RALEIGH, P.
+当前用户: RALEIGH, P.
 
 > #str_03289
 SCIENCE TEAM 7 SUPERVISOR
@@ -17148,7 +17152,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03297
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非联合航天公司的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03298
 Jameson cleared the order for holding the test subject pending a detailed physical analysis. I uploaded a request for new volunteers, so we should have a few new transfers in that are looking for free credits. I am copying Sandra on this log entry, be sure and check ALL potential candidates for immediate family or local social ties. Make sure they won't be missed, Corporate does not want to deal with any more litigations.
@@ -17453,7 +17457,7 @@ MXR 影像扫描器
 
 > #str_03356
 CURRENT RESEARCH ARTIFACT SCAN: U1
-当前遗物研究扫描：U1
+当前遗物研究扫描: U1
 
 > #str_03357
 """ERROR
@@ -17843,7 +17847,7 @@ SPECIMEN 125 LATERAL CRANIAL X-RAY
 Discovered in Caverns archaeological dig Site 3
 
 Research report filed November 14, 2145"""
-"""神器编号： U1
+"""遗物编号:  U1
 
 在洞穴考古挖掘的3号挖掘点发现
 
@@ -18083,7 +18087,7 @@ SENTRYBOT
 
 > #str_03459
 SYSTEM ACTIVITY NORMAL
-系统状态：正常
+系统状态: 正常
 
 > #str_03460
 1652 F/ 900 C
@@ -18125,23 +18129,23 @@ Union Aerospace Corporate Division
 
 > #str_03469
 LO
-载
+正
 
 > #str_03470
 LOA
-载入
+正在
 
 > #str_03471
 LOADI
-载
+正在载
 
 > #str_03472
 LOADIN
-载入
+正在载入
 
 > #str_03473
 ALPHA LABS - SECTOR 1
-阿尔法实验室 - 1区
+阿尔法实验室 - 第1区
 
 > #str_03474
 Union Aerospace Science Division
@@ -18149,19 +18153,19 @@ Union Aerospace Science Division
 
 > #str_03475
 ALPHA LABS - SECTOR 2
-阿尔法实验室 - 2区
+阿尔法实验室 - 第2区
 
 > #str_03476
 ALPHA LABS - SECTOR 3
-阿尔法实验室 - 3区
+阿尔法实验室 - 第3区
 
 > #str_03477
 ALPHA LABS - SECTOR 4
-阿尔法实验室 - 4区
+阿尔法实验室 - 第4区
 
 > #str_03478
 CAVERNS - AREA 1
-洞穴 - 区域1
+洞穴 - 第1区域
 
 > #str_03479
 Excavation Transfer
@@ -18169,11 +18173,11 @@ Excavation Transfer
 
 > #str_03480
 CAVERNS - AREA 2
-洞穴 - 区域2
+洞穴 - 第2区域
 
 > #str_03481
 Artifact Excavation
-神器挖掘
+遗物挖掘
 
 > #str_03482
 Central Communications Tower
@@ -18197,11 +18201,11 @@ Primary Server Bank
 
 > #str_03487
 D3DM1 - TOMIKO REACTOR
-D3DM1 - TOMIKO REACTOR
+D3DM1 - TOMIKO 反应堆
 
 > #str_03488
 D3DM2 - DELTA LAB
-D3DM2 - DELTA LAB
+D3DM2 - 德尔塔实验室
 
 > #str_03489
 D3DM3 - FRAG CHAMBER
@@ -18253,7 +18257,7 @@ PRIMARY EXCAVATION
 
 > #str_03501
 Artifact Dig
-神器挖掘
+遗物挖掘
 
 > #str_03502
 Mars City is the gateway to all of Union Aerospace's Mars Base. All arriving personnel are processed here before moving to their assigned posts. Mars City houses the primary Marine Operations control room as well as the main administrator's office.
@@ -18769,9 +18773,12 @@ DETAILS
 Bin 1 - Administrative Supplies, General
 
 Bin 2 - Administrative Supplies, Data Storage"""
-"""SUP8890 - 两船箱子 箱子 1 - 行政用品， 常规使用
-箱子2 - 行政使用，
-数据库"""
+"""SUP8890
+2个运输箱
+
+第1箱 - 行政用品，常规
+
+第2箱 - 行政用品，数据存储"""
 
 > #str_03609
 """TS4109
@@ -18785,11 +18792,11 @@ Container 3 - Classified"""
 """TS4109
 3个元密封容器
 
-容器 1 - 已分类
+容器1 - 已分类
 
-容器 2 - 已分类
+容器2 - 已分类
 
-容器 3 - 已分类"""
+容器3 - 已分类"""
 
 > #str_03610
 """UA91
@@ -18833,7 +18840,7 @@ UAC火星基地
 
 > #str_03614
 CODE BLACK: MISSING STAFF
-代号BLACK：失踪的人员
+代号BLACK: 失踪的人员
 
 > #str_03615
 """UAC Security is looking for a missing scientist.  We need your help to insure he is found quickly and safely.
@@ -18979,7 +18986,7 @@ T4409              06:18 MST              11/15
 
 > #str_03643
 ARRIVED : REFUELING
-已到达：加油中
+已到达: 加油中
 
 > #str_03644
 T4409   -  BURNS FLAT, OK  -   EARTH
@@ -18987,11 +18994,11 @@ T4409   -  燃烧平原，正常 -   地球
 
 > #str_03645
 ETD 18:55 MST 11/15
-预计离岸 11月15日 山区时间18：55
+预计离岸 11月15日 山区时间18: 55
 
 > #str_03646
 ETA 13:00 CST 12/27
-预计到达 12月27日 中央时区13：00
+预计到达 12月27日 中央时区13: 00
 
 > #str_03647
 T4315               06:00 MST               11/22
@@ -19141,7 +19148,7 @@ DATA LOADED
 
 > #str_03677
 UAC BASE SCHEMATICS
-联合航天公司简图
+UAC基地图表
 
 > #str_03678
 DECOMISSIONED COMM FACILITY
@@ -19200,9 +19207,10 @@ UA08 - 2个小型重力密封箱
 Bin 1 - Administrative Supplies, General
 Bin 2 - Administrative Supplies,
 Data Storage"""
-"""SUP8890 - 两船箱子 箱子 1 - 行政用品， 常规使用
-箱子2 - 行政使用，
-数据库"""
+"""SUP8890 - 2个运输箱
+第1箱 - 行政用品，常规
+第2箱 - 行政使用，
+数据存储"""
 
 > #str_03692
 """TS4109
@@ -19212,9 +19220,9 @@ Container 2 - Classified
 Container 3 - Classified"""
 """TS4109
 3个元密封容器
-容器 1 - 已分类
-容器 2 - 已分类
-容器 3 - 已分类"""
+容器1 - 已分类
+容器2 - 已分类
+容器3 - 已分类"""
 
 > #str_03693
 """UA91
@@ -19322,7 +19330,7 @@ INSERT CREDITS TO BEGIN
 
 > #str_03710
 CREDITS: 0/20
-点数：0/20
+点数: 0/20
 
 > #str_03711
 CURRENT SCORE
@@ -19540,7 +19548,7 @@ Elli"""
 Elliot"""
 """乘客名单
 --------------------------
-Elliot"""
+埃利奥特"""
 
 > #str_03753
 """Passenger list
@@ -19548,7 +19556,7 @@ Elliot"""
 Elliot Sw"""
 """乘客名单
 --------------------------
-Elliot Sw"""
+埃利奥特 Sw"""
 
 > #str_03754
 """Passenger list
@@ -19556,7 +19564,7 @@ Elliot Sw"""
 Elliot Swa"""
 """乘客名单
 --------------------------
-Elliot Swa"""
+埃利奥特·Swa"""
 
 > #str_03755
 """Passenger list
@@ -19564,7 +19572,7 @@ Elliot Swa"""
 Elliot Swann"""
 """乘客名单
 --------------------------
-Elliot Swann"""
+埃利奥特·斯旺"""
 
 > #str_03756
 """Passenger list
@@ -19573,7 +19581,7 @@ Elliot Swann
 Ja"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Ja"""
 
 > #str_03757
@@ -19583,7 +19591,7 @@ Elliot Swann
 Jack"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack"""
 
 > #str_03758
@@ -19593,7 +19601,7 @@ Elliot Swann
 Jack Ca"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Ca"""
 
 > #str_03759
@@ -19603,7 +19611,7 @@ Elliot Swann
 Jack Camp"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Camp"""
 
 > #str_03760
@@ -19613,7 +19621,7 @@ Elliot Swann
 Jack Campbe"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbe"""
 
 > #str_03761
@@ -19623,7 +19631,7 @@ Elliot Swann
 Jack Campbell"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell"""
 
 > #str_03762
@@ -19634,7 +19642,7 @@ Jack Campbell
 Ma"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Ma"""
 
@@ -19646,7 +19654,7 @@ Jack Campbell
 Mari"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Mari"""
 
@@ -19658,7 +19666,7 @@ Jack Campbell
 Marine"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Marine"""
 
@@ -19670,7 +19678,7 @@ Jack Campbell
 Marine Tr"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Marine Tr"""
 
@@ -19682,7 +19690,7 @@ Jack Campbell
 Marine Tran"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Marine Tran"""
 
@@ -19694,7 +19702,7 @@ Jack Campbell
 Marine Transf"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Marine Transf"""
 
@@ -19706,7 +19714,7 @@ Jack Campbell
 Marine Transfer"""
 """乘客名单
 --------------------------
-Elliot Swann
+埃利奥特·斯旺
 Jack Campbell
 Marine Transfer"""
 
@@ -20137,8 +20145,8 @@ FROM: J. ISHII - ACCESS CLEARANCE DB1
 EMERGENCY REPORT ON CURRENT RESEARCH
 
 I have recalculated the effects of a containment failure and they exceed our prior estimate. No biological entity in the blast radius is likely to survive, yet Betruger is pushing the stabilization fields far beyond system limita"""
-"""状态代码：1131 - 紧急事件，优先度最高
-来自：J.ISHII - 连接许可DB1
+"""状态代码: 1131 - 紧急事件，优先度最高
+来自: J.ISHII - 连接许可DB1
 当前研究的紧急事件报告
 
 我已经重新计算了密封失效的结果，该结果超出了我们原有的估计值。所有处在爆炸范围内的生物个体几乎都不存在生还可能，然而Betruger正在将稳定场推至系统极限以外。"""
@@ -20202,14 +20210,14 @@ Site 2 lockdown removed
 Work Safe"""
 """管理员安全码授权
 
-安全系统覆盖接受
-2号地点锁定解除
+已接受安全覆盖
+已移除2号地点封锁
 
-工作安全"""
+安全工作"""
 
 > #str_03863
 Site 2 Airlock sealed by Administrator
-站点 2 被管理员用空气锁封闭
+2号地点的空气锁被管理员封闭
 
 > #str_03864
 CODE REQUIRED
@@ -20263,7 +20271,7 @@ REC
 
 > #str_03876
 CAM: 1
-摄像机：1
+摄像机: 1
 
 > #str_03877
 21 36 MST
@@ -20271,23 +20279,23 @@ CAM: 1
 
 > #str_03878
 ET:
-预计时间：
+预计时间:
 
 > #str_03879
 ET: 11-
-预计时间： 11-
+预计时间: 21
 
 > #str_03880
 ET: 11-20-
-预计时间： 11-20-
+预计时间: 2145-
 
 > #str_03881
 ET: 11-20-21
-预计时间： 11-20-21
+预计时间: 2145-11-
 
 > #str_03882
 ET: 11-20-2145
-预计时间：2145-11-20
+预计时间: 2145-11-20
 
 > #str_03883
 LOC
@@ -20327,7 +20335,7 @@ LOC: RESEARCH FACILITY
 
 > #str_03892
 ID:
-ID: 
+ID:
 
 > #str_03893
 ID: RE
@@ -20343,80 +20351,80 @@ ID: 侦察队
 
 > #str_03896
 ID: RECON ZU
-ID: 侦察队 Z
+ID: 侦察队祖
 
 > #str_03897
 ID: RECON ZULU
-ID: 侦察队 Z组
+ID: 侦察队祖鲁
 
 > #str_03898
 """BIOSCAN DATA
 RECEIVED"""
-"""生化扫描档案
+"""生化扫描数据
 已接收"""
 
 > #str_03899
 ID: UN
-ID:
+I
 
 > #str_03900
 ID: UNKN
-ID:未
+ID
 
 > #str_03901
 ID: UNKNOW
-ID:未知
+ID:
 
 > #str_03902
 ID: UNKNOWN
-ID:未知的
+ID: 未
 
 > #str_03903
 """ID: UNKNOWN
 CO"""
-ID:未知的人
+ID: 未知
 
 > #str_03904
 """ID: UNKNOWN
 COND"""
-"""ID:未知的人员
+"""ID: 未知
 """
 
 > #str_03905
 """ID: UNKNOWN
 CONDIT"""
-"""ID:未知的人员
-情"""
+"""ID: 未知
+"""
 
 > #str_03906
 """ID: UNKNOWN
 CONDITIO"""
-"""ID:未知的人员
-情况"""
+"""ID: 未知
+情"""
 
 > #str_03907
 """ID: UNKNOWN
 CONDITION: """
-"""ID:未知的人员
-情况: """
+"""ID: 未知
+情况"""
 
 > #str_03908
 """ID: UNKNOWN
 CONDITION: ST"""
-"""ID:未知的人员
-情况: 较"""
+"""ID: 未知
+情况:"""
 
 > #str_03909
 """ID: UNKNOWN
 CONDITION: STAB"""
-"""ID:未知的人员
-情况: 较稳"""
+"""ID: 未知
+情况: 稳"""
 
 > #str_03910
 """ID: UNKNOWN
 CONDITION: STABLE"""
-"""ID:未知的人员
-情况: 较稳定"""
+"""ID: 未知
+情况: 稳定"""
 
 > #str_03911
 ID: EL
@@ -20428,7 +20436,7 @@ ID: 埃利
 
 > #str_03913
 ID: ELLIOT
-ID: 埃利奥
+ID: 埃利奥特
 
 > #str_03914
 ID: ELLIOT SW
@@ -20436,104 +20444,104 @@ ID: 埃利奥特
 
 > #str_03915
 ID: ELLIOT SWANN
-ID: 埃利奥特· 
+ID: 埃利奥特·
 
 > #str_03916
 """ID: ELLIOT SWANN
 LOC:"""
-ID: 埃利奥特· 斯
+ID: 埃利奥特·斯
 
 > #str_03917
 """ID: ELLIOT SWANN
 LOC: DE"""
-ID: 埃利奥特· 斯旺
+ID: 埃利奥特·斯旺
 
 > #str_03918
 """ID: ELLIOT SWANN
 LOC: DELT"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位"""
 
 > #str_03919
 """ID: ELLIOT SWANN
 LOC: DELTA C"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: """
 
 > #str_03920
 """ID: ELLIOT SWANN
 LOC: DELTA COM"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: 德"""
 
 > #str_03921
 """ID: ELLIOT SWANN
 LOC: DELTA COMPL"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: 德尔"""
 
 > #str_03922
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: 德尔塔"""
 
 > #str_03923
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CO"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: 德尔塔综"""
 
 > #str_03924
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 COND"""
-"""ID: 埃利奥特· 斯旺
+"""ID: 埃利奥特·斯旺
 位置: 德尔塔综合"""
 
 > #str_03925
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CONDIT"""
-"""ID: 埃利奥特· 斯旺
-位置: 德尔塔综合区"""
+"""ID: 埃利奥特·斯旺
+位置: 德尔塔综合设"""
 
 > #str_03926
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CONDITIO"""
-"""ID: 埃利奥特· 斯旺
-位置: 德尔塔综合区域"""
+"""ID: 埃利奥特·斯旺
+位置: 德尔塔综合设施"""
 
 > #str_03927
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CONDITION:"""
-"""ID: 埃利奥特· 斯旺
-位置: 德尔塔综合区域
+"""ID: 埃利奥特·斯旺
+位置: 德尔塔综合设施
 情"""
 
 > #str_03928
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CONDITION: DO"""
-"""ID: 埃利奥特· 斯旺
-位置: 德尔塔综合区域
+"""ID: 埃利奥特·斯旺
+位置: 德尔塔综合设施
 情况"""
 
 > #str_03929
 """ID: ELLIOT SWANN
 LOC: DELTA COMPLEX
 CONDITION: DOA"""
-"""ID: 埃利奥特· 斯旺
-位置: 德尔塔综合区域
-情况: 到达时死亡"""
+"""ID: 埃利奥特·斯旺
+位置: 德尔塔综合设施
+情况: """
 
 > #str_03930
 """ID: MALCOLM BETRUGER
 LOC: UNKNOWN"""
-"""ID: 马尔科姆· 贝特拉格
+"""ID: 马尔科姆·贝特鲁格
 位置: 未知"""
 
 > #str_03931
@@ -20850,7 +20858,7 @@ PROCEEDING"""
 > #str_03998
 """FREIGHT LOADER DESTINATION :
 CAVERNS"""
-"""货物装卸车组目的地：
+"""货物装卸车组目的地:
 洞穴"""
 
 > #str_03999
@@ -20884,7 +20892,7 @@ ANALYSIS
 > #str_04005
 """SURFACE COMPARISON
 MATERIAL DENSITY: 83.3"""
-表面比较 、 物体密度： 83.3
+表面比较 、 物体密度:  83.3
 
 > #str_04006
 TRANSFER ELEVATOR
@@ -20926,7 +20934,7 @@ Alpha Labs 4
 
 > #str_04015
 TRANSFER LIFT
-中转升降机
+转移电梯
 
 > #str_04016
 Caverns 1
@@ -21012,7 +21020,7 @@ CAVERNS 2
 
 > #str_04036
 CPU COMPLEX
-CPU群
+CPU综合设施
 
 > #str_04037
 MAIN PROCESSING
@@ -21080,11 +21088,11 @@ new email
 
 > #str_04052
 The Union Aerospace Corporation is the largest
-联合航天公司是最大的
+联合航天公司(UAC)是现存
 
 > #str_04053
 corporate entity in existence
-企业实体已存在
+最大的企业实体
 
 > #str_04054
 Originally focused on weapon and defense
@@ -21092,7 +21100,7 @@ Originally focused on weapon and defense
 
 > #str_04055
 contracts, new ventures have expanded into:
-契约和新冒险已延展至：
+契约和新冒险已延展至:
 
 > #str_04056
 Space Exploration
@@ -21112,7 +21120,7 @@ research outside of moral and legal obligations
 
 > #str_04060
 The UAC controls the most advanced technology
-联合航天公司控制着最为先进的科技
+UAC控制着最为先进的科技
 
 > #str_04061
 ever conceived...
@@ -21494,7 +21502,7 @@ Exit Game
 
 > #str_04155
 Join:
-加入：
+加入:
 
 > #str_04156
 Hit 'ESC' to return to the game
@@ -21543,7 +21551,7 @@ VIDEO FILE"""
 
 > #str_04167
 Recent Audio Logs by 
-近期音频日志，持有人：
+近期音频日志持有人: 
 
 > #str_04168
 No audio logs on file
@@ -21559,7 +21567,7 @@ CURRENT MISSION OBJECTIVES
 
 > #str_04171
 Email Inbox of 
-电邮收件箱：
+电邮收件箱: 
 
 > #str_04172
 MISSION OBJECTIVES
@@ -21717,7 +21725,7 @@ Mars City Director
 
 > #str_04198
 Level 7
-级别 7
+级别7
 
 > #str_04199
 """This is your list of PDA files.
@@ -21759,14 +21767,14 @@ AUDIO LOGS
 """The users personal audio logs are listed here.
 Exploring users audio logs and email is a good way to understand the amazing things happening at the UAC Mars base."""
 """这里列出了用户的个人音频日志。
-查看用户的音频日志和电子邮件能够让你了解在联合航天公司火星基地上发生的神奇事件。"""
+查看用户的音频日志和电子邮件能够让你了解在UAC火星基地上发生的神奇事件。"""
 
 > #str_04205
 """The users personal audio logs are listed here.
 Exploring users audio logs and email is a good way to understand the amazing things happening at the UAC Mars base.
 Click to Continue"""
 """这里列出了用户的个人音频日志。
-查看用户的音频日志和电子邮件能够让你了解在联合航天公司火星基地上发生的神奇事件。
+查看用户的音频日志和电子邮件能够让你了解在UAC火星基地上发生的神奇事件。
 点击已继续"""
 
 > #str_04206
@@ -21827,7 +21835,7 @@ Quit to the Main Menu
 
 > #str_04217
 Severity: 
-严重度
+严重度: 
 
 > #str_04218
 Save
@@ -21919,11 +21927,11 @@ Foo;Bar
 
 > #str_04240
 Say Global:;Say Team:
-全区： 队伍：
+世界发言:;小队发言:
 
 > #str_04241
 Must Fix;Wish List
-必须修复；意愿清单
+必须修复;意愿清单
 
 > #str_04242
 Lives
@@ -22365,11 +22373,11 @@ INITIALIZING MENUS...
 
 > #str_04352
 Administration Lobby
-大厅管理权限
+管理部门大堂
 
 > #str_04353
 Administration Elevator
-电梯管理权限
+管理部门电梯
 
 > #str_04354
 Video Phone Conference Room
@@ -22593,7 +22601,7 @@ Storage and Enpro Facility Access
 
 > #str_04409
 Hazardous  Materials Lift
-高危物质升降机
+高危物质电梯
 
 > #str_04410
 Heavy Water Runoff
@@ -22625,7 +22633,7 @@ Reactor Control room
 
 > #str_04417
 Reactor Room Lift
-反应室升降机
+反应堆室电梯
 
 > #str_04418
 Reactor Junction 2
@@ -22645,11 +22653,11 @@ EFR脱离
 
 > #str_04422
 Reactor Sub Station 1
-反应堆站 1
+反应堆分站1
 
 > #str_04423
 EFR Sub Station 1
-EFR地下站1
+EFR分站1
 
 > #str_04424
 EFR Junction 1
@@ -22801,7 +22809,7 @@ Main Transfer Lift Shaft
 
 > #str_04461
 Heavy Lift Control
-重物升降机控制器
+重物电梯控制
 
 > #str_04462
 Personnel Transfer Station
@@ -23057,7 +23065,7 @@ Serverbanks Entrance
 
 > #str_04525
 CPU Complex
-CPU群
+CPU综合设施
 
 > #str_04526
 Central Bridge
@@ -23165,7 +23173,7 @@ Delta Service Tunnel 1
 
 > #str_04552
 Delta Reactor Support
-德尔塔反应堆支持室
+德尔塔反应堆支持
 
 > #str_04553
 Reactor Support Hallway
@@ -23285,7 +23293,7 @@ Delta Bio Labs Lobby
 
 > #str_04582
 Delta Operations Administration
-德尔塔运营管理
+德尔塔运营管理部门
 
 > #str_04583
 Delta Operations
@@ -23969,11 +23977,11 @@ MR 气闸 08
 
 > #str_04753
 Delta Complex Walkway
-德尔塔综合楼走廊
+德尔塔综合设施走廊
 
 > #str_04754
 Delta Complex Boarding Platform
-德尔塔综合楼登机平台
+德尔塔综合设施登机平台
 
 > #str_04755
 Monorail Waiting Area
@@ -24185,7 +24193,7 @@ Lab section2
 
 > #str_04807
 Artifact receiving
-神器收取
+遗物接收
 
 > #str_04808
 Freight cart terminal
@@ -24209,7 +24217,7 @@ Lab section1
 
 > #str_04813
 Artifact research
-神器研究
+遗物研究
 
 > #str_04814
 Freight Terminal access
@@ -24469,7 +24477,7 @@ Sarge's Garage
 
 > #str_06685
 Delta Authority Lobby
-德尔塔官员大厅
+德尔塔官员大堂
 
 > #str_06686
 Lift Access and Storage
@@ -24713,7 +24721,7 @@ Picking up PDAs is useful. Contents will automatically downloaded to your PDA al
 
 > #str_06744
 Remember: Listening to audio logs may provide you with valuable information.
-记住：听取音频日志会为你带来有价值的信息。
+记住: 听取音频日志会为你带来有价值的信息。
 
 > #str_06745
 Some control panels can be used to operate machinery.
@@ -24901,7 +24909,7 @@ Spectating - No lives left
 
 > #str_07008
 Following: %s
-跟随：%s
+跟随: %s
 
 > #str_07009
 Shells
@@ -25486,7 +25494,7 @@ Mars City Underground
 
 > #str_07151
 UAC Administration
-联合航天公司行政管理
+UAC管理部门
 
 > #str_07152
 Alpha Labs Sector 1
@@ -25760,7 +25768,7 @@ The server gave a web page though:
 %s
 Do you want to go there now?"""
 """你缺乏连接到这个服务器上所需要的pak文件。
-但是服务器给出了一个网页：
+但是服务器给出了一个网页:
 %s
 你要现在访问吗？"""
 
@@ -25770,7 +25778,7 @@ Missing required files
 
 > #str_07219
 Can't connect to the pure server: no downloads offered
-无法连接到pure服务器：无下载提供
+无法连接到pure服务器: 无下载提供
 
 > #str_07220
 You need to download game code to connect to this server. Are you sure? You should only answer yes if you trust the server administrators.
@@ -25878,15 +25886,15 @@ The enemy team has dropped the flag
 
 > #str_11107
 Score: red team %d, blue team %d
-分数： 红队 %d， 蓝队 %d
+分数:  红队 %d， 蓝队 %d
 
 > #str_11108
 Capture Limit: %i
-捕获上限：%i
+捕获上限: %i
 
 > #str_11109
 Time Limit: %i
-时间限制：%i
+时间限制: %i
 
 > #str_11110
 ^4Blue^0
@@ -26062,7 +26070,7 @@ Red Security Station
 
 > #str_11305
 Blue Elevator
-蓝色升降级
+蓝色升降机
 
 > #str_11306
 Red Elevator
@@ -26082,7 +26090,7 @@ Blue Service Lift
 
 > #str_11310
 Red Service Lift
-红色服务升降机
+红色服务电梯
 
 > #str_11311
 Blue Service Hallway
@@ -26438,11 +26446,11 @@ Medical Server Room
 
 > #str_00100020
 Artifact Storage
-神器存储
+遗物存储
 
 > #str_00100021
 Artifact Storage Control
-神器存储控制
+遗物存储控制
 
 > #str_00100022
 Receiving
@@ -26450,7 +26458,7 @@ Receiving
 
 > #str_00100023
 ARTIFACT STORAGE
-神器存储
+遗物存储
 
 > #str_00100024
 """VENT ARTIFACT
@@ -26504,7 +26512,7 @@ This excavation site is the focal point of the archeological dig at Site 1. Here
 
 > #str_00100036
 EREBUS - LEVEL 2
-EREBUS - 2层
+厄瑞玻斯 - 第2层
 
 > #str_00100037
 Main Excavation
@@ -26516,15 +26524,15 @@ Located just past the ancient caverns, the Artifact Storage facility is a deposi
 
 > #str_00100039
 EREBUS - LEVEL 3
-EREBUS - 3层
+厄瑞玻斯 - 第3层
 
 > #str_00100040
 The Erebus Complex has the capability to process ore retrieved from the deep Martian caverns. Experimental UAC machinery has been developed in order to process and handle the highly radioactive natural resources.
-Erebus综合设施能够加工从火星洞穴深处采掘出来的矿石。实验性的联合航天公司机械设备也被配置在这里来加工和处理高放射性的自然资源。
+厄瑞玻斯综合设施能够加工从火星洞穴深处采掘出来的矿石。实验性的UAC机械设备也被配置在这里来加工和处理高放射性的自然资源。
 
 > #str_00100041
 EREBUS - LEVEL 4
-EREBUS - 4层
+厄瑞玻斯 - 第4层
 
 > #str_00100042
 Processing
@@ -26536,7 +26544,7 @@ The myriad research and industrial activities of Site 1 can create hazardous was
 
 > #str_00100044
 EREBUS - LEVEL 5
-EREBUS - 5层
+厄瑞玻斯 - 第5层
 
 > #str_00100045
 Waste Management
@@ -26544,19 +26552,19 @@ Waste Management
 
 > #str_00100046
 Site 1 is comprised of two major facilities, the Erebus Complex and Phobos Labs. Monorails leave from Erebus Station to Phobos - Sector 1 at regularly scheduled intervals.
-站点 1包含两个主要设施，厄尔波斯建筑群和火卫二实验室。在厄尔波斯站和火卫二一区之间有定时的单轨列车通行。
+站点 1包含两个主要设施，厄瑞玻斯综合设施和火卫一实验室。在厄瑞玻斯站和火卫一第1区之间有定时的单轨列车通行。
 
 > #str_00100047
 EREBUS STATION
-EREBUS站
+厄瑞玻斯站
 
 > #str_00100048
 While the Phobos Labs play host to a wide array of research, Sector 1 is primarily concerned with the advancement of teleportation technology. A sister teleportation facility has been constructed in the Delta Labs, located at Site 3.
-Phobos实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于站点3的德尔塔实验室内建造了一个姊妹传送设施。
+火卫一实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于站点3的德尔塔实验室内建造了一个姊妹传送设施。
 
 > #str_00100049
 PHOBOS LABS - SECTOR 1
-火卫一实验室 - 1区
+火卫一实验室 - 第1区
 
 > #str_00100050
 Teleportation
@@ -26568,7 +26576,7 @@ In addition to providing state of the art lab facilities for renowned scientist 
 
 > #str_00100052
 PHOBOS LABS - SECTOR 2
-火卫一实验室 - 2区
+火卫一实验室 - 第2区
 
 > #str_00100053
 Molecular Research
@@ -26576,15 +26584,15 @@ Molecular Research
 
 > #str_00100054
 Power requirements for Site 1 are enormous and are generated in Sector 3 by an extremely efficient Plasma Reactor. This revolutionary technology was developed by UAC scientists within the Phobos Labs.
-挖掘场1号所需电力巨大，由挖掘场3号的高效等离子发电机供电。这项革命性技术由UAC科学家在福布斯实验室内完成。
+挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在福布斯实验室内完成。
 
 > #str_00100055
 PHOBOS LABS - SECTOR 3
-火卫一实验室 - 3区
+火卫一实验室 - 第3区
 
 > #str_00100056
 Main Reactor
-主反应器
+主反应堆
 
 > #str_00100057
 While teleportation is the primary field of research in Sector 1, UAC scientists have also made important discoveries here in the area of gravity manipulation.  As a result, the Gravity Accelerator is one of the UAC's most successful products.
@@ -26628,11 +26636,11 @@ SKYTRAM CONTROL
 
 > #str_00100067
 TRANSFER LIFT
-中转升降机
+中转电梯
 
 > #str_00100068
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_00100069
 CURRENT LOCATION
@@ -26644,7 +26652,7 @@ TRANSFER SUCCESSFUL
 
 > #str_00100071
 Erebus Research
-Erebus研究
+厄瑞玻斯研究
 
 > #str_00100072
 TRANSFER BAY
@@ -26652,11 +26660,11 @@ TRANSFER BAY
 
 > #str_00100073
 Erebus Complex
-Erebus综合楼
+厄瑞玻斯综合设施
 
 > #str_00100074
 Erebus Station
-Erebus站
+厄瑞玻斯站
 
 > #str_00100075
 MONORAIL STATION
@@ -26688,7 +26696,7 @@ TRANSFER DESTINATION
 
 > #str_00100082
 EREBUS LABS
-EGEBUS实验室
+厄瑞玻斯实验室
 
 > #str_00100083
 CLICK TO EXIT
@@ -26696,7 +26704,7 @@ CLICK TO EXIT
 
 > #str_00100084
 EREBUS RESEARCH
-EREBUS研究
+厄瑞玻斯研究
 
 > #str_00100085
 OPEN BAY DOORS
@@ -26704,7 +26712,7 @@ OPEN BAY DOORS
 
 > #str_00100086
 EREBUS COMPLEX
-EREBUS综合楼
+厄瑞玻斯综合设施
 
 > #str_00100087
 PHOBOS LABS 1
@@ -26748,31 +26756,31 @@ EXIT
 
 > #str_00100097
 CREDITS: 0/4
-点数：0/4
+点数: 0/4
 
 > #str_00100098
 CREDITS: 1/4
-点数：1/4
+点数: 1/4
 
 > #str_00100099
 CREDITS: 2/4
-点数：2/4
+点数: 2/4
 
 > #str_00100100
 CREDITS: 3/4
-点数：3/4
+点数: 3/4
 
 > #str_00100101
 CREDITS: 4/4
-点数：4/4
+点数: 4/4
 
 > #str_00100102
 Timer:
-计时器：
+计时器:
 
 > #str_00100103
 Level:
-级别：
+级别:
 
 > #str_00100104
 Bears on Target:
@@ -26816,11 +26824,11 @@ Continue
 
 > #str_00100114
 Score:
-分数：
+分数:
 
 > #str_00100115
 Balls:
-球：
+球数:
 
 > #str_00100116
 You got an Extra Ball!
@@ -26832,11 +26840,11 @@ Hell Bust-Out
 
 > #str_00100118
 Level     Complete!
-级别     完成!
+级别      完成！
 
 > #str_00100119
 Extra Ball Score:
-额外球体分数：
+额外球体分数:
 
 > #str_00100120
 Next Level
@@ -26848,11 +26856,11 @@ Score
 
 > #str_00100122
 Structural Integrity:
-结构完整性：
+结构完整性:
 
 > #str_00100123
 Asteroids:
-小行星：
+小行星:
 
 > #str_00100124
 Target
@@ -26860,7 +26868,7 @@ Target
 
 > #str_00100125
 Super Blaster:
-超级冲击波：
+超级冲击波:
 
 > #str_00100126
 Space Station Defender
@@ -26880,19 +26888,19 @@ Level Complete!
 
 > #str_00100130
 Bonus:
-奖励：
+奖励:
 
 > #str_00100131
 Accuracy:
-准确度：
+准确度:
 
 > #str_00100132
 Astronaut Bonus:
-宇航员福利：
+宇航员福利:
 
 > #str_00100133
 Total Score:
-总分数：
+总分数:
 
 > #str_00100134
 Game
@@ -26924,15 +26932,15 @@ Power Cell Station
 
 > #str_00100141
 Required Power Cells:
-所需的电池：
+所需的电池:
 
 > #str_00100142
 Active Power Cells:
-启动电源模块：
+启动电源模块:
 
 > #str_00100143
 Status:
-状态：
+状态:
 
 > #str_00100144
 Remove Power Cells
@@ -27052,11 +27060,11 @@ POWER CELL GENERATOR
 
 > #str_00100173
 REQUIRED CELLS:
-需要能量块：
+需要能量块:
 
 > #str_00100174
 ACTIVE CELLS:
-激活房门：
+激活房门:
 
 > #str_00100175
 INSERT
@@ -27080,7 +27088,7 @@ Shotgun/Dbl
 
 > #str_00100180
 Machinegun
-Machinegun
+机枪
 
 > #str_00100181
 Chaingun
@@ -27128,7 +27136,7 @@ Double Barrel Shotgun
 
 > #str_00100192
 Machine Gun
-机关枪
+机枪
 
 > #str_00100193
 Chain Gun
@@ -27144,7 +27152,7 @@ Plasma Gun
 
 > #str_00100196
 Rocket Launcher
-火箭炮
+火箭发射器
 
 > #str_00100197
 BFG-9000
@@ -27244,7 +27252,7 @@ Excavation
 
 > #str_00100221
 Artifact Tablet
-神器石碑
+遗物石碑
 
 > #str_00100222
 P. Glenn
@@ -27264,11 +27272,11 @@ Blahblahblah
 
 > #str_00100226
 Erebus Excavation Two
-Erebus遗迹2
+厄瑞玻斯二号遗迹
 
 > #str_00100227
 Escape the Erebus Complex
-逃出Erebus工业区
+逃离厄瑞玻斯综合设施
 
 > #str_00100228
 Control Access
@@ -27296,7 +27304,7 @@ Level 2 Medical
 
 > #str_00100234
 Erebus Labs Bio Facility
-Erebus实验室生物设施
+厄瑞玻斯实验室生物设施
 
 > #str_00100235
 Supplies
@@ -27348,7 +27356,7 @@ Excavation Support
 
 > #str_00100247
 Artifact Storage Observation
-神器存储观察
+遗物存储观察
 
 > #str_00100248
 Excavation Maintenance
@@ -27364,11 +27372,11 @@ Lab Systems
 
 > #str_00100251
 Artifact Storage Access
-进入神器存储
+进入遗物存储
 
 > #str_00100252
 Administration
-管理权限
+管理部门
 
 > #str_00100253
 Sarges Office
@@ -27428,11 +27436,11 @@ AIRLOCK STATION 24
 
 > #str_00100267
 Reroute power to the Phobos Labs experimental teleporter and travel to Delta Complex.
-变更电力供给至Phobos实验室实验传送器并前往德尔塔综合设施。
+变更电力供给至火卫一实验室实验传送器并前往德尔塔综合设施。
 
 > #str_00100268
 Take the SkyTram to the Phobos Labs Reactor Complex.
-乘坐SkyTram前往Phobs实验室反应堆综合设施。
+乘坐SkyTram前往火卫一实验室反应堆综合设施。
 
 > #str_00100269
 Board SkyTram
@@ -27528,7 +27536,7 @@ Power Systems
 
 > #str_00100292
 Reactor Security E4
-反应堆安全 E4
+反应堆安保E4
 
 > #str_00100293
 Upper Reactor Control
@@ -27552,7 +27560,7 @@ Skywalk Access
 
 > #str_00100298
 Shutdown Phobos Labs Life Support Systems.
-关闭火卫二实验室生命维持系统
+关闭火卫一实验室生命维持系统
 
 > #str_00100299
 Life Support Systems
@@ -27728,7 +27736,7 @@ NPC 2-1
 
 > #str_00100342
 Power the Lift
-为升降机供电
+为电梯供电
 
 > #str_00100343
 Lower Storage
@@ -27832,7 +27840,7 @@ NPC 4-2
 
 > #str_00100368
 Administration Main Office
-主办公室管理权限
+管理部门主办公室
 
 > #str_00100369
 Mac's PDA
@@ -27852,7 +27860,7 @@ Make your way to the surface.
 
 > #str_00100373
 Erebus Level 4 Access
-Erebus4层通路
+厄瑞玻斯第4层通路
 
 > #str_00100374
 Ventilation System
@@ -27860,7 +27868,7 @@ Ventilation System
 
 > #str_00100375
 Administration Access
-管理权限登入
+访问管理部门
 
 > #str_00100376
 Lounge
@@ -27872,11 +27880,11 @@ Lounge
 
 > #str_00100378
 Administration Junction
-节点管理权限
+管理部门枢纽
 
 > #str_00100379
 Administration Processing
-管理权限处理中
+管理部门处理
 
 > #str_00100380
 Excavation Central Transfer
@@ -27892,7 +27900,7 @@ Ron's PDA
 
 > #str_00100383
 Ron Gibbons
-罗恩 吉宾斯
+罗恩·吉宾斯
 
 > #str_00100384
 Nathan Reynolds
@@ -27900,7 +27908,7 @@ Nathan Reynolds
 
 > #str_00100385
 erebus4 exit
-erebus4 出口
+厄瑞玻斯4号出口
 
 > #str_00100386
 Trans Level 2
@@ -27912,11 +27920,11 @@ Trans Level 1
 
 > #str_00100388
 Administration Checkpoint
-管理权限检查点
+管理部门检查点
 
 > #str_00100389
 Artifact Processing
-神器处理中
+遗物处理中
 
 > #str_00100390
 Lobby
@@ -27928,15 +27936,15 @@ South Lounge Junction
 
 > #str_00100392
 Administration Staff Office
-员工办公室管理权限
+管理部门员工办公室
 
 > #str_00100393
 Administration South Hall
-南部大厅管理权限
+管理部门南部大厅
 
 > #str_00100394
 Administration East Hall
-东部大厅管理权限
+管理部门东部大厅
 
 > #str_00100395
 North Lounge Junction
@@ -27944,7 +27952,7 @@ North Lounge Junction
 
 > #str_00100396
 Administration North Hall
-北部大厅管理权限
+管理部门北部大厅
 
 > #str_00100397
 Airlock
@@ -27984,7 +27992,7 @@ Research Support
 
 > #str_00100406
 Erebus Storage Hallway
-Erebus仓库门厅
+厄瑞玻斯仓库门厅
 
 > #str_00100407
 Armory Access
@@ -28040,7 +28048,7 @@ Research Sector 2
 
 > #str_00100420
 Erebus Cargo Storage
-Erebus货物仓库
+厄瑞玻斯货物仓库
 
 > #str_00100421
 Upper Cargo Storage
@@ -28140,7 +28148,7 @@ Reroute power to the Experimental Teleporter.
 
 > #str_00100445
 Find and activate the Phobos Labs Experimental Teleporter.
-找到并开启Phobos实验室的实验传送器。
+找到并开启火卫一实验室的实验传送器。
 
 > #str_00100446
 Activate Teleporter
@@ -28244,7 +28252,7 @@ Connecting Corridor 1B
 
 > #str_00100471
 Gain access to the Phobos Labs SkyTram.
-进入Phobos Labs SkyTram。
+设法进入火卫一实验室SkyTram。
 
 > #str_00100472
 Cinematic 8-1
@@ -28296,7 +28304,7 @@ Reception
 
 > #str_00100484
 Artifact Gallery
-神器画廊
+遗物画廊
 
 > #str_00100485
 Research Lobby
@@ -28408,7 +28416,7 @@ David Edens
 
 > #str_00100512
 Artifact Research
-神器研究
+遗物研究
 
 > #str_00100513
 Research Facility
@@ -28424,7 +28432,7 @@ Lavatory
 
 > #str_00100516
 Shutdown Research Auxiliary Power and reroute it to the experimental teleporter.
-关闭研究辅助电力并重新传送至实验传送点。
+关闭研究辅助能源并重新传送至实验传送点。
 
 > #str_00100517
 Shutdown Research Power
@@ -28492,7 +28500,7 @@ PHOBOSLABS
 
 > #str_00100532
 USER ID: 65-0407
-用户ID：65-0407
+用户ID: 65-0407
 
 > #str_00100533
 SCAN COMPLETE
@@ -28500,15 +28508,15 @@ SCAN COMPLETE
 
 > #str_00100534
 ARTIFACT SCANNING
-神器扫描中
+遗物扫描中
 
 > #str_00100535
 ARTIFACT SCANNING.
-神器扫描中.
+遗物扫描中.
 
 > #str_00100536
 ARTIFACT SCANNING...
-神器扫描中…
+遗物扫描中…
 
 > #str_00100537
 Fe
@@ -28516,7 +28524,7 @@ Fe
 
 > #str_00100538
 EREBUS - LEVEL ONE
-EREBUS - 一层
+厄瑞玻斯 - 第一层
 
 > #str_00100539
 Main Excavation - Site One
@@ -28524,7 +28532,7 @@ Main Excavation - Site One
 
 > #str_00100540
 Within the Erebus Complex, various ancient fragments found within Site 1 are carefully studied by Dr. Cloud and his team of researchers. Here, within Artifact Research, they strive to decipher the ancient remains.
-在Erebus综合设施里面，在1号站点发现的众多古代碎片被Cloud博士和他的研究者团队小心地研究者。在这里，遗物研究所的内部，他们努力地要解开古代残留物品上面的谜团。
+在厄瑞玻斯综合设施里面，在1号站点发现的众多古代碎片被Cloud博士和他的研究者团队小心地研究者。在这里，遗物研究所的内部，他们努力地要解开古代残留物品上面的谜团。
 
 > #str_00100541
 SET DESTINATION AT CONTROL PANEL
@@ -28620,7 +28628,7 @@ ACTIVATE TELEPORTER
 
 > #str_00100563
 Next Ball at:
-下个球时间：
+下个球时间:
 
 > #str_00100564
 Buddies
@@ -28696,7 +28704,7 @@ Lab Maintenance Access
 
 > #str_00100582
 Lab Administration
-实验室 管理处
+实验室管理部门
 
 > #str_00100583
 Level Two
@@ -28812,7 +28820,7 @@ Find a power cell to activate the lift that leads into the ventialation system
 
 > #str_00100611
 Power the lift
-为升降机供电
+为电梯供电
 
 > #str_00100612
 Find a power cell to start the excavation machine
@@ -28844,7 +28852,7 @@ Return the Artifact to Hell
 
 > #str_00100619
 Take the SkyTram to the Phobos Labs Research Sector and rendezvous with Dr. Elizabeth McNeil.
-乘坐SkyTram前往Phobos实验室研究区并和Elizabeth McNeil博士汇合。
+乘坐SkyTram前往火卫一实验室研究区并和Elizabeth McNeil博士汇合。
 
 > #str_00100620
 SkyTram
@@ -28984,7 +28992,7 @@ SYSTEMS ON-LINE
 
 > #str_00100654
 PHOBOS LABS RESEARCH STATION ID : 65-0407
-火卫一实验室研究站ID：65-0407
+火卫一实验室研究站ID: 65-0407
 
 > #str_00100655
 [ PUMPING STATION ]
@@ -28992,7 +29000,7 @@ PHOBOS LABS RESEARCH STATION ID : 65-0407
 
 > #str_00100656
 [ AUXILIARY POWER ]
-[ 辅助电力 ]
+[ 辅助能源 ]
 
 > #str_00100657
 [ MAIN REACTOR ]
@@ -29008,15 +29016,15 @@ LIFE SUPPORT
 
 > #str_00100660
 Sector 1:
-区域 1：
+区域1:
 
 > #str_00100661
 Sector 2:
-区域 2：
+区域2:
 
 > #str_00100662
 Sector 3:
-区域 3：
+区域3:
 
 > #str_00100663
 INITIATE
@@ -29036,7 +29044,7 @@ LIFE SUPPORT SYSTEMS OFFLINE
 
 > #str_00100667
 PHOBOS REACTOR
-火卫一反应器
+火卫一反应堆
 
 > #str_00100668
 Power
@@ -29236,23 +29244,23 @@ HELL
 
 > #str_00100717
 Erebus Dig Site
-Erebus挖掘场
+厄瑞玻斯挖掘场
 
 > #str_00100718
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_00100719
 Erebus Control
-Erebus控制
+厄瑞玻斯控制
 
 > #str_00100720
 Erebus Research
-Erebus研究
+厄瑞玻斯研究
 
 > #str_00100721
 Erebus Station
-Erebus站
+厄瑞玻斯站
 
 > #str_00100722
 Find Dr. Cloud
@@ -29296,7 +29304,7 @@ Bridge Control
 
 > #str_00100732
 STATUS:
-状态：
+状态:
 
 > #str_00100733
 BRIDGE
@@ -29344,7 +29352,7 @@ Bell-State analysis waiting"""
 
 > #str_00100738
 Delta Complex
-德尔塔综合楼
+德尔塔综合设施
 
 > #str_00100739
 MARS BASE
@@ -29374,7 +29382,7 @@ READ
 
 > #str_00100745
 PHOBOS 1 TELEPORTER
-PHOBOS 1 传送器
+火卫一1号传送器
 
 > #str_00100746
 EXPERIMENTAL
@@ -29616,7 +29624,7 @@ Teleporter Station 1"""
 
 > #str_00100790
 RESEARCH AUXILIARY POWER
-研究附属电力
+研究辅助能源
 
 > #str_00100791
 CORE 1
@@ -29648,7 +29656,7 @@ SHIELD
 
 > #str_00100798
 EREBUS CONTROL
-EREBUS控制
+厄瑞玻斯控制
 
 > #str_00100799
 Adrenaline
@@ -29656,11 +29664,11 @@ Adrenaline
 
 > #str_00100800
 Find and activate the Phobos Labs Experimental Teleporter
-找到并开启Phobos实验室的实验传送器
+找到并开启火卫一实验室的实验传送器
 
 > #str_00100801
 Take the SkyTram to the Phobos Labs Research Sector and rendezvous with Dr. Elizabeth McNeil
-乘坐SkyTram前往Phobos实验室研究区并和Elizabeth McNeil博士汇合
+乘坐SkyTram前往火卫一实验室研究区并和Elizabeth McNeil博士汇合
 
 > #str_00100802
 Rendezvous with Dr. Elizabeth McNeil
@@ -29668,15 +29676,15 @@ Rendezvous with Dr. Elizabeth McNeil
 
 > #str_00100803
 Shutdown power to the external pumping station
-关闭外部泵站电力
+关闭外部泵站能源
 
 > #str_00100804
 Shutdown Research Auxiliary Power and reroute it to the Experimental Teleporter
-关闭研究辅助电力并重新传送至实验传送点
+关闭研究辅助能源并重新传送至实验传送点
 
 > #str_00100805
 Return to the Phobos Labs SkyTram Station
-回到福波斯实验室空中运输站。
+回到火卫一实验室空中运输站。
 
 > #str_00100806
 Make your way to Delta Labs via the Experimental Teleporter
@@ -29716,15 +29724,15 @@ Gain access to the Armory
 
 > #str_00100815
 Return to the Phobos Labs Experimental Teleporter
-回到福波斯实验室传送仪。
+回到火卫一实验室传送仪。
 
 > #str_00100816
 Shutdown the Phobos Labs Main Reactor
-关闭火卫二实验室主反应堆
+关闭火卫一实验室主反应堆
 
 > #str_00100817
 Shutdown Phobos Labs Life Support Systems
-关闭火卫二实验室生命维持系统
+关闭火卫一实验室生命维持系统
 
 > #str_00100818
 INITIATING STARTUP SEQUENCE
@@ -29784,11 +29792,11 @@ Site 1 contains numerous caverns and is the location of the latest UAC excavatio
 
 > #str_00100832
 EREBUS - LEVEL 1
-EREBUS - 1层
+厄瑞玻斯 - 第1层
 
 > #str_00100833
 EREBUS - LEVEL 6
-EREBUS - 6层
+厄瑞玻斯 - 第6层
 
 > #str_00100834
 TRANSFERING
@@ -29804,7 +29812,7 @@ Pump Station 02 is one of the oldest surviving mechanical systems on Mars. Origi
 
 > #str_00100841
 EREBUS LIFT
-EREBUS货梯
+厄瑞玻斯电梯
 
 > #str_00100842
 Lift Control
@@ -29824,7 +29832,7 @@ STATUS
 
 > #str_00100846
 ARTIFACT RESEARCH
-神器研究
+遗物研究
 
 > #str_00100847
 SITE 1 TABLET FRAGMENT
@@ -29852,19 +29860,19 @@ SCAN 2
 
 > #str_00100853
 The UAC's Mars Research Base suffers a cataclysmic mechanical failure during a classified research experiment, resulting in total destruction of the facility. Only one survivor is located.
-联合航天公司的研究基地在一次秘密的研究实验当中发生了灾难性的机械故障，致使整个设施完全毁坏。只有一人幸存下来。
+UAC的研究基地在一次秘密的研究实验当中发生了灾难性的机械故障，致使整个设施完全毁坏。只有一人幸存下来。
 
 > #str_00100854
 The UAC's Mars Research Base suffers a cataclysmic mechanical failure during a classified research experiment resulting in total destruction of the facility. Only one survivor is located.
-联合航天公司的研究基地在一次秘密的研究实验当中发生了灾难性的机械故障，致使整个设施完全毁坏。只有一人幸存下来。
+UAC的研究基地在一次秘密的研究实验当中发生了灾难性的机械故障，致使整个设施完全毁坏。只有一人幸存下来。
 
 > #str_00100855
 An orbital probe records a faint unidentified signal broadcast from the abandoned Mars Site 1 complex.
-一个轨道探测器记录了一条未知信号，这条信号是由废弃的火星1号挖掘点发来的。
+一个轨道探测器记录了一条未知信号，这条信号是由废弃的火星1号综合设施发来的。
 
 > #str_00100856
 The UAC announces the renewal of its Mars research program. Dr. Elizabeth McNeil is chosen to lead the primary assessment team.
-联合航天公司宣布了其火星研究项目的变更事项。Elizabeth McNeil博士被选出领导主评估团队。
+UAC宣布了其火星研究项目的变更事项。Elizabeth McNeil博士被选出领导主评估团队。
 
 > #str_00100857
 NO
@@ -30040,7 +30048,7 @@ Enviro Tank
 
 > #str_00100900
 Take the Skywalk to the Phobos Labs Experimental Teleporter
-乘坐Skywalk前往Phobs实验室实验传送器那里
+乘坐Skywalk前往火卫一实验室实验传送器那里
 
 > #str_00100901
 Environmental Support
@@ -30052,7 +30060,7 @@ OPEN SHIELD
 
 > #str_00100906
 Artifact Control
-神器控制
+遗物控制
 
 > #str_00100907
 Offices
@@ -30112,7 +30120,7 @@ Frag/Point Limit
 
 > #str_00100918
 New Frag/Point Limit:
-新杀敌数/分数上限：
+新杀敌数/分数上限:
 
 > #str_00100919
 Use a power cell to initialize the transfer elevator and then call it to this level
@@ -30132,7 +30140,7 @@ OXYGEN
 
 > #str_00100923
 LEVEL:
-级别：
+级别:
 
 > #str_00100924
 VENT GAS
@@ -30220,23 +30228,23 @@ Main Excavation
 
 > #str_00100945
 Erebus Dig Site
-Erebus挖掘场
+厄瑞玻斯挖掘场
 
 > #str_00100946
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_00100947
 Erebus Control
-Erebus控制
+厄瑞玻斯控制
 
 > #str_00100948
 Erebus Research
-Erebus研究
+厄瑞玻斯研究
 
 > #str_00100949
 Erebus Station
-Erebus站
+厄瑞玻斯站
 
 > #str_00100950
 Phobos Labs - Sector 1
@@ -30280,7 +30288,7 @@ Eclipse
 
 > #str_00100960
 Artifact Charge
-神器 充能
+神器充能
 
 > #str_00100961
 Use the Grabber to move and throw objects.  The _impulse13 button will drop objects to the floor.
@@ -30312,7 +30320,7 @@ DATA STREAM ERROR
 
 > #str_00100968
 WARNING: SIGNAL LOSS
-警告：信号丢失
+警告: 信号丢失
 
 > #str_00100969
 SIGNAL INTERFERENCE
@@ -30332,7 +30340,7 @@ LOADING DATA....
 
 > #str_00100973
 AUXILIARY POWER
-辅助电源
+辅助能源
 
 > #str_00100974
 MAIN REACTOR
@@ -30360,7 +30368,7 @@ herp
 
 > #str_00100980
 DOOM 3: Resurrection of Evil
-毁灭战士3：邪恶复苏
+毁灭战士3: 邪恶复苏
 
 > #str_00100981
 Developed by Nerve Software
@@ -30388,19 +30396,19 @@ DATA LOG
 
 > #str_00100987
 Tablets and fragments have been recoved from various locations throuout the Erebus complex. Ancient civilization artifacts reveal very interesting information about this culture
-我们从从Erebus综合设施里面的各种地方收集到了石碑和碎片。古代文明的遗物能够显示出许多关于这个文明的有趣信息
+我们从从厄瑞玻斯综合设施里面的各种地方收集到了石碑和碎片。古代文明的遗物能够显示出许多关于这个文明的有趣信息
 
 > #str_00100988
 ARTIFACT PRIMITIVE
-原生神器
+原生遗物
 
 > #str_00100989
 Fragment 1
-片段 1
+片段1
 
 > #str_00100990
 FRAGMENT 3 DATA UPLINK ONLINE SCAN SETUP
-片段 3 数据上传线上扫描设置
+片段3数据上传线上扫描设置
 
 > #str_00100991
 PENDING SCAN INITIATING
@@ -30425,7 +30433,7 @@ SAVE
 > #str_00100996
 """The UAC announces the renewal of its Mars research program.
 Dr. Elizabeth McNeil is chosen to lead the primary assessment team."""
-"""联合航天公司宣布了其火星研究项目的变更事项。
+"""UAC宣布了其火星研究项目的变更事项。
 Elizabeth McNeil博士被选出领导主评估团队。"""
 
 > #str_00100997
@@ -30614,15 +30622,15 @@ Find the Sentry Bot in the maintenance tunnels.
 
 > #str_00101043
 Return to the Phobos Labs SkyTram Station.
-回到福波斯实验室空中运输站。
+回到火卫一实验室空中运输站。
 
 > #str_00101044
 Take the Skywalk to the Phobos Labs Experimental Teleporter.
-乘坐Skywalk前往Phobs实验室实验传送器那里。
+乘坐Skywalk前往火卫一实验室实验传送器那里。
 
 > #str_00101045
 Shutdown the Phobos Labs Main Reactor.
-关闭火卫二实验室主反应堆。
+关闭火卫一实验室主反应堆。
 
 > #str_00101046
 Jason Kim
@@ -30674,7 +30682,7 @@ Hellhole
 
 > #str_00200000
 EXIS LABS
-EXIS实验室
+艾克西斯实验室
 
 > #str_00200001
 Union Aerospace Research Division
@@ -30682,7 +30690,7 @@ Union Aerospace Research Division
 
 > #str_00200002
 Exis Labs is a partially completed research sector developing the fourth generation teleporters.  The prototype teleporter is modeled on the Martian teleporter found in the Erebus Dig Site.  The facility, once complete, will showcase the crowning achievement of UAC teleporter research.
-Exis实验室是一个开发第四代传送器的部分完成的研究区。传送器的原型机是以在Erebus挖掘场发现的火星传送器为模版制作的。该设施完成后将展示UAC传送器研究的最高成就。
+艾克西斯实验室是一个开发第四代传送器的部分完成的研究区。传送器的原型机是以在厄瑞玻斯挖掘场发现的火星传送器为模版制作的。该设施完成后将展示UAC传送器研究的最高成就。
 
 > #str_00200003
 ENPRO SECTOR 1
@@ -30694,7 +30702,7 @@ Energy Processing and Storage
 
 > #str_00200005
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
-Enpro电站为主要为通信塔功能，并为全部火星联合航天公司设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
+Enpro电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
 > #str_00200006
 ENPRO SECTOR 2
@@ -30706,7 +30714,7 @@ Energy Processing and Storage
 
 > #str_00200008
 Sector Two provides primary power to the Communications Tower and backup power to the entire Exis Complex. Plasma canisters are also manufactured here from the CRC power production byproduct.
-区域2不但是通讯塔的主电源而且也是整个EXIS大楼的备用电源。等离子罐也是由CRC电力公司生产制造。
+区域2不但是通讯塔的主电源而且也是整个艾克西斯综合设施的备用电源。等离子罐也是由CRC电力公司生产制造。
 
 > #str_00200009
 UNDERGROUND
@@ -30718,11 +30726,11 @@ Mars City Service Sub-Level
 
 > #str_00200011
 The Mars City Underground sub-levels consist of the needed infrastructure to support Mars City. The sub-levels also provide a connection between the multiple UAC research facilities located on Mars.
-火星城市地下底层包含了支持火星城市所需的基础设施。底层还提供了火星上联合航天公司的多个研究设施之间的连接点。
+火星城市地下底层包含了支持火星城市所需的基础设施。底层还提供了火星上UAC的多个研究设施之间的连接点。
 
 > #str_00200012
 Exis Labs
-Exis实验室
+艾克西斯实验室
 
 > #str_00200013
 Underground
@@ -30738,11 +30746,11 @@ Science Team D3
 
 > #str_00200016
 Exis Authority
-Exis权威
+艾克西斯官员
 
 > #str_00200017
 Exis Labs Access
-Exis实验室通路
+艾克西斯实验室通路
 
 > #str_00200018
 Mars City Sublevel
@@ -30778,7 +30786,7 @@ Power on Prototype Teleporter
 
 > #str_00200026
 Return Plasma Inducer to Exis Induction Terminal
-将等离子诱导器带回Exis导入终端
+将等离子诱导器带回艾克西斯导入终端
 
 > #str_00200027
 CLICK TO EXIT
@@ -30798,7 +30806,7 @@ CHANGE FLOORS
 
 > #str_00200031
 TRANSFER LIFT
-中转升降机
+中转电梯
 
 > #str_00200032
 Robert Rhodes
@@ -30842,11 +30850,11 @@ Security Chief
 
 > #str_00200042
 Reach Exis Labs service access
-抵达Exis实验室服务通道
+抵达艾克西斯实验室服务通道
 
 > #str_00200043
 Disable Local Security Lockdown
-关闭本地保安封锁
+关闭本地安防封锁
 
 > #str_00200044
 Acquire security station pass key
@@ -30858,15 +30866,15 @@ Use security terminal to gain access to service sub-levels.
 
 > #str_00200046
 Find Service Access to Exis Labs
-找到通往Exis实验室的维修通道
+找到通往艾克西斯实验室的维修通道
 
 > #str_00200047
 Traverse service sub-levels to reach Exis Labs.
-通过服务地下层到达Exis实验室。
+通过服务地下层到达艾克西斯实验室。
 
 > #str_00200048
 Restore Power to Service Lift
-恢复服务升降机电力
+恢复服务电梯的电力
 
 > #str_00200049
 Acquire power cell from Transfer Control area.
@@ -30878,11 +30886,11 @@ Use power cell to restore power to main service lift.
 
 > #str_00200051
 Take Service Lift to Exis Labs
-乘坐服务电梯前往Exis实验室
+乘坐服务电梯前往艾克西斯实验室
 
 > #str_00200052
 Use main service lift to reach Exis Labs.
-使用主服务电梯到达Exis实验室。
+使用主服务电梯到达艾克西斯实验室。
 
 > #str_00200053
 Chris Vargas
@@ -30930,7 +30938,7 @@ TRANSFER CONTROL
 
 > #str_00200064
 SECURITY LOCKDOWN
-安全锁定
+安防封锁
 
 > #str_00200065
 CLICK TO DISABLE
@@ -30938,7 +30946,7 @@ CLICK TO DISABLE
 
 > #str_00200066
 CURRENT LOGIN : PERKINS, L.
-当前登录：PERKINS, L.
+当前登录: PERKINS, L.
 
 > #str_00200067
 SUB-LEVEL SECURITY SUPERVISOR
@@ -30963,7 +30971,7 @@ TELEPORT CONTROL"""
 """已连接
 
 来自
-EXIS实验室
+艾克西斯实验室
 第1站
 
 瞬间传送控制"""
@@ -30978,7 +30986,7 @@ B队
 
 > #str_00200073
 Primary Mission: Retrieve science personnel and eliminate hostile threats
-主要任务目标：找到科研人员并消除敌对威胁
+主要任务目标: 找到科研人员并消除敌对威胁
 
 > #str_00200074
 Coolant Junction
@@ -31066,15 +31074,15 @@ Restore Power
 
 > #str_00200095
 Reset the lift power switch
-重置升降机电力开关
+重置电梯电力开关
 
 > #str_00200096
 Auxiliary Power Core
-辅助电源核心
+辅助能源核心
 
 > #str_00200097
 Locate the Auxiliary Power Core and upload the SSD
-找到辅助能量核心然后上载SSD
+找到辅助能源核心然后上载SSD
 
 > #str_00200098
 Prime The Core
@@ -31090,7 +31098,7 @@ Transfer Power
 
 > #str_00200101
 Use the console in the Lower Chamber to transfer power to the Exis lab
-使用下层房间里面的主机来将电力传送到Exis实验室
+使用下层房间里面的主机来将电力传送到艾克西斯实验室
 
 > #str_00200102
 Engineering
@@ -31122,7 +31130,7 @@ Power Test Chamber
 
 > #str_00200109
 Auxiliary Power Core
-辅助电源核心
+辅助能源核心
 
 > #str_00200110
 Aux Core Lower Chamber
@@ -31182,11 +31190,11 @@ Service Access
 
 > #str_00200124
 Service Corridor SL-4
-服务通道 SL-4
+服务通道SL-4
 
 > #str_00200125
 Pumping Station A-12
-泵站 A-12
+泵站A-12
 
 > #str_00200126
 Filtration Control
@@ -31198,7 +31206,7 @@ Supply Storage
 
 > #str_00200128
 Service Corridor SL-11
-服务通道 SL-11
+服务通道SL-11
 
 > #str_00200129
 Fluid Transfer Control
@@ -31210,7 +31218,7 @@ Filtration Monitoring
 
 > #str_00200131
 Security Station SL-3
-安全中心 SL-3
+安全中心SL-3
 
 > #str_00200132
 Sub-Level Transfer
@@ -31222,7 +31230,7 @@ Elevator
 
 > #str_00200134
 Pumping Station E7
-泵站 E7
+泵站E7
 
 > #str_00200135
 Coolant Transfer Junction
@@ -31250,11 +31258,11 @@ Central Sub-System Control
 
 > #str_00200141
 Sub-Level Corridor SL-1A
-下层走廊 SL-1A
+下层走廊SL-1A
 
 > #str_00200142
 Sub-Level Corridor SL-1B
-下层走廊 SL-1B
+下层走廊SL-1B
 
 > #str_00200143
 Secondary Coolant Storage
@@ -31262,7 +31270,7 @@ Secondary Coolant Storage
 
 > #str_00200144
 Sub-Level Corridor SL-2
-下层走廊 SL-2
+下层走廊SL-2
 
 > #str_00200145
 Central Coolant Transfer
@@ -31274,11 +31282,11 @@ Equipment Storage
 
 > #str_00200147
 Main Service Lift
-主卸货升降梯
+主服务电梯
 
 > #str_00200148
 Sub-Level Corridor SL-3
-下层走廊 SL-3
+下层走廊SL-3
 
 > #str_00200149
 Service Storage Area
@@ -31286,7 +31294,7 @@ Service Storage Area
 
 > #str_00200150
 Power up Exis Teleporter
-为Exis传送器供电
+为艾克西斯传送器供电
 
 > #str_00200151
 Locate and Destroy Teleporter in Hell
@@ -31294,35 +31302,35 @@ Locate and Destroy Teleporter in Hell
 
 > #str_00200152
 Maintenance Elevator 06
-维护电梯 06
+维护电梯06
 
 > #str_00200153
 Maintenance Access 06
-维护入口 06
+维护入口06
 
 > #str_00200154
 Exis Lobby Security
-Exis大厅保安室
+艾克西斯大厅保安室
 
 > #str_00200155
 Exis Main Lobby
-Exis主厅
+艾克西斯主厅
 
 > #str_00200156
 Exis Entry Hallway
-Exis入口走廊
+艾克西斯入口走廊
 
 > #str_00200157
 Exis Access Lobby
-Exis通路大厅
+艾克西斯通路大厅
 
 > #str_00200158
 Exis Junction 1
-Exis枢纽一
+艾克西斯枢纽1
 
 > #str_00200159
 Exis Junction 2
-Exis枢纽二
+艾克西斯枢纽2
 
 > #str_00200160
 Teleporter Sec. Check-In
@@ -31338,27 +31346,27 @@ Teleporter Security
 
 > #str_00200163
 Exis Induction Terminal
-Exis训练终端
+艾克西斯训练终端
 
 > #str_00200164
 Exis Service Hallway
-Exis服务走道
+艾克西斯服务走道
 
 > #str_00200165
 Exis Service Area 1
-Exis服务区 1
+艾克西斯服务区1
 
 > #str_00200166
 Exis Service Hallway 2
-Exis服务走道 2
+艾克西斯服务走道2
 
 > #str_00200167
 Exis Service Area 2
-Exis服务区 2
+艾克西斯服务区2
 
 > #str_00200168
 Exis Service Tunnel
-Exis服务通道
+艾克西斯服务通道
 
 > #str_00200169
 Mars Surface
@@ -31426,19 +31434,19 @@ Environmental Systems
 
 > #str_00200185
 Systems Substation B
-系统变电站 B
+系统变电站B
 
 > #str_00200186
 Systems Junction 1
-系统连接 1
+系统枢纽1
 
 > #str_00200187
 Operations Junction 1
-操作接合处1
+操作枢纽1
 
 > #str_00200188
 Exis Central Operations
-Exis中央工程
+艾克西斯中央操作
 
 > #str_00200189
 Production Coordinator Office
@@ -31446,15 +31454,15 @@ Production Coordinator Office
 
 > #str_00200190
 Exis Operations Lobby
-Exis操作大厅
+艾克西斯操作大厅
 
 > #str_00200191
 Exis Main Junction
-Exis主枢纽
+艾克西斯主枢纽
 
 > #str_00200192
 Exis Access Stairs
-Exis通路楼梯
+艾克西斯通路楼梯
 
 > #str_00200193
 Decontamination Chamber
@@ -31462,7 +31470,7 @@ Decontamination Chamber
 
 > #str_00200194
 Exis Teleporter Staging Area
-Exis传送器准备区
+艾克西斯传送器准备区
 
 > #str_00200195
 Main Level
@@ -31490,7 +31498,7 @@ Service Access 1
 
 > #str_00200201
 Exis Service Area
-Exis服务区
+艾克西斯服务区
 
 > #str_00200202
 Molecular Engineering
@@ -31514,7 +31522,7 @@ SUBLEVEL ACCESS
 
 > #str_00200207
 EXIS LABS TELEPORTER
-EXIS实验室传送器
+艾克西斯实验室传送器
 
 > #str_00200208
 TRANS-DIMENSIONAL SITE
@@ -31530,11 +31538,11 @@ Elevator Lobby
 
 > #str_00200211
 Exis Junction 2
-Exis枢纽二
+艾克西斯枢纽2
 
 > #str_00200212
 Service Area 1
-服务区 1
+服务区1
 
 > #str_00200213
 Service Tunnel
@@ -31600,13 +31608,13 @@ Date: 11-03-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 纳西尔·阿迪尔
-日期: 11-03-2145
+日期: 2145-11-03
 打开并更改: 否
 入档: 是"""
 
 > #str_adil_exis_pda_01_audio_name
 Latest Assaults by Exis Staff
-最近的未知人员袭击
+最近的艾克西斯人员袭击
 
 > #str_adil_exis_pda_02_audio_info
 """Made by: Nasir Adil
@@ -31614,7 +31622,7 @@ Date: 11-12-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Nasir Adil
-日期: 11-12-2145
+日期: 2145-11-12
 允许修改: 否
 存入档案:是"""
 
@@ -31628,7 +31636,7 @@ Date: 10-20-2145
 Open for amendment: Yes
 Set for Archive: Yes"""
 """制作者: William Banks
-日期: 10-20-2145
+日期: 2145-10-20
 允许修改: 是
 存入档案: 是"""
 
@@ -31642,7 +31650,7 @@ Date: 10-05-2145
 Open for amendment: Yes
 Set for Archive: No"""
 """制作者: William Banks
-日期: 10-05-2145
+日期: 2145-10-05
 允许修改: 是
 存入档案: 否"""
 
@@ -31652,11 +31660,11 @@ Energy Deficiencies
 
 > #str_admin_banks_email_1_email_date
 10-02-2145
-10-02-2145
+2145-10-02
 
 > #str_admin_banks_email_1_email_from
 Malcolm Betruger
-Malcolm Betruger
+马尔科姆·贝特鲁格
 
 > #str_admin_banks_email_1_email_subject
 Religious Artifacts
@@ -31674,7 +31682,7 @@ Dr. Malcolm Betruger"""
 确保来自地球的所有装着宗教遗物的集装箱的抵达对于我的研究来说非常重要，有德尔塔实验室的联名签署，请你立即赶往那里，不要有任何延误。我不能让我珍贵的货物就这么堆在库房里等你的人来处理它们。
 希望你对此事立即引起重视。
 
-Malcolm Betruger博士"""
+马尔科姆·贝特鲁格博士"""
 
 > #str_admin_banks_email_1_email_to
 none
@@ -31682,7 +31690,7 @@ none
 
 > #str_admin_banks_email_2_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_admin_banks_email_2_email_from
 Matthew White
@@ -31715,7 +31723,7 @@ none
 
 > #str_admin_banks_email_3_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_admin_banks_email_3_email_from
 UA-Corp.com
@@ -31757,7 +31765,7 @@ William Banks
 
 > #str_admin_banks_pda_post
 Administration
-管理权限
+管理部门
 
 > #str_admin_banks_pda_security
 Alpha Labs
@@ -31769,7 +31777,7 @@ Director
 
 > #str_admin_dorweiler_email_1_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_admin_dorweiler_email_1_email_from
 Ethan Peterson
@@ -31797,7 +31805,7 @@ Alan Dorweiler
 
 > #str_admin_dorweiler_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_admin_dorweiler_email_2_email_from
 Ethan Peterson
@@ -31814,7 +31822,7 @@ I heard that UAC Corporate is sending someone up here to check on Betruger. His 
 I'll keep you posted if anything goes down.
 Ethan"""
 """Alan,
-我听说 UAC 公司派了些人上来检查 Betruger. 他的名字叫 Elliot Swann, 我不知道他是谁，但John说他是个凡人的家伙。他说他到哪都带着保镖。 这情况可不妙。我希望这个叫Swann的家伙不要把我们的部门给关了。 我们马上就能解决稳定性的问题，而且传输错误现在也非常少了。
+我听说 UAC 公司派了些人上来检查 Betruger. 他的名字叫埃利奥特·斯旺, 我不知道他是谁，但John说他是个凡人的家伙。他说他到哪都带着保镖。 这情况可不妙。我希望这个叫斯旺的家伙不要把我们的部门给关了。 我们马上就能解决稳定性的问题，而且传输错误现在也非常少了。
 
 我会继续和你保持联络的。
 Ethan"""
@@ -31825,7 +31833,7 @@ Alan Dorweiler
 
 > #str_admin_dorweiler_email_3_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_admin_dorweiler_email_3_email_from
 martianbuddy.com
@@ -31871,7 +31879,7 @@ Alan Dorweiler
 
 > #str_admin_dorweiler_pda_post
 Administration Complex
-管理权限杂项
+管理部门综合设施
 
 > #str_admin_dorweiler_pda_security
 """"""
@@ -31883,7 +31891,7 @@ Controller Spec.
 
 > #str_admin_moses_email_1_email_date
 10-09-2145
-10-09-2145
+2145-10-09
 
 > #str_admin_moses_email_1_email_from
 0508
@@ -31905,7 +31913,7 @@ Martian Buddy
 恭喜你，你被选为我们赠送一个免费促销储物锁柜的幸运儿，锁柜里装满了我们认为你需要的有用东西。要想得到你的锁柜，请访问我们的网站。
 
 Martian Buddy
----记住：有Martian Buddy在，你总是个幸运的赢家！"""
+---记住: 有Martian Buddy在，你总是个幸运的赢家！"""
 
 > #str_admin_moses_email_1_email_to
 Jonathan Moses
@@ -31913,7 +31921,7 @@ Jonathan Moses
 
 > #str_admin_moses_email_2_email_date
 11-07-2145
-11-07-2145
+2145-11-07
 
 > #str_admin_moses_email_2_email_from
 Jim Bowier
@@ -31945,7 +31953,7 @@ Jonathan Moses
 
 > #str_admin_moses_email_3_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_admin_moses_email_3_email_from
 Jim Bowier
@@ -31953,7 +31961,7 @@ Jim Bowier
 
 > #str_admin_moses_email_3_email_subject
 RE: Storage Cabinet
-回复：仓库陈列
+回复: 仓库陈列
 
 > #str_admin_moses_email_3_email_text
 """Mr. Moses,
@@ -31969,8 +31977,8 @@ Excellent, I can't believe it showed up so soon. Please have someone deliver it 
 感谢你的快速回复，我们会在本周末把它送到你的办公室去。
 
 ----原始信息----
-发送时间：11-07-2145
-致：Jim Bowier
+发送时间: 2145-11-07
+致: Jim Bowier
 太好了，我不敢相信它这么快就出现了。请派人把它送到我在管理部北走廊的办公室来。我等不及要看看他们给我送什么样的东西来了。
 
 -Jonathan"""
@@ -32009,7 +32017,7 @@ Date: 10-30-2145
 Open for amendment: Yes
 Set for Archive: No"""
 """制作者: Paul Simons
-日期: 10-30-2145
+日期: 2145-10-30
 允许修改: 是
 存入档案: 否"""
 
@@ -32019,7 +32027,7 @@ ADMIN: Network Security Status
 
 > #str_admin_simons_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_admin_simons_email_1_email_from
 IT Security
@@ -32047,7 +32055,7 @@ Paul Simons
 
 > #str_admin_simons_email_2_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_admin_simons_email_2_email_from
 Russell Weilder
@@ -32103,7 +32111,7 @@ Date: 11-12-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 凯尔·伯格
-日期: 11-12-2145
+日期: 2145-11-12
 打开并更改: 是
 入档: 是"""
 
@@ -32113,7 +32121,7 @@ EPD事故
 
 > #str_alphalabs1_berger_email_1_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_alphalabs1_berger_email_1_email_from
 William Landow
@@ -32132,7 +32140,7 @@ Bill Landow
 """
 """Berger博士，
 
-我们在准备EPD进行下一轮测试时一切都进行得非常顺利。Roy Patterson正在设定基线，我们应该今天下午就能开始测试。如果你的安排允许的话，欢迎在2：00左右光临实验室进行指导。应该会很令人兴奋的！
+我们在准备EPD进行下一轮测试时一切都进行得非常顺利。Roy Patterson正在设定基线，我们应该今天下午就能开始测试。如果你的安排允许的话，欢迎在2: 00左右光临实验室进行指导。应该会很令人兴奋的！
 
 Bill Landow
 """
@@ -32143,7 +32151,7 @@ Kyle Berger
 
 > #str_alphalabs1_berger_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_alphalabs1_berger_email_2_email_from
 UAC Maintenance
@@ -32197,7 +32205,7 @@ Research Supervisor
 
 > #str_alphalabs1_krietman_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_alphalabs1_krietman_email_1_email_from
 Dr. Pat Harvey
@@ -32253,7 +32261,7 @@ Research Assistant
 
 > #str_alphalabs1_lipsitz_email_1_email_date
 10-24-2145
-10-24-2145
+2145-10-24
 
 > #str_alphalabs1_lipsitz_email_1_email_from
 John McDermott
@@ -32285,7 +32293,7 @@ Bernie Lipsitz
 
 > #str_alphalabs1_lipsitz_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_alphalabs1_lipsitz_email_2_email_from
 Fredric Anubus
@@ -32343,7 +32351,7 @@ Date: 10-24-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 杰克·史密斯
-日期: 10-24-2145
+日期: 2145-10-24
 打开并更改: 是
 入档: 是"""
 
@@ -32353,7 +32361,7 @@ HR事故报告
 
 > #str_alphalabs1_smith_email_1_email_date
 11-11-2145
-11-11-2145
+2145-11-11
 
 > #str_alphalabs1_smith_email_1_email_from
 Brian Jenkins
@@ -32385,7 +32393,7 @@ Jack Smith
 
 > #str_alphalabs1_smith_email_2_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_alphalabs1_smith_email_2_email_from
 Ari Braden
@@ -32443,7 +32451,7 @@ Date: 09-14-2145
 Open for Amendment: No
 Set for Archive: No"""
 """来自: 安德鲁·秦
-日期: 09-14-2145
+日期: 2145-09-14
 打开并更改: 否
 入档: 否"""
 
@@ -32453,7 +32461,7 @@ Treatment of Research Team
 
 > #str_alphalabs2_chin_email_1_email_date
 10-11-2145
-10-11-2145
+2145-10-11
 
 > #str_alphalabs2_chin_email_1_email_from
 martianbuddy.com
@@ -32485,7 +32493,7 @@ Andrew Chin
 
 > #str_alphalabs2_chin_email_2_email_date
 10-12-2145
-10-12-2145
+2145-10-12
 
 > #str_alphalabs2_chin_email_2_email_from
 Walter Connors
@@ -32513,7 +32521,7 @@ Andrew Chin
 
 > #str_alphalabs2_chin_email_3_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_alphalabs2_chin_email_3_email_from
 Erik Reeves
@@ -32545,7 +32553,7 @@ Andrew Chin博士
 
 > #str_alphalabs2_chin_email_4_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_alphalabs2_chin_email_4_email_from
 Brian Wellington
@@ -32599,7 +32607,7 @@ Date: 10-14-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Walter Con否rs
-日期: 10-14-2145
+日期: 2145-10-14
 允许修改: 是
 存入档案: 否"""
 
@@ -32609,7 +32617,7 @@ The Success with the MFS Compressor
 
 > #str_alphalabs2_connors_email_1_email_date
 10-12-2145
-10-12-2145
+2145-10-12
 
 > #str_alphalabs2_connors_email_1_email_from
 Walter Connors
@@ -32623,7 +32631,7 @@ Collection
 """Note to self:
 Need to remember to get my eight-sided die back from Chin.  Should never have lent it to him in the first place.  He never invited me to play.  He is not my friend.
 """
-"""备忘：
+"""备忘:
 别忘了从Chin那里拿回八面骰子。早知道就不借给他了。他从没邀请我去玩。他不是我的朋友。
 """
 
@@ -32633,7 +32641,7 @@ Walter Connors
 
 > #str_alphalabs2_connors_email_2_email_date
 10-16-2145
-10-16-2145
+2145-10-16
 
 > #str_alphalabs2_connors_email_2_email_from
 Walter Connors
@@ -32647,7 +32655,7 @@ Note to self
 """Note to self:
 Need to remember my code for cabinet #039 - 102
 """
-"""备忘：
+"""备忘:
 我自己的39号柜密码 - 102
 """
 
@@ -32657,7 +32665,7 @@ Walter Connors
 
 > #str_alphalabs2_connors_email_3_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_alphalabs2_connors_email_3_email_from
 Derek Wayland
@@ -32719,7 +32727,7 @@ Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 迈克尔·艾勃拉姆斯
-日期: 11-15-2145
+日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
 
@@ -32729,7 +32737,7 @@ Security Report
 
 > #str_alphalabs3_abrams_email_1_email_date
 10-26-2145
-10-26-2145
+2145-10-26
 
 > #str_alphalabs3_abrams_email_1_email_from
 Henry Nelson
@@ -32761,7 +32769,7 @@ Michael Abrams
 
 > #str_alphalabs3_abrams_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_alphalabs3_abrams_email_2_email_from
 Human Resources
@@ -32795,7 +32803,7 @@ Michael Abrams
 
 > #str_alphalabs3_abrams_email_3_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_alphalabs3_abrams_email_3_email_from
 I.T. Security
@@ -32849,7 +32857,7 @@ Security Chief
 
 > #str_alphalabs3_george_email_1_email_date
 10-28-2145
-10-28-2145
+2145-10-28
 
 > #str_alphalabs3_george_email_1_email_from
 Mark Lamia
@@ -32879,7 +32887,7 @@ George Poota
 
 > #str_alphalabs3_george_email_2_email_date
 10-28-2145
-10-28-2145
+2145-10-28
 
 > #str_alphalabs3_george_email_2_email_from
 martianbuddy.com
@@ -32907,7 +32915,7 @@ Date: 11-01-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 马克·拉米亚
-日期: 11-01-2145
+日期: 2145-11-01
 打开并更改: 是
 入档: 是"""
 
@@ -32917,7 +32925,7 @@ Incompetent Employees
 
 > #str_alphalabs3_lamia_email_1_email_date
 10-28-2145
-10-28-2145
+2145-10-28
 
 > #str_alphalabs3_lamia_email_1_email_from
 George Poota
@@ -32947,7 +32955,7 @@ Mark Lamia
 
 > #str_alphalabs3_lamia_email_2_email_date
 10-31-2145
-10-31-2145
+2145-10-31
 
 > #str_alphalabs3_lamia_email_2_email_from
 Graham Fuchs
@@ -32979,7 +32987,7 @@ Mark Lamia
 
 > #str_alphalabs3_lamia_email_3_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_alphalabs3_lamia_email_3_email_from
 George Poota
@@ -33009,7 +33017,7 @@ Mark Lamia
 
 > #str_alphalabs3_lamia_email_4_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_alphalabs3_lamia_email_4_email_from
 Dusty Welch
@@ -33073,7 +33081,7 @@ Date: 10-24-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 亨利·尼尔森
-日期: 10-24-2145
+日期: 2145-10-24
 打开并更改: 否
 入档: 是"""
 
@@ -33083,7 +33091,7 @@ Strange Voices...
 
 > #str_alphalabs3_nelson_email_1_email_date
 10-24-2145
-10-24-2145
+2145-10-24
 
 > #str_alphalabs3_nelson_email_1_email_from
 Jeff Dickens
@@ -33111,7 +33119,7 @@ Henry Nelson
 
 > #str_alphalabs3_nelson_email_2_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_alphalabs3_nelson_email_2_email_from
 Greg O'Brian
@@ -33189,7 +33197,7 @@ Waste Managment
 
 > #str_alphalabs4_kaczynski_email_1_email_date
 11-1-2145
-11-1-2145
+2145-11-1
 
 > #str_alphalabs4_kaczynski_email_1_email_from
 David Carter
@@ -33216,7 +33224,7 @@ Larry Kaczynski
 
 > #str_alphalabs4_kaczynski_email_2_email_date
 11-9-2145
-11-9-2145
+2145-11-9
 
 > #str_alphalabs4_kaczynski_email_2_email_from
 John Okonkwo
@@ -33289,10 +33297,10 @@ Chief Researcher
 Date: 01/15/41
 
 Alpha Labs: Past, Present and Future"""
-"""创建人：UAC公关部
-日期：01/15/41
+"""创建人: UAC公关部
+日期: 01/15/41
 
-阿尔法实验室：过去、现在与将来"""
+阿尔法实验室: 过去、现在与将来"""
 
 > #str_alphalabs_intro_video_name
 Alpha Labs Introduction
@@ -33304,9 +33312,9 @@ Lead Archaeologist
 Date: 08/21/45
 
 What we know about the ancient civilization and the artifacts found"""
-"""创建人：Pierce Rogers
+"""创建人: Pierce Rogers
 首席考古学家
-日期：08/21/45
+日期: 08/21/45
 
 关于上古文明和所找到的遗物我们所知的一切"""
 
@@ -33320,7 +33328,7 @@ Date: xx-xx-2145
 Open for amendment: Yes
 Set for Archive: No"""
 """制作者: Tim Willits
-日期: xx-xx-2145
+日期: 2145-xx-xx
 允许修改: 是
 存入档案: 否"""
 
@@ -33334,7 +33342,7 @@ Date: xx-xx-2145
 Open for amendment: Yes
 Set for Archive: No"""
 """制作者: Tim Willits
-日期: xx-xx-2145
+日期: 2145-xx-xx
 允许修改: 是
 存入档案: 否"""
 
@@ -33348,7 +33356,7 @@ Date: 11-10-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 亚当·伯内克
-日期: 11-10-2145
+日期: 2145-11-10
 打开并更改: 否
 入档: 是"""
 
@@ -33358,7 +33366,7 @@ Maintenance Update
 
 > #str_berneche_email_1_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_berneche_email_1_email_from
 Ethan Peterson
@@ -33388,7 +33396,7 @@ Adam Berneche
 
 > #str_berneche_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_berneche_email_2_email_from
 Ethan Peterson
@@ -33420,7 +33428,7 @@ Adam Berneche
 
 > #str_berneche_email_3_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_berneche_email_3_email_from
 Delta HR
@@ -33461,8 +33469,8 @@ Adam Berneche
 Date: 10/10/45
 
 Informational video on the BFG 9000"""
-"""创建人：UAC先进武器部门
-日期：10/10/45
+"""创建人: UAC先进武器部门
+日期: 10/10/45
 
 关于BFG9000的信息视频"""
 
@@ -33476,7 +33484,7 @@ Date: 10-18-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Robert Cody
-日期: 10-18-2145
+日期: 2145-10-18
 允许修改: 否
 存入档案: 否"""
 
@@ -33486,7 +33494,7 @@ Dangerous Conditions in the Caverns
 
 > #str_caverns1_cody_email_1_email_date
 10-07-2145
-10-07-2145
+2145-10-07
 
 > #str_caverns1_cody_email_1_email_from
 Maint. Control
@@ -33516,7 +33524,7 @@ Robert Cody
 
 > #str_caverns1_cody_email_2_email_date
 10-08-2145
-10-08-2145
+2145-10-08
 
 > #str_caverns1_cody_email_2_email_from
 Mark Robertson
@@ -33573,8 +33581,8 @@ Maintenance
 Date: 03/20/42
 
 Informational video on the Mach-2 Chain Gun"""
-"""创建人：UAC先进武器部门
-日期：03/20/42
+"""创建人: UAC先进武器部门
+日期: 03/20/42
 
 关于Mach-2链枪的信息视频"""
 
@@ -33588,7 +33596,7 @@ Date: 10-16-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Seamus Blake
-日期: 10-16-2145
+日期: 2145-10-16
 允许修改: 是
 存入档案: 否"""
 
@@ -33598,7 +33606,7 @@ Module Replacement
 
 > #str_comm1_blake_email_1_email_date
 10-10-2145
-10-10-2145
+2145-10-10
 
 > #str_comm1_blake_email_1_email_from
 Crater Music
@@ -33626,13 +33634,13 @@ Please retain for your records
 The entire Crater team thanks you"""
 """订单号: M8909848
 接收日期  10/10/2145
-订单总额：   $269.83
-寄往：Universal Credit
+订单总额:    $269.83
+寄往: Universal Credit
 
 Crater经典音乐谢谢您的订购
 
 购买和您相同物品的人(Champagne Tomiko by The ZSecs)
-还购买了：nThe Head On My Tongue - Hellish Dragons
+还购买了: nThe Head On My Tongue - Hellish Dragons
 二十世纪经典 - 群星
 
 请保留记录 - Crater全体人员感谢你"""
@@ -33643,7 +33651,7 @@ Seamus Blake
 
 > #str_comm1_blake_email_2_email_date
 10-11-2145
-10-11-2145
+2145-10-11
 
 > #str_comm1_blake_email_2_email_from
 Karl Roper
@@ -33697,7 +33705,7 @@ Technician
 
 > #str_comm1_finch_email_1_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_comm1_finch_email_1_email_from
 Brent Davis
@@ -33725,7 +33733,7 @@ Rob Finch
 
 > #str_comm1_finch_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_comm1_finch_email_2_email_from
 Steven Finch
@@ -33785,7 +33793,7 @@ Date: 10-07-2145
 Open for Amendment: No
 Set for Archive: No"""
 """来自: 本·乌尔夫
-日期: 10-07-2145
+日期: 2145-10-07
 打开并更改: 否
 入档: 否"""
 
@@ -33795,7 +33803,7 @@ Unauthorized Bandwidth Usage
 
 > #str_comm1_wolfe_email_1_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_comm1_wolfe_email_1_email_from
 martianbuddy.com
@@ -33827,7 +33835,7 @@ Ben Wolfe
 
 > #str_comm1_wolfe_email_2_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_comm1_wolfe_email_2_email_from
 Security Authority
@@ -33835,7 +33843,7 @@ Security Authority
 
 > #str_comm1_wolfe_email_2_email_subject
 RE: Request Security Access
-回复：请求安保通行
+回复: 请求安保通行
 
 > #str_comm1_wolfe_email_2_email_text
 """Your request for Communications Security Access is granted.  Officers are now allowed access to Level 2 Security areas.  Communication Cabinet Code is 246.
@@ -33851,7 +33859,7 @@ Ben Wolfe"""
 """Your request for Communications Security Access is granted.  Officers are now allowed access to Level 2 Security areas.  Communication Cabinet Code is 246.
 
 ----Original Message----
-Sent: 11-11-2145
+Sent: 2145-11-11
 To: Security Authority
 
 I hereby formally request access to secure areas in the Communications Facility.  As an officer I feel this is necessary.
@@ -33893,17 +33901,17 @@ Date: 09-24-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 詹姆斯·霍利戴
-日期: 09-24-2145
+日期: 2145-09-24
 打开并更改: 是
 入档: 是"""
 
 > #str_commoutside_holiday_audio_1_audio_name
 Artifact Transport Concerns
-神器运输的担忧
+遗物运输的担忧
 
 > #str_commoutside_holiday_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_commoutside_holiday_email_1_email_from
 Ron Ridge
@@ -33931,7 +33939,7 @@ James Holiday
 
 > #str_commoutside_holiday_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_commoutside_holiday_email_2_email_from
 Shipping Authority
@@ -33945,7 +33953,7 @@ Site 1 needs
 """The UAC has terminated all research at site 1.  This includes the McNeil Projects.  Arrangements for transportation and storage of useful equipment should be made immediately.
 
 -Shipping Authority"""
-"""联合航天公司终止了1号站点的所有研究。其中包括McNeil计划。对有用设备的运输和储存的安排应该立刻进行。
+"""UAC终止了1号站点的所有研究。其中包括McNeil计划。对有用设备的运输和储存的安排应该立刻进行。
 
 -运输局"""
 
@@ -33983,7 +33991,7 @@ Date: 10-16-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Ron Ridge
-日期: 10-16-2145
+日期: 2145-10-16
 允许修改: 是
 存入档案: 否"""
 
@@ -33993,11 +34001,11 @@ Unsafe Driving
 
 > #str_commoutside_ridge_email_1_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_commoutside_ridge_email_1_email_from
 UAC Authority
-联合航天公司管理层
+UAC管理层
 
 > #str_commoutside_ridge_email_1_email_subject
 Maintenance Lift Access Restrictions
@@ -34022,7 +34030,7 @@ Ron Ridge
 
 > #str_commoutside_ridge_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_commoutside_ridge_email_2_email_from
 James Holiday
@@ -34030,7 +34038,7 @@ James Holiday
 
 > #str_commoutside_ridge_email_2_email_subject
 RE: Those Damn Chainsaws!
-回复：那些该死的电锯！
+回复: 那些该死的电锯！
 
 > #str_commoutside_ridge_email_2_email_text
 """Ron,
@@ -34053,8 +34061,8 @@ Thanks,
 詹姆斯
 
  --原始邮件--  
-寄出时间： 11-13-2145  
-收件人： 詹姆斯。哈利德  嘿， 詹姆斯， 我们要怎么处理那些链锯？  很快就有两批多余的治疗器具运过来而我们不够空间。  我简直不敢相信有人会误运那些东西。  在火星还有没有比链锯更没用的东西了！？！  话说你快点来帮我搞定这些东西。  
+寄出时间:  2145-11-13  
+收件人:  詹姆斯。哈利德  嘿， 詹姆斯， 我们要怎么处理那些链锯？  很快就有两批多余的治疗器具运过来而我们不够空间。  我简直不敢相信有人会误运那些东西。  在火星还有没有比链锯更没用的东西了！？！  话说你快点来帮我搞定这些东西。  
 
 谢了，
 -RR"""
@@ -34097,7 +34105,7 @@ Date: 09-25-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Tony Bates
-日期: 09-25-2145
+日期: 2145-09-25
 允许修改: 否
 存入档案: 是"""
 
@@ -34111,7 +34119,7 @@ Date: 10-15-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """制作者: Tony Bates
-日期: 10-15-2145
+日期: 2145-10-15
 允许修改: 是
 存入档案: 是"""
 
@@ -34121,7 +34129,7 @@ Network Security Breach
 
 > #str_cpu_bates_email_1_email_date
 10-22-2145
-10-22-2145
+2145-10-22
 
 > #str_cpu_bates_email_1_email_from
 Brian Franko
@@ -34151,7 +34159,7 @@ Tony Bates
 
 > #str_cpu_bates_email_2_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_cpu_bates_email_2_email_from
 Martian Buddy
@@ -34177,7 +34185,7 @@ Tony Bates
 
 > #str_cpu_bates_email_3_email_date
 11-08-2145
-11-08-2145
+2145-11-08
 
 > #str_cpu_bates_email_3_email_from
 Edward Sorrenson
@@ -34241,7 +34249,7 @@ Date: 09-23-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 查理·哈斯科尔
-日期: 09-23-2145
+日期: 2145-09-23
 打开并更改: 是
 入档: 是"""
 
@@ -34251,7 +34259,7 @@ Request for System Time
 
 > #str_cpu_haskell_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_cpu_haskell_email_1_email_from
 System Admin
@@ -34286,7 +34294,7 @@ Mite-Version 3.6
 Content-Type text/plain; charset=us-ascii16; format=flowed
 """
 """无法发送至'Rbrody@ua-corp.com'。
-STTP 模块(域名ua-corp.com)报告：
+STTP 模块(域名ua-corp.com)报告:
 主机名称未知
 
 正在回报-MTA dns; ua-corp.com
@@ -34315,7 +34323,7 @@ Charlie Haskell
 
 > #str_cpu_haskell_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_cpu_haskell_email_2_email_from
 John Bianga
@@ -34367,7 +34375,7 @@ Delta Labs Technician
 
 > #str_cpu_tooloose_email_1_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_cpu_tooloose_email_1_email_from
 Henry Bielefeldt
@@ -34399,7 +34407,7 @@ Steve Tooloose
 
 > #str_cpu_tooloose_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_cpu_tooloose_email_2_email_from
 Brian Franko
@@ -34503,7 +34511,7 @@ Marine Security
 
 > #str_default_email_1_email_date
 xx-xx-2145
-xx-xx-2145
+2145-xx-xx
 
 > #str_default_email_1_email_from
 Name1
@@ -34533,7 +34541,7 @@ none
 
 > #str_default_email_2_email_date
 xx-xx-2145
-xx-xx-2145
+2145-xx-xx
 
 > #str_default_email_2_email_from
 Name2
@@ -34587,7 +34595,7 @@ Title
 
 > #str_delta1_mora_email_1_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_delta1_mora_email_1_email_from
 Delta Authority
@@ -34612,9 +34620,9 @@ Brian Mora"""
 你的投诉已经提交给了中央局，从现在开始他们会处理你的案例。
 
 ----原始信息----
-发送时间：11-9-2145
-致：Delta局
-作为反应炉上层区维护部的负责工程师，我认为有必要让你们知悉一下当前存在的安全问题。如果我们在反应炉工作时要想从上层区获取读数数据，就极有可能发生事故。我建议使用遥控传感器来获取这些读数，在反应炉工作期间关闭上层区。
+发送时间: 2145-11-9
+致: Delta局
+作为反应堆上层区维护部的负责工程师，我认为有必要让你们知悉一下当前存在的安全问题。如果我们在反应堆工作时要想从上层区获取读数数据，就极有可能发生事故。我建议使用遥控传感器来获取这些读数，在反应堆工作期间关闭上层区。
 
 诚挚的，
 Brian Mora"""
@@ -34625,7 +34633,7 @@ Brian Mora
 
 > #str_delta1_mora_email_2_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_delta1_mora_email_2_email_from
 martianbuddy.com
@@ -34695,7 +34703,7 @@ Date: 10-12-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Robert Price
-日期: 10-12-2145
+日期: 2145-10-12
 允许修改: 是
 存入档案: 否"""
 
@@ -34709,7 +34717,7 @@ Date: 10-13-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Robert Price
-日期: 10-13-2145
+日期: 2145-10-13
 允许修改: 否
 存入档案: 否"""
 
@@ -34719,7 +34727,7 @@ Disciplinary Action Report
 
 > #str_delta1_price_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_delta1_price_email_1_email_from
 Price@kpjNET
@@ -34749,7 +34757,7 @@ Robert Price
 
 > #str_delta1_price_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_delta1_price_email_2_email_from
 Ryan S.
@@ -34757,7 +34765,7 @@ Ryan S.
 
 > #str_delta1_price_email_2_email_subject
 RE: You guys experiencing this?
-回复：你们看到过这个吗？
+回复: 你们看到过这个吗？
 
 > #str_delta1_price_email_2_email_text
 """Robert,
@@ -34785,7 +34793,7 @@ Thanks,
 
 --原始邮件-- 
 
-寄出：11-13-2145 收信人： 
+寄出: 2145-11-13 收信人:  
 
 莱恩 S.   
 
@@ -34829,9 +34837,9 @@ Medical Supervisor
 Date: 11/02/45
 
 Report on Patient 0432, Pvt. Steve Jenson"""
-"""创建人：Peter Raleigh
+"""创建人: Peter Raleigh
 医疗管理人
-日期：11/02/45
+日期: 11/02/45
 
 关于病患0432Steve Jenson列兵的报告"""
 
@@ -34845,17 +34853,17 @@ Date: 10-15-2145
 Open for Amendment: No
 Set for Archive: No"""
 """来自: 弗兰克·辛德斯
-日期: 10-15-2145
+日期: 2145-10-15
 打开并更改: 否
 入档: 否"""
 
 > #str_delta2a_cinders_audio_1_audio_name
 Status Report
-状态：报告
+状态: 报告
 
 > #str_delta2a_cinders_email_1_email_date
 10-28-2145
-10-28-2145
+2145-10-28
 
 > #str_delta2a_cinders_email_1_email_from
 martianbuddy.com
@@ -34883,7 +34891,7 @@ Frank Cinders
 
 > #str_delta2a_cinders_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_delta2a_cinders_email_2_email_from
 Guy Harollson
@@ -34939,7 +34947,7 @@ Date: 10-29-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """制作者: Peter Raleigh
-日期: 10-29-2145
+日期: 2145-10-29
 允许修改: 是
 存入档案: 是"""
 
@@ -34953,7 +34961,7 @@ Date: 11-01-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Peter Raleigh
-日期: 11-01-2145
+日期: 2145-11-01
 允许修改: 否
 存入档案: 否"""
 
@@ -34963,7 +34971,7 @@ Steve Jenson之死
 
 > #str_delta2a_raleigh_email_1_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_delta2a_raleigh_email_1_email_from
 Ben Peterson
@@ -34993,7 +35001,7 @@ Peter Raleigh
 
 > #str_delta2a_raleigh_email_2_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_delta2a_raleigh_email_2_email_from
 Phil Wilson
@@ -35051,7 +35059,7 @@ Date: 10-20-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Phil Wilson
-日期: 10-20-2145
+日期: 2145-10-20
 允许修改: 是
 存入档案: 否"""
 
@@ -35061,7 +35069,7 @@ Volunteers
 
 > #str_delta2a_wilson_email_1_email_date
 10-24-2145
-10-24-2145
+2145-10-24
 
 > #str_delta2a_wilson_email_1_email_from
 Dr. Peter Raleigh
@@ -35123,7 +35131,7 @@ Date: 10-19-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 拉里·布曼
-日期: 10-19-2145
+日期: 2145-10-19
 打开并更改: 是
 入档: 是"""
 
@@ -35133,15 +35141,15 @@ Soul Cube as a Weapon
 
 > #str_delta2b_bullman_email_1_email_date
 10-20-2145
-10-20-2145
+2145-10-20
 
 > #str_delta2b_bullman_email_1_email_from
 Malcolm Betruger
-Malcolm Betruger
+马尔科姆·贝特鲁格
 
 > #str_delta2b_bullman_email_1_email_subject
 RE: Soul Cube as a Weapon
-回复：灵魂魔方作为武器
+回复: 灵魂魔方作为武器
 
 > #str_delta2b_bullman_email_1_email_text
 """Dr. Bullman,
@@ -35163,7 +35171,7 @@ Larry Bullman
 
 > #str_delta2b_bullman_email_2_email_date
 10-22-2145
-10-22-2145
+2145-10-22
 
 > #str_delta2b_bullman_email_2_email_from
 martianbuddy.com
@@ -35201,7 +35209,7 @@ Larry Bullman
 
 > #str_delta2b_bullman_email_3_email_date
 11-01-2145
-11-01-2145
+2145-11-01
 
 > #str_delta2b_bullman_email_3_email_from
 HR Coordinator
@@ -35219,13 +35227,13 @@ Safety committee: Work with teams to update and inform UAC staff on the importan
 Research assistants:  Delta Labs is looking for individuals to help with our exciting break-through work.  Projects vary, see research coordinator for more information.  Health test and liability waiver will be required.  Commitment here will earn volunteers 25 extra credits per month.
 
 For more information about any of these opportunities or to post an opening in your department, please see Sierra Olson, Volunteer Coordinator, in UAC HR."""
-"""联合航天公司火星设施正在招募志愿者。我们想要鼓励你小队中的成员在以下几个方面提供协助：
+"""UAC火星设施正在招募志愿者。我们想要鼓励你小队中的成员在以下几个方面提供协助:
 
-安全委员会：和各个小队协作提醒和通知联合航天公司的职员在火星上安全的重要性。检查各个设施内生命包的配置情况。为安全警示月策划活动。在这里的工作将为志愿者每月提供额外的5点金钱。
+安全委员会: 和各个小队协作提醒和通知UAC的职员在火星上安全的重要性。检查各个设施内生命包的配置情况。为安全警示月策划活动。在这里的工作将为志愿者每月提供额外的5点金钱。
 
-研究助理：德尔塔实验室正在寻找人员来协助我们那令人兴奋的突破性研究。研究项目有多种，请咨询研究协调员来获得更加详细的信息。参与人员需要进行身体检查以及签署免责声明。在这里的工作将为志愿者每月提供额外的25点金钱。
+研究助理: 德尔塔实验室正在寻找人员来协助我们那令人兴奋的突破性研究。研究项目有多种，请咨询研究协调员来获得更加详细的信息。参与人员需要进行身体检查以及签署免责声明。在这里的工作将为志愿者每月提供额外的25点金钱。
 
-如果想获得这些工作机会的更为详细的信息，或者想要布告自己部门里面的招聘职位的话，请联络联合航天公司人力资源部门的志愿者协调员，Sierra Olson。"""
+如果想获得这些工作机会的更为详细的信息，或者想要布告自己部门里面的招聘职位的话，请联络UAC人力资源部门的志愿者协调员，Sierra Olson。"""
 
 > #str_delta2b_bullman_email_3_email_to
 Larry Bullman
@@ -35233,7 +35241,7 @@ Larry Bullman
 
 > #str_delta2b_bullman_email_4_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_delta2b_bullman_email_4_email_from
 Ian McCormick
@@ -35293,7 +35301,7 @@ Research Director
 
 > #str_delta2b_erikson_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_delta2b_erikson_email_1_email_from
 Delta Security
@@ -35323,7 +35331,7 @@ Francis Erikson
 
 > #str_delta2b_erikson_email_2_email_date
 10-30-2145
-10-30-2145
+2145-10-30
 
 > #str_delta2b_erikson_email_2_email_from
 Corbin Hues
@@ -35377,11 +35385,11 @@ Maintenance Supervisor
 
 > #str_delta2b_mcneil_email_1_email_date
 10-02-2145
-10-02-2145
+2145-10-02
 
 > #str_delta2b_mcneil_email_1_email_from
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta2b_mcneil_email_1_email_subject
 Investigation Report
@@ -35397,10 +35405,10 @@ Elliot Swann
 UAC Executive Counsel"""
 """McNeil小姐，
 
-我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对Malcolm Betruger博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣付或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。
+我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣付或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。
 
 谢谢，
-Elliot Swann
+埃利奥特·斯旺
 UAC执行法律顾问"""
 
 > #str_delta2b_mcneil_email_1_email_to
@@ -35409,7 +35417,7 @@ Liz McNeil
 
 > #str_delta2b_mcneil_email_2_email_date
 10-08-2145
-10-08-2145
+2145-10-08
 
 > #str_delta2b_mcneil_email_2_email_from
 Michael Abrams
@@ -35441,7 +35449,7 @@ Liz McNeil
 
 > #str_delta2b_mcneil_email_3_email_date
 10-15-2145
-10-15-2145
+2145-10-15
 
 > #str_delta2b_mcneil_email_3_email_from
 Michael Abrams
@@ -35497,7 +35505,7 @@ Research Director
 
 > #str_delta2b_stemmons_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_delta2b_stemmons_email_1_email_from
 Thomas Franks
@@ -35527,7 +35535,7 @@ Jacob Stemmons
 
 > #str_delta2b_stemmons_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_delta2b_stemmons_email_2_email_from
 Maintenance
@@ -35535,7 +35543,7 @@ Maintenance
 
 > #str_delta2b_stemmons_email_2_email_subject
 RE: Power out!!
-回复：电力耗尽
+回复: 电力耗尽
 
 > #str_delta2b_stemmons_email_2_email_text
 """Mr Stemmons,
@@ -35553,13 +35561,13 @@ Jacob Stemmons
 
 """
 """Stemmons先生，
-我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个D区各处的几个电力问题。如果你能去查看一下Maint-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。
+我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个德尔塔综合设施各处的几个电力问题。如果你能去查看一下Maint-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。
 
 谢谢，
 维护部
 
 ----原始信息----
-发送时间：11-13-2145
+发送时间: 2145-11-13
 这一周来，物种转移区那该死的电力状况一直在起伏波动。这种情况让人干起活来简直会郁闷到死！你能否派人下去查看一下。
 
 谢谢，
@@ -35601,7 +35609,7 @@ Date: 09-19-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 弗兰克·切拉诺
-日期: 09-19-2145
+日期: 2145-09-19
 打开并更改: 否
 入档: 是"""
 
@@ -35611,7 +35619,7 @@ Personal Audio Log
 
 > #str_delta3_cerano_email_1_email_date
 10-23-2145
-10-23-2145
+2145-10-23
 
 > #str_delta3_cerano_email_1_email_from
 Delta Control
@@ -35641,7 +35649,7 @@ Frank Cerano
 
 > #str_delta3_cerano_email_2_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_delta3_cerano_email_2_email_from
 Delta Control
@@ -35699,7 +35707,7 @@ Date: 10-16-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 汉·李
-日期: 10-16-2145
+日期: 2145-10-16
 打开并更改: 是
 入档: 是"""
 
@@ -35713,7 +35721,7 @@ Date: 10-20-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 汉·李
-日期: 10-20-2145
+日期: 2145-10-20
 打开并更改: 否
 入档: 是"""
 
@@ -35723,7 +35731,7 @@ Missing BFG Guns
 
 > #str_delta3_lee_email_1_email_date
 10-23-2145
-10-23-2145
+2145-10-23
 
 > #str_delta3_lee_email_1_email_from
 Delta Security
@@ -35783,7 +35791,7 @@ Date: 08-07-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 马特恩·舒尔茨
-日期: 08-07-2145
+日期: 2145-08-07
 打开并更改: 否
 入档: 是"""
 
@@ -35793,7 +35801,7 @@ Personal Audio Log
 
 > #str_delta3_shultz_email_1_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_delta3_shultz_email_1_email_from
 Frank Cerano
@@ -35849,7 +35857,7 @@ Doctor
 
 > #str_delta4_gilbert_email_1_email_date
 11-05-2145
-11-05-2145
+2145-11-05
 
 > #str_delta4_gilbert_email_1_email_from
 Paul Downing
@@ -35903,7 +35911,7 @@ Security Specialist
 
 > #str_delta5_jackson_email_1_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_delta5_jackson_email_1_email_from
 martianbuddy.com
@@ -35945,7 +35953,7 @@ Bruce Jackson
 
 > #str_delta5_jackson_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_delta5_jackson_email_2_email_from
 Michael Abrams
@@ -35967,7 +35975,7 @@ Be careful over there and remember to report anything odd immediately.
 Michael Abrams"""
 """Bruce,
 
-你已经被重新指派到CPU设施，立即生效。过去几个星期内，我们已经收到许多电脑入侵和安全漏洞的报告了。
+你已经被重新指派到CPU综合设施，立即生效。过去几个星期内，我们已经收到许多电脑入侵和安全漏洞的报告了。
 
 我已经在安全检查站的橱柜里放了一个火箭发射器。门的密码的571。我知道火箭发射器很可能是多余的，不过你用来指着别人的时候，他们会更倾向于听众你。
 
@@ -35993,7 +36001,7 @@ Bruce Jackson
 
 > #str_delta5_jackson_pda_post
 CPU Complex
-CPU群
+CPU综合设施
 
 > #str_delta5_jackson_pda_security
 """"""
@@ -36009,7 +36017,7 @@ Date: 11-15-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 埃利奥特·斯旺
-日期: 11-15-2145
+日期: 2145-11-15
 打开并更改: 是
 入档: 是"""
 
@@ -36023,7 +36031,7 @@ Date: 11-16-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 埃利奥特·斯旺
-日期: 11-16-2145
+日期: 2145-11-16
 打开并更改: 是
 入档: 是"""
 
@@ -36033,11 +36041,11 @@ Heading to the Caverns
 
 > #str_delta5_swann_email_1_email_date
 09-23-2145
-09-23-2145
+2145-09-23
 
 > #str_delta5_swann_email_1_email_from
 UAC Board
-联合航天公司董事会
+UAC董事会
 
 > #str_delta5_swann_email_1_email_subject
 Mars Research Post
@@ -36054,7 +36062,7 @@ Anticipate a formal briefing and itinerary in the next few days.
 
 Sincerely,
 UAC Board Chairman"""
-"""亲爱的Swann参事，
+"""亲爱的斯旺参事，
 
 理事会统一通过了一项全面复核火星研究设施的决议。你被任命为我们此次的官方代表，我们建议从今天起进行全面准备。
 
@@ -36067,11 +36075,11 @@ UAC理事会主席"""
 
 > #str_delta5_swann_email_1_email_to
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta5_swann_email_2_email_date
 10-02-2145
-10-02-2145
+2145-10-02
 
 > #str_delta5_swann_email_2_email_from
 Liz McNeil
@@ -36090,7 +36098,7 @@ I hope your intervention won't be too late. I look forward to meeting with you b
 
 Sincerely,
 Elizabeth McNeil"""
-"""Swann参事，
+"""斯旺参事，
 
 我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心Betruger博士的研究方向，希望你的介入能带来急需的转变。我还听说Betruger博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。
 
@@ -36101,19 +36109,19 @@ Elizabeth McNeil"""
 
 > #str_delta5_swann_email_2_email_to
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta5_swann_email_3_email_date
 10-03-2145
-10-03-2145
+2145-10-03
 
 > #str_delta5_swann_email_3_email_from
 Malcolm Betruger
-Malcolm Betruger
+马尔科姆·贝特鲁格
 
 > #str_delta5_swann_email_3_email_subject
 UAC Board Review
-联合航天公司董事会审查
+UAC董事会审查
 
 > #str_delta5_swann_email_3_email_text
 """Counselor Swann,
@@ -36126,24 +36134,24 @@ Don't waste your time coming here, Swann.  You will only get in my way and imped
 
 Sincerely,
 Malcolm Betruger"""
-"""Swann参事，
+"""斯旺参事，
 
 我至今为止对理事会都非常有耐心，但进行全面行动复核的决定让我很难接受。
 
 你没有必要到火星来，也没有必要进行这次复核。我所需要的就是更多的钱和时间。这里进行的研究将以前所未有的方式改变人类。我们的研究正开始带来惊人的成果，而这些成果我不能允许它们泄漏出去。
 
-不要浪费你的时间往这里来了，Swann。你只会妨碍我，妨碍我们在这里进行的杰出的工作。
+不要浪费你的时间往这里来了，斯旺。你只会妨碍我，妨碍我们在这里进行的杰出的工作。
 
 衷心地，
-Malcolm Betruger"""
+马尔科姆·贝特鲁格"""
 
 > #str_delta5_swann_email_3_email_to
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta5_swann_pda_fullname
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta5_swann_pda_id
 7992-13
@@ -36151,7 +36159,7 @@ Elliot Swann
 
 > #str_delta5_swann_pda_name
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_delta5_swann_pda_post
 UAC Corporate
@@ -36159,7 +36167,7 @@ UAC企业
 
 > #str_delta5_swann_pda_security
 CPU Complex
-CPU群
+CPU综合设施
 
 > #str_delta5_swann_pda_title
 Counselor
@@ -36167,7 +36175,7 @@ Counselor
 
 > #str_deltax_hook_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_deltax_hook_email_1_email_from
 security@EC.net
@@ -36175,7 +36183,7 @@ security@EC.net
 
 > #str_deltax_hook_email_1_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_deltax_hook_email_1_email_text
 """Mr. Hook,
@@ -36239,7 +36247,7 @@ Specimen Stasis Museum
 
 > #str_demonicinfo1_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_demonicinfo1_email_from
 Research Archive
@@ -36265,7 +36273,7 @@ Most important - pentagrams must be drawn from the center to the outside and lef
 """
 """时候到了！很快，人类就会想预言里记载的那样受到永世的折磨。我们会享用他们的灵魂！
 
-开启献祭传送门后，要记住：
+开启献祭传送门后，要记住:
 
  - 处女的血是最好的
  山羊血必须用出生3天以内的羊羔。
@@ -36285,10 +36293,10 @@ Mail recipient
 Date: 08/06/46
 
 MARS: Mission Goals """
-"""创建人：UAC公关部
-日期：08/06/46
+"""创建人: UAC公关部
+日期: 08/06/46
 
-火星：任务目标"""
+火星: 任务目标"""
 
 > #str_deployment_video_name
 MARS: Mission Goals & Safety
@@ -37052,7 +37060,7 @@ Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Theresa Chasar
-日期: 10-30-2145
+日期: 2145-10-30
 允许修改: 否
 存入档案: 是"""
 
@@ -37062,7 +37070,7 @@ Weapon Research
 
 > #str_enpro_chasar_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_enpro_chasar_email_1_email_from
 Lloyd Renstrom
@@ -37094,7 +37102,7 @@ Theresa Chasar
 
 > #str_enpro_chasar_email_2_email_date
 11-05-2145
-11-05-2145
+2145-11-05
 
 > #str_enpro_chasar_email_2_email_from
 Lloyd Renstrom
@@ -37126,7 +37134,7 @@ Theresa Chasar
 
 > #str_enpro_chasar_email_3_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_enpro_chasar_email_3_email_from
 Elizabeth McNeil
@@ -37134,7 +37142,7 @@ Elizabeth McNeil
 
 > #str_enpro_chasar_email_3_email_subject
 RE: Lloyd is driving me nuts!
-回复：罗伊德快把我逼疯了！
+回复: 罗伊德快把我逼疯了！
 
 > #str_enpro_chasar_email_3_email_text
 """-T.
@@ -37167,7 +37175,7 @@ Ok, I've got to get back to work.
 Liz
 
 ----原信息----
-发送日期: 11-07-2145
+发送日期: 2145-11-07
 至: Elizabeth McNeil
 
 Liz,
@@ -37210,7 +37218,7 @@ Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Steve Hammer
-日期: 10-30-2145
+日期: 2145-10-30
 允许修改: 否
 存入档案: 是"""
 
@@ -37220,7 +37228,7 @@ Plasma Ammo Code
 
 > #str_enpro_hammer_email_1_email_date
 10-25-2145
-10-25-2145
+2145-10-25
 
 > #str_enpro_hammer_email_1_email_from
 Mathew Morton
@@ -37254,7 +37262,7 @@ Steve Hammer
 
 > #str_enpro_hammer_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_enpro_hammer_email_2_email_from
 Eric Grossman
@@ -37302,7 +37310,7 @@ Date: 11-1-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Paul Raad
-日期: 11-1-2145
+日期: 2145-11-1
 允许修改: 否
 存入档案: 否"""
 
@@ -37316,7 +37324,7 @@ Date: 11-03-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """制作者: Paul Raad
-日期: 11-03-2145
+日期: 2145-11-03
 允许修改: 是
 存入档案: 是"""
 
@@ -37326,7 +37334,7 @@ Sentry Problems
 
 > #str_enpro_raad_email_1_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_enpro_raad_email_1_email_from
 martianbuddy.com
@@ -37354,7 +37362,7 @@ Paul Raad
 
 > #str_enpro_raad_email_2_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_enpro_raad_email_2_email_from
 Social Committee
@@ -37421,8 +37429,8 @@ Chief Technical Officer
 Date: 04/15/45
 
 Information on the EPD system"""
-"""创建人：UAC公关部
-日期：04/15/45
+"""创建人: UAC公关部
+日期: 04/15/45
 
 关于EPD系统的信息"""
 
@@ -37432,7 +37440,7 @@ Elemental Phase Deconstructor
 
 > #str_erebus2_gregory_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus2_gregory_email_1_email_from
 Jack Martin
@@ -37461,8 +37469,8 @@ Greg"""
 Jack
 
 ----初始消息----
-发送时间：3-14-2147
-收件人：Jack Martin
+发送时间: 2147-3-14
+收件人: Jack Martin
 
 嘿，Jack，
 
@@ -37476,7 +37484,7 @@ Gregory R. Martin
 
 > #str_erebus2_gregory_email_2_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus2_gregory_email_2_email_from
 Sean H. Weston
@@ -37484,7 +37492,7 @@ Sean H. Weston
 
 > #str_erebus2_gregory_email_2_email_subject
 Re: Target Practice
-回复：目标练习
+回复: 目标练习
 
 > #str_erebus2_gregory_email_2_email_text
 """There should be plenty of rounds in the armory, back in Research. I'll meet you there.
@@ -37505,8 +37513,8 @@ Greg"""
 Sean
 
 ----原始消息----
-发送时间：3-14-2147
-收件人：Sean Weston
+发送时间: 2147-3-14
+收件人: Sean Weston
 
 Sean，
 不知道你怎么想的，但是我想要开上几枪发泄一下。我们能把目标训练用的弹药分出来吗？
@@ -37519,7 +37527,7 @@ Gregory R. Martin
 
 > #str_erebus2_gregory_email_3_email_date
 3-12-2147
-3-12-2147
+2147-3-12
 
 > #str_erebus2_gregory_email_3_email_from
 Ryan Okeefe
@@ -37559,7 +37567,7 @@ Gregory Martin
 
 > #str_erebus2_gregory_pda_post
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_erebus2_gregory_pda_security
 Site One
@@ -37575,7 +37583,7 @@ Date: 03-15-2147
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 马科斯·塔诺
-日期: 03-15-2147
+日期: 2147-03-15
 打开并更改: 是
 入档: 是"""
 
@@ -37585,7 +37593,7 @@ Excavation Anomalies
 
 > #str_erebus2_tanner_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus2_tanner_email_1_email_from
 Viktor Kharkov
@@ -37593,7 +37601,7 @@ Viktor Kharkov
 
 > #str_erebus2_tanner_email_1_email_subject
 RE: Good Game
-回复：好名字
+回复: 好名字
 
 > #str_erebus2_tanner_email_1_email_text
 """Dr. McNeil has me working on a project this evening that she really needs a report on before we shut down for the night. Perhaps we can try and play again tomorrow.
@@ -37612,8 +37620,8 @@ Marcus"""
 -VK
 
 ——原始信息——
-发送：3-13-2147
-发至：Viktor Kharkov
+发送: 2147-3-13
+发至: Viktor Kharkov
 
 是的…我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。
 
@@ -37625,7 +37633,7 @@ Marcus Tanner
 
 > #str_erebus2_tanner_email_2_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus2_tanner_email_2_email_from
 security@EC.net
@@ -37633,7 +37641,7 @@ security@EC.net
 
 > #str_erebus2_tanner_email_2_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_erebus2_tanner_email_2_email_text
 """Mr. Tanner,
@@ -37671,7 +37679,7 @@ Marcus Tanner
 
 > #str_erebus2_tanner_pda_post
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_erebus2_tanner_pda_security
 Site One
@@ -37683,7 +37691,7 @@ Team Coordinator
 
 > #str_erebus2_weston_email_1_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus2_weston_email_1_email_from
 mail.admin@elNET
@@ -37691,7 +37699,7 @@ mail.admin@elNET
 
 > #str_erebus2_weston_email_1_email_subject
 Undeliverable: Security Codes!
-无法送达：安全密码！
+无法送达: 安全密码！
 
 > #str_erebus2_weston_email_1_email_text
 """Your message did not reach some or all of the intended recipients.
@@ -37714,20 +37722,20 @@ All hell has broken loose here in the Erebus Complex!
 """
 """你的信息未送达部分或全部选定的收件人。
 
-    主题：安保密码！
-      已发送于：    3-15-2147
+    主题: 安保密码！
+      已发送于:     2147-3-15
 
-无法找到下列收件人：
+无法找到下列收件人:
 
     'security@EC.net'
       550 security@EC.net 无法递送
 
 ----原始信息----
-已发送于: 3-15-2147
-至：security@EC.net
+已发送于: 2147-3-15
+至: security@EC.net
 我需要储物锁柜028号和029号的安保密码，现在就要！
 
-Erebus设施中的所有东西都逃脱了！
+厄瑞玻斯综合设施中的所有东西都逃脱了！
 
 """
 
@@ -37749,7 +37757,7 @@ Sean Weston
 
 > #str_erebus2_weston_pda_post
 Erebus Labs
-Erebus实验室
+厄瑞玻斯实验室
 
 > #str_erebus2_weston_pda_security
 Site One
@@ -37761,7 +37769,7 @@ Security
 
 > #str_erebus3_crane_email_1_email_date
 3-16-2147
-3-16-2147
+2147-3-16
 
 > #str_erebus3_crane_email_1_email_from
 Stewart Jackson
@@ -37789,7 +37797,7 @@ Steven Crane
 
 > #str_erebus3_crane_email_2_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus3_crane_email_2_email_from
 Jake Hernandez
@@ -37797,7 +37805,7 @@ Jake Hernandez
 
 > #str_erebus3_crane_email_2_email_subject
 Re: Patrols
-回复：巡逻
+回复: 巡逻
 
 > #str_erebus3_crane_email_2_email_text
 """Taken care of.
@@ -37814,10 +37822,10 @@ Crane out."""
 """已经处理好了。
 
 ----原始信息---
-发送日期：3-15-2147
-收件人：Jake Hernandez
+发送日期: 2147-3-15
+收件人: Jake Hernandez
 Hernandez，
-这里有点不对劲。我想让你在Erebus和Phobos设置巡逻岗位。
+这里有点不对劲。我想让你在厄瑞玻斯和火卫一设置巡逻岗位。
 
 让你的人提高警惕。我希望我们能做好应对任何事件的准备。
 
@@ -37829,7 +37837,7 @@ Steven Crane
 
 > #str_erebus3_crane_email_3_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_crane_email_3_email_from
 Stewart Jackson
@@ -37837,7 +37845,7 @@ Stewart Jackson
 
 > #str_erebus3_crane_email_3_email_subject
 Re: Going Nuts!
-回复：疯了！
+回复: 疯了！
 
 > #str_erebus3_crane_email_3_email_text
 """Calm down! I'm working on it.
@@ -37856,7 +37864,7 @@ Steve"""
 """稍等！我正在想办法。
 
 ----原始信息----
-已发送于: 3-13-2147
+已发送于: 2147-3-13
 至: Stewart Jackson
 Stu，
 我无聊得要死。几个月来我没有为了泄怒开过一次枪！中士办公室里的那杆双筒枪在挑逗我。
@@ -37885,7 +37893,7 @@ Steven Crane
 
 > #str_erebus3_crane_pda_post
 Erebus Security
-Erebus保安
+厄瑞玻斯保安
 
 > #str_erebus3_crane_pda_security
 Security
@@ -37897,7 +37905,7 @@ Sergeant
 
 > #str_erebus3_glenn_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_glenn_email_1_email_from
 Viktor Kharkov
@@ -37905,7 +37913,7 @@ Viktor Kharkov
 
 > #str_erebus3_glenn_email_1_email_subject
 RE: I can't take it..
-回复：我受不了
+回复: 我受不了
 
 > #str_erebus3_glenn_email_1_email_text
 """Hang in there. I'm not sure what you've heard, but we should only be here for a few more days.
@@ -37934,7 +37942,7 @@ I've started to develop a rash, I can't focus.. I feel like.. I'm hurting. I nee
 -VK
 
 ----原始信息----
-发送人: 3-13-2147
+发送人: 2147-3-13
 至: 维克多·哈尔科夫
 维克多,
 我要离开这里。 自打听到那些声音, 我身上就止不住的发抖。
@@ -37949,7 +37957,7 @@ Preston Glenn
 
 > #str_erebus3_glenn_email_2_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus3_glenn_email_2_email_from
 Elizabeth McNeil
@@ -37957,7 +37965,7 @@ Elizabeth McNeil
 
 > #str_erebus3_glenn_email_2_email_subject
 RE: Request for Transfer
-回复：请求转移
+回复: 请求转移
 
 > #str_erebus3_glenn_email_2_email_text
 """Dr. Glenn,
@@ -37987,15 +37995,15 @@ Thanks for your consideration,
 
 你和Kharkov博士正在进行的工作是极端重要的。等这一切都结束了，你的研究所能造成的巨大冲击将让你受到全世界瞩目。
 
-不幸的是，我需要让所有空闲的员工都留在Erebus综合楼。别担心，我们会回家的，很快。
+不幸的是，我需要让所有空闲的员工都留在厄瑞玻斯综合设施。别担心，我们会回家的，很快。
 
 ——原始信息——
-发送：3-11-2147
-发至：Elizabeth McNeil
+发送: 2147-3-11
+发至: Elizabeth McNeil
 McNeil博士，
 我很感激你让我有机会跟你和我们的同事一起工作。
 
-然而，我觉得我应该更适合与此不同的工作环境。在Erebus研究部这里的工作非常有趣，我不禁觉得…被孤立了。
+然而，我觉得我应该更适合与此不同的工作环境。在厄瑞玻斯研究部这里的工作非常有趣，我不禁觉得…被孤立了。
 
 我觉得我的能力应该在一个更普通的办公环境中发挥，比如回去地球上。
 
@@ -38011,7 +38019,7 @@ Preston Glenn
 
 > #str_erebus3_glenn_email_3_email_date
 3-12-2147
-3-12-2147
+2147-3-12
 
 > #str_erebus3_glenn_email_3_email_from
 security@EC.net
@@ -38057,7 +38065,7 @@ Preston Glenn
 
 > #str_erebus3_glenn_pda_post
 Erebus Research
-Erebus研究
+厄瑞玻斯研究
 
 > #str_erebus3_glenn_pda_security
 Archives
@@ -38069,7 +38077,7 @@ Archivist
 
 > #str_erebus3_jackson_email_1_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus3_jackson_email_1_email_from
 security@EC.net
@@ -38077,7 +38085,7 @@ security@EC.net
 
 > #str_erebus3_jackson_email_1_email_subject
 Security Breach - Artifact Storage
-入侵- 神器仓库
+入侵- 遗物仓库
 
 > #str_erebus3_jackson_email_1_email_text
 """TO ALL PERSONNEL
@@ -38102,8 +38110,8 @@ Urgent attention is required!
 """
 """致全体员工
 
-出现安全漏洞：遗物储藏室
-大约时间：    3-15-2147, 8:27am
+出现安全漏洞: 遗物储藏室
+大约时间:     2147-3-15, 8:27am
 传递自    Victor Kharkov
 
 这是通过security@EC.net发送的自动生成的消息。
@@ -38113,9 +38121,9 @@ Urgent attention is required!
 祝你愉快。
 
 ----原始消息----
-发送日期：3-15-2147
-收件人： security@EC.net
-我们收到了在Erebus综合设施里面发生了未确认安全漏洞的消息。
+发送日期: 2147-3-15
+收件人:  security@EC.net
+我们收到了在厄瑞玻斯综合设施里面发生了未确认安全漏洞的消息。
 
 请尽快采取措施！
 
@@ -38127,7 +38135,7 @@ security@EC.net
 
 > #str_erebus3_jackson_email_2_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_jackson_email_2_email_from
 John Ridge
@@ -38135,7 +38143,7 @@ John Ridge
 
 > #str_erebus3_jackson_email_2_email_subject
 RE: Backup in Erebus
-回复：艾瑞布斯支援
+回复: 厄瑞玻斯支援
 
 > #str_erebus3_jackson_email_2_email_text
 """McNeil has us running thin. I've got a couple of personnel that I can send your way. Hernandez will be contacting you.
@@ -38151,10 +38159,10 @@ With all the bodies to protect down here, I need some backup. Is there anyone le
 """McNeil让我们的人越来越少了。我可以派几个人去你那里。Hernandez会联系你的。
 
 ----原始邮件----
-发送日期: 3-14-2147
+发送日期: 2147-3-14
 收件人: John Ridge
 上尉,
-我们在Erebus一直有怪事发生。科学家都给吓尿了。
+我们在厄瑞玻斯一直有怪事发生。科学家都给吓尿了。
 
 我们有很多人要保护，人手不够。还能派点人来吗？
 """
@@ -38177,7 +38185,7 @@ Stewart Jackson
 
 > #str_erebus3_jackson_pda_post
 Erebus Security
-Erebus保安
+厄瑞玻斯保安
 
 > #str_erebus3_jackson_pda_security
 Security
@@ -38193,7 +38201,7 @@ Date: 03-15-2147
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 维克多·哈尔科夫博士
-日期: 03-15-2147
+日期: 2147-03-15
 打开并更改: 是
 入档: 是"""
 
@@ -38203,7 +38211,7 @@ Hunter Revelations
 
 > #str_erebus3_kharkov_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus3_kharkov_email_1_email_from
 mail.admin@elNET
@@ -38211,7 +38219,7 @@ mail.admin@elNET
 
 > #str_erebus3_kharkov_email_1_email_subject
 Undeliverable: E-Mail from Mars
-无法送达：来自火星的E-Mail
+无法送达: 来自火星的E-Mail
 
 > #str_erebus3_kharkov_email_1_email_text
 """Your message did not reach some or all of the intended recipients.
@@ -38237,17 +38245,17 @@ I will see you soon.
 -VK"""
 """你的信息未送达部分或全部选定的收件人。
 
-    主题：来自火星的邮件
-      发送：    3-13-2147
+    主题: 来自火星的邮件
+      发送:     2147-3-13
 
-无法找到下列收件人：
+无法找到下列收件人:
 
     'k.kharkov@kpjNET'
       550 k.kharkov@kpjNET 无法递送
 
 ----原始信息----
-Sent: 3-13-2147
-至：Katherine Kharkov (k.kharkov@kpjNET)
+Sent: 2147-3-13
+至: Katherine Kharkov (k.kharkov@kpjNET)
 Kathrine,
 但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在McNeil博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了Stocker一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。
 
@@ -38263,7 +38271,7 @@ Viktor Kharkov
 
 > #str_erebus3_kharkov_email_2_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_kharkov_email_2_email_from
 Viktor Kharkov
@@ -38271,7 +38279,7 @@ Viktor Kharkov
 
 > #str_erebus3_kharkov_email_2_email_subject
 RE: Undeliverable: E-Mail from Mars
-回复：无法运送：来自火星的电子邮件
+回复: 无法运送: 来自火星的电子邮件
 
 > #str_erebus3_kharkov_email_2_email_text
 """I've been having trouble sending and receiving mail offworld. It looks like everything is bouncing back or you all are having trouble with your systems.
@@ -38295,7 +38303,7 @@ mail.admin@plNET
 
 > #str_erebus3_kharkov_email_3_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_kharkov_email_3_email_from
 Elizabeth McNeil
@@ -38303,7 +38311,7 @@ Elizabeth McNeil
 
 > #str_erebus3_kharkov_email_3_email_subject
 RE: Update 3-14-2147
-回复：更新3-14-2147
+回复: 更新2147-3-14
 
 > #str_erebus3_kharkov_email_3_email_text
 """I just grabbed your report off the network. Thank you for taking care of this. I should be at Site One tomorrow afternoon.
@@ -38317,7 +38325,7 @@ The report is on the network. What is this about.. we don't have much time?
 """我刚才网上收到了你的报告。感谢你专心为之。我明天下午应该在一号地点。
 
 ----原始信息----
-发送时间: 3-14-2147
+发送时间: 2147-3-14
 至: 伊丽莎白·麦克内尔
 报告在网络上。 里面的内容相关.. 我们私下谈谈行吗?
 
@@ -38329,7 +38337,7 @@ Viktor Kharkov
 
 > #str_erebus3_kharkov_email_4_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus3_kharkov_email_4_email_from
 Elizabeth McNeil
@@ -38337,7 +38345,7 @@ Elizabeth McNeil
 
 > #str_erebus3_kharkov_email_4_email_subject
 Update 3-14-2147
-更新 3-14-2147
+更新 2147-3-14
 
 > #str_erebus3_kharkov_email_4_email_text
 """Viktor,
@@ -38365,7 +38373,7 @@ Viktor Kharkov
 
 > #str_erebus3_kharkov_pda_post
 Erebus Research
-Erebus研究
+厄瑞玻斯研究
 
 > #str_erebus3_kharkov_pda_security
 Archives
@@ -38377,7 +38385,7 @@ Archivist
 
 > #str_erebus4_mac_email_1_email_date
 3-11-2147
-3-11-2147
+2147-3-11
 
 > #str_erebus4_mac_email_1_email_from
 Dr. Kleinberg
@@ -38385,7 +38393,7 @@ Kleinberg博士
 
 > #str_erebus4_mac_email_1_email_subject
 RE: Meds to help me sleep
-回复：医生帮助我入睡
+回复: 医生帮助我入睡
 
 > #str_erebus4_mac_email_1_email_text
 """Mac,
@@ -38412,7 +38420,7 @@ Mac"""
 克莱因伯格医生
 
 ----原始信息----
-发送时间: 3-11-2147
+发送时间: 2147-3-11
 至: 克莱因伯格医生
 克莱因伯格医生, 不知道你能不能推荐一些药帮助我睡好觉。 我一直睡不着觉, 睡着了就做噩梦。
 
@@ -38439,7 +38447,7 @@ Mac Smith
 
 > #str_erebus4_mac_pda_post
 Erebus Excavation
-Erebus遗迹
+厄瑞玻斯遗迹
 
 > #str_erebus4_mac_pda_security
 Offices
@@ -38451,7 +38459,7 @@ Senior Technician
 
 > #str_erebus4_nathan_email_1_email_date
 3-10-2147
-3-10-2147
+2147-3-10
 
 > #str_erebus4_nathan_email_1_email_from
 Ron L. Gibbons
@@ -38459,7 +38467,7 @@ Ron L. Gibbons
 
 > #str_erebus4_nathan_email_1_email_subject
 RE: Need Powercells
-回复：需要能量块
+回复: 需要能量块
 
 > #str_erebus4_nathan_email_1_email_text
 """Nathan,
@@ -38480,7 +38488,7 @@ Nathan
 如果我找到更多电池就告诉你。我们应该很快就有一批电池要到了。
 
 ----原始邮件----
-发送: 3-10-2147
+发送: 2147-3-10
 收件人: Ron L. Gibbons
 Ron,
 我们这里一直在灯火管制。你有没有多余的能量电池？
@@ -38506,7 +38514,7 @@ Nathan Reynolds
 
 > #str_erebus4_nathan_pda_post
 Erebus Excavation
-Erebus遗迹
+厄瑞玻斯遗迹
 
 > #str_erebus4_nathan_pda_security
 Offices
@@ -38518,7 +38526,7 @@ Senior Technician
 
 > #str_erebus4_ron_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus4_ron_email_1_email_from
 security@EC.net
@@ -38526,7 +38534,7 @@ security@EC.net
 
 > #str_erebus4_ron_email_1_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_erebus4_ron_email_1_email_text
 """Mr. Gibbons,
@@ -38552,7 +38560,7 @@ Ron Gibbons
 
 > #str_erebus4_ron_email_2_email_date
 3-10-2147
-3-10-2147
+2147-3-10
 
 > #str_erebus4_ron_email_2_email_from
 Nathan G. Reynolds
@@ -38592,7 +38600,7 @@ Ron Gibbons
 
 > #str_erebus4_ron_pda_post
 Erebus Excavation
-Erebus遗迹
+厄瑞玻斯遗迹
 
 > #str_erebus4_ron_pda_security
 Offices
@@ -38604,7 +38612,7 @@ Senior Technician
 
 > #str_erebus5_avery_email_1_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus5_avery_email_1_email_from
 Elizabeth McNeil
@@ -38612,7 +38620,7 @@ Elizabeth McNeil
 
 > #str_erebus5_avery_email_1_email_subject
 Re: Preparations
-回复：准备
+回复: 准备
 
 > #str_erebus5_avery_email_1_email_text
 """What's going on down there? Is the area secured? One of our members should be coming through very soon. Make sure he gets what he needs.
@@ -38625,16 +38633,16 @@ Leo,
 I need you to check the stockpiles within the hangar armory at the Erebus Complex. A situation is about to arise and we all need to be prepared as much as possible.
 
 If you need assistance, contact Sparks and Carnagey. They're doing research within your complex."""
-"""What's going on down there? Is the area secured? One of our members should be coming through very soon. Make sure he gets what he needs.
+"""下面那边情况怎么样？那片区域安全了吗？我们的一名成员很快就会过去。确保他能得到所需的东西。
 
-----Original Message----
-Sent: 3-14-2147
-To: Leo Avery
-Leo,
+----原消息----
+发送时间: 2147-3-14
+至: 里欧·艾弗里
+里欧,
 
-I need you to check the stockpiles within the hangar armory at the Erebus Complex. A situation is about to arise and we all need to be prepared as much as possible.
+我需要你去厄瑞玻斯综合设施的军械库检查一下库存。情况即将出现，我们都要尽可能做好准备。
 
-If you need assistance, contact Sparks and Carnagey. They're doing research within your complex."""
+如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"""
 
 > #str_erebus5_avery_email_1_email_to
 Leo Avery
@@ -38642,7 +38650,7 @@ Leo Avery
 
 > #str_erebus5_avery_email_2_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus5_avery_email_2_email_from
 James Carnagey
@@ -38678,7 +38686,7 @@ Leo Avery
 
 > #str_erebus5_avery_pda_post
 Erebus Complex
-Erebus综合楼
+厄瑞玻斯综合设施
 
 > #str_erebus5_avery_pda_security
 Sewage Access
@@ -38690,7 +38698,7 @@ Maintenance
 
 > #str_erebus5_gibson_email_1_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus5_gibson_email_1_email_from
 Leo Avery
@@ -38714,7 +38722,7 @@ Sean Gibson
 
 > #str_erebus5_gibson_email_2_email_date
 3-15-2147
-3-15-2147
+2147-3-15
 
 > #str_erebus5_gibson_email_2_email_from
 Leo Avery
@@ -38722,7 +38730,7 @@ Leo Avery
 
 > #str_erebus5_gibson_email_2_email_subject
 FW: Preparations
-转发：准备
+转发: 准备
 
 > #str_erebus5_gibson_email_2_email_text
 """We need ammunition fast. Dr. McNeil sent along a message that we should be expecting company and to help them out however we can. Check the supplies in the cargo tunnels and report back immediately.
@@ -38738,13 +38746,13 @@ If you need assistance, contact Sparks and Carnagey. They're doing research with
 """我们迫切需要弹药。McNeil博士发来一条信息说，我们得做好遭遇来犯并且随时协助还击的准备。检查货运隧道中的补给然后迅速汇报。
 
 ----原始信息----
-已发送于：3-14-2147
-至：Leo Avery
+已发送于: 2147-3-14
+至: Leo Avery
 Leo,
 
-我需要你检查Erebus设施武器库的库存。有情况即将发生，我们需要全员戒备以防万一。
+我需要你检查厄瑞玻斯综合设施武器库的库存。有情况即将发生，我们需要全员戒备以防万一。
 
-如果你需要协助，联系Sparks和Carnagey。他们正在你的设施内进行研究。"""
+如果你需要协助，联系Sparks和Carnagey。他们正在你的综合设施内进行研究。"""
 
 > #str_erebus5_gibson_email_2_email_to
 Sean Gibson
@@ -38752,7 +38760,7 @@ Sean Gibson
 
 > #str_erebus5_gibson_email_3_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus5_gibson_email_3_email_from
 Victor Kharkov
@@ -38792,7 +38800,7 @@ Sean Gibson
 
 > #str_erebus5_gibson_pda_post
 Erebus Complex
-Erebus综合楼
+厄瑞玻斯综合设施
 
 > #str_erebus5_gibson_pda_security
 General Access
@@ -38804,7 +38812,7 @@ Maintenance
 
 > #str_erebus6_grossman_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_erebus6_grossman_email_1_email_from
 Elizabeth McNeil
@@ -38812,7 +38820,7 @@ Elizabeth McNeil
 
 > #str_erebus6_grossman_email_1_email_subject
 Re: Sentry Deployment
-回复：哨兵部署
+回复: 哨兵部署
 
 > #str_erebus6_grossman_email_1_email_text
 """Fred,
@@ -38830,7 +38838,7 @@ When it returns, send me your status immediately."""
 我开始担心了。下面的情况怎么样？我们需要尽快进去。
 
 ----初始消息---
-发送日期：3-13-2147
+发送日期: 2147-3-13
 收件人Fred Grossman
 记得要把哨兵机器人部署好。我们不能冒险再让任何人在下面丧生了。
 
@@ -38842,7 +38850,7 @@ Fred Grossman
 
 > #str_erebus6_grossman_email_2_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus6_grossman_email_2_email_from
 Elizabeth McNeil
@@ -38866,7 +38874,7 @@ Fred Grossman
 
 > #str_erebus6_grossman_email_3_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_erebus6_grossman_email_3_email_from
 security@EC.net
@@ -38874,7 +38882,7 @@ security@EC.net
 
 > #str_erebus6_grossman_email_3_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_erebus6_grossman_email_3_email_text
 """Mr. Grossman,
@@ -38912,7 +38920,7 @@ Fred Grossman
 
 > #str_erebus6_grossman_pda_post
 Erebus Station
-Erebus站
+厄瑞玻斯站
 
 > #str_erebus6_grossman_pda_security
 Sewer
@@ -38928,7 +38936,7 @@ Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Travis Folsom
-日期: 10-30-2145
+日期: 2145-10-30
 允许修改: 否
 存入档案: 是"""
 
@@ -38942,9 +38950,9 @@ Engineering
 Date: 08/21/45
 
 Technical specifications"""
-"""创建人：UAC
+"""创建人: UAC
 工程处
-日期：08/21/45
+日期: 08/21/45
 
 技术参数"""
 
@@ -38958,9 +38966,9 @@ Lead Technology Officer
 Date: 11/27/46
 
 Information and safety considerations"""
-"""创建人：UAC
+"""创建人: UAC
 首席技术官
-日期：11/27/46
+日期: 11/27/46
 
 信息与安全考虑"""
 
@@ -38974,7 +38982,7 @@ Date: 08-08-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Simon Garlick
-日期: 08-08-2145
+日期: 2145-08-08
 允许修改: 否
 存入档案: 否"""
 
@@ -38988,7 +38996,7 @@ Date: 08-10-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Simon Garlick
-日期: 08-10-2145
+日期: 2145-08-10
 允许修改: 是
 存入档案: 否"""
 
@@ -38998,7 +39006,7 @@ Still Separated from Team
 
 > #str_hell_garlick_email_1_email_date
 08-06-2145
-08-06-2145
+2145-08-06
 
 > #str_hell_garlick_email_1_email_from
 Heather Elaine
@@ -39034,7 +39042,7 @@ Simon Garlick
 
 > #str_hell_garlick_email_2_email_date
 08-06-2145
-08-06-2145
+2145-08-06
 
 > #str_hell_garlick_email_2_email_from
 Earl Besch
@@ -39093,7 +39101,7 @@ Date: 09-24-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 约书亚·赫伯特
-日期: 09-24-2145
+日期: 2145-09-24
 打开并更改: 否
 入档: 是"""
 
@@ -39103,7 +39111,7 @@ Expedition Trip 14A-2
 
 > #str_hell_hebert_email_1_email_date
 xx-xx-2145
-xx-xx-2145
+2145-xx-xx
 
 > #str_hell_hebert_email_1_email_from
 Brian
@@ -39111,7 +39119,7 @@ Brian
 
 > #str_hell_hebert_email_1_email_subject
 Re: Your application
-回复：你的应用
+回复: 你的应用
 
 > #str_hell_hebert_email_1_email_text
 """This is a the default email.
@@ -39133,7 +39141,7 @@ Joshua Hebert
 
 > #str_hell_hebert_email_2_email_date
 xx-xx-2145
-xx-xx-2145
+2145-xx-xx
 
 > #str_hell_hebert_email_2_email_from
 Brian
@@ -39215,7 +39223,7 @@ Game Designers
 
 > #str_hellknight31email_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_hellknight31email_email_from
 Research Archive
@@ -39243,7 +39251,7 @@ Mail recipient
 
 > #str_highscore_email_date
 12-12-2145
-12-12-2145
+2145-12-12
 
 > #str_highscore_email_from
 HR Coordinator
@@ -39282,8 +39290,8 @@ Mail recipient
 Date: 04/15/45
 
 Information on the Hydrocon system"""
-"""创建人：UAC公关部
-日期：04/15/45
+"""创建人: UAC公关部
+日期: 04/15/45
 
 关于Hydrocon系统的信息"""
 
@@ -39296,8 +39304,8 @@ Hydrocon
 Date: 11/15/45
 
 Results of the human teleportation experiments"""
-"""创建人：Ian Mccormick
-日期：11/15/45
+"""创建人: Ian Mccormick
+日期: 11/15/45
 
 人类传输实验的结果"""
 
@@ -39307,7 +39315,7 @@ Teleportation Experiments
 
 > #str_id_1_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_1_email_from
 Adrian Carmack
@@ -39329,7 +39337,7 @@ Doom Player
 
 > #str_id_2_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_2_email_from
 John Carmack
@@ -39353,7 +39361,7 @@ Doom Player
 
 > #str_id_3_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_3_email_from
 Kevin Cloud
@@ -39377,7 +39385,7 @@ Doom Player
 
 > #str_id_4_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_4_email_from
 Todd Hollenshead
@@ -39415,7 +39423,7 @@ Doom Player
 
 > #str_id_5_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_5_email_from
 Tim Willits
@@ -39445,7 +39453,7 @@ Doom Player
 
 > #str_id_6_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_6_email_from
 Christian Antkow
@@ -39465,13 +39473,13 @@ Bryan Watkins and the entire team at Danetracks : 'Thanks for going above and be
 The Owners at id : 'Thank you for your continued support and guidance throughout the years'
 
 """
-"""Gloria：'感谢你能忍受我们这种长时间的工作。'
+"""Gloria: '感谢你能忍受我们这种长时间的工作。'
 
-我的家人：'感谢你多年来的爱心和支持让我在这里定居'
+我的家人: '感谢你多年来的爱心和支持让我在这里定居'
 
-Danetracks的Bryan Watkins和整个团队：'多谢你尽心尽力协助支持我们’
+Danetracks的Bryan Watkins和整个团队: '多谢你尽心尽力协助支持我们’
 
-id的所有者们：'多谢你多年来持续的支持和指导'
+id的所有者们: '多谢你多年来持续的支持和指导'
 
 """
 
@@ -39481,7 +39489,7 @@ Doom Player
 
 > #str_id_7_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_7_email_from
 Timothee Besset
@@ -39523,7 +39531,7 @@ Doom Player
 
 > #str_id_8_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_8_email_from
 Mal Blackwell
@@ -39551,7 +39559,7 @@ Doom Player
 
 > #str_id_9_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_9_email_from
 Andy Chang
@@ -39607,7 +39615,7 @@ Doom Player
 
 > #str_id_10_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_10_email_from
 Jim Dose
@@ -39639,7 +39647,7 @@ Doom Player
 
 > #str_id_11_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_11_email_from
 Pat Duffy
@@ -39671,7 +39679,7 @@ Doom Player
 
 > #str_id_12_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_12_email_from
 Robert Duffy
@@ -39701,7 +39709,7 @@ Doom Player
 
 > #str_id_13_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_13_email_from
 Matt Hooper
@@ -39727,7 +39735,7 @@ Doom Player
 
 > #str_id_14_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_14_email_from
 James Houska
@@ -39753,7 +39761,7 @@ Doom Player
 
 > #str_id_15_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_15_email_from
 Donna Jackson
@@ -39781,7 +39789,7 @@ Doom Player
 
 > #str_id_16_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_16_email_from
 Jerry Keehan
@@ -39825,7 +39833,7 @@ Doom Player
 
 > #str_id_17_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_17_email_from
 Seneca Menard
@@ -39847,7 +39855,7 @@ Doom Player
 
 > #str_id_18_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_18_email_from
 Fredrik Nilsson
@@ -39879,19 +39887,19 @@ Thanks...
 Fredrik"""
 """哇，如果你读到这个的话你真的沉迷游戏了。希望你真的很喜欢它……转过身去……赶快。=) 
 
-我想要对我的家人说声谢谢：Lars，Ingegard，Sofie，Chris，Andrew，Anneli，Tom，Denise，TJ。
+我想要对我的家人说声谢谢: Lars，Ingegard，Sofie，Chris，Andrew，Anneli，Tom，Denise，TJ。
 还有所有我在瑞典的朋友和家人。
 我想念你们……
 
-至SMR：   ……
+至SMR:    ……
 
-帝国(III)：感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太无敌了……
+帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太无敌了……
 
-至我的同时：我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)
+至我的同时: 我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)
 
-至id的所有者：你们在这里建立了一个令人惊讶的世界……以学到了许多顶级的游戏设计的知识……
+至id的所有者: 你们在这里建立了一个令人惊讶的世界……以学到了许多顶级的游戏设计的知识……
 
-当然还要感谢屏幕前这为玩家：感谢你们所有的支持，以及在我们连夜赶工汉化时，你们把F5刷爆了的耐心。
+当然还要感谢屏幕前这为玩家: 感谢你们所有的支持，以及在我们连夜赶工汉化时，你们把F5刷爆了的耐心。
 
 感谢……
 
@@ -39903,7 +39911,7 @@ Doom Player
 
 > #str_id_19_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_19_email_from
 Steve Rescoe
@@ -39925,7 +39933,7 @@ Doom Player
 
 > #str_id_20_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_20_email_from
 Kenneth Scott
@@ -39953,7 +39961,7 @@ Doom Player
 
 > #str_id_21_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_21_email_from
 Marty Stratton
@@ -39961,7 +39969,7 @@ Marty Stratton
 
 > #str_id_21_email_subject
 SUSPECTED SPAM: B1G TH4NK5
-可疑的垃圾邮件： 10分感xie
+可疑的垃圾邮件:  10分感xie
 
 > #str_id_21_email_text
 """If you've played this far, I certainly hope you've enjoyed DOOM 3 (or at least enjoyed the quick devmap and noclip ride to look at this secret).  It was a pleasure to be a part of the team that created it.  Even after 4 years of seeing it in development, I'm still in awe of the detail, complexity, and creativity packed into every square inch of the game.
@@ -39987,7 +39995,7 @@ Doom Player
 
 > #str_id_22_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_22_email_from
 Patrick Thomas
@@ -40009,7 +40017,7 @@ Doom Player
 
 > #str_id_23_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_23_email_from
 JMP van Waveren
@@ -40035,7 +40043,7 @@ Doom Player
 
 > #str_id_24_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_24_email_from
 Eric Webb
@@ -40063,7 +40071,7 @@ Doom Player
 
 > #str_id_25_email_date
 11-16-2145
-11-16-2145
+2145-11-16
 
 > #str_id_25_email_from
 Brian Harris
@@ -40087,7 +40095,7 @@ Doom Player
 
 > #str_imp27email_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_imp27email_email_from
 Research Archive
@@ -40112,7 +40120,7 @@ Mail recipient
 
 > #str_imp197email_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_imp197email_email_from
 Research Archive
@@ -40141,8 +40149,8 @@ Mail recipient
 Date: 11/15/45
 
 Daily News Report from IPN News Network"""
-"""创建人：IPN新闻网络
-日期：11/15/45
+"""创建人: IPN新闻网络
+日期: 11/15/45
 
 IPN新闻网的日常新闻报道"""
 
@@ -40180,13 +40188,13 @@ Date: 10-12-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 艾伦·罗兹
-日期: 10-12-2145
+日期: 2145-10-12
 打开并更改: 否
 入档: 是"""
 
 > #str_le_enpro_rhodes_audio_1_audio_name
 Auxiliary Power Update
-辅助电源升级
+辅助能源升级
 
 > #str_le_enpro_rhodes_audio_2_audio_info
 """Made by: Allen Rhodes
@@ -40194,7 +40202,7 @@ Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 艾伦·罗兹
-日期: 11-15-2145
+日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
 
@@ -40204,7 +40212,7 @@ Personal Update
 
 > #str_le_enpro_rhodes_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_le_enpro_rhodes_email_1_email_from
 Dr. Richard Meyers
@@ -40228,7 +40236,7 @@ Rhodes局长
 
 > #str_le_enpro_rhodes_email_2_email_date
 10-31-2145
-10-31-2145
+2145-10-31
 
 > #str_le_enpro_rhodes_email_2_email_from
 Sharon Rhodes
@@ -40282,7 +40290,7 @@ Date: 11-05-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 克里斯·瓦尔加斯
-日期: 11-05-2145
+日期: 2145-11-05
 打开并更改: 否
 入档: 是"""
 
@@ -40292,7 +40300,7 @@ Test Preparation
 
 > #str_le_enpro_vargas_email_1_email_date
 10-27-2145
-10-27-2145
+2145-10-27
 
 > #str_le_enpro_vargas_email_1_email_from
 Allen Rhodes
@@ -40316,7 +40324,7 @@ Chris Vargas
 
 > #str_le_enpro_vargas_email_2_email_date
 10-27-2145
-10-27-2145
+2145-10-27
 
 > #str_le_enpro_vargas_email_2_email_from
 Rodney Daniels
@@ -40364,7 +40372,7 @@ Senior Engineer
 
 > #str_le_enpro_voss_email_1_email_date
 10-27-2145
-10-27-2145
+2145-10-27
 
 > #str_le_enpro_voss_email_1_email_from
 Chris Vargas
@@ -40388,7 +40396,7 @@ David Voss
 
 > #str_le_enpro_voss_email_2_email_date
 10-27-2145
-10-27-2145
+2145-10-27
 
 > #str_le_enpro_voss_email_2_email_from
 Andrew Chin
@@ -40416,7 +40424,7 @@ David Voss
 
 > #str_le_enpro_voss_email_3_email_date
 10-26-2145
-10-26-2145
+2145-10-26
 
 > #str_le_enpro_voss_email_3_email_from
 Ron Ridge
@@ -40468,11 +40476,11 @@ Security Officer
 
 > #str_le_exis_adil_email_0_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_le_exis_adil_email_0_email_from
 Elliot Swann
-Elliot Swann
+埃利奥特·斯旺
 
 > #str_le_exis_adil_email_0_email_subject
 Mars Base Review
@@ -40491,13 +40499,13 @@ Elliot Swann
 UAC Executive Counsel"""
 """阿迪尔中士，
 
-我已意识到你对我的来访很关注。这次行程对UAC的管理层至关重要，作为现场勘查的一部分，我将亲自检查埃克西斯实验室。我了解埃克西斯发生了很多事，这次行程我也将调查事发原因。我已经给火星安全部门主管发去了信息，他们会为你们提供武器装备以及必需品，请务必做好安保工作。
+我已意识到你对我的来访很关注。这次行程对UAC的管理层至关重要，作为现场勘查的一部分，我将亲自检查艾克西斯实验室。我了解艾克西斯发生了很多事，这次行程我也将调查事发原因。我已经给火星安全部门主管发去了信息，他们会为你们提供武器装备以及必需品，请务必做好安保工作。
 
 还有，我可以向你保证我已经对自身安全做了额外的预防措施。
 
 谨致问候，
 
-艾略特 斯万
+埃利奥特·斯旺
 UAC 执行顾问"""
 
 > #str_le_exis_adil_email_0_email_to
@@ -40506,7 +40514,7 @@ Nasir Adil
 
 > #str_le_exis_adil_email_1_email_date
 10-09-2145
-10-09-2145
+2145-10-09
 
 > #str_le_exis_adil_email_1_email_from
 Chase Higgins
@@ -40532,7 +40540,7 @@ Exis Labs Engineering"""
 谢谢，
 
 Chase Higgins
-Exis实验室工程处"""
+艾克西斯实验室工程处"""
 
 > #str_le_exis_adil_email_1_email_to
 Nasir Adil
@@ -40552,7 +40560,7 @@ Nasir Adil
 
 > #str_le_exis_adil_pda_post
 Exis Labs
-Exis实验室
+艾克西斯实验室
 
 > #str_le_exis_adil_pda_security
 """"""
@@ -40564,7 +40572,7 @@ Security Chief
 
 > #str_le_exis_folsom_email_0_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_le_exis_folsom_email_0_email_from
 Mars Weather
@@ -40591,8 +40599,8 @@ SEVERE WEATHER IS NOT EXPECTED AND NO WARNINGS ARE ANTICIPATED FOR MARS BASE AT 
 
 LAT...LON 3613 9899 3593 9900 3595 9934 3613 9933
 """
-"""特殊天气报告： 火星气象局
-03：47 早上 火星时间 星期一 11月15日 2145
+"""特殊天气报告:  火星气象局
+03: 47 早上 火星时间 星期一 11月15日 2145
 重要天气报告。。。
 03:47 早上 火星时间。。。一个强沙尘暴在ARES VALLIS出现并以每小时60英里的速度往东方移动
 危险包括。。。
@@ -40605,7 +40613,7 @@ Travis Folsom
 
 > #str_le_exis_folsom_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_le_exis_folsom_email_1_email_from
 LUCKY WINNER
@@ -40637,7 +40645,7 @@ Travis Folsom
 
 > #str_le_exis_folsom_email_2_email_date
 10-22-2145
-10-22-2145
+2145-10-22
 
 > #str_le_exis_folsom_email_2_email_from
 Andy Cavazos
@@ -40655,7 +40663,7 @@ A number of foundation piers at Exis Research sector collapsed today.  It occure
 Andy Cavazos        """
 """Folsom先生，
 
-今天在Exis研究区的一些基础桥墩崩塌了。这是发生在该地区另一起短暂而强烈的地震之后的……这已经是本月第3次了。我们已经将现有地质条件的问题向民用部反映过了，他们也感到很困惑。火星应该根本没有地震活动的！从地理学上来说，它完全是个死亡星球！明天队伍将重新挖掘桥墩，希望一切可以重回正轨。
+今天在艾克西斯研究区的一些基础桥墩崩塌了。这是发生在该地区另一起短暂而强烈的地震之后的……这已经是本月第3次了。我们已经将现有地质条件的问题向民用部反映过了，他们也感到很困惑。火星应该根本没有地震活动的！从地理学上来说，它完全是个死亡星球！明天队伍将重新挖掘桥墩，希望一切可以重回正轨。
 
 Andy Cavazos        """
 
@@ -40677,7 +40685,7 @@ Travis Folsom
 
 > #str_le_exis_folsom_pda_post
 Exis Labs
-Exis实验室
+艾克西斯实验室
 
 > #str_le_exis_folsom_pda_security
 """"""
@@ -40689,7 +40697,7 @@ Construction Supervisor
 
 > #str_le_exis_lebedev_email_0_email_date
 10-18-2145
-10-18-2145
+2145-10-18
 
 > #str_le_exis_lebedev_email_0_email_from
 Steve Bryant
@@ -40709,7 +40717,7 @@ Thanks,
 Steve"""
 """D，
 
-Exis那边派出如此严密的保安是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。：）
+艾克西斯那边派出如此严密的保安是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。: ）
 
 谢了，
 
@@ -40721,7 +40729,7 @@ Dmitry Lebedev
 
 > #str_le_exis_lebedev_email_1_email_date
 10-01-2145
-10-01-2145
+2145-10-01
 
 > #str_le_exis_lebedev_email_1_email_from
 Joel Stangl
@@ -40729,7 +40737,7 @@ Joel Stangl
 
 > #str_le_exis_lebedev_email_1_email_subject
 Re: Weird Supply Order 
-回复：奇怪的补给订单
+回复: 奇怪的补给订单
 
 > #str_le_exis_lebedev_email_1_email_text
 """Hey man,
@@ -40758,7 +40766,7 @@ I got a strange delivery this morning here in the Service Tunnel.  My assistant 
 乔
 
 ----原始信息----
-发送时间: 10-01-2145
+发送时间: 2145-10-01
 至: 乔·斯坦格尔
 
 乔,
@@ -40773,15 +40781,15 @@ Dmitry Lebedev
 
 > #str_le_exis_lebedev_email_2_email_date
 10-01-2145
-10-01-2145
+2145-10-01
 
 > #str_le_exis_lebedev_email_2_email_from
 George Earling
-George Earling
+乔治·厄林
 
 > #str_le_exis_lebedev_email_2_email_subject
 URGENT!!!!
-紧急！！！
+紧急！！！！
 
 > #str_le_exis_lebedev_email_2_email_text
 """Reference Order No. DX-39-6293
@@ -40794,16 +40802,16 @@ Sincerely,
 
 George Earling
 Delta Labs"""
-"""Reference Order No. DX-39-6293
+"""参考订单号DX-39-6293
 
-Mr. Lebedev,
+Lebedev先生,
 
-I just found out the procurement department misshipped my order of exclusive DraGonFeets action figures to Exis Labs.  Please whatever you do, DO NOT let anyone open the packaging on them.  They're in mint condition, and very expensive.  I can't leave until my shift is over, but I'll be over there shortly to pick them up.
+我刚刚发现采购部把我的独家DraGonFeets玩具人偶订单错发到了艾克西斯实验室。拜托，无论如何都别让人打开包装。它们是全新未拆封的，而且价格不菲。我下班前走不开，但很快就会过去取。
 
-Sincerely,
+诚挚地，
 
-George Earling
-Delta Labs"""
+乔治·厄林
+德尔塔实验室"""
 
 > #str_le_exis_lebedev_email_2_email_to
 Dmitry Lebedev
@@ -40823,7 +40831,7 @@ Dmitry Lebedev
 
 > #str_le_exis_lebedev_pda_post
 Exis Service Sector
-Exis服务部门
+艾克西斯服务部门
 
 > #str_le_exis_lebedev_pda_security
 """"""
@@ -40839,7 +40847,7 @@ Date: 10-18-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 波尼斯·图雷
-日期: 10-18-2145
+日期: 2145-10-18
 打开并更改: 否
 入档: 是"""
 
@@ -40853,7 +40861,7 @@ Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 波尼斯·图雷
-日期: 11-15-2145
+日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
 
@@ -40863,7 +40871,7 @@ Emergency Situation in Operations
 
 > #str_le_exis_tooley_email_1_email_date
 10-24-2145
-10-24-2145
+2145-10-24
 
 > #str_le_exis_tooley_email_1_email_from
 Eric Nelson
@@ -40871,7 +40879,7 @@ Eric Nelson
 
 > #str_le_exis_tooley_email_1_email_subject
 Exis Staff and Schedule
-Exis职员和日程
+艾克西斯员工和日程
 
 > #str_le_exis_tooley_email_1_email_text
 """Ms. Tooley,
@@ -40887,7 +40895,7 @@ Eric Nelson"""
 
 我刚把月度报告提交给行动数据库，以便你审阅。即使报告中提到的数字只是象征性的，我们有可能再一次地不能实现里程碑式的工作成果。这将是连续第3个月这样子了。我真不知道要如何把这些结果报告给地球上的公司总部。
 
-当前Exis职员为了让工作区域完全运作，已经加班加点得快要精疲力尽了。再加了那些奇怪的事故，如果不获得更多的资源的话，我们这里可能会很快出现真正的问题。
+当前艾克西斯员工为了让工作区域完全运作，已经加班加点得快要精疲力尽了。再加了那些奇怪的事故，如果不获得更多的资源的话，我们这里可能会很快出现真正的问题。
 
 真诚的，
 
@@ -40899,7 +40907,7 @@ Bernice Tooley
 
 > #str_le_exis_tooley_email_2_email_date
 10-04-2145
-10-04-2145
+2145-10-04
 
 > #str_le_exis_tooley_email_2_email_from
 Harold Munch
@@ -40907,7 +40915,7 @@ Harold Munch
 
 > #str_le_exis_tooley_email_2_email_subject
 RE: Dumb Employees
-回复：雇员
+回复: 雇员
 
 > #str_le_exis_tooley_email_2_email_text
 """Bernice,
@@ -40934,7 +40942,7 @@ Harold Munch
 运营协助
 
 ----原始信息----
-已发送于: 10-03-2145
+已发送于: 2145-10-03
 To: Harold Munch
 
 嗨Harold，
@@ -40961,7 +40969,7 @@ Bernice Tooley
 
 > #str_le_exis_tooley_pda_post
 Exis Central Operations
-Exis中央工程
+艾克西斯中央操作
 
 > #str_le_exis_tooley_pda_security
 """"""
@@ -40973,7 +40981,7 @@ Operations Coordinator
 
 > #str_le_undgrnd_anders_email_0_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_le_undgrnd_anders_email_0_email_from
 Leslie Waters
@@ -41007,7 +41015,7 @@ Phillip Anders
 
 > #str_le_undgrnd_anders_email_1_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_le_undgrnd_anders_email_1_email_from
 Roger Harris
@@ -41015,7 +41023,7 @@ Roger Harris
 
 > #str_le_undgrnd_anders_email_1_email_subject
 RE: Cabinet 108
-回复：卡宾枪 108
+回复: 卡宾枪 108
 
 > #str_le_undgrnd_anders_email_1_email_text
 """Phil, 
@@ -41047,7 +41055,7 @@ Phil"""
 Roger
 
 ----原始邮件
-发送日期: 11-18-2145
+发送日期: 2145-11-18
 收件人: Roger Harris
 
 Roger, 
@@ -41065,7 +41073,7 @@ Philip Anders
 
 > #str_le_undgrnd_anders_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_le_undgrnd_anders_email_2_email_from
 Robert Thompson
@@ -41073,7 +41081,7 @@ Robert Thompson
 
 > #str_le_undgrnd_anders_email_2_email_subject
 FW: Technician Lin
-转发：技师Lin
+转发: 技师Lin
 
 > #str_le_undgrnd_anders_email_2_email_text
 """Can you believe this shit? They are going to try and cover this whole mess up. I mean, I know we had a lot to drink, but something was not right with Jenny. She was... she just wasn't acting like herself. It all happened so fast. I can't believe she is gone. The way those guards reacted - it was like they had seen it before... And then they tried to act like it was all her fault. 
@@ -41102,9 +41110,9 @@ Chief Service Technician"""
 Bob
 
 ----原始信息----
-已发送于11-08-2145
+已发送于2145-11-08
 
-至所有次级服役人员：
+至所有次级服役人员:
 
 正如你们听闻的，Jenny Lin已经与世长辞了。尽管这件发生在11月6号的悲剧被许多传言所困扰着，但我在此仍要向各位保证，Union Areospace正在尽一切所能，进行一次全盘深入的调查。
 
@@ -41121,7 +41129,7 @@ Philip Anders
 
 > #str_le_undgrnd_anders_email_3_email_date
 11-06-2145
-11-06-2145
+2145-11-06
 
 > #str_le_undgrnd_anders_email_3_email_from
 Robert Thompson
@@ -41176,7 +41184,7 @@ Sr. Technician
 
 > #str_le_undgrnd_thompson_email_0_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_le_undgrnd_thompson_email_0_email_from
 Bradley Martin
@@ -41210,7 +41218,7 @@ Robert Thompson
 
 > #str_le_undgrnd_thompson_email_1_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_le_undgrnd_thompson_email_1_email_from
 Bradley Martin
@@ -41231,7 +41239,7 @@ When additional information is available I will make it a priority to keep you a
 
 Bradley Martin
 Chief Service Technician"""
-"""至所有次级服役人员：
+"""至所有次级服役人员:
 
 正如你们听闻的，Jenny Lin已经与世长辞了。尽管这件发生在11月6号的悲剧被许多传言所困扰着，但我在此仍要向各位保证，Union Areospace正在尽一切所能，进行一次全盘深入的调查。
 
@@ -41248,7 +41256,7 @@ Service Sub-Level Staff
 
 > #str_le_undgrnd_thompson_email_2_email_date
 11-06-2145
-11-06-2145
+2145-11-06
 
 > #str_le_undgrnd_thompson_email_2_email_from
 Phil Anders
@@ -41256,7 +41264,7 @@ Phil Anders
 
 > #str_le_undgrnd_thompson_email_2_email_subject
 RE: Beers
-回复：啤酒
+回复: 啤酒
 
 > #str_le_undgrnd_thompson_email_2_email_text
 """Count me in!
@@ -41276,7 +41284,7 @@ Bob"""
 
 Phil
 ——原始信息——
-发送： 11-06-2145
+发送:  2145-11-06
 
 Phil，
 
@@ -41320,7 +41328,7 @@ Date: 10-06-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 迪米特里·列别杰夫
-日期: 10-06-2145
+日期: 2145-10-06
 打开并更改: 否
 入档: 是"""
 
@@ -41334,8 +41342,8 @@ Date: 03/11/45
 
 Standard Operating Procedures on Mars
 """
-"""创建人：陆战队总部
-日期：03/11/45
+"""创建人: 陆战队总部
+日期: 03/11/45
 
 火星标准行动流程
 """
@@ -41350,7 +41358,7 @@ Date: 10-30-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 马克·凯斯昂
-日期: 10-30-2145
+日期: 2145-10-30
 打开并更改: 是
 入档: 是"""
 
@@ -41364,7 +41372,7 @@ Date: 11-02-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 马克·凯斯昂
-日期: 11-02-2145
+日期: 2145-11-02
 打开并更改: 否
 入档: 是"""
 
@@ -41374,7 +41382,7 @@ Patient Attack
 
 > #str_marscity2_caseon_email_1_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_marscity2_caseon_email_1_email_from
 Jordan Kenedy
@@ -41382,7 +41390,7 @@ Jordan Kenedy
 
 > #str_marscity2_caseon_email_1_email_subject
 RE: Patient Attack
-回复：病人攻击
+回复: 病人攻击
 
 > #str_marscity2_caseon_email_1_email_text
 """Mark,
@@ -41408,7 +41416,7 @@ Mark Caseon
 
 > #str_marscity2_caseon_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_marscity2_caseon_email_2_email_from
 Sarah Holsten
@@ -41464,7 +41472,7 @@ Doctor
 
 > #str_marscity2_duncan_email_1_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_marscity2_duncan_email_1_email_from
 Ray Gerhardt
@@ -41496,7 +41504,7 @@ Duncan Mathews
 
 > #str_marscity2_duncan_email_2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_marscity2_duncan_email_2_email_from
 UAC Security
@@ -41504,7 +41512,7 @@ UAC安全部队
 
 > #str_marscity2_duncan_email_2_email_subject
 RE: Equipment request
-回复：设备请求
+回复: 设备请求
 
 > #str_marscity2_duncan_email_2_email_text
 """We understand the pressures and concerns of civilians in Mars City.  I want to assure you that there is nothing to worry about.  We in UAC Security have everything under control.
@@ -41531,7 +41539,7 @@ If you do happen to find equipment, it is your duty to return it to UAC Security
 Sincerely,
 UAC Security
 ----Original Message----
-Sent: 11-15-2145
+Sent: 2145-11-15
 To: UAC Security
 
 Please requisition to my department armor and one plasma gun with ammo.  With all that has been happening around here, I don't feel safe.  I haven't been able to sleep and it has been difficult to work.
@@ -41572,7 +41580,7 @@ Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 马科斯 C. 斯坦顿
-日期: 10-30-2145
+日期: 2145-10-30
 打开并更改: 否
 入档: 是"""
 
@@ -41582,7 +41590,7 @@ Undocumented Cargo
 
 > #str_marscity2_stanton_email_1_email_date
 11-12-2145
-11-12-2145
+2145-11-12
 
 > #str_marscity2_stanton_email_1_email_from
 David Robbins
@@ -41606,7 +41614,7 @@ Mixom的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是
 我一有时间就把这些东西送回去。同时，如果你能再帮我向Mixom投诉一次，并尽快弄到我的手提钻的话，那就太谢谢你了。
 
 David Robbins
-工业区"""
+工业综合设施"""
 
 > #str_marscity2_stanton_email_1_email_to
 Marcus Stanton
@@ -41614,7 +41622,7 @@ Marcus Stanton
 
 > #str_marscity2_stanton_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_marscity2_stanton_email_2_email_from
 Ray Gerhardt
@@ -41646,7 +41654,7 @@ Marcus Stanton
 
 > #str_marscity2_stanton_email_3_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_marscity2_stanton_email_3_email_from
 Duncan Mathews
@@ -41654,7 +41662,7 @@ Duncan Mathews
 
 > #str_marscity2_stanton_email_3_email_subject
 FW: Farewell for now
-转发：现在暂别
+转发: 现在暂别
 
 > #str_marscity2_stanton_email_3_email_text
 """Any idea who this guy is?  I think he may be the funny looking dweeb from Alpha Labs, but I always thought his name was Alan.
@@ -41677,7 +41685,7 @@ Ray Gerhardt"""
 你会和他出去喝一杯吗？我是不会的…但如果他付账而且有其他人在场的话，可能会很有趣。
 
 ----原信息----
-发送于: 11-14-2145
+发送于: 2145-11-14
 至: Duncan Mathews
 
 如果你收到了这封电邮，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其他的机会。
@@ -41722,7 +41730,7 @@ Date: 10-30-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 比尔·泰森
-日期: 10-30-2145
+日期: 2145-10-30
 打开并更改: 是
 入档: 是"""
 
@@ -41736,7 +41744,7 @@ Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: No"""
 """来自: 比尔·泰森
-日期: 10-30-2145
+日期: 2145-10-30
 打开并更改: 否
 入档: 是"""
 
@@ -41746,7 +41754,7 @@ Troop Deployments
 
 > #str_marscity2_tyson_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_marscity2_tyson_email_1_email_from
 PFC Hagar
@@ -41782,7 +41790,7 @@ SSgt Tyson
 
 > #str_marscity2_tyson_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_marscity2_tyson_email_2_email_from
 Sergeant Kelly
@@ -41810,7 +41818,7 @@ SSgt Tyson
 
 > #str_marscity2_tyson_email_3_email_date
 11-11-2145
-11-11-2145
+2145-11-11
 
 > #str_marscity2_tyson_email_3_email_from
 Central Security
@@ -41862,7 +41870,7 @@ Staff Sergeant
 
 > #str_marscityinfo1_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_marscityinfo1_email_from
 Safety committee
@@ -41891,13 +41899,13 @@ See postings outside UAC HR for times and locations.
 """
 """安全对我们在火星的工作来说是非常重要的。 我们会在11月（安全宣传月）里检查所有安全协议。这是强制性的，希望你安排时间来参加这些研讨会。
 
-正确的等离子处理方法：检查等离子存储，如何处理等离子泄漏，和治疗等离子灼伤的最好方法。
+正确的等离子处理方法: 检查等离子存储，如何处理等离子泄漏，和治疗等离子灼伤的最好方法。
 
-急救：了解所有的健康包在整个设施的位置和正确的使用方法。特别是预防浪费的方法。当只需要小型医疗包的时候使用大型医疗包会造成医疗物资的短缺。
+急救: 了解所有的健康包在整个设施的位置和正确的使用方法。特别是预防浪费的方法。当只需要小型医疗包的时候使用大型医疗包会造成医疗物资的短缺。
 
 仓库的武器和弹药的安全储存专题讲座。弗雷德·尼尔森将手把手的教导瞄准扫射技巧。
 
-紧急空间灾难：本讲座将集中在要如何做如果你面对漏气，结构破坏，或气闸故障的问题。注意紧急空气储存瓶的位置。
+紧急空间灾难: 本讲座将集中在要如何做如果你面对漏气，结构破坏，或气闸故障的问题。注意紧急空气储存瓶的位置。
 
 
 时间和地点请留意在UAC HR外面的海报
@@ -41910,7 +41918,7 @@ Mail recipient
 
 > #str_marscityinfo2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_marscityinfo2_email_from
 UAC Security
@@ -41918,7 +41926,7 @@ UAC安全部队
 
 > #str_marscityinfo2_email_subject
 Code-Black: Missing Staff
-代码-黑：失踪员工
+代码-黑: 失踪员工
 
 > #str_marscityinfo2_email_text
 """Dr. Jonathan Ishii from the Delta Science Team is missing.  Security is concerned that he may be injured and unable to respond to pages or return to his post.  Please keep an eye out for Dr. Ishii and report to UAC Security if he is located.
@@ -41940,7 +41948,7 @@ Mail recipient
 
 > #str_marscityinfo3_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_marscityinfo3_email_from
 HR Coordinator
@@ -41968,13 +41976,13 @@ For more information about any of these opportunities or to post openings in you
 """
 """德尔塔实验室正征集人员来填补重要位置。你可以帮助我们获得令人惊喜的突破，同时获得金钱回报。
 
-在以下区域需要志愿者：
+在以下区域需要志愿者:
 
-传送：我们需求新传送器的压力测试的测试对象。今天就来体验明天的旅行科技吧！
+传送: 我们需求新传送器的压力测试的测试对象。今天就来体验明天的旅行科技吧！
 
-医疗研究：我们的先进药剂团队需要志愿者来参与令人兴奋的医学研究。帮我们找出一切疾病的疗法，从寻常的感冒到伊波拉7型病毒。
+医疗研究: 我们的先进药剂团队需要志愿者来参与令人兴奋的医学研究。帮我们找出一切疾病的疗法，从寻常的感冒到伊波拉7型病毒。
 
-样本处理：我们需要志愿者来帮助处理和追踪德尔塔实验室实验得到的样本。需要进行健康测试和签订义务弃权协议。
+样本处理: 我们需要志愿者来帮助处理和追踪德尔塔实验室实验得到的样本。需要进行健康测试和签订义务弃权协议。
 
 想知道更多关于这些工作机会的信息或应征相关职位，请约见一位人力资源协调人。
 
@@ -41987,7 +41995,7 @@ Mail recipient
 
 > #str_martianbuddygamecomplete_email_date
 12-12-2145
-12-12-2145
+2145-12-12
 
 > #str_martianbuddygamecomplete_email_from
 MartianBuddy.com
@@ -42051,7 +42059,7 @@ Date: 10-19-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 格兰特·巴斯顿
-日期: 10-19-2145
+日期: 2145-10-19
 打开并更改: 否
 入档: 是"""
 
@@ -42061,7 +42069,7 @@ Unexplainable Things
 
 > #str_mcunderground_baston_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_mcunderground_baston_email_1_email_from
 T. Brooks
@@ -42083,7 +42091,7 @@ Grant Baston
 
 > #str_mcunderground_baston_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_mcunderground_baston_email_2_email_from
 UAC Security
@@ -42143,7 +42151,7 @@ Date: 10-18-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 弗兰克·德哈
-日期: 10-18-2145
+日期: 2145-10-18
 打开并更改: 是
 入档: 是"""
 
@@ -42157,7 +42165,7 @@ Date: 10-24-2145
 Open for Amendment: No
 Set for Archive: No"""
 """来自: 弗兰克·德哈
-日期: 10-24-2145
+日期: 2145-10-24
 打开并更改: 否
 入档: 否"""
 
@@ -42167,7 +42175,7 @@ Fire Blast Precautions
 
 > #str_mcunderground_delahue_email_1_email_date
 11-13-2145
-11-13-2145
+2145-11-13
 
 > #str_mcunderground_delahue_email_1_email_from
 Brian Mora
@@ -42193,7 +42201,7 @@ Frank Delahue
 
 > #str_mcunderground_delahue_email_2_email_date
 11-14-2145
-11-14-2145
+2145-11-14
 
 > #str_mcunderground_delahue_email_2_email_from
 UAC Security
@@ -42201,7 +42209,7 @@ UAC安全部队
 
 > #str_mcunderground_delahue_email_2_email_subject
 RE: Request Security
-回复：请求安保
+回复: 请求安保
 
 > #str_mcunderground_delahue_email_2_email_text
 """UAC Employee,
@@ -42225,8 +42233,8 @@ I formally request additional security as well as an investigation as to what's 
 致敬，
 UAC安全部
 ----原始信息----
-已发送于：11-12-2145
-至：UAC安全部
+已发送于: 2145-11-12
+至: UAC安全部
 
 我现在很关心我自己还有的我同事们在地下工作的安全性。我们有人在通往旧的通信建筑的气闸外面被困住了，而且这几个星期以来紧张的情绪不断在酝酿。我亲眼见到友善的同事变了……
 
@@ -42263,7 +42271,7 @@ Engineering Manager
 
 > #str_mcunderground_ryan_email_1_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_mcunderground_ryan_email_1_email_from
 T. Brooks
@@ -42315,7 +42323,7 @@ Security Officer
 
 > #str_mcunderground_young_email_1_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_mcunderground_young_email_1_email_from
 Frank Delahue
@@ -42376,10 +42384,10 @@ Crane Operator
 Date: 11/15/45
 
 Warning about Exis Teleportation"""
-"""创建人：Richard Meyers
-日期：11/15/45
+"""创建人: Richard Meyers
+日期: 11/15/45
 
-关于Exis传送的警告"""
+关于艾克西斯传送的警告"""
 
 > #str_meyers_report_video_name
 Teleportation Experiments
@@ -42390,8 +42398,8 @@ Teleportation Experiments
 Date: 04/15/45
 
 Information on the MFS system"""
-"""创建人：UAC公关部
-日期：04/15/45
+"""创建人: UAC公关部
+日期: 04/15/45
 
 关于MFS系统的信息"""
 
@@ -42401,7 +42409,7 @@ Molecular Fuel Storage Compactor
 
 > #str_monorail_cullen_email_1_email_date
 10-06-2145
-10-06-2145
+2145-10-06
 
 > #str_monorail_cullen_email_1_email_from
 Security Authority
@@ -42433,7 +42441,7 @@ Karl Cullen
 
 > #str_monorail_cullen_email_2_email_date
 10-12-2145
-10-12-2145
+2145-10-12
 
 > #str_monorail_cullen_email_2_email_from
 Chris Baughman
@@ -42441,7 +42449,7 @@ Chris Baughman
 
 > #str_monorail_cullen_email_2_email_subject
 RE: Turret Shutdown Codes
-回复：炮台关闭代码
+回复: 炮台关闭代码
 
 > #str_monorail_cullen_email_2_email_text
 """Thanks, I freaking hate loaded guns with an automatic IFF.
@@ -42459,8 +42467,8 @@ Karl"""
 """多谢，我真的非常讨厌装备带有自动敌我识别的枪械。
 
 ----原始消息----
-发送日期：11-11-2145
-收件人：所有保安人员
+发送日期: 2145-11-11
+收件人: 所有保安人员
 
 伙计们，
 我已经把机枪塔的关闭序列编码到我的PDA里面了，如果这些枪械发生了什么问题，你可以在金属探测器旁边的安防终端使用这个关闭序列。
@@ -42475,7 +42483,7 @@ Karl Cullen
 
 > #str_monorail_cullen_email_3_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_monorail_cullen_email_3_email_from
 Lee Pommeroy
@@ -42505,7 +42513,7 @@ Karl Cullen
 
 > #str_monorail_cullen_email_4_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_monorail_cullen_email_4_email_from
 Sam Harding
@@ -42533,7 +42541,7 @@ Karl Cullen
 
 > #str_monorail_cullen_email_5_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_monorail_cullen_email_5_email_from
 Mathew Gaiser
@@ -42555,7 +42563,7 @@ Also, as you know there are plenty of rumors about our specimens.  I do not want
 Thank you for your cooperation in this."""
 """Cullen先生，
 
-我们准备从Delta运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到Phobos实验室去，所以只能使用单轨铁路。
+我们准备从Delta运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到火卫一实验室去，所以只能使用单轨铁路。
 
 该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强保安措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。
 
@@ -42597,7 +42605,7 @@ Date: 04-05-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """制作者: Sam Harding
-日期: 04-05-2145
+日期: 2145-04-05
 允许修改: 是
 存入档案: 是"""
 
@@ -42607,7 +42615,7 @@ Magnetic Lock Repairs
 
 > #str_monorail_harding_email_1_email_date
 10-23-2145
-10-23-2145
+2145-10-23
 
 > #str_monorail_harding_email_1_email_from
 James Torbin
@@ -42626,7 +42634,7 @@ I don't know, maybe I'm just over-reacting....
 
 Jim"""
 """山姆， 
-我今天完成了A32大门的修理， 应该会开得比以前顺畅很多。话说，你有没有看到科学小组运输到DELTA部门的文物？虽然我不知道他们是什么，但是我觉得那些东西不应该以箱子外的方式运进来，看到那些东西我就起鸡皮疙瘩，特别是我们都在这座外星人遗迹上工作。只要想想有什么东西潜伏在这些洞穴里就让我不寒而栗。
+我今天完成了A32大门的修理， 应该会开得比以前顺畅很多。话说，你有没有看到科学小组运输到德尔塔综合设施的遗物？虽然我不知道他们是什么，但是我觉得那些东西不应该以箱子外的方式运进来，看到那些东西我就起鸡皮疙瘩，特别是我们都在这座外星人遗迹上工作。只要想想有什么东西潜伏在这些洞穴里就让我不寒而栗。
 不知道，也许我只是想太多了。......
 
 詹姆"""
@@ -42637,7 +42645,7 @@ Sam Harding
 
 > #str_monorail_harding_email_2_email_date
 11-03-2145
-11-03-2145
+2145-11-03
 
 > #str_monorail_harding_email_2_email_from
 Karl Cullen
@@ -42665,7 +42673,7 @@ Sam Harding
 
 > #str_monorail_harding_email_3_email_date
 11-05-2145
-11-05-2145
+2145-11-05
 
 > #str_monorail_harding_email_3_email_from
 Karl Cullen
@@ -42673,7 +42681,7 @@ Karl Cullen
 
 > #str_monorail_harding_email_3_email_subject
 RE: Turret Gun Mounting Brackets
-回复：炮台
+回复: 炮台
 
 > #str_monorail_harding_email_3_email_text
 """Thank you for repairing that so quickly.
@@ -42690,11 +42698,11 @@ Sam"""
 """多谢你这么快就修好了它。
 
 ----原始消息----
-发送时间：11-04-2145
-收件人：Karl Cullen
+发送时间: 2145-11-04
+收件人: Karl Cullen
 
 Karl，
-我今天早上修好了固定架；原因有是那些该死的Mixom螺栓。我真的希望联合航天公司能够找到一个更好的分包商。
+我今天早上修好了固定架；原因有是那些该死的Mixom螺栓。我真的希望UAC能够找到一个更好的分包商。
 
 多谢，
 Sam"""
@@ -42733,17 +42741,17 @@ Date: 09-05-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """来自: 查理斯·霍利戴
-日期: 09-05-2145
+日期: 2145-09-05
 打开并更改: 是
 入档: 否"""
 
 > #str_monorail_hollies_audio_1_audio_name
 EAP Policy Modification :: Site 2
-EAP政策更改 ：： 2号地点
+EAP政策更改 : :  2号地点
 
 > #str_monorail_hollies_email_1_email_date
 10-11-2145
-10-11-2145
+2145-10-11
 
 > #str_monorail_hollies_email_1_email_from
 Yon Brady
@@ -42775,7 +42783,7 @@ Charles Hollies
 
 > #str_monorail_hollies_email_2_email_date
 10-13-2145
-10-13-2145
+2145-10-13
 
 > #str_monorail_hollies_email_2_email_from
 Yon Brady
@@ -42805,7 +42813,7 @@ Charles Hollies
 
 > #str_monorail_hollies_email_3_email_date
 10-27-2145
-10-27-2145
+2145-10-27
 
 > #str_monorail_hollies_email_3_email_from
 Phil Wilson
@@ -42813,7 +42821,7 @@ Phil Wilson
 
 > #str_monorail_hollies_email_3_email_subject
 Artifact Inventory Tracking
-神器物件追踪
+遗物追踪
 
 > #str_monorail_hollies_email_3_email_text
 """Charlie Hollies,
@@ -42824,7 +42832,7 @@ Phil Wilson
 Delta Research Team"""
 """Charlie Hollies,
 
-我们已经收到了一些来自地点2的遗物，但未带有发掘地点以及时间的信息。不知道这些遗物发现于何处以及何时，我们很难处理这些碎片。请检查你们关于遗物：34-x91，21-x23，和86-y12的记录，并将所需的相关信息发送给我。
+我们已经收到了一些来自地点2的遗物，但未带有发掘地点以及时间的信息。不知道这些遗物发现于何处以及何时，我们很难处理这些碎片。请检查你们关于遗物: 34-x91，21-x23，和86-y12的记录，并将所需的相关信息发送给我。
 
 Phil Wilson
 Delta研究队"""
@@ -42859,7 +42867,7 @@ EAP理事总长
 
 > #str_monorail_ross_email_1_email_date
 10-23-2145
-10-23-2145
+2145-10-23
 
 > #str_monorail_ross_email_1_email_from
 Delta Security
@@ -42889,7 +42897,7 @@ Gary Ross
 
 > #str_monorail_ross_email_2_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_monorail_ross_email_2_email_from
 Central Security
@@ -42897,7 +42905,7 @@ Central Security
 
 > #str_monorail_ross_email_2_email_subject
 RE: Airlock Request
-回复：空气阀请求
+回复: 空气阀请求
 
 > #str_monorail_ross_email_2_email_text
 """As you requested, the Junction 5, Site 2 Airlock code has been updated to 826, this will allow you manually override automated rail sensor systems allowing you to open any of the track doors.
@@ -42914,10 +42922,10 @@ Thank You."""
 """按你的需求,5号节点, 2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。
 
 ----原信息----
-发送于:    11-03-2145
+发送于:    2145-11-03
 至:      中央安保
 来自:    Gary Ross
-主题：气闸要求
+主题: 气闸要求
 
 2区的工程组将会在下周对J5气闸系统做一系列测试。我们需要手动操作ARSS来进行这些测试，我们希望将密码更新为826，以便进行测试。
 
@@ -42953,7 +42961,7 @@ Lead Engineer
 
 > #str_new_personal1_email_date
 3-17-2147
-3-17-2147
+2147-3-17
 
 > #str_new_personal1_email_from
 Sergeant Hernandez
@@ -42977,7 +42985,7 @@ Marine
 
 > #str_new_personal2_email_date
 9-12-2146
-9-12-2146
+2146-9-12
 
 > #str_new_personal2_email_from
 Elizabeth McNeil
@@ -43000,7 +43008,7 @@ Thank you for your attention.
 
 Sincerely,
 Dr. Elizabeth McNeil"""
-"""至所有在1号探险站的人员：
+"""至所有在1号探险站的人员:
 
 我想要占用一点你们的时间，来欢迎你们参与这项至关重要的任务。你们的志愿参与使我钦佩万分。在如此长的一段时间内离开朋友和家人，离开我们熟悉的地球的蓝天白云绿草红花，以及最重要的——清新的空气，是十分困难的
 
@@ -43095,7 +43103,7 @@ Xbox LIVE Party游戏
 
 > #str_personal2_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_personal2_email_from
 Sergeant Kelly
@@ -43123,7 +43131,7 @@ Marine
 
 > #str_personal_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_personal_email_from
 Director W. Banks
@@ -43183,7 +43191,7 @@ Date: 01-12-2147
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """来自: 伯纳德·弗拉斯科
-日期: 01-12-2147
+日期: 2147-01-12
 打开并更改: 是
 入档: 是"""
 
@@ -43193,7 +43201,7 @@ Storage Cabinets
 
 > #str_phobos1_fresko_email_1_email_date
 1-12-2147
-1-12-2147
+2147-1-12
 
 > #str_phobos1_fresko_email_1_email_from
 security@EC.net
@@ -43201,7 +43209,7 @@ security@EC.net
 
 > #str_phobos1_fresko_email_1_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_phobos1_fresko_email_1_email_text
 """Bernard,
@@ -43213,7 +43221,7 @@ Director of Security - Phobos Labs"""
 你似乎还没有更改储存柜的密码！
 请注意，你将会为任何任何事物的遗失。
 Roberts
-安全部主管——Phobos Labs"""
+安全部主管——火卫一实验室"""
 
 > #str_phobos1_fresko_email_1_email_to
 Bernard Fresko
@@ -43221,7 +43229,7 @@ Bernard Fresko
 
 > #str_phobos1_fresko_email_2_email_date
 1-10-2147
-1-10-2147
+2147-1-10
 
 > #str_phobos1_fresko_email_2_email_from
 security@EC.net
@@ -43229,7 +43237,7 @@ security@EC.net
 
 > #str_phobos1_fresko_email_2_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_phobos1_fresko_email_2_email_text
 """Bernard,
@@ -43241,7 +43249,7 @@ Director of Security - Phobos Labs"""
 我们需要你更改锁柜的密码。
 新的密码是714。
 Roberts
-安全部主管——Phobos Labs"""
+安全部主管——火卫一实验室"""
 
 > #str_phobos1_fresko_email_2_email_to
 Bernard Fresko
@@ -43249,7 +43257,7 @@ Bernard Fresko
 
 > #str_phobos1_fresko_email_3_email_date
 1-08-2147
-1-08-2147
+2147-1-08
 
 > #str_phobos1_fresko_email_3_email_from
 security@EC.net
@@ -43257,7 +43265,7 @@ security@EC.net
 
 > #str_phobos1_fresko_email_3_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_phobos1_fresko_email_3_email_text
 """Bernard,
@@ -43269,7 +43277,7 @@ Director of Security - Phobos Labs"""
 我们需要你更改锁柜的密码。
 新的密码是398。
 Roberts
-安全部主管——Phobos Labs"""
+安全部主管——火卫一实验室"""
 
 > #str_phobos1_fresko_email_3_email_to
 Bernard Fresko
@@ -43277,7 +43285,7 @@ Bernard Fresko
 
 > #str_phobos1_fresko_email_4_email_date
 1-06-2147
-1-06-2147
+2147-1-06
 
 > #str_phobos1_fresko_email_4_email_from
 security@EC.net
@@ -43285,7 +43293,7 @@ security@EC.net
 
 > #str_phobos1_fresko_email_4_email_subject
 Re: Storage Lockers
-回复：仓库锁柜
+回复: 仓库锁柜
 
 > #str_phobos1_fresko_email_4_email_text
 """Bernard,
@@ -43297,7 +43305,7 @@ Director of Security - Phobos Labs"""
 我们需要你更改锁柜的密码。
 新的密码是591。
 Roberts
-安全部主管——Phobos Labs"""
+安全部主管——火卫一实验室"""
 
 > #str_phobos1_fresko_email_4_email_to
 Bernard Fresko
@@ -43329,7 +43337,7 @@ Lab Technician
 
 > #str_phobos2_edens_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos2_edens_email_1_email_from
 Victor Kharkov
@@ -43357,7 +43365,7 @@ David Edens
 
 > #str_phobos2_edens_email_2_email_date
 3-12-2147
-3-12-2147
+2147-3-12
 
 > #str_phobos2_edens_email_2_email_from
 Elizabeth McNeil
@@ -43419,7 +43427,7 @@ Date: 03-15-2147
 Open for Amendment: Yes
 Set for Archive: Yes"""
 """制作者: Seth Killian
-日期: 03-15-2147
+日期: 2147-03-15
 允许修改: 是
 存入档案: 是"""
 
@@ -43429,7 +43437,7 @@ Help Me
 
 > #str_phobos2_killian_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_phobos2_killian_email_1_email_from
 Fred Grossman
@@ -43437,7 +43445,7 @@ Fred Grossman
 
 > #str_phobos2_killian_email_1_email_subject
 RE: Artifact Gallery
-回复：遗物画廊
+回复: 遗物画廊
 
 > #str_phobos2_killian_email_1_email_text
 """Seth,
@@ -43464,12 +43472,12 @@ Seth"""
 我只想完成我的赶紧离开这儿。
 
 ----原始信息----
-发送：3-13-2174
-到：弗莱德 格罗斯曼
+发送: 2174-3-13
+到: 弗莱德 格罗斯曼
 
 弗莱德，
 
-我想知道跟我交换是什么感觉。我宁愿在阎王手下工作也不来这该死的火卫一。这里令人毛骨悚然，我发誓昨晚我在工艺品展廊绝对看到了什么东西，转眼就消失了。
+我想知道跟我交换是什么感觉。我宁愿在厄瑞玻斯工作也不来这火卫一。这里令人毛骨悚然，我发誓昨晚我在工艺品展廊绝对看到了什么东西，转眼就消失了。
 
 我不在乎你是不是以为我疯了，我只是不喜欢这儿。
 
@@ -43505,7 +43513,7 @@ Maintenance
 
 > #str_phobos2_noordzy_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos2_noordzy_email_1_email_from
 Elizabeth McNeil
@@ -43513,7 +43521,7 @@ Elizabeth McNeil
 
 > #str_phobos2_noordzy_email_1_email_subject
 Artifact Shipments
-神器运输
+遗物运输
 
 > #str_phobos2_noordzy_email_1_email_text
 """Keith,
@@ -43526,7 +43534,7 @@ Elizabeth McNeil
 Director of Research - Phobos Labs"""
 """基斯,
 
-我正在期待这一周从伊里布斯综合区运来的遗物。这些东西非常敏感,如果你能保证细心看着它让它完好无损的来到我的办公室，我会不胜感激!
+我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感,如果你能保证细心看着它让它完好无损的来到我的办公室，我会不胜感激!
 
 谢谢!
 
@@ -43539,7 +43547,7 @@ Keith Noordzy
 
 > #str_phobos2_noordzy_email_2_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_phobos2_noordzy_email_2_email_from
 Phobos Security
@@ -43558,9 +43566,9 @@ Phobos Labs Security
 This message has been generated automatically, please do not reply.
 """
 """Noordzy先生，
-你在3-14-2147这一周的桥梁密码被改为281。新密码即时生效。请不要把密码告诉别人。如果密码丢失，请立即向Phobos实验室安保部报告，我们将邮寄一个新密码给你。
+你在2147-3-14这一周的桥梁密码被改为281。新密码即时生效。请不要把密码告诉别人。如果密码丢失，请立即向火卫一实验室安保部报告，我们将邮寄一个新密码给你。
 
-Phobos实验室安保部
+火卫一实验室安保部
 
 这封邮件由系统自动生成，请勿回复。
 """
@@ -43595,7 +43603,7 @@ Security Chief
 
 > #str_phobos2_owens_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos2_owens_email_1_email_from
 Elizabeth McNeil
@@ -43621,7 +43629,7 @@ Director of Research - Phobos Labs"""
 谢谢合作！
 
 Elizabeth McNeil
-研究部总监 - Phobos实验室"""
+研究部总监 - 火卫一实验室"""
 
 > #str_phobos2_owens_email_1_email_to
 James Owens
@@ -43629,7 +43637,7 @@ James Owens
 
 > #str_phobos2_owens_email_2_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos2_owens_email_2_email_from
 Victor Kharkov
@@ -43661,7 +43669,7 @@ James Owens
 
 > #str_phobos2_owens_email_3_email_date
 3-11-2147
-3-11-2147
+2147-3-11
 
 > #str_phobos2_owens_email_3_email_from
 security@pL.net
@@ -43669,7 +43677,7 @@ security@pL.net
 
 > #str_phobos2_owens_email_3_email_subject
 Re: Virus?
-回复：病毒？
+回复: 病毒？
 
 > #str_phobos2_owens_email_3_email_text
 """Mr. Owens,
@@ -43696,16 +43704,16 @@ Research Officer - Phobos Labs"""
 如果还有问题，随时可以来联系我们。
 
 Chance Glasco
-安全主管 - Phobos实验室
+安全主管 - 火卫一实验室
 
 ----原始信息----
-发送时间：3-11-2147
-致：Phobos实验室安保部
+发送时间: 2147-3-11
+致: 火卫一实验室安保部
 你好，
 过去几天以来我的系统一直运行得很慢，网络繁忙的指示灯一直在疯闪！可能是中病毒了。你们能否抽空帮我检查一下？
 
 James Owens
-研究官 - Phobos实验室"""
+研究官 - 火卫一实验室"""
 
 > #str_phobos2_owens_email_3_email_to
 James Owens
@@ -43713,7 +43721,7 @@ James Owens
 
 > #str_phobos2_owens_email_4_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos2_owens_email_4_email_from
 Elizabeth McNeil
@@ -43739,7 +43747,7 @@ Director of Research - Phobos Labs"""
 我再次为带来的不便深表歉意。
 
 Elizabeth McNeil
-研究组总监 - Phobos 实验室"""
+研究组总监 - 火卫一实验室"""
 
 > #str_phobos2_owens_email_4_email_to
 James Owens
@@ -43771,7 +43779,7 @@ Research Officer
 
 > #str_phobos3_haag_email_1_email_date
 3-13-2147
-3-13-2147
+2147-3-13
 
 > #str_phobos3_haag_email_1_email_from
 Kelly Garland
@@ -43803,7 +43811,7 @@ Nicolas Haag
 
 > #str_phobos3_haag_email_2_email_date
 3-11-2147
-3-11-2147
+2147-3-11
 
 > #str_phobos3_haag_email_2_email_from
 security@pL.net
@@ -43811,7 +43819,7 @@ security@pL.net
 
 > #str_phobos3_haag_email_2_email_subject
 Re: Security Lockers?
-回复：安全锁？
+回复: 安全锁？
 
 > #str_phobos3_haag_email_2_email_text
 """Mr. Haag,
@@ -43833,21 +43841,21 @@ Nick Haag
 Reactor Maintenance - Phobos Labs"""
 """Haag先生，
 
-我们按照你的要求重置了反应炉区的储物锁柜密码。新的密码是：492
+我们按照你的要求重置了反应堆综合设施的储物锁密码。新的密码是: 492
 
 如果还有问题，随时可以来联系我们。
 
 Chance Glasco
-安全主管 - Phobos实验室
+安全主管 - 火卫一实验室
 
 ----原始信息----
-发送时间：3-11-2147
-致：Phobos实验室安全部
+发送时间: 2147-3-11
+致: 火卫一实验室安全部
 你好，
-我忘记了反应炉区储物锁柜的密码。能否帮我重置一下密码？
+我忘记了反应堆综合设施的储物锁密码。能否帮我重置一下密码？
 
 Nick Haag
-反应炉维护部 - Phobos实验室"""
+反应堆维护部 - 火卫一实验室"""
 
 > #str_phobos3_haag_email_2_email_to
 Nicolas Haag
@@ -43871,11 +43879,11 @@ Phobos Labs
 
 > #str_phobos3_haag_pda_security
 Reactor Maintenance
-反应堆维护团队
+反应堆维护
 
 > #str_phobos3_haag_pda_title
 Reactor Maintenance
-反应堆维护团队
+反应堆维护
 
 > #str_phobos4_jolson_audio_1_audio_info
 """Made by: Ronn Jolson
@@ -43883,7 +43891,7 @@ Date: 12-3-2146
 Open for Amendment: No
 Set for Archive: Yes"""
 """制作者: Ronn Jolson
-日期: 12-3-2146
+日期: 2146-12-3
 允许修改: 否
 存入档案: 是"""
 
@@ -43893,7 +43901,7 @@ Cryptology Reports
 
 > #str_phobos4_jolson_email_1_email_date
 3-14-2147
-3-14-2147
+2147-3-14
 
 > #str_phobos4_jolson_email_1_email_from
 Ronn Jolson
@@ -43901,7 +43909,7 @@ Ronn Jolson
 
 > #str_phobos4_jolson_email_1_email_subject
 RE: Artifact Storage
-回复：遗物仓库
+回复: 遗物仓库
 
 > #str_phobos4_jolson_email_1_email_text
 """I believe you have been in contact with Dr. Kharkov? We're expecting you soon at Erebus Labs. I think you'll be excited about the latest findings from Dr. Kharkov and Dr. Cloud.
@@ -43919,10 +43927,10 @@ I'll write up a full report and have it to you tomorrow, the day after at the la
 Best,
 
 Ronn"""
-"""我相信你和哈尔科夫博士接触过吧?我们很期待你来到伊里布斯实验室。 我想你肯定对于哈尔科夫博士和克劳德博士的最新发现感到很兴奋。
+"""我相信你和哈尔科夫博士接触过吧?我们很期待你来到厄瑞玻斯实验室。 我想你肯定对于哈尔科夫博士和克劳德博士的最新发现感到很兴奋。
 
 ----原始信息----
-发送时间: 3-14-2147
+发送时间: 2147-3-14
 至: 伊丽莎白·麦克内尔
 
 麦克内尔博士,
@@ -43941,7 +43949,7 @@ Elizabeth McNeil
 
 > #str_phobos4_jolson_email_2_email_date
 3-10-2147
-3-10-2147
+2147-3-10
 
 > #str_phobos4_jolson_email_2_email_from
 Viktor Kharkov
@@ -43949,7 +43957,7 @@ Viktor Kharkov
 
 > #str_phobos4_jolson_email_2_email_subject
 RE: New Discoveries
-回复：新发现
+回复: 新发现
 
 > #str_phobos4_jolson_email_2_email_text
 """Ronn,
@@ -43969,13 +43977,13 @@ Thanks,
 
 Ronn"""
 """罗恩，
-请快点来埃里伯斯实验室， 我们有很多东西要谈。
+请快点来厄瑞玻斯实验室，我们有很多东西要谈。
 - VK
 
 --原始邮件-- 
-寄出时间：3-10-2147 
-收信人：维克托·卡科夫
-维克托： 你找的这些东西， 我从来没有见过类似的。  请你多注意一下这些碎片， 看来里面一些重要的资料都不见了。
+寄出时间: 2147-3-10 
+收信人: 维克托·卡科夫
+维克托: 你找的这些东西，我从来没有见过类似的。请你多注意一下这些碎片，看来里面一些重要的资料都不见了。
 
 谢了，
 罗恩"""
@@ -44013,8 +44021,8 @@ Cryptologist
 Date: 07/28/44
 
 Informational Video on the Series 3 Plasma Gun"""
-"""创建人：UAC先进武器部门
-日期：07/28/44
+"""创建人: UAC先进武器部门
+日期: 07/28/44
 
 关于3系列等离子枪的信息视频"""
 
@@ -44032,7 +44040,7 @@ Playtime: %s
 
 > #str_recycling1_garza_email_1_email_date
 10-30-2145
-10-30-2145
+2145-10-30
 
 > #str_recycling1_garza_email_1_email_from
 Michael Abrams
@@ -44060,7 +44068,7 @@ Anthony Graza
 
 > #str_recycling1_garza_email_2_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_recycling1_garza_email_2_email_from
 Michael Abrams
@@ -44068,7 +44076,7 @@ Michael Abrams
 
 > #str_recycling1_garza_email_2_email_subject
 RE: New Rocket Launcher
-回复：新火箭发射器
+回复: 新火箭发射器
 
 > #str_recycling1_garza_email_2_email_text
 """I put in a request for more rocket ammo, I didn't realize how many barrels we needed destroyed.
@@ -44085,7 +44093,7 @@ Tony"""
 """我递交了一份报告申请要更多的火箭弹药, 我没有意识到我们需要毁掉多少桶。
 
 ----原始信息----
-发送时间: 10-31-2145
+发送时间: 2145-10-31
 至: 迈克尔·艾伯拉姆斯
 
 艾伯拉姆斯先生,
@@ -44100,7 +44108,7 @@ Anthony Grza
 
 > #str_recycling1_garza_email_3_email_date
 11-06-2145
-11-06-2145
+2145-11-06
 
 > #str_recycling1_garza_email_3_email_from
 martianbuddy.com
@@ -44122,7 +44130,7 @@ For more information visit: www.martianbuddy.com"""
 你工作时常感到疲劳吗？
 你觉得缺少精力吗？
 来点最新改良版的睡立消药片吧。现在全新的睡立消药片能让你恢复清醒并整天精神抖擞。
-想要更多信息请访问：www.martianbuddy.com"""
+想要更多信息请访问: www.martianbuddy.com"""
 
 > #str_recycling1_garza_email_3_email_to
 Tony Graza
@@ -44154,7 +44162,7 @@ HAZMAT Specialist
 
 > #str_recycling1_johnson_email_1_email_date
 11-11-2145
-11-11-2145
+2145-11-11
 
 > #str_recycling1_johnson_email_1_email_from
 Nicholas Sadowayj
@@ -44162,7 +44170,7 @@ Nicholas Sadowayj
 
 > #str_recycling1_johnson_email_1_email_subject
 RE: Locked Armaments
-回复：锁住的设备
+回复: 锁住的设备
 
 > #str_recycling1_johnson_email_1_email_text
 """Scott,
@@ -44182,13 +44190,13 @@ We can't be too careful; I've locked some ammunition and combat armor in the cab
 那是个很好的注意， 我们在这里绝对要非常小心。。。 
 
 -----原始邮件----
-寄出时间：2145年11月10日
-收信人：尼古拉斯·莎东瓦
+寄出时间: 2145年11月10日
+收信人: 尼古拉斯·莎东瓦
 
 莎东瓦先生，
 
 我怕我最近听的那些传闻是真的。有一天我团队的人去清洗DELTA的有毒物质泄漏，回来他告诉我们他真的看到某种生物在那里，他根本不知道那是什么东西， 这事吓得他要死，我们在想。。。
-我们可不能掉以轻心，我已经锁了一些弹药和作战装甲在区域2单轨气密室门旁的柜子里。如果你需要代码是：483
+我们可不能掉以轻心，我已经锁了一些弹药和作战装甲在区域2单轨气密室门旁的柜子里。如果你需要代码是: 483
 
  - 斯科特"""
 
@@ -44198,7 +44206,7 @@ Scott Johnson
 
 > #str_recycling1_moen_email_1_email_date
 11-04-2145
-11-04-2145
+2145-11-04
 
 > #str_recycling1_moen_email_1_email_from
 Henry Varela
@@ -44228,7 +44236,7 @@ Jeff Moen
 
 > #str_recycling1_moen_email_2_email_date
 11-09-2145
-11-09-2145
+2145-11-09
 
 > #str_recycling1_moen_email_2_email_from
 Gregg Brandenburg
@@ -44260,7 +44268,7 @@ Date: 10-01-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Nicholas Sadowayj
-日期: 10-01-2145
+日期: 2145-10-01
 允许修改: 是
 存入档案: 否"""
 
@@ -44270,7 +44278,7 @@ HAZMAT Response
 
 > #str_recycling1_sadowayj_email_1_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_recycling1_sadowayj_email_1_email_from
 Henry Varela
@@ -44300,7 +44308,7 @@ Nicholas Sadowayj
 
 > #str_recycling1_sadowayj_email_2_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_recycling1_sadowayj_email_2_email_from
 Scott Johnson
@@ -44420,7 +44428,7 @@ Press _attack to respawn
 
 > #str_rev218email_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_rev218email_email_from
 Research Archive
@@ -44458,7 +44466,7 @@ Profile Data
 
 > #str_savegame_title
 DOOM® 3: BFG Edition™
-毁灭战士®3：BFG版™
+毁灭战士®3: BFG版™
 
 > #str_site3_davis_audio_1_audio_info
 """Made by: Richard Davis
@@ -44466,7 +44474,7 @@ Date: 08-08-2145
 Open for Amendment: Yes
 Set for Archive: No"""
 """制作者: Richard Davis
-日期: 08-08-2145
+日期: 2145-08-08
 允许修改: 是
 存入档案: 否"""
 
@@ -44476,11 +44484,11 @@ Discovery in the Ruins
 
 > #str_site3_davis_email_1_email_date
 08-10-2145
-08-10-2145
+2145-08-10
 
 > #str_site3_davis_email_1_email_from
 Malcolm Betruger
-Malcolm Betruger
+马尔科姆·贝特鲁格
 
 > #str_site3_davis_email_1_email_subject
 Discovery in the Ruins
@@ -44504,7 +44512,7 @@ Malcolm Betruger"""
 
 继续把你的发现报告提交给我，我就会帮你好好处理，使得公司不会对你留下坏印象。
 
-Malcolm Betruger"""
+马尔科姆·贝特鲁格"""
 
 > #str_site3_davis_email_1_email_to
 Richard Davis
@@ -44512,7 +44520,7 @@ Richard Davis
 
 > #str_site3_davis_email_2_email_date
 10-16-2145
-10-16-2145
+2145-10-16
 
 > #str_site3_davis_email_2_email_from
 Lowell Foshay
@@ -44552,7 +44560,7 @@ Richard Davis
 
 > #str_site3_davis_email_3_email_date
 11-10-2145
-11-10-2145
+2145-11-10
 
 > #str_site3_davis_email_3_email_from
 Pierce Rogers
@@ -44616,7 +44624,7 @@ Date: 11-16-2145
 Open for Amendment: No
 Set for Archive: No"""
 """制作者: Pierce Rogers
-日期: 11-16-2145
+日期: 2145-11-16
 允许修改: 否
 存入档案: 否"""
 
@@ -44626,7 +44634,7 @@ The Soul Cube is the Answer
 
 > #str_site3_rogers_email_1_email_date
 10-17-2145
-10-17-2145
+2145-10-17
 
 > #str_site3_rogers_email_1_email_from
 Richard Davis
@@ -44646,7 +44654,7 @@ I can barely comprehend how immense this is.  All the struggles we've had in the
 Richard"""
 """Pierce，
 
-天花板雕刻的扫描结果出来了，我可以肯定的说，这是一张我们太阳系的星图。上面很明显暗示着地球可能这个种族幸存者的传送目的地。如果这些神器上的日期正确的话，我们或许是这个种族的后裔！
+天花板雕刻的扫描结果出来了，我可以肯定的说，这是一张我们太阳系的星图。上面很明显暗示着地球可能这个种族幸存者的传送目的地。如果这些遗物上的日期正确的话，我们或许是这个种族的后裔！
 
 我无法想象这件事的重要性。我们过去的努力一下子变得不重要了。
 
@@ -44658,7 +44666,7 @@ Pierce Rogers
 
 > #str_site3_rogers_email_2_email_date
 11-02-2145
-11-02-2145
+2145-11-02
 
 > #str_site3_rogers_email_2_email_from
 Timmy Rogers
@@ -44696,11 +44704,11 @@ Pierce Rogers
 
 > #str_site3_rogers_email_3_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_site3_rogers_email_3_email_from
 Server: Mail Failure
-服务器：邮递失败
+服务器: 邮递失败
 
 > #str_site3_rogers_email_3_email_subject
 The Soul Cube is the answer
@@ -44720,11 +44728,11 @@ Warn them all. You must not let this spread to Earth.
 
 God Bless You,
 Pierce"""
-"""服务器：发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（code504）
+"""服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（code504）
 
 ----初始信息----
-发送：11-15-2145
-到：伊丽莎白·麦克尼尔
+发送: 2145-11-15
+到: 伊丽莎白·麦克尼尔
 
 现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦,我能做的就是祈祷你能收到这条信息。
 博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
@@ -44774,7 +44782,7 @@ Central Authority Research Archive"""
 
 > #str_soulcube_video_name
 Soul Cube
-灵魂方块
+灵魂魔方
 
 > #str_soulcubeemail_email_date
 11-14-2145
@@ -44786,7 +44794,7 @@ Research Archive
 
 > #str_soulcubeemail_email_subject
 The Soul Cube
-灵魂方块
+灵魂魔方
 
 > #str_soulcubeemail_email_text
 """Report filed by Ian McCormick:
@@ -44802,19 +44810,19 @@ The glyphs specifically point out that you must kill five creatures before it be
 Ian McCormick
 
 cc: Research Archive Storage"""
-"""Report filed by Ian McCormick:
+"""伊恩·麦考密克提交的报告:
 
-I've been working on the Soul Cube for a few weeks now. It is a fascinating artifact and as it turns out, it has some amazing properties. I wrote a new glyph pattern query yesterday and let it run all night. With the new query, the linguistics computer finally cracked the remaining glyphs!
+我研究灵魂魔方已经几周了。这是一件令人着迷的遗物，而且事实证明它具有惊人的特性。昨天我编写了一个新的象形文字模式查询，并让它运行了一整晚。有了新的查询，语言学计算机终于破解了剩余的象形文字！
 
-The Soul Cube is by every definition a weapon, and it seems to have been built to repel whatever type of creatures invaded this ancient culture. If I am reading them right, during a battle the cube gains power with each life the wielder takes. When it is fully charged it can be used to slay even the strongest of creatures. Even more impressive is that when it kills a creature it transfers that creature's life force back to who is using the cube!
+灵魂魔方无论从哪个定义来看都是一件武器，而且似乎是为了抵御入侵这个古老文明的任何类型的生物而打造的。如果我没理解错的话，在战斗中，魔方会随着使用者所杀生物数量的增加而增强力量。当它充满能量时，甚至可以杀死最强的生物。更令人惊叹的是，当它杀死一个生物时，会将该生物的生命力转移到使用魔方的人身上！
 
-I know this sounds like magic and I have not been able to activate it to prove the theory but this is what the glpyhs illustrate.
+我知道这听起来像是魔法，而且我还没能激活它来证明这个理论，但这就是这些象形文字所描绘的内容。
 
-The glyphs specifically point out that you must kill five creatures before it becomes charged and then amazingly it will tell you it is ready. It is almost like a sentient being; this object is a fantastic find.
+这些象形文字明确指出，你必须杀死五只生物，它才会充满能量，然后令人惊奇的是，它会告诉你它已经准备好了。这东西简直就像一个有感知能力的生物；这真是个了不起的发现。
 
-Ian McCormick
+伊恩·麦考密克
 
-cc: Research Archive Storage"""
+抄送: 研究档案存储"""
 
 > #str_soulcubeemail_email_to
 Mail recipient
@@ -44842,7 +44850,7 @@ Melee/Grabber
 
 > #str_swf_action_impulse12
 Soulcube/Artifact
-灵魂方块/神器
+灵魂魔方/神器
 
 > #str_swf_action_impulse13
 Reload
@@ -44850,11 +44858,11 @@ Reload
 
 > #str_swf_action_impulse14
 Next Weapon
-下个武器
+下一武器
 
 > #str_swf_action_impulse15
 Previous Weapon
-前一武器
+上一武器
 
 > #str_swf_action_impulse16
 Flashlight
@@ -44878,15 +44886,15 @@ Look
 
 > #str_swf_action_movedown
 Crouch
-蹲下
+下蹲
 
 > #str_swf_action_moveup
 Jump
-跳
+跳跃
 
 > #str_swf_action_speed
 Run
-跑
+奔跑
 
 > #str_swf_action_use
 Use
@@ -45210,7 +45218,7 @@ CTF
 
 > #str_swf_monitor
 Monitor:
-显示器：
+显示器:
 
 > #str_swf_mouse_sens
 Mouse Sensitivity
@@ -45278,11 +45286,11 @@ Page Up
 
 > #str_swf_privacy_closed
 Privacy: Invite Only
-私人：仅限邀请
+私人: 仅限邀请
 
 > #str_swf_privacy_open
 Privacy: Open To All
-私人：公共开放
+私人: 公共开放
 
 > #str_swf_pwf
 Play With Friends
@@ -45357,9 +45365,9 @@ ROLL
 Time Played: %s
 Campaign: %s
 """
-"""难度： %s
-游戏时间： %s
-战役： %s
+"""难度:  %s
+游戏时间:  %s
+战役:  %s
 """
 
 > #str_swf_select
@@ -45384,7 +45392,7 @@ SETTINGS
 
 > #str_swf_soulcube_artifact
 Soulcube/Artifact
-灵魂方块/神器
+灵魂魔方/神器
 
 > #str_swf_start_match
 Start Match
@@ -45424,11 +45432,11 @@ STORAGE DEVICE
 
 > #str_swf_talk_all
 Say Global:
-全区：
+世界发言:
 
 > #str_swf_talk_team
 Say Team:
-队伍：
+小队发言:
 
 > #str_swf_team_deathmatch_desc
 Team vs team frag battle
@@ -45498,7 +45506,7 @@ Tablets
 
 > #str_time_remaining
 Time Remaining: %d
-剩余时间：%d
+剩余时间: %d
 
 > #str_tooley_exis_pda_01_audio_info
 """Made by: Bernice Tooley
@@ -45506,7 +45514,7 @@ Date: 10-18-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 波尼斯·图雷
-日期: 10-18-2145
+日期: 2145-10-18
 打开并更改: 否
 入档: 是"""
 
@@ -45520,7 +45528,7 @@ Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
 """来自: 波尼斯·图雷
-日期: 11-15-2145
+日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
 
@@ -45533,8 +45541,8 @@ Emergency Situation in Operations
 Date: 03/05/45
 
 For additional help please see your UAC representative"""
-"""创建人：人力资源
-日期： 03/05/45
+"""创建人: 人力资源
+日期:  03/05/45
 
 需要额外的帮助请联系你的UAC代表"""
 
@@ -45552,7 +45560,7 @@ View your Xbox LIVE Party
 
 > #str_zombie42email_email_date
 11-15-2145
-11-15-2145
+2145-11-15
 
 > #str_zombie42email_email_from
 Research Archive
@@ -45618,7 +45626,7 @@ Connection Problem
 
 > #str_loadtip_title
 Game tip:
-游戏提示：
+游戏提示:
 
 > #str_loadtip_0
 Try to dodge Revenant rockets by quickly running behind cover.
@@ -45682,11 +45690,11 @@ Smaller enemies can be picked up with the Grabber.  Grab and throw them for an i
 
 > #str_loadtip_15
 The Soulcube kills its target instantly.  It also restores the player’s health.
-灵魂方块能够瞬间杀死目标。它还可以回复玩家的生命值。
+灵魂魔方能够瞬间杀死目标。它还可以回复玩家的生命值。
 
 > #str_loadtip_16
 Smaller enemies are weak, but harder to hit. Use spread weapons like the Machine Gun to take them out quickly.
-体型小的敌人很弱，但是也很难击中。使用扩散型武器例如机关枪可在短时间将它们消灭。
+体型小的敌人很弱，但是也很难击中。使用扩散型武器例如机枪可在短时间将它们消灭。
 
 > #str_loadtip_17
 Explosive barrels make great weapons.  Fire at them when enemies are nearby.
