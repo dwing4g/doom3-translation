@@ -402,25 +402,25 @@ Office 131
 
 > #str_00068
 Director of Operations
-营运理事
+运营经理
 
 > #str_00069
 """GAS LEAK PRESENT
 IN SECTOR 7-6"""
 """7-6区域出现
-气体泄漏"""
+燃气泄漏"""
 
 > #str_00070
 RESUMING GAS PIPE SAFETY SCANS
-正在回复天然气管道安全扫描
+正在恢复燃气管道安全扫描
 
 > #str_00071
 STATION ID : 13477 - UAC  GAS MONITOR
-中心ID: 13477-UAC 气体监控
+站点ID : 13477 - UAC  燃气监控
 
 > #str_00072
 GAS TRANSFER MONITOR STATION
-气体输送监控站
+燃气传输监控站
 
 > #str_00073
 SCANNING
@@ -616,12 +616,12 @@ Retrying
 Warning - Ladder deployment motor
 encountered an error
 """
-"""发生错误
+"""发生了错误
 
 正在重试
 
-警告 - 阶梯发展发动机
-发生错误
+警告 - 梯子调度引擎
+发生了错误
 """
 
 > #str_00103
@@ -651,7 +651,7 @@ Retrying
 """正在重试
 
 注意 - 梯子调度引擎
-发生错误
+发生了错误
 
 正在重试
 """
@@ -674,7 +674,7 @@ SERVICE
 LADDER"""
 """扩展
 服务
-楼梯"""
+梯子"""
 
 > #str_00107
 MAINTENANCE ACCESS
@@ -776,7 +776,7 @@ CANCEL
 
 > #str_00125
 CHAMBER OPEN
-密室打开
+房间打开
 
 > #str_00126
 CYCLE COMPLETE
@@ -896,7 +896,7 @@ Powering CCM"""
 
 
 
-正在为CCM充能"""
+正在供能至CCM"""
 
 > #str_00143
 """
@@ -916,7 +916,7 @@ Platform initialized"""
 
 
 正在供能至CCM
-平台初始化完成"""
+平台已初始化"""
 
 > #str_00144
 """
@@ -935,8 +935,8 @@ Containment systems active"""
 
 
 正在供能至CCM
-平台初始化完成
-控制系统激活"""
+平台已初始化
+抑制系统激活"""
 
 > #str_00145
 """
@@ -954,8 +954,8 @@ Containment systems active
 
 
 正在供能至CCM
-平台初始化完成
-控制系统激活
+平台已初始化
+抑制系统激活
 ----"""
 
 > #str_00146
@@ -973,10 +973,10 @@ Active processing online"""
 
 
 正在供能至CCM
-平台初始化完成
-控制系统激活
+平台已初始化
+抑制系统激活
 ----
-"""
+主动处理在线"""
 
 > #str_00147
 """
@@ -992,10 +992,10 @@ Active processing online
 
 
 正在供能至CCM
-平台初始化完成
-控制系统激活
----
-主动加工启动
+平台已初始化
+抑制系统激活
+----
+主动处理在线
 ----"""
 
 > #str_00148
@@ -1011,12 +1011,12 @@ Systems ready"""
 """
 
 正在供能至CCM
-平台初始化完成
-控制系统激活
----
-主动加工启动
+平台已初始化
+抑制系统激活
 ----
-系统就位"""
+主动处理在线
+----
+系统就绪"""
 
 > #str_00149
 """
@@ -1030,12 +1030,12 @@ Systems ready
 AWAITING AUTHORIZATION"""
 """
 正在供能至CCM
-平台初始化完成
-控制系统激活
----
-主动加工启动
+平台已初始化
+抑制系统激活
 ----
-系统就位
+主动处理在线
+----
+系统就绪
 等待授权中"""
 
 > #str_00150
@@ -1048,14 +1048,14 @@ Active processing online
 Systems ready
 AWAITING AUTHORIZATION
 """
-"""正在为CCM充能
-平台启动
-包容系统激活
+"""正在供能至CCM
+平台已初始化
+抑制系统激活
 ----
-激活处理启动
+主动处理在线
 ----
-系统准备
-等待授权
+系统就绪
+等待授权中
 """
 
 > #str_00151
@@ -1076,7 +1076,7 @@ Authorizing Access Bridge 1"""
 
 
 
-Authorizing Access Bridge 1"""
+正在授权访问1号桥梁"""
 
 > #str_00152
 """
@@ -1095,8 +1095,8 @@ Authorizing Access Bridge 2"""
 
 
 
-授权进入桥梁1
-授权进入桥梁2"""
+正在授权访问1号桥梁
+正在授权访问2号桥梁"""
 
 > #str_00153
 """
@@ -1114,9 +1114,9 @@ Authorizing Primary Bridge"""
 
 
 
-授权进入桥梁1
-授权进入桥梁2
-授权进入主桥梁"""
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁"""
 
 > #str_00154
 """
@@ -1133,10 +1133,10 @@ Opening Sector 1 Doors"""
 
 
 
-授权进入桥梁1
-授权进入桥梁2
-授权进入主桥梁
-正在开启1区大门"""
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开1区各门"""
 
 > #str_00155
 """
@@ -1152,10 +1152,10 @@ Opening Sector Doors
 
 
 
-授权进入桥梁1
-授权进入桥梁2
-授权进入主桥梁
-正在开启区域大门
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开区域各门
 ----"""
 
 > #str_00156
@@ -1171,12 +1171,12 @@ Maintenance Access Verified"""
 """
 
 
-正在授权进入桥梁1
-正在授权进入桥梁2
-正在授权进入主桥
-正在开启区域大门
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开区域各门
 ----
-维护权限已验证"""
+维护访问已验证"""
 
 > #str_00157
 """
@@ -1190,12 +1190,12 @@ Maintenance Access Verified
 ----"""
 """
 
-正在授权进入桥梁1
-正在授权进入桥梁2
-正在授权进入主桥
-正在开启区域大门
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开区域各门
 ----
-维护权限已验证
+维护访问已验证
 ----"""
 
 > #str_00158
@@ -1209,12 +1209,12 @@ Maintenance Access Verified
 ----
 Systems Ready"""
 """
-正在授权进入桥梁1
-正在授权进入桥梁2
-正在授权进入主桥
-正在开启区域大门
+正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开区域各门
 ----
-维护权限已验证
+维护访问已验证
 ----
 系统就绪"""
 
@@ -1228,12 +1228,12 @@ Maintenance Access Verified
 ----
 Systems Ready
 """
-"""授予1号舰桥通行许可
-授予2号舰桥通行许可
-授予主舰桥通行许可
-正在开门
+"""正在授权访问1号桥梁
+正在授权访问2号桥梁
+正在授权主桥梁
+正在打开区域各门
 ----
-维护许可验证
+维护访问已验证
 ----
 系统就绪
 """
@@ -1270,27 +1270,27 @@ SYSTEM Y
 
 > #str_00167
 SYSTEM
-系统
+系统已
 
 > #str_00168
 SYSTEM D
-系统
+系统已
 
 > #str_00169
 SYSTEM TED
-系统动
+系统已激
 
 > #str_00170
 SYSTEM VATED
-系统动
+系统已激
 
 > #str_00171
 SYSTEM TIVATED
-系统启动
+系统已激活
 
 > #str_00172
 SYSTEM ACTIVATED
-系统启动
+系统已激活
 
 > #str_00173
 """EXTEND SERVICE
@@ -1329,7 +1329,7 @@ EFR
 > #str_00181
 """ENPRO FUEL
 REPROCESSOR"""
-"""ENPRO燃料
+"""恩普罗燃料
 再加工装置"""
 
 > #str_00182
@@ -1342,11 +1342,11 @@ SYSTEM OPTIONS
 
 > #str_00184
 STEM OPTIONS
-STEM选项
+统选项
 
 > #str_00185
 EM OPTIONS
-EM选项
+统选项
 
 > #str_00186
 OPTIONS
@@ -1354,19 +1354,19 @@ OPTIONS
 
 > #str_00187
 TIONS
-TIONS
+选项
 
 > #str_00188
 ONS
-ONS
+项
 
 > #str_00189
 RT
-RT
+告
 
 > #str_00190
 PORT
-端口
+报告
 
 > #str_00191
 REPORT
@@ -1374,11 +1374,11 @@ REPORT
 
 > #str_00192
 US REPORT
-US报告
+态报告
 
 > #str_00193
 ATUS REPORT
-ATUS 报告
+态报告
 
 > #str_00194
 STATUS REPORT
@@ -1386,11 +1386,11 @@ STATUS REPORT
 
 > #str_00195
 MAINTENANCE BRIDGE
-维护站 桥梁
+维护站桥梁
 
 > #str_00196
 REPROCESSOR SYSTEMS
-重新处理系统
+再加工系统
 
 > #str_00197
 EFR Magnetic Discharge Capacitor
@@ -2117,7 +2117,7 @@ KEEP WEAPONS ACCESS LOCKED AT ALL TIMES"""
 
 > #str_00237
 LOCKER  OPEN
-储物柜  打开
+锁  打开
 
 > #str_00238
 """DISABLE
@@ -2127,11 +2127,11 @@ SECURITY LOCK"""
 
 > #str_00239
 SECURE LOCKER ACCESS
-安全锁柜使用权
+安全柜访问
 
 > #str_00240
 SMALL
-小型
+小
 
 > #str_00241
 LARGE
@@ -2171,15 +2171,15 @@ BFG
 
 > #str_00250
 AMMO DISPENS0R
-子弹分配器
+弹药取货机
 
 > #str_00251
 Please remove ALL ammo from Dispens0r
-请拿走分配器里所有的弹药
+请拿走取货机里所有的弹药
 
 > #str_00252
 Processing, please wait.
-正在处理。请稍后。
+正在处理，请稍候。
 
 > #str_00253
 MULTIPLAYER
@@ -2203,7 +2203,7 @@ Security Checkpoint
 
 > #str_00258
 Coolant Junction
-冷却枢纽
+冷却连接点
 
 > #str_00259
 MFS Compressor
@@ -2211,7 +2211,7 @@ MFS压缩机
 
 > #str_00260
 Storage and Engineering
-储存与工程
+存储与工程
 
 > #str_00261
 Engineering Coolant Control
@@ -2227,7 +2227,7 @@ Select Camera View
 
 > #str_00264
 CAMERA ONLINE
-摄像机打开
+摄像机在线
 
 > #str_00265
 scanning
@@ -2243,11 +2243,11 @@ ENTERING STANDBY MODE
 
 > #str_00268
 Entrance Checkpoint
-入口检查站
+入口检查点
 
 > #str_00269
 CAMERA OFFLINE
-摄像机关闭
+摄像机离线
 
 > #str_00270
 Main Entrance Hall
@@ -2263,7 +2263,7 @@ Lab A Entrance
 
 > #str_00273
 SecMon Entrance
-SecMon入口
+安监入口
 
 > #str_00274
 Elevator Access Hall
@@ -2271,7 +2271,7 @@ Elevator Access Hall
 
 > #str_00275
 CAMERA STATUS -OFFLINE-
-摄像机状态 -关闭-
+摄像机状态 -离线-
 
 > #str_00276
 Call Lift
@@ -2311,7 +2311,7 @@ LIFT ACCESS
 CONTROLS
 LOCATED
 AT STATION 2"""
-"""子层1
+"""地下1层
 电梯访问
 控制
 位于
@@ -2357,11 +2357,11 @@ SECTOR 4
 
 > #str_00294
 SUBLEVEL 1 ACCESS
-子层 1 访问权
+地下1层通道
 
 > #str_00295
 OPEN ALL SUBLEVEL 1 SECURITY DOORS
-打开下层1的所有安全门
+打开地下1层的所有安全门
 
 > #str_00296
 """AUTHENTICATING
@@ -2447,19 +2447,19 @@ LIFT"""
 
 > #str_00301
 LEVEL 2
-二级
+2层
 
 > #str_00302
 LEVEL 1
-一级
+1层
 
 > #str_00303
 SUBLEVEL 1
-子层 1
+地下1层
 
 > #str_00304
 Level 1
-级别 1
+1层
 
 > #str_00305
 """Transfer
@@ -2479,7 +2479,7 @@ Sublevel 1"""
 
 > #str_00307
 Sublevel 1
-下层 1
+地下1层
 
 > #str_00308
 OPEN LIFT DOOR
@@ -2701,7 +2701,7 @@ Maintenance office
 
 > #str_00349
 Sublevel 1 transfer lift
-下层 1 转移电梯
+地下1层传送电梯
 
 > #str_00350
 Storage area 1
@@ -2799,13 +2799,13 @@ LOAD POSITION"""
 """OPEN
 SHUTTERS"""
 """打开
-遮板"""
+护窗板"""
 
 > #str_00366
 """CLOSE
 SHUTTERS"""
 """关闭
-百叶窗"""
+护窗板"""
 
 > #str_00367
 """ERROR
@@ -3141,7 +3141,7 @@ NO ORBITAL BOMBARDMENT
 ENGAGEMENT POINT DELTA, REMAINING SQUADS AWAIT RENDEZVOUS
 --END TRANSMISSION--"""
 """给星轨舰队的紧急来电
-授权199 PAN-CIP 密匙IDSPISPOPD
+授权199 PAN-CIP KEY IDSPISPOPD
 
 ——信息开始——
 请求立即增援
@@ -3757,7 +3757,7 @@ ONLINE"""
 """WEAPON SYSTEM
 OFFLINE"""
 """武器系统
-失效"""
+离线"""
 
 > #str_00535
 """WEAPON SYSTEM
@@ -4051,7 +4051,7 @@ Moving to Level 2
 
 > #str_00596
 Currently on Level 1
-当前位于一楼
+当前位于1层
 
 > #str_00597
 Moving to Level 1
@@ -4451,7 +4451,7 @@ AIRLOCK"""
 
 > #str_00654
 SEALED
-封闭的
+已封闭
 
 > #str_00655
 STATUS:READY
@@ -5120,7 +5120,7 @@ Calibration
 
 > #str_00779
 HYDROCON LAB STATION 1
-HYDROCON实验工作站 1
+氢聚变实验室1号站
 
 > #str_00780
 CHARGING
@@ -5158,7 +5158,7 @@ Current Readings
 
 > #str_00788
 HYDROCON LAB STATION 2
-HYDROCON实验室2号站点
+氢聚变实验室2号站
 
 > #str_00789
 Cross Alignment
@@ -5206,7 +5206,7 @@ Calibrate
 
 > #str_00796
 HYDROCON GENERATORS
-HYDROCON发电机
+氢聚变发电机
 
 > #str_00797
 GENERATOR 2
@@ -5554,7 +5554,7 @@ Heat Exchange Sink 2 damaged
 
 > #str_00882
 Protection System offline
-保护系统关闭
+保护系统离线
 
 > #str_00883
 Manual repair required
@@ -7353,7 +7353,7 @@ Temporary Button
 
 > #str_01221
 no ACO key
-没有ACO密匙
+没有ACO钥匙
 
 > #str_01222
 Teh winnar!
@@ -7403,7 +7403,7 @@ SUB 1
 
 > #str_01231
 Currently on Sublevel 1
-当前位于地下一楼
+当前位于地下1层
 
 > #str_01232
 Moving to Sublevel 1
@@ -7495,7 +7495,7 @@ TRANSFERRING
 
 > #str_01248
 EXIT
-退出
+离开
 
 > #str_01249
 UPPER LEVEL
@@ -7615,7 +7615,7 @@ SECURITY ENTRANCE
 
 > #str_01273
 ENPRO FACILITY - VEHICLE BAY
-ENPRO设施 - 车库
+恩普罗设施 - 车库
 
 > #str_01274
 CAMERA - EN7
@@ -7635,12 +7635,12 @@ REPLACE
 
 > #str_01278
 REPLACE FILTER CANISTERS 2-3
-替换过滤器容器 2-3
+替换过滤器容器2-3
 
 > #str_01279
 """REPLACE FILTER 1 MANUALLY
 BEFORE PROCEEDING"""
-"""手动替换过滤器 1
+"""手动替换过滤器1
 随后继续"""
 
 > #str_01280
@@ -8155,7 +8155,7 @@ Storage Area B
 
 > #str_01383
 Central Junction
-中央节点
+中央连接点
 
 > #str_01384
 Utility Hall
@@ -8309,7 +8309,7 @@ Video
 
 > #str_01414
 INVENTORY
-目录
+库存
 
 > #str_01415
 Items
@@ -8589,13 +8589,13 @@ The Administration Facility is the Corporate presence on Mars. Union Aerospace e
 """Alpha Labs Sector 1 houses the Elemental Phase Deconstructor and Hydrocon
 systems, a revolutionary new technology that transforms raw materials native to
 Mars into useable resources. The primary EPD reactor feeds into the Hydrocon processing system for transport to Sector 2 MFS refinement and storage."""
-"""阿尔法实验室1区存放着元素相位拆析器以及检波器
+"""阿尔法实验室1区存放着元素相位拆析器以及氢聚变
 系统， 一项革命性的新科技，可以将火星当地原材料转换为
-可用资源。 主要EPD反应堆为检波器处理系统供能，并传输至2区MFS进行提炼和存储。"""
+可用资源。 主要EPD反应堆为氢聚变处理系统供能，并传输至2区MFS进行提炼和存储。"""
 
 > #str_01478
 Alpha Labs Sector 2 processes and stores hydrogen fuel through the facility's primary system, the Molecular Fuel Storage Compactor. The sublevel section houses the coolant control system needed for proper hydrogen fuel refinement.
-阿尔法实验室2区为基地的主要设施处理并储存氢气燃料，也就是分子燃料存储压缩机。副层区域放置着为氢气提炼准备的冷却控制系统。
+阿尔法实验室2区为基地的主要设施处理并储存氢气燃料，也就是分子燃料存储压缩机。下层区域放置着为氢气提炼准备的冷却控制系统。
 
 > #str_01479
 """Alpha Labs Sector 3 contains the secondary coolant control system for the Molecular
@@ -8605,7 +8605,7 @@ Fuel Storage Compactor. Waste material from the MFS system is also processed her
 
 > #str_01480
 Alpha Labs Sector 4 seals and prepares shipments of processed hydrogen fuel for dropship distribution to UAC bases and subspace platforms. The system is fully automated and personnel access is limited due to open machinery hazards.
-阿尔法实验室4区封闭并保存着处理过的氢气燃料。这些燃料供UAC基地太空平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。
+阿尔法实验室4区封印并保存着处理过的氢气燃料。这些燃料供UAC基地太空平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。
 
 > #str_01481
 Ammo Factory
@@ -8656,7 +8656,7 @@ bridged for deep space communications via the Phobos Routing Station uplink."""
 > #str_01487
 """Comm Transfer connects Enpro and Communications, and acts as a multipurpose facility for power distribution, equipment repair, and cargo transfer to other base sectors. Due
 to the frequency of broken pressure seals, oxygen tanks are well stocked in this sector."""
-"""通讯传输通道连接Enpro和通讯设备，是一个用作电力分配、设备维修和向其它基地区域运输货物的多功能设施。由于
+"""通讯传输通道连接恩普罗和通讯设备，是一个用作电力分配、设备维修和向其它基地区域运输货物的多功能设施。由于
 压力密封舱的损坏频率，该区域的氧气罐存量丰富。"""
 
 > #str_01488
@@ -8690,7 +8690,7 @@ CPU Complex."""
 
 > #str_01495
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
-Enpro电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
+恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
 > #str_01496
 Frag Chamber
@@ -8768,7 +8768,7 @@ ELEVATOR ACCESS DENIED"""
 
 > #str_01504
 The Mars City sublevel was one of the first multi-purpose installations built on Mars. Housing storage, environmental systems, localized energy production, communications arrays, and rudimentary research systems, the aging facility is vital to keeping Mars City operational.
-火星城市底层是火星上最初建造的多功能设施之一。其中包含了储藏区域，环境系统，本地化能源生产，通讯阵列以及基础的研究系统，这个古老的设施对火星城市的正常运转至关重要。
+火星城下层是火星上最初建造的多功能设施之一。其中包含了储藏区域，环境系统，本地化能源生产，通讯阵列以及基础的研究系统，这个古老的设施对火星城的正常运转至关重要。
 
 > #str_01505
 The Monorail serves as transportation between the low level access sectors of the UAC Complex and the priority access research facilities. Have all identification and security clearance data prepared for inspection.
@@ -8885,46 +8885,46 @@ GENERATING REPORT
 
 > #str_01523
 Lateral Motor 1
-侧电机 1
+侧电机1
 
 > #str_01524
 Lateral Motor 1-PASS
-侧电机 1-通过
+侧电机1-通过
 
 > #str_01525
 """Lateral Motor 1-PASS
 Lateral Motor 2"""
-"""侧电机 1-通过
-侧电机 2"""
+"""侧电机1-通过
+侧电机2"""
 
 > #str_01526
 """Lateral Motor 1-PASS
 Lateral Motor 2-PASS"""
-"""侧电机 1-通过
-侧电机 2-通过"""
+"""侧电机1-通过
+侧电机2-通过"""
 
 > #str_01527
 """Lateral Motor 2-PASS
 Lift Motor"""
-"""侧电机 2-通过
+"""侧电机2-通过
 电梯电机"""
 
 > #str_01528
 """Lateral Motor 2-PASS
 Lift Motor-SERVICE"""
 """侧电机 2-通过
-电梯电机-开始服务"""
+电梯电机-服务中"""
 
 > #str_01529
 """Lift Motor-SERVICE
 Drive Shaft"""
-"""电梯电机-服务
+"""电梯电机-服务中
 传动轴"""
 
 > #str_01530
 """Lift Motor-SERVICE
 Drive Shaft-PASS"""
-"""电梯电机-服务
+"""电梯电机-服务中
 传动轴-通过"""
 
 > #str_01531
@@ -8942,14 +8942,14 @@ Base Mount-PASS"""
 > #str_01533
 """Base Mount-PASS
 Platform Mount"""
-"""基地 座驾-通行
-平台座驾"""
+"""基地安装-通过
+平台安装"""
 
 > #str_01534
 """Base Mount-PASS
 Platform Mount-PASS"""
-"""基地 座驾-通行
-平台座驾 - 通行"""
+"""基地安装-通过
+平台安装-通过"""
 
 > #str_01535
 """WARNING
@@ -9968,11 +9968,11 @@ POWER ROUTED
 
 > #str_01631
 ROUTING SYSTEM OFFLINE
-定位系统关闭
+定位系统离线
 
 > #str_01632
 MAINTENANCE ACTIVATION
-维护站 激活
+维护激活
 
 > #str_01633
 EXTEND SERVICE BRIDGE
@@ -10040,7 +10040,7 @@ SECURITY CHECK POINT
 
 > #str_01649
 MARS CITY SUBLEVEL ACCESS
-火星城分段通道
+火星城下层通道
 
 > #str_01650
 ENTRANCE LOCKER ACCESS
@@ -10495,7 +10495,7 @@ FAILURE"""
 
 > #str_01748
 M-IPN SATELLITE RELAY - SIGNAL SYNCHRONIZED
-M-IPN SATELLITE RELAY - 信号已同步
+M-IPN 卫星转播 - 信号已同步
 
 > #str_01749
 UNION AEROSPACE CORPORATION
@@ -10507,11 +10507,11 @@ LEADING THE WAY TO A BETTER FUTURE
 
 > #str_01751
 M-IPN SATELLITE RELAY - SIGNAL SYNCHRONIZATION FAILED
-M-IPN SATELLITE RELAY - 信号同步失败
+M-IPN 卫星转播 - 信号同步失败
 
 > #str_01752
 SATELLITE RELAY OFFLINE
-卫星中转下线
+卫星转播离线
 
 > #str_01753
 STATION LOCKED
@@ -10552,7 +10552,7 @@ BOOT SEQUENCE FAILED
 > #str_01762
 """Location : Delta
 Status : Offline"""
-"""位置: 德尔塔
+"""位置 : 德尔塔
 状态 : 离线"""
 
 > #str_01763
@@ -10564,13 +10564,13 @@ Status : Offline"""
 > #str_01764
 """Location : Mars City
 Status : Offline"""
-"""位置: 火星城
+"""位置 : 火星城
 状态 : 离线"""
 
 > #str_01765
 """Location : Comm Center
 Status : Power Failure"""
-"""位置: 指挥中心
+"""位置 : 指挥中心
 状态 : 电力失效"""
 
 > #str_01766
@@ -11117,7 +11117,7 @@ Location : Delta
 
 > #str_01870
 Status : Offline
-状态: 离线
+状态 : 离线
 
 > #str_01871
 Location : Administration
@@ -11697,7 +11697,7 @@ Jan Paul van Waveren...Programmer
 Tim Willits...Project Director"""
 """Adrian Carmack...Artist
  
-John Carmack...Technical Director
+约翰·卡马克...Technical Director
  
 Kevin Cloud...Artist
  
@@ -11705,7 +11705,7 @@ Christian Antkow...Designer
  
 Mal Blackwell...Designer
  
-Andy Chang...Artist
+安迪·张...Artist
  
 Graeme Devine...Programmer
  
@@ -11789,7 +11789,7 @@ parm3 = top floor name
 parm4 = bottom floor name"""
 """参数设置:
 parm1 = 2= 顶层, 1= 底层
-parm2 = 1= 升至二层, 或 2= 下降至一层
+parm2 = 1= 1层升至2层, 或 2= 1层降至地下1层
 parm3 = 顶层名称
 parm4 = 底层名称"""
 
@@ -12007,7 +12007,7 @@ CD KEY
 
 > #str_02065
 testers: use default key GWATDCR7H73GBHWA
-测试人员: 使用默认密匙GWATDCR7H73GBHWA
+测试人员: 使用默认钥匙GWATDCR7H73GBHWA
 
 > #str_02066
 CD Key:
@@ -12145,7 +12145,7 @@ CONTROLS - MULTIPLAYER
 
 > #str_02098
 Action
-行动
+行为
 
 > #str_02099
 Key Assignment
@@ -12449,7 +12449,7 @@ Don't shoot yourself in the foot recruit
 
 > #str_02174
 You can hit a moving target...usually
-你可以击中移动中的目标...基本是这样
+你能击中移动中的目标……通常来说
 
 > #str_02175
  HARD MODE
@@ -12465,7 +12465,7 @@ Shoot first and ask questions later
 
 > #str_02178
 An unstoppable death dealing machine
-一台无法阻挡的死亡机器
+一台停不下来的死亡交易机器
 
 > #str_02179
 SAVE GAME
@@ -12489,7 +12489,7 @@ Time
 
 > #str_02184
 THIRTY CHARACTER NAME 30303030
-30个角色名称 30303030
+三十个字符的名字30303030303030
 
 > #str_02185
  SAVE GAME
@@ -12629,11 +12629,11 @@ CREDITS
 
 > #str_02219
 The creators of Doom 3
-Doom3的创造者们
+Doom 3的创造者们
 
 > #str_02220
 Doom 3 Assistance
-Doom3支持
+Doom 3支持
 
 > #str_02221
 Timothee Besset
@@ -12689,7 +12689,7 @@ Mal Blackwell
 
 > #str_02234
 Andy Chang
-Andy Chang
+安迪·张
 
 > #str_02235
 Artist
@@ -13105,11 +13105,11 @@ Defaut system options reset canceled
 
 > #str_02337
 Are you sure you want to exit Doom 3?
-你确定要退出Doom3吗？
+你确定要退出Doom 3吗？
 
 > #str_02338
 Click to chicken out, you pansy.
-点击退出吧，你个基佬。
+点击滚出吧，你个基佬。
 
 > #str_02339
 THAT'S ME
@@ -13137,11 +13137,11 @@ QUIT CURRENT GA
 
 > #str_02345
 QUIT CURRENT G
-退出当前游戏
+退出当前游
 
 > #str_02346
 QUIT CURRENT 
-退出当前游戏
+退出当前
 
 > #str_02347
 Close load game section
@@ -13189,35 +13189,35 @@ Nightmare
 
 > #str_02358
 A fresh new recruit. Don't shoot yourself in the foot.
-一个新兵，别射伤了自己的脚。
+一个新来的新兵，别射伤了自己的脚。
 
 > #str_02359
 Start Game in Easy Mode
-开始简单难度游戏
+以简单模式开始游戏
 
 > #str_02360
 You can hit a moving target...usually.
-你可以击中移动中的目标...基本是这样。
+你能击中移动中的目标……通常来说。
 
 > #str_02361
 Start Game in Normal Mode
-开始普通难度游戏
+以普通模式开始游戏
 
 > #str_02362
 A seasoned marine, you've seen the front lines.
-一个老练的士兵，一一定见识过前线的样子了。
+一个老练的陆战队，一定见识过前线的样子。
 
 > #str_02363
 Start Game in Hard Mode
-开始困难难度游戏
+以困难模式开始游戏
 
 > #str_02364
 A one man army, killing everything in your way.
-孤单英豪，杀掉挡路的所有人。
+孤胆英豪，杀掉挡路的所有东西。
 
 > #str_02365
 Start Game in Nightmare Mode
-开始噩梦难度游戏
+以噩梦模式开始游戏
 
 > #str_02366
 Filename
@@ -13645,11 +13645,11 @@ Eric Webb...Dev. Assistant
 Jan Paul van Waveren...Programmer
 Tim Willits...Project Director"""
 """Adrian Carmack...Artist
-John Carmack...Technical Director
+约翰·卡马克...Technical Director
 Kevin Cloud...Artist
 Christian Antkow...Designer
 Mal Blackwell...Designer
-Andy Chang...Artist
+安迪·张...Artist
 Graeme Devine...Programmer
 Jim Dose...Programmer
 Pat Duffy...Media Artist
@@ -13961,7 +13961,7 @@ The infantry issue fragmentation grenade is activated by a twist detonator. Fire
 
 > #str_02538
 Energy based weapon developed in the Mars weapon facility. Unit is powered by plasma canisters manufactured in the Enpro facility.
-在火星武器设施开发的基于能量的武器。配备Enpro设施制造的等离子霰弹。
+在火星武器设施开发的基于能量的武器。配备恩普罗设施制造的等离子霰弹。
 
 > #str_02539
 A portable self-propelled rocket designed for demolition and debris removal, this model has been modified for use as a military weapon.
@@ -13973,7 +13973,7 @@ This prototype fires a threaded variable energy charge. UAC technicians have war
 
 > #str_02541
 Self powered chain-blade cutting tool. Part of a shipment incorrectly routed to the Mars dropship distribution center. 
-自供电链刃切割工具。  是火星运输中心运错货物的一部分。
+自供电链刃切割工具，是火星运输中心运错货物的一部分。
 
 > #str_02542
 An artifact discovered in the caverns excavation site. Research of the Cube's origin and function are ongoing.
@@ -14129,7 +14129,7 @@ Max Sustainable Life 299"""
 
 > #str_02574
 ENPRO FACILITY
-ENPRO设施
+恩普罗设施
 
 > #str_02575
 """Energy Production
@@ -14440,7 +14440,7 @@ G3科学小队
 
 > #str_02650
 Director William Banks
-William Banks理事
+主管威廉姆·班克斯
 
 > #str_02651
 Level G3 Science Team
@@ -14452,7 +14452,7 @@ Ops Management Team 4
 
 > #str_02653
 MIS Operations
-MIS 营运
+MIS运营
 
 > #str_02654
 Data Library
@@ -14460,7 +14460,7 @@ Data Library
 
 > #str_02655
 Terminal 3
-终点 3
+终点3
 
 > #str_02656
 D. Shaviro
@@ -14476,11 +14476,11 @@ Obtain Security Clearance
 
 > #str_02659
 Locate the PDA of William Banks For Alpha Labs Clearance
-找到威廉姆斯·班克斯的PDA来解除阿尔法实验室的安全许可
+找到威廉姆·班克斯的PDA来解除阿尔法实验室的安全许可
 
 > #str_02660
 William Banks
-William Banks
+威廉姆·班克斯
 
 > #str_02661
 B. Lindner
@@ -14504,19 +14504,19 @@ Alpha Labs Level 1
 
 > #str_02666
 HC Level 1
-HC等级1
+HC级别1
 
 > #str_02667
 ALPHA RED
-阿尔法 红
+阿尔法红
 
 > #str_02668
 Trans Level 2
-转移等级 2
+转移级别2
 
 > #str_02669
 Trans Level 1
-转移等级 1
+转移级别1
 
 > #str_02670
 map_alphalabs3::crane_left
@@ -14584,7 +14584,7 @@ Sentry Unit
 
 > #str_02686
 Security Terminal 2
-安防终端 2
+安防终端2
 
 > #str_02687
 Communication Annex
@@ -14616,7 +14616,7 @@ Aborted Message
 
 > #str_02694
 Security Terminal 1
-安防终端 1
+安防终端1
 
 > #str_02695
 Teleporter Access
@@ -14664,7 +14664,7 @@ T Sawyer
 
 > #str_02706
 Lab A access granted !
-实验室 A 进入 许可 ！
+实验室A的访问已授权！
 
 > #str_02707
 Obtain access codes
@@ -14672,7 +14672,7 @@ Obtain access codes
 
 > #str_02708
 Entrance functional. Further access possible.
-入口正常。可以继续深入。
+入口正常，可以继续深入。
 
 > #str_02709
 Gain Access to Data Library
@@ -14740,7 +14740,7 @@ Go Back to Main Lobby and use Elevator to reach Delta Labs 2
 
 > #str_02725
 Delta Labs 2 Elevator
-德尔塔实验室2 电梯
+德尔塔实验室2电梯
 
 > #str_02726
 You found the Data Linker!
@@ -14876,7 +14876,7 @@ Antkow, Christian M1-6021337
 
 > #str_02759
 Operations Admin
-操作管理员
+操作管理
 
 > #str_02760
 OFFICE D2-17
@@ -14904,7 +14904,7 @@ OFFICE D2-20
 
 > #str_02766
 Chang, Andy  M1-4137771
-Chang, Andy  M1-4137771
+张, 安迪  M1-4137771
 
 > #str_02767
 Status: Missing
@@ -14912,15 +14912,15 @@ Status: Missing
 
 > #str_02768
 Personnel
-人员
+个人
 
 > #str_02769
 OPERATIONS
-行动
+运营部
 
 > #str_02770
 Delta Labs Sector 2
-德尔塔实验室 2区
+德尔塔实验室2区
 
 > #str_02771
 Records - Storage
@@ -14980,15 +14980,15 @@ map_delta2a::proc_cage4
 
 > #str_02785
 Level 3 Access!
-级别 3 许可进入！
+级别3访问！
 
 > #str_02786
 Storage Bin 17
-储存容器 17
+储存箱17
 
 > #str_02787
 Key card
-密匙卡
+钥匙卡
 
 > #str_02788
 Dr Jon Glass
@@ -15020,11 +15020,11 @@ Meyers博士
 
 > #str_02795
 Storage Bin 8
-储存容器 8
+储存箱8
 
 > #str_02796
 Storage Bin 16
-储存容器 16
+储存箱16
 
 > #str_02797
 obtain a key card for access
@@ -15036,7 +15036,7 @@ Find Key Card
 
 > #str_02799
 Key card obtained
-获得的密匙卡
+获得了钥匙卡
 
 > #str_02800
 Door locked, find alternate path
@@ -15156,7 +15156,7 @@ E.斯旺
 
 > #str_02829
 MSgt Kelly
-MS中士 凯利
+凯利中士
 
 > #str_02830
 CPU Access
@@ -15280,7 +15280,7 @@ Energy Processing
 
 > #str_02860
 Energy Stabilization
-能量稳定
+能量稳定部
 
 > #str_02861
 MC Sub System
@@ -15544,7 +15544,7 @@ HCpda
 
 > #str_02926
 Hydrocon Control
-Hydrocon控制室
+氢聚变控制
 
 > #str_02927
 B. Lipsitz
@@ -15604,7 +15604,7 @@ Remove the barrels leaking toxic gasses in the chamber.
 
 > #str_02941
 maintenance key 4
-维护密匙 4
+维护钥匙4
 
 > #str_02942
 Locate the entrance to Alpha Labs Sector 4.
@@ -15616,11 +15616,11 @@ Alpha Labs Sector 4
 
 > #str_02944
 Reach the Enpro Plant as quickly as possible.
-尽快抵达Enpro工厂
+尽快抵达恩普罗电站
 
 > #str_02945
 Enpro Plant
-Enpro发电站
+恩普罗电站
 
 > #str_02946
 Tools
@@ -15872,7 +15872,7 @@ Retrieve the Plasma Inducer from the Operations sector server room.
 
 > #str_03008
 Operations
-行动
+运营部
 
 > #str_03009
 Level1-Lobby
@@ -16040,7 +16040,7 @@ Service Passage
 
 > #str_03050
 Mars City
-火星城市
+火星城
 
 > #str_03051
 video/video_uac_welcome
@@ -16052,7 +16052,7 @@ Infirmary
 
 > #str_03053
 Weapons Storage
-武器储存
+武器库
 
 > #str_03054
 Obtain an ACO Key card for access
@@ -16060,7 +16060,7 @@ Obtain an ACO Key card for access
 
 > #str_03055
 ACO Keycard
-ACO 钥匙卡
+ACO钥匙卡
 
 > #str_03056
 Duncan Mathews
@@ -16084,7 +16084,7 @@ ACO 办公室
 
 > #str_03061
 Return to the Command Message Center for a status update from Sergeant Kelly
-返回指挥消息中心好从Kelly中士那里获得事态更新
+返回指挥消息中心好从凯利中士那里获得事态更新
 
 > #str_03062
 Marine Comm Center
@@ -16116,7 +16116,7 @@ Mark Stanton
 
 > #str_03069
 Underground Junction
-地下连接
+地下连接点
 
 > #str_03070
 Surface Access
@@ -16168,7 +16168,7 @@ Reach Old Comm Building
 
 > #str_03082
 Make your way back to the Security Checkpoint.  From there you can take the elevator back up to Mars City.
-设法去安全检查点。在哪里你可以坐电梯回火星城市。
+设法去安全检查点。在哪里你可以坐电梯回火星城。
 
 > #str_03083
 Back to security checkpoint
@@ -16424,7 +16424,7 @@ Offer posted by Sector 2 Team, 11/01/45"""
 
 对合格的个人给予金钱补偿。现在申请吧！
 
-提议由2区团队发布，11/01/45"""
+提议由2区团队发布，45-11-01"""
 
 > #str_03136
 TOPOGRAPHIC
@@ -16460,7 +16460,7 @@ CARGO TRANSFER LOGS
 This shipment contains various small artifacts packaged in the lower level research area. Items were packaged quickly due to the shutdown deadline however damage should be minimal.
 --------
 Authorized by Transfer coordinator Bill Kirtley"""
-"""运送清单
+"""运输清单
 -------
 此货件中包含在较低水平的研究所打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。
 -------- 
@@ -16509,11 +16509,11 @@ TRANSFER SCHEDULE
 
 > #str_03150
 Storage Room 11
-储存室 11
+储存室11号
 
 > #str_03151
 ACCESS LADDER EXTENDED
-登入阶梯延长
+通道梯子已延长
 
 > #str_03152
 CALL CARGO LIFT
@@ -16521,7 +16521,7 @@ CALL CARGO LIFT
 
 > #str_03153
 LIFT ACCESS OFFLINE
-电梯使用离线
+电梯访问离线
 
 > #str_03154
 """COMMAND
@@ -17084,7 +17084,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03281
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。贝特鲁格向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03282
 10-29-45 REPORT
@@ -17152,7 +17152,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03297
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。贝特鲁格向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03298
 Jameson cleared the order for holding the test subject pending a detailed physical analysis. I uploaded a request for new volunteers, so we should have a few new transfers in that are looking for free credits. I am copying Sandra on this log entry, be sure and check ALL potential candidates for immediate family or local social ties. Make sure they won't be missed, Corporate does not want to deal with any more litigations.
@@ -18009,7 +18009,7 @@ DEPLOYING MAINTENANCE ACCESS LADDER
 """UNION AEROSPACE
 MARS CITY COMPOUND"""
 """联合宇宙
-火星城市区"""
+火星城区"""
 
 > #str_03441
 ACCESS ATTEMPT LOGGED
@@ -18169,7 +18169,7 @@ CAVERNS - AREA 1
 
 > #str_03479
 Excavation Transfer
-坑道传输站
+坑道传输
 
 > #str_03480
 CAVERNS - AREA 2
@@ -18185,7 +18185,7 @@ Central Communications Tower
 
 > #str_03483
 COMMUNICATIONS TRANSFER
-通信转移
+通信传输
 
 > #str_03484
 Maintenance and Transfer Station
@@ -18241,7 +18241,7 @@ DELTA LABS - SECTOR 4
 
 > #str_03497
 ENPRO PLANT
-ENPRO电站
+恩普罗电站
 
 > #str_03498
 Energy Processing and Storage
@@ -18261,7 +18261,7 @@ Artifact Dig
 
 > #str_03502
 Mars City is the gateway to all of Union Aerospace's Mars Base. All arriving personnel are processed here before moving to their assigned posts. Mars City houses the primary Marine Operations control room as well as the main administrator's office.
-火星城市通往Union Aerospace的所有火星基地。所有到达的人员前往指定岗位之前都在这里处理。火星城市里有陆战队行动主控制室，以及总管理员办公室。
+火星城通往联合航天的所有火星基地。所有到达的人员前往指定岗位之前都在这里处理。火星城里有陆战队行动主控制室，以及总管理员办公室。
 
 > #str_03503
 MARS CITY UNDERGROUND
@@ -18560,97 +18560,107 @@ concluding cranial scan"""
 
 > #str_03560
 Sca
-sca
+扫
 
 > #str_03561
 Scanni
-扫描中
+扫描
 
 > #str_03562
 Scanning f
-扫描
+扫描生
 
 > #str_03563
 Scanning for B
-扫描生化污染中 完毕。。。开始颅骨扫描。
+扫描生化
 
 > #str_03564
 Scanning for Biol
-扫描生化污染中 完毕。。。开始颅骨扫描。。
+扫描生化感
 
 > #str_03565
 Scanning for Biologi
-扫描生化污染中 完毕。。。开始颅骨扫描。。。
+扫描生化感染
 
 > #str_03566
 Scanning for Biological
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。
+扫描生化感染中
 
 > #str_03567
 Scanning for Biological Con
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。
+扫描生化感染中…
 
 > #str_03568
 Scanning for Biological Contam
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。
+扫描生化感染中……
 
 > #str_03569
 Scanning for Biological Contamina
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。
+扫描生化感染中………
 
 > #str_03570
 Scanning for Biological Contamination
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。
+扫描生化感染中…………
 
 > #str_03571
 """Scanning for Biological Contamination
 Com"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。
+"""扫描生化感染中…………
+已"""
 
 > #str_03572
 """Scanning for Biological Contamination
 Comple"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。
+"""扫描生化感染中…………
+已完"""
 
 > #str_03573
 """Scanning for Biological Contamination
 Complete"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成"""
 
 > #str_03574
 """Scanning for Biological Contamination
 Complete..."""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…"""
 
 > #str_03575
 """Scanning for Biological Contamination
 Complete...Sta"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开"""
 
 > #str_03576
 """Scanning for Biological Contamination
 Complete...Starti"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开始"""
 
 > #str_03577
 """Scanning for Biological Contamination
 Complete...Starting C"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开始扫"""
 
 > #str_03578
 """Scanning for Biological Contamination
 Complete...Starting Cran"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开始扫描"""
 
 > #str_03579
 """Scanning for Biological Contamination
 Complete...Starting Cranial"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开始扫描颅"""
 
 > #str_03580
 """Scanning for Biological Contamination
 Complete...Starting Cranial Scan"""
-扫描生化污染中 完毕。。。开始颅骨扫描。。。。。。。。。。。。。。。。。。
+"""扫描生化感染中…………
+已完成…开始扫描颅骨"""
 
 > #str_03581
 """TARGET FREE OF
@@ -18666,19 +18676,19 @@ NO CURRENT SCAN TARGET
 
 > #str_03583
 FI
-FI
+正
 
 > #str_03584
 FILT
-过滤器
+正在
 
 > #str_03585
 FILTER
-过滤器
+正在过
 
 > #str_03586
 FILTERING
-过滤中
+正在过滤
 
 > #str_03587
 BIOSCAN 01
@@ -18694,13 +18704,15 @@ DENSITY PARAMETERS READ FROM PAD
 
 > #str_03590
 SCANNING UNDERWAY ON STATION 02
-扫描02中心地下
+正在扫描02号站位
 
 > #str_03591
 """SENDING
 DATA TO
 OPERATOR"""
-发送中  资料去  操作员
+"""正在发送
+数据到
+操作员"""
 
 > #str_03592
 BIOSCAN 04
@@ -18712,15 +18724,15 @@ BIOSCAN 03
 
 > #str_03594
 SCANNING UNDERWAY ON STATION 04
-扫描04中心地下
+正在扫描04号站位
 
 > #str_03595
 TRANSFER MANIFEST
-中转清单
+传输清单
 
 > #str_03596
 TRANSPORT 4409 - OUTBOUND
-运送 4409 - 往外地
+运输器4409号 - 出站
 
 > #str_03597
 PERSONNEL PROFILE 1
@@ -18744,19 +18756,19 @@ DATA MANAGEMENT
 
 > #str_03602
 SUP8890 - 2 Shipment Bins
-SUP8890 - 两船箱子
+SUP8890 - 2个运输箱
 
 > #str_03603
 TS4109 - 3 Metaseal Containers
-TS4109 - 3个元密封容器
+TS4109 - 3个超密封集装箱
 
 > #str_03604
 UA91 - 4 Small GS Crates
-UA91 - 4个小型重力密封箱
+UA91 - 4个小型重度密封箱
 
 > #str_03605
 UA99 - 1 Large GS Crate
-UA99 - 1个大型重力密封箱
+UA99 - 1个大型重度密封箱
 
 > #str_03606
 DELETED
@@ -18790,13 +18802,13 @@ Container 2 - Classified
 
 Container 3 - Classified"""
 """TS4109
-3个元密封容器
+3个超密封集装箱
 
-容器1 - 已分类
+集装箱1 - 机密
 
-容器2 - 已分类
+集装箱2 - 机密
 
-容器3 - 已分类"""
+集装箱3 - 机密"""
 
 > #str_03610
 """UA91
@@ -18806,11 +18818,11 @@ Health Warning
 
 Gravseal crates contain biological specimens. Do not open."""
 """UA91
-4个小型重力密封箱
+4个小型重度密封箱
 
 健康警告
 
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03611
 """UA99
@@ -18820,11 +18832,11 @@ Health Warning
 
 Gravseal crate contains biological specimen. Do not open."""
 """UA99
-1个大型重力密封箱
+1个大型重度密封箱
 
 健康警告
 
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03612
 """AN ATTEMPT HAS BEEN MADE TO ALTER A CLASSIFIED SHIPMENT
@@ -18982,39 +18994,39 @@ NEXT DEPARTURE
 
 > #str_03642
 T4409              06:18 MST              11/15
-T4409              06:18 MST              11/15
+T4409          火星标准时区06:18          11-15
 
 > #str_03643
 ARRIVED : REFUELING
-已到达: 加油中
+已到达 : 加油中
 
 > #str_03644
 T4409   -  BURNS FLAT, OK  -   EARTH
-T4409   -  燃烧平原，正常 -   地球
+T4409   -  燃烧平原，正常  -   地球
 
 > #str_03645
 ETD 18:55 MST 11/15
-预计离岸 11月15日 山区时间18: 55
+预计离开 11-15 火星标准时区18:55
 
 > #str_03646
 ETA 13:00 CST 12/27
-预计到达 12月27日 中央时区13: 00
+预计到达 12-27 中部标准时区13:00
 
 > #str_03647
 T4315               06:00 MST               11/22
-T4315               06:00 MST               11/22
+T4315           火星标准时区06:00           11-22
 
 > #str_03648
 F36                     14:30 MST               11/26
-F36                     14:30 MST               11/26
+F36            火星标准时区14:30            11-26
 
 > #str_03649
 T4500               06:00 MST               11/29
-T4500               06:00 MST               11/29
+T4500           火星标准时区06:00           11-29
 
 > #str_03650
 T4800               06:00 MST               12/06
-T4800               06:00 MST               12/06
+T4800           火星标准时区06:00           12-06
 
 > #str_03651
 TRANSPORT SCHEDULE
@@ -19034,7 +19046,7 @@ NEW REPORT
 
 > #str_03655
 I have processed all incoming personnel from flight 4409. PDA was issued to the marine on board and I sent him directly to Marine Command at Seargent Kelly's request. The other 2 UAC reps were sent to the conference room at Betruger's request.
-我已经对乘坐4409号航班来新来的人员进行了处理。在甲板上我把PDA发给了陆战队员让他直接去陆战队司令部找凯利中士报道。还有 2 个UAC人员应Betruger的要求送到了会议室。
+我已经对乘坐4409号航班来新来的人员进行了处理。在甲板上我把PDA发给了陆战队员让他直接去陆战队司令部找凯利中士报道。还有2个UAC人员应贝特鲁格的要求送到了会议室。
 
 > #str_03656
 PERSONNEL PROFILE 3
@@ -19047,8 +19059,8 @@ UAC Marine Infantry
 CO - Sgt. Kelly"""
 """来电转移
 ID# 381 9x-22
-UAC 陆战队步兵
-总部 - 军士.凯利"""
+UAC陆战队步兵
+总部 - 凯利中士"""
 
 > #str_03658
 PENDING ASSIGNMENT ON FILE
@@ -19060,7 +19072,7 @@ NEW ARRIVAL PROCESSING
 
 > #str_03660
 TRANSPORT 4409 - INCOMING ASSIGNMENTS
-运送 4409 - 接收进任务
+运输器4409号 - 入站分配
 
 > #str_03661
 """Have this transfer report immediately to Marine Command upon arrival.
@@ -19114,7 +19126,7 @@ OUTGOING TRANSFERS
 
 > #str_03671
 TRANSPORT 4409 - PERSONNEL
-运送 4409 - 人员
+运输器4409号 - 人员
 
 > #str_03672
 PASSENGER LIST
@@ -19156,7 +19168,7 @@ DECOMISSIONED COMM FACILITY
 
 > #str_03679
 Shipment contents deleted
-运输内容删除
+运输内容已删除
 
 > #str_03680
 4409 - DROPSHIP FROM ORBITAL TRANSPORT
@@ -19180,7 +19192,7 @@ CARGO LIST
 
 > #str_03685
 4409 - DARKSTAR
-4409 - 暗星
+4409 - 暗星号
 
 > #str_03686
 DROPSHIP ID
@@ -19188,19 +19200,19 @@ DROPSHIP ID
 
 > #str_03687
 ACT9811 - 3 Transfer Bins
-ACT9811 - 三个运输箱
+ACT9811 - 3个运输箱
 
 > #str_03688
 TS2290 - 1 Large GS Crate
-TS2290 - 1个大型重力密封箱
+TS2290 - 1个大型重度密封箱
 
 > #str_03689
 MSB9 - 2 Metaseal Containers
-MSB9 - 2个Metaseal集装箱
+MSB9 - 2个超密封集装箱
 
 > #str_03690
 UA08 - 2 Small GS Crates
-UA08 - 2个小型重力密封箱
+UA08 - 2个小型重度密封箱
 
 > #str_03691
 """SUP8890 - 2 Shipment Bins
@@ -19209,7 +19221,7 @@ Bin 2 - Administrative Supplies,
 Data Storage"""
 """SUP8890 - 2个运输箱
 第1箱 - 行政用品，常规
-第2箱 - 行政使用，
+第2箱 - 行政用品，
 数据存储"""
 
 > #str_03692
@@ -19219,10 +19231,10 @@ Container 1 - Classified
 Container 2 - Classified
 Container 3 - Classified"""
 """TS4109
-3个元密封容器
-容器1 - 已分类
-容器2 - 已分类
-容器3 - 已分类"""
+3个超密封集装箱
+集装箱1 - 机密
+集装箱2 - 机密
+集装箱3 - 机密"""
 
 > #str_03693
 """UA91
@@ -19230,9 +19242,9 @@ Container 3 - Classified"""
 Health Warning
 Gravseal crates contain biological specimens. Do not open."""
 """UA91
-4个小型重力密封箱
+4个小型重度密封箱
 健康警告
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03694
 """UA99
@@ -19240,9 +19252,9 @@ Gravseal crates contain biological specimens. Do not open."""
 Health Warning
 Gravseal crate contains biological specimen. Do not open."""
 """UA99
-1个大型重力密封箱
+1个大型重度密封箱
 健康警告
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03695
 """ACT9811
@@ -19250,9 +19262,9 @@ Gravseal crate contains biological specimen. Do not open."""
 Bin 1, 2 - General Issue Military Ration Packs
 Bin 3 - Armor replacement shards"""
 """ACT9811
-三个运输箱
-一号，二号箱 - 普通军用食物补给
-三号箱 - 护甲替换零件"""
+3个运输箱
+第1,2箱 - 普通发放的军事配给包
+第3箱 - 护甲替换零件"""
 
 > #str_03696
 """TS2290
@@ -19260,9 +19272,9 @@ Bin 3 - Armor replacement shards"""
 Health Warning
 Gravseal crate contains biological specimens. Do not open."""
 """TS2290
-1个大型重力密封箱
+1个大型重度密封箱
 健康警告
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03697
 """MSB9
@@ -19270,9 +19282,9 @@ Gravseal crate contains biological specimens. Do not open."""
 Container 1 - Classified
 Container 2 - Classified"""
 """MSB9
-2个Metaseal集装箱
-集装箱 1 - 已加密
-集装箱 2 - 已加密"""
+2个超密封集装箱
+集装箱1 - 机密
+集装箱2 - 机密"""
 
 > #str_03698
 """UA08
@@ -19280,9 +19292,9 @@ Container 2 - Classified"""
 Health Warning
 Gravseal crates contain biological specimens. Do not open."""
 """UA08
-2个小型重力密封箱
+2个小型重度密封箱
 健康警告
-重力密封箱包含生物样本。请勿开启。"""
+重度密封箱包含生物样本。请勿开启。"""
 
 > #str_03699
 SCHEMATICS
@@ -19290,15 +19302,15 @@ SCHEMATICS
 
 > #str_03700
 SC
-SC
+扫
 
 > #str_03701
 SCANNI
-扫描。。中
+扫描
 
 > #str_03702
 INBOUND
-已入境
+入站
 
 > #str_03703
 OUTBOUND
@@ -19318,7 +19330,7 @@ WINDOW SEAL
 
 > #str_03707
 SHUTTERS
-百叶窗
+护窗板
 
 > #str_03708
 CLICK TO OPEN
@@ -19330,11 +19342,11 @@ INSERT CREDITS TO BEGIN
 
 > #str_03710
 CREDITS: 0/20
-点数: 0/20
+分数: 0/20
 
 > #str_03711
 CURRENT SCORE
-当前得分
+当前分数
 
 > #str_03712
 OUT OF ORDER
@@ -19342,11 +19354,11 @@ OUT OF ORDER
 
 > #str_03713
 ID VERIFIED
-ID 已验证
+ID已验证
 
 > #str_03714
 DROPSHIP ID VERIFIED
-空投船ID已确认
+空投船ID已验证
 
 > #str_03715
 LIVE STREAM
@@ -19354,21 +19366,21 @@ LIVE STREAM
 
 > #str_03716
 ACQUIRING ENTRY DATA
-获取进入资料
+获取进入数据
 
 > #str_03717
 """ACQUIRING ENTRY DATA
 CURRENT PATH"""
-"""获取进入资料
-目前路径"""
+"""获取进入数据
+当前路径"""
 
 > #str_03718
 """ACQUIRING ENTRY DATA
 CURRENT PATH
 ENTRY LANE"""
-"""获取进入理疗
-目前路径
-目前线路"""
+"""获取进入数据
+当前路径
+入口线路"""
 
 > #str_03719
 ORBITAL INSERTION DATA LOADED
@@ -19394,7 +19406,7 @@ IN PROGRESS
 COMPLETE"""
 """准备燃烧
 正在进行
-完毕"""
+完成"""
 
 > #str_03724
 TRAFFIC MONITORING STATION
@@ -19402,7 +19414,7 @@ TRAFFIC MONITORING STATION
 
 > #str_03725
 DATA NODE 21- MCS UPLINK
-数据节点 21- MCS上连
+数据节点21- MCS上链
 
 > #str_03726
 INCOMING COM
@@ -19416,8 +19428,8 @@ OUTGOING COM
 """CALLSIGN DARKSTAR
 TRANSPORT 4409
 CARGO/PASSENGER"""
-"""呼号Darkstar
-运输器4409
+"""呼号暗星号
+运输器4409号
 货运/客运"""
 
 > #str_03729
@@ -19434,27 +19446,27 @@ MANIFEST DETAIL
 
 > #str_03732
 Pa
-Pa
+乘
 
 > #str_03733
 Pas5
-Pas5
+乘
 
 > #str_03734
 Passen
-Passen
+乘客
 
 > #str_03735
 Passenge
-Passenge
+乘客
 
 > #str_03736
 Passenger l
-乘客 l
+乘客名
 
 > #str_03737
 Passenger lis
-乘客 lis
+乘客名
 
 > #str_03738
 Passenger list
@@ -19532,7 +19544,7 @@ Passenger list
 El"""
 """乘客名单
 --------------------------
-El"""
+埃"""
 
 > #str_03751
 """Passenger list
@@ -19540,7 +19552,7 @@ El"""
 Elli"""
 """乘客名单
 --------------------------
-Elli"""
+埃利"""
 
 > #str_03752
 """Passenger list
@@ -19548,7 +19560,7 @@ Elli"""
 Elliot"""
 """乘客名单
 --------------------------
-埃利奥特"""
+埃利奥"""
 
 > #str_03753
 """Passenger list
@@ -19556,7 +19568,7 @@ Elliot"""
 Elliot Sw"""
 """乘客名单
 --------------------------
-埃利奥特 Sw"""
+埃利奥特"""
 
 > #str_03754
 """Passenger list
@@ -19564,7 +19576,7 @@ Elliot Sw"""
 Elliot Swa"""
 """乘客名单
 --------------------------
-埃利奥特·Swa"""
+埃利奥特·"""
 
 > #str_03755
 """Passenger list
@@ -19572,7 +19584,7 @@ Elliot Swa"""
 Elliot Swann"""
 """乘客名单
 --------------------------
-埃利奥特·斯旺"""
+埃利奥特·斯"""
 
 > #str_03756
 """Passenger list
@@ -19581,8 +19593,7 @@ Elliot Swann
 Ja"""
 """乘客名单
 --------------------------
-埃利奥特·斯旺
-Ja"""
+埃利奥特·斯旺"""
 
 > #str_03757
 """Passenger list
@@ -19592,7 +19603,7 @@ Jack"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack"""
+杰"""
 
 > #str_03758
 """Passenger list
@@ -19602,7 +19613,7 @@ Jack Ca"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Ca"""
+杰克"""
 
 > #str_03759
 """Passenger list
@@ -19612,7 +19623,7 @@ Jack Camp"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Camp"""
+杰克·"""
 
 > #str_03760
 """Passenger list
@@ -19622,7 +19633,7 @@ Jack Campbe"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbe"""
+杰克·坎"""
 
 > #str_03761
 """Passenger list
@@ -19632,7 +19643,7 @@ Jack Campbell"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell"""
+杰克·坎贝"""
 
 > #str_03762
 """Passenger list
@@ -19643,8 +19654,7 @@ Ma"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Ma"""
+杰克·坎贝尔"""
 
 > #str_03763
 """Passenger list
@@ -19655,8 +19665,8 @@ Mari"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Mari"""
+杰克·坎贝尔
+陆"""
 
 > #str_03764
 """Passenger list
@@ -19667,8 +19677,8 @@ Marine"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Marine"""
+杰克·坎贝尔
+陆战"""
 
 > #str_03765
 """Passenger list
@@ -19679,8 +19689,8 @@ Marine Tr"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Marine Tr"""
+杰克·坎贝尔
+陆战队"""
 
 > #str_03766
 """Passenger list
@@ -19691,8 +19701,8 @@ Marine Tran"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Marine Tran"""
+杰克·坎贝尔
+陆战队调"""
 
 > #str_03767
 """Passenger list
@@ -19703,8 +19713,8 @@ Marine Transf"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Marine Transf"""
+杰克·坎贝尔
+陆战队调换"""
 
 > #str_03768
 """Passenger list
@@ -19715,8 +19725,8 @@ Marine Transfer"""
 """乘客名单
 --------------------------
 埃利奥特·斯旺
-Jack Campbell
-Marine Transfer"""
+杰克·坎贝尔
+陆战队调换者"""
 
 > #str_03769
 stop
@@ -19736,23 +19746,23 @@ INCOMING TRANSPORT DETECTED
 
 > #str_03773
 NG
-NG
+装
 
 > #str_03774
 ING
-ING
+装
 
 > #str_03775
 NING
-NING
+装
 
 > #str_03776
 NNING
-NNING
+罐装
 
 > #str_03777
 ANNING
-ANNING
+罐装
 
 > #str_03778
 CANNING
@@ -19772,7 +19782,7 @@ TRANSPORT ID 4409
 
 > #str_03782
 query
-问题
+询问
 
 > #str_03783
 upload
@@ -19796,7 +19806,7 @@ SCANNING SECTORS 18-96
 
 > #str_03788
 TRANSPORT 4409
-运送 4409
+运输器4409号
 
 > #str_03789
 CALLSIGN
@@ -19804,7 +19814,7 @@ CALLSIGN
 
 > #str_03790
 DARKSTAR
-暗星
+暗星号
 
 > #str_03791
 REMOTE TRACKING CAMERA
@@ -20009,7 +20019,7 @@ DESTINATION CLEARED
 """UAC RESEARCH FACILITY
 LANDING BAY 1"""
 """UAC研究设施
-着陆港 1"""
+着陆1号港"""
 
 > #str_03824
 """OFFLOAD PASSENGERS
@@ -20033,11 +20043,11 @@ TRACKING SAT 16
 
 > #str_03827
 TRANSPORT 4401
-运送 4401
+运输器4401号
 
 > #str_03828
 TRANSPORT DOCKED
-运送停靠
+运输器已停靠
 
 > #str_03829
 """T4401 SHUTTLE ARRIVED
@@ -20081,7 +20091,7 @@ SENSOR SCAN REPORTS
 
 > #str_03836
 SENSORS OFFLINE
-传感器下线
+传感器离线
 
 > #str_03837
 PRIMARY CRANE ACCESS
@@ -20149,7 +20159,7 @@ I have recalculated the effects of a containment failure and they exceed our pri
 来自: J.ISHII - 连接许可DB1
 当前研究的紧急事件报告
 
-我已经重新计算了密封失效的结果，该结果超出了我们原有的估计值。所有处在爆炸范围内的生物个体几乎都不存在生还可能，然而Betruger正在将稳定场推至系统极限以外。"""
+我已经重新计算了密封失效的结果，该结果超出了我们原有的估计值。所有处在爆炸范围内的生物个体几乎都不存在生还可能，然而贝特鲁格正在将稳定场推至系统极限以外。"""
 
 > #str_03851
 TRANSMISSION INPUT
@@ -20225,19 +20235,19 @@ CODE REQUIRED
 
 > #str_03865
 OPEN AIRLOCK JUNCTION 05
-打开气闸接合处05
+打开气闸连接点05
 
 > #str_03866
 JUNCTION 5 - LOCKED
-连接点 5 - 闭锁
+连接点5 - 已锁定
 
 > #str_03867
 JUNCTION 4 - OPEN
-连接点 4 - 打开
+连接点4 - 打开
 
 > #str_03868
 JUNCTION 5 - OPEN
-连接点 5 - 打开
+连接点5 - 打开
 
 > #str_03869
 VIDEO ARCHIVE STATION
@@ -20245,11 +20255,11 @@ VIDEO ARCHIVE STATION
 
 > #str_03870
 Four dead in a private shuttle explosion in USM Earth. --IPN NEWS-- Charges dropped against Senator Screggs in Uranus scandle --IPN NEWS-- Further outbreaks of Bolgia Virus reported on 3 orbital platforms --IPN NEWS-- Micrometeor storms sweep polar region of Mars --IPN NEWS-- Radiation shielding leaks on the Lunar Outpost more severe than first reports indicated --IPN NEWS-- Authorities arrest 2 miners in illegal uranium smuggling operation --IPN NEWS-- Andy Stratton takes the gold in the 149th Quakecon Games, beating thousands of other athletes for this year's 10 million credit prize. --IPN NEWS-- 
-在USM Earth发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员Screggs在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告Bolgia病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了两名参与非法铀走私活动的采矿者 --IPN新闻-- Andy Stratton在第149界雷神大会比赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- 
+在USM地球发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员Screggs在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告Bolgia病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了两名参与非法铀走私活动的采矿者 --IPN新闻-- Andy Stratton在第149界雷神大赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- 
 
 > #str_03871
 IPN NEWS - YOUR UNIVERSE NOW
-IPN 新闻 - 今日宇宙
+IPN新闻 - 你现在的宇宙
 
 > #str_03872
 YOUR UNIVERSE NOW
@@ -20550,7 +20560,7 @@ ACQUIRING REMOTE CAMERA FEED
 
 > #str_03932
 WELCOME TO MARS CITY
-欢迎来到火星城市
+欢迎来到火星城
 
 > #str_03933
 A MESSAGE FROM THE UAC
@@ -20788,20 +20798,20 @@ UAC TRANSPORT 4409 SUCCESSFULLY LANDED AT 06:18 MC HANGAR 3
 DEPARTURE SCHEDULED FOR 18:55
 -------------------------------
 NEXT SCHEDULED INSERTION - 11/22 06:00 SUPPLY DROPSHIP 4315 INBOUND FROM LUNAR 1"""
-"""当前没有入站目标
+"""当前没有预定的入站目标
 -------------------------------
-4409号UAC运输载具于06:18在MC3号机库成功降落 3
- 发车时间为18:55
+UAC运输器4409号于06:18在MC机库3号成功着陆
+预计起飞时间为18:55
 -------------------------------
-下次入轨时间 - 11/22 06:00 4315号补给运输机从LUNAR1入站"""
+下次预定接入 - 11-22 06:00 来自月球1号的补给运输船4315号入站"""
 
 > #str_03985
 ORBITAL INSERTION LANE
-轨道插入航线
+轨道接入航线
 
 > #str_03986
 MONITORING  ACTIVE TRAFFIC
-监测站 启用 交通
+监测 开启 交通
 
 > #str_03987
 TRACKING DELAY - 48ms
@@ -20809,7 +20819,7 @@ TRACKING DELAY - 48ms
 
 > #str_03988
 SYSTEMS ERROR
-系统故障
+系统错误
 
 > #str_03989
 MCS COMMUNICATION ERROR
@@ -20817,7 +20827,7 @@ MCS通讯错误
 
 > #str_03990
 ACTIVE BEAM SPLIT MONITOR
-开启射线分割监视器
+开启光束分割监视器
 
 > #str_03991
 FREIGHT LOADER ACCESS
@@ -20896,19 +20906,19 @@ MATERIAL DENSITY: 83.3"""
 
 > #str_04006
 TRANSFER ELEVATOR
-中转电梯
+传送电梯
 
 > #str_04007
 CURRENT LOCATION
-当前 LOCATION
+当前位置
 
 > #str_04008
 TRANSFER SUCCESSFUL
-中转成功
+传送成功
 
 > #str_04009
 TRANSFER BAY
-中转台
+传送台
 
 > #str_04010
 Alpha Labs 1
@@ -20918,7 +20928,7 @@ Alpha Labs 1
 """
 TRANSFER DOOR"""
 """
-转移门"""
+传送门"""
 
 > #str_04012
 Alpha Labs 2
@@ -20972,7 +20982,7 @@ Delta Labs 4
 
 > #str_04024
 Enpro Facility
-Enpro设施
+恩普罗设施
 
 > #str_04025
 Excavation
@@ -20992,7 +21002,7 @@ TRANSFER DESTINATION
 
 > #str_04029
 CLICK TO EXIT
-点击退出
+点击离开
 
 > #str_04030
 ALPHA LABS 1
@@ -21236,11 +21246,11 @@ DIFFICULTY
 
 > #str_04089
 Recruit
-菜鸟
+新兵
 
 > #str_04090
 EASY-Try not to shoot yourself in the foot
-简单——小心别射中你自己的脚
+简单-小心别射中你自己的脚
 
 > #str_04091
 Marine
@@ -21248,7 +21258,7 @@ Marine
 
 > #str_04092
 NORMAL-You can hit a moving target...usually
-普通-你可以击中移动目标…通常来说
+普通-你能击中移动中的目标……通常来说
 
 > #str_04093
 Veteran
@@ -21256,7 +21266,7 @@ Veteran
 
 > #str_04094
 HARD-Shoot first, ask questions later
-先狠狠射击，然后再说别的
+困难-先射再问
 
 > #str_04095
 NIGHTMARE
@@ -21264,11 +21274,11 @@ NIGHTMARE
 
 > #str_04096
 Nightmare mode locked
-已解锁噩梦模式
+噩梦模式已锁定
 
 > #str_04097
 NIGHTMARE-An unstoppable death machine
-噩梦-势不可挡的死亡机器
+噩梦-停不下来的死亡机器
 
 > #str_04098
 MODS
@@ -21428,7 +21438,7 @@ APPLY VIDEO CHANGES
 
 > #str_04137
 These changes will take effect the next time you run Doom 3.
-这些更改将在你下次运行毁灭战士3的时候生效。
+这些更改将在你下次运行Doom 3的时候生效。
 
 > #str_04138
 ACCEPT
@@ -21587,7 +21597,7 @@ UAC陆战队员
 
 > #str_04176
 Mars City Reception
-火星城市接待
+火星城接待
 
 > #str_04177
 Marine Security
@@ -21721,7 +21731,7 @@ Click to select Tim Willits downloaded PDA."""
 
 > #str_04197
 Mars City Director
-火星城市主管
+火星城主管
 
 > #str_04198
 Level 7
@@ -21851,7 +21861,7 @@ Any;Death Match;Team DM;Tournament
 
 > #str_04221
 No;Yes
-否；是
+否;是
 
 > #str_04222
 640x480;800x600;1024x768;1152x864;1280x1024;1600x1200
@@ -21867,11 +21877,11 @@ Any;Deathmatch;Tourney;Team DM;Last Man
 
 > #str_04225
 Show all;Pass only;No password
-显示所有；只可通过；无密码
+显示所有;仅通过;无密码
 
 > #str_04226
 Show all;Hide full;Hide both
-显示所有；隐藏所有；隐藏全部
+显示所有;隐藏满状态;隐藏全部
 
 > #str_04227
 Internet;LAN
@@ -21883,11 +21893,11 @@ Deathmatch;Tourney;Team DM;Last Man
 
 > #str_04229
 No Change;128 kbits;256 kbits;384 kbits;512 kbits;LAN
-不变；128 kbits;256 kbits;384 kbits;512 kbits;局域网
+不变;128 kbits;256 kbits;384 kbits;512 kbits;局域网
 
 > #str_04230
 Yes;No
-是；否
+是;否
 
 > #str_04231
 Off;2x;4x;8x;16x
@@ -21907,7 +21917,7 @@ Death Match;Team DM;Tournament
 
 > #str_04235
 None;Low;Moderate;Excessive
-无；低；中；高
+无;低;中;高
 
 > #str_04236
 High;Low
@@ -21915,7 +21925,7 @@ High;Low
 
 > #str_04237
 2 speakers;4 speakers;5 speakers;6 speakers;7 speakers
-2扬声器；4扬声器；5扬声器；6扬声器；7扬声器
+2扬声器;4扬声器;5扬声器;6扬声器;7扬声器
 
 > #str_04238
 640x480;800x600;1024x768;1280x1024
@@ -22433,7 +22443,7 @@ EPD粒子乳化器
 
 > #str_04367
 EPD Junction 2
-EPD枢纽2
+EPD连接点2
 
 > #str_04368
 EPD Particle Scrubber
@@ -22449,7 +22459,7 @@ EPD污染净化
 
 > #str_04371
 Alpha Labs Junction 3
-阿尔法实验室节点3
+阿尔法实验室连接点3
 
 > #str_04372
 Crawl way 13
@@ -22457,15 +22467,15 @@ Crawl way 13
 
 > #str_04373
 Hydrocon Condenser
-Hydrocon冷凝器室
+氢聚变冷凝器
 
 > #str_04374
 Hydrocon Oxygenator
-Hydrocon和氧器室
+氢聚变氧气生成器
 
 > #str_04375
 Hydrocon Junction 1
-Hydrocon连接点1
+氢聚变连接点1
 
 > #str_04376
 Hydrogen Siphon
@@ -22477,39 +22487,39 @@ Oxygen Siphon
 
 > #str_04378
 Hydrocon Stabilization
-Hydrocon稳定室
+氢聚变稳定室
 
 > #str_04379
 Stabilization Junction
-稳定性接合点
+稳定性连接点
 
 > #str_04380
 Hydrocon Lab
-Hydrocon实验室
+氢聚变实验室
 
 > #str_04381
 Storage Area 8
-储存区域 8
+存储第8区域
 
 > #str_04382
 Alpha Labs Main Junction
-阿尔法实验室主节点
+阿尔法实验室主连接点
 
 > #str_04383
 Hydrocon Observation Platform
-Hydrocon观测平台
+氢聚变观测平台
 
 > #str_04384
 Hydrocon Junction 4
-Hydrocon连接点3
+氢聚变连接点4
 
 > #str_04385
 Hydrocon Junction 3
-Hydrocon连接点2
+氢聚变连接点3
 
 > #str_04386
 Alpha Labs Sector Junction
-阿尔法实验室节点区
+阿尔法实验室区连接点
 
 > #str_04387
 Elevator
@@ -22537,7 +22547,7 @@ Lavatory
 
 > #str_04393
 Coolant Junction Hatchway
-冷却枢纽舱口
+冷却连接点舱口
 
 > #str_04394
 Hatchway H02 / H03
@@ -22549,7 +22559,7 @@ Vista D04 / D05
 
 > #str_04396
 Junction D03 / D04
-连接点 D03 / D04
+连接点D03/D04
 
 > #str_04397
 Engineering Security Checkpoint
@@ -22561,7 +22571,7 @@ Lavatory Ventilation Ducts
 
 > #str_04399
 Coolant Compressor Junction
-冷却压缩机枢纽
+冷却压缩机连接点
 
 > #str_04400
 Engineering and Coolant Control
@@ -22569,7 +22579,7 @@ Engineering and Coolant Control
 
 > #str_04401
 Coolant Control Junction
-冷却控制枢纽
+冷却控制连接点
 
 > #str_04402
 Coolant Access Shaft 5
@@ -22581,7 +22591,7 @@ Hazardous Waste Disposal
 
 > #str_04404
 AL2 Main Engineering Junction
-AL2 主要工程节点
+AL2主工程连接点
 
 > #str_04405
 Coolant Monitoring
@@ -22597,7 +22607,7 @@ Boiler Room Monitoring
 
 > #str_04408
 Storage and Enpro Facility Access
-进入储存与电站设施
+访问存储与恩普罗电站设施
 
 > #str_04409
 Hazardous  Materials Lift
@@ -22617,11 +22627,11 @@ Air Lock
 
 > #str_04413
 Processing Junction 2
-正在处理结合点 2
+处理连接点2
 
 > #str_04414
 Reactor Junction 1
-反应堆结合点 1
+反应堆连接点1
 
 > #str_04415
 Reactor Ready room
@@ -22637,7 +22647,7 @@ Reactor Room Lift
 
 > #str_04418
 Reactor Junction 2
-反应堆结合点 2
+反应堆连接点2
 
 > #str_04419
 Reactor Processing
@@ -22645,7 +22655,7 @@ Reactor Processing
 
 > #str_04420
 Processing Junction 1
-正在处理结合点 1
+处理连接点1
 
 > #str_04421
 EFR Staging
@@ -22661,7 +22671,7 @@ EFR分站1
 
 > #str_04424
 EFR Junction 1
-EFR枢纽1
+EFR连接点1
 
 > #str_04425
 EFR Main Conveyer
@@ -22669,7 +22679,7 @@ EFR主输送带
 
 > #str_04426
 EFR remote access junction 1
-EFR远程通路枢纽1
+EFR远程访问连接点1
 
 > #str_04427
 EFR Substation 2
@@ -22681,7 +22691,7 @@ EFR压力站
 
 > #str_04429
 EFR remote access junction 2
-EFR远程通路枢纽2
+EFR远程访问连接点2
 
 > #str_04430
 EFR Substation 3
@@ -22697,23 +22707,23 @@ EFR主库
 
 > #str_04433
 EFR Junction 5
-EFR枢纽5
+EFR连接点5
 
 > #str_04434
 EFR Junction 6
-EFR枢纽6
+EFR连接点6
 
 > #str_04435
 EFR Junction 7
-EFR枢纽7
+EFR连接点7
 
 > #str_04436
 EFR Junction 8
-EFR枢纽8
+EFR连接点8
 
 > #str_04437
 EFR Junction 9
-EFR枢纽9
+EFR连接点9
 
 > #str_04438
 EFR Main Shipping Hub
@@ -22745,7 +22755,7 @@ Transfer Shaft 2a
 
 > #str_04445
 B1 Sub Junction 2
-B1 副节点 2号
+B1下层连接点2
 
 > #str_04446
 B2 Material Transfer Lift
@@ -22753,7 +22763,7 @@ B2 材料运输电梯
 
 > #str_04447
 B1 Sub Junction 1
-B1 副节点 1号
+B1下层连接点1
 
 > #str_04448
 Thermal Regulation Pump
@@ -22761,7 +22771,7 @@ Thermal Regulation Pump
 
 > #str_04449
 B1 Conference Room 1
-B1 会议室 1
+B1会议室1
 
 > #str_04450
 Environmental Monitoring
@@ -22769,23 +22779,23 @@ Environmental Monitoring
 
 > #str_04451
 Sub Chamber 2
-下层房间 2
+下层房间2
 
 > #str_04452
 Storage 2D
-储存室 2-D
+储存室2D
 
 > #str_04453
 Living Quarters 1A
-住宅区 1A
+住宅区1A
 
 > #str_04454
 Heavy Transfer Lift 1
-重物传送梯 1
+重物传送梯1
 
 > #str_04455
 Base1 Junction 1
-1号基地 1号节点
+1号基地连接点1
 
 > #str_04456
 Base 1 Materials Transfer
@@ -22793,7 +22803,7 @@ Base 1 Materials Transfer
 
 > #str_04457
 Base1 Junction 2
-1号基地 2号节点
+1号基地连接点2
 
 > #str_04458
 Containment Monitoring
@@ -22801,7 +22811,7 @@ Containment Monitoring
 
 > #str_04459
 Base1 Junction 3
-1号基地 3号节点
+1号基地连接点3
 
 > #str_04460
 Main Transfer Lift Shaft
@@ -22845,7 +22855,7 @@ Station 3 Storage
 
 > #str_04470
 Main Dig Junction
-主挖掘结合点
+主挖掘连接点
 
 > #str_04471
 Room of Stars
@@ -23261,7 +23271,7 @@ Delta Security
 
 > #str_04574
 Delta Security Junction
-德尔塔保安枢纽
+德尔塔安保连接点
 
 > #str_04575
 Office  M. Abrams
@@ -23281,7 +23291,7 @@ Hazardous Materials
 
 > #str_04579
 Delta Junction 2
-德尔塔枢纽2
+德尔塔连接点2
 
 > #str_04580
 Examination Room D2-1
@@ -23393,7 +23403,7 @@ Upper Office Corridor
 
 > #str_04607
 Stasis Control Junction
-淤积控制接合点
+淤积控制连接点
 
 > #str_04608
 Maintenance Area 4
@@ -23613,11 +23623,11 @@ T1楼梯井
 
 > #str_04662
 Delta4 Junction 1
-德尔塔4枢纽1
+德尔塔4连接点1
 
 > #str_04663
 Delta4 Junction 2
-德尔塔4枢纽2
+德尔塔4连接点2
 
 > #str_04664
 Delta4 Security Check-in
@@ -23677,7 +23687,7 @@ Main Elevator Shaft
 
 > #str_04678
 Walkway to Enpro
-通往Enpro的走道
+通往恩普罗的走道
 
 > #str_04679
 Control 1
@@ -23769,7 +23779,7 @@ Sub Level 4 Excavation
 
 > #str_04701
 Sub Level 4 Junction 1
-下层 4 连接 1
+下层4连接点1
 
 > #str_04702
 Heroes Antechamber
@@ -23777,15 +23787,15 @@ Heroes Antechamber
 
 > #str_04703
 Mars City Hangar
-火星城市机库
+火星城机库
 
 > #str_04704
 Central Access Junction
-中央通道结点
+中央通道连接点
 
 > #str_04705
 Command Access Junction
-指挥中心入口枢纽
+指挥部通道连接点
 
 > #str_04706
 Marine Command Access
@@ -23793,7 +23803,7 @@ Marine Command Access
 
 > #str_04707
 Combat Preparation
-战斗准备
+战斗预备处
 
 > #str_04708
 Marine Headquarters
@@ -23825,7 +23835,7 @@ SEC行动运作中
 
 > #str_04715
 Sec Ops Junction
-SEC行动连接点
+安保行动连接点
 
 > #str_04716
 Reception Processing
@@ -23837,11 +23847,11 @@ Manifest Control Entrance
 
 > #str_04718
 ACO Access Junction
-ACO 登入节点
+ACO通道连接点
 
 > #str_04719
 ACO Lift Junction
-ACO 电梯节点
+ACO电梯连接点
 
 > #str_04720
 Operations Station
@@ -23849,7 +23859,7 @@ Operations Station
 
 > #str_04721
 Infirmary Access Junction
-医务室入口连接点
+医务室通道连接点
 
 > #str_04722
 Underground Security Checkpoint
@@ -24145,7 +24155,7 @@ Gaspump1
 
 > #str_04795
 Central Pipes Junction
-中央管线结点
+中央管线连接点
 
 > #str_04796
 Storagehall1
@@ -24273,11 +24283,11 @@ Chamber Passageway
 
 > #str_04827
 CS Junction
-CS结点
+CS连接点
 
 > #str_04828
 Running DOOM 3 in Ultra Quality utilizes over 500 Megabytes of texture memory. Running in this mode is not recommended. Are you sure you want to proceed?
-运行DOOM3的超画质模式需要使用超过500M的显存。  系统并不建议你运行这个模式， 请确定要继续？
+运行DOOM 3的超画质模式需要使用超过500M的显存。  系统并不建议你运行这个模式， 请确定要继续？
 
 > #str_04829
 ELEMENTAL PHASE DECONSTRUCTOR
@@ -24321,7 +24331,7 @@ Check for game updates
 
 > #str_04839
 DOOM 3 is up to date, no update is required.
-毁灭战士3无需再进行更新。
+DOOM 3已是最新，无需再更新。
 
 > #str_04840
 """Bad challenge.
@@ -24429,7 +24439,7 @@ Transfer Bay
 
 > #str_06673
 Communications Access Junction
-通讯通路枢纽
+通讯通道连接点
 
 > #str_06674
 Comm Main Elevator
@@ -24489,11 +24499,11 @@ Delta Authority Systems
 
 > #str_06688
 Delta Authority Junction
-德尔塔官员枢纽
+德尔塔官员连接点
 
 > #str_06689
 Processing Subfloor
-正在处理地下层
+正在处理下层
 
 > #str_06690
 Vent Shaft
@@ -24525,7 +24535,7 @@ MPG Nexus
 
 > #str_06697
 Junction 1
-连接点 1
+连接点1
 
 > #str_06698
 Mainframe Coolant Chamber
@@ -24537,15 +24547,15 @@ Materials Transfer L1
 
 > #str_06700
 Junction 2
-连接点 2
+连接点2
 
 > #str_06701
 Junction 3
-连接点 3
+连接点3
 
 > #str_06702
 Junction 4
-连接点 4
+连接点4
 
 > #str_06703
 Main Power Coupling
@@ -24553,7 +24563,7 @@ Main Power Coupling
 
 > #str_06704
 Junction 5
-连接点 5
+连接点5
 
 > #str_06705
 MPG Sub System 1
@@ -24593,7 +24603,7 @@ Main Lift
 
 > #str_06714
 Engineering Junction
-工程处枢纽
+工程处连接点
 
 > #str_06715
 Teleporter Room
@@ -24605,11 +24615,11 @@ Flow Control Room
 
 > #str_06717
 Flow Control Junction A
-气流控制连接 A
+气流控制连接点A
 
 > #str_06718
 Flow Control Junction B
-气流控制连接 B
+气流控制连接点B
 
 > #str_06719
 Lift Area Level 1
@@ -24709,7 +24719,7 @@ BFG是一种多段武器，按住扳机的时间越长，充能就越多。要�
 
 > #str_06741
 Find Adam Berneche's PDA in the Kitchen to open this cabinet.
-在厨房里面找到Adam Berneche的PDA来打开这个柜子。
+在厨房里面找到亚当·伯内克的PDA来打开这个柜子。
 
 > #str_06742
 Listen to Adam Berneche's audio log, which was downloaded to your PDA when you picked it up, to open this cabinet.
@@ -25482,7 +25492,7 @@ Client unknown to auth.
 
 > #str_07148
 Access denied - CD Key in use.
-访问拒绝 - CD密钥已被使用。
+访问拒绝 - CD钥匙已被使用。
 
 > #str_07149
 Authorize Server - Waiting for client.
@@ -25490,7 +25500,7 @@ Authorize Server - Waiting for client.
 
 > #str_07150
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_07151
 UAC Administration
@@ -25628,7 +25638,7 @@ Hide;Show
 
 > #str_07184
 D3 Key
-D3 密匙
+D3钥匙
 
 > #str_07185
 RoE Key
@@ -25668,27 +25678,27 @@ RIGHT ALT
 
 > #str_07194
 Doom3 CD Key is invalid
-毁灭战士3的CDKEY无效
+Doom3的CD Key无效
 
 > #str_07195
 Doom3 RoE Key is invalid
-毁灭战士3的RoE Key无效
+Doom3的RoE Key无效
 
 > #str_07196
 This Doom3 CD Key is banned
-这个毁灭战士3的CD Key被禁。
+这个Doom3的CD Key被禁。
 
 > #str_07197
 This Doom3 RoE Key is banned
-这个毁灭战士3的RoE Key被禁。
+这个Doom3的RoE Key被禁。
 
 > #str_07198
 Doom3 CD Key is in use
-毁灭战士3的CDKEY已被使用
+Doom3的CD Key已被使用
 
 > #str_07199
 Doom3 RoE Key is in use
-毁灭战士3的RoE Key已被使用
+Doom3的RoE Key已被使用
 
 > #str_07200
 Game
@@ -25700,7 +25710,7 @@ Arrange Servers By Game
 
 > #str_07202
 Both;Doom 3;Doom 3 XP
-两者；毁灭战士3；毁灭战士3 XP
+二者;Doom 3;Doom 3 XP
 
 > #str_07203
 Any;Deathmatch;Tourney;Team DM;Last Man;CTF
@@ -25716,7 +25726,7 @@ Client unknown to auth
 
 > #str_07206
 Access denied - CD Key in use
-访问拒绝 - CD密钥已被使用
+访问拒绝 - CD钥匙已被使用
 
 > #str_07207
 Auth message
@@ -25744,7 +25754,7 @@ No Time Limit
 
 > #str_07212
 Doom 3
-毁灭战士3
+Doom 3
 
 > #str_07213
 Downloading %s
@@ -25806,7 +25816,7 @@ Speakers
 
 > #str_07226
 Stereo;Surround
-立体声；环绕
+立体声;环绕
 
 > #str_07227
 EAX 4.0 HD
@@ -26254,7 +26264,7 @@ Common Area
 
 > #str_11609
 Alpha Junction
-阿尔法节点
+阿尔法连接点
 
 > #str_11610
 Compressor Storage
@@ -26266,7 +26276,7 @@ Info Terminal
 
 > #str_00100000
 This server is running Doom 3. Are you sure you want to shutdown the expansion pack and launch Doom 3?
-这个服务器正在运行doom3.你确定你想要关闭扩展包并且运行doom3？
+这个服务器正在运行Doom 3.你确定你想要关闭扩展包并且运行Doom 3？
 
 > #str_00100001
 Launch Doom 3?
@@ -26279,7 +26289,7 @@ AUTHORIZATION 271 PAN-CIP KEY IDKFA
 --BEGIN MESSAGE--
 """
 """给星轨舰队的紧急来电
-授权271 PAN-CIP 密匙IDKFA
+授权271 PAN-CIP KEY IDKFA
 
 ——信息开始——
 """
@@ -26293,7 +26303,7 @@ REINFORCEMENTS REQUIRED IMMEDIATELY
 
 """
 """给星轨舰队的紧急来电
-授权271 PAN-CIP 密匙IDKFA
+授权271 PAN-CIP KEY IDKFA
 
 ——信息开始——
 请求立即增援
@@ -26334,7 +26344,7 @@ BETRUGER AP"""
 
 1号站点需要支援
 
-BETRUGER 似"""
+贝特鲁格似"""
 
 > #str_00100007
 """REINFORCEMENTS REQUIRED IMMEDIATELY
@@ -26346,7 +26356,7 @@ BETRUGER APPEARS TO"""
 
 1号站点需要支援
 
-BETRUGER 似乎"""
+贝特鲁格似乎"""
 
 > #str_00100008
 """REINFORCEMENTS REQUIRED IMMEDIATELY
@@ -26358,7 +26368,7 @@ BETRUGER APPEARS TO HAVE"""
 
 1号站点需要支援
 
-BETRUGER 似乎已经"""
+贝特鲁格似乎已经"""
 
 > #str_00100009
 """REINFORCEMENTS REQUIRED IMMEDIATELY
@@ -26370,7 +26380,7 @@ BETRUGER APPEARS TO HAVE ESTABLI"""
 
 1号站点需要支援
 
-BETRUGER 似乎已经建"""
+贝特鲁格似乎已经建"""
 
 > #str_00100010
 """REINFORCEMENTS REQUIRED IMMEDIATELY
@@ -26382,7 +26392,7 @@ BETRUGER APPEARS TO HAVE ESTABLISHED CONTACT"""
 
 1号站点需要支援
 
-BETRUGER 似乎已经建立了联络"""
+贝特鲁格似乎已经建立了联络"""
 
 > #str_00100011
 """RE&NFORC&MENTS REQU8RED IMMEDnATEkY
@@ -26612,7 +26622,7 @@ WINDOW SEAL
 
 > #str_00100061
 SHUTTERS
-百叶窗
+护窗板
 
 > #str_00100062
 OPEN
@@ -26620,7 +26630,7 @@ OPEN
 
 > #str_00100063
 SEALED
-封闭的
+已封闭
 
 > #str_00100064
 CLICK TO OPEN
@@ -26700,7 +26710,7 @@ EREBUS LABS
 
 > #str_00100083
 CLICK TO EXIT
-点击退出
+点击离开
 
 > #str_00100084
 EREBUS RESEARCH
@@ -26752,7 +26762,7 @@ CHARGING
 
 > #str_00100096
 EXIT
-退出
+离开
 
 > #str_00100097
 CREDITS: 0/4
@@ -26912,7 +26922,7 @@ Arrange Servers By Game
 
 > #str_00100136
 Both;Doom 3;Doom 3 XP
-两者；毁灭战士3；毁灭战士3 XP
+二者;Doom 3;Doom 3 XP
 
 > #str_00100137
 Deathmatch;Tourney;Team DM;Last Man;CTF
@@ -27024,7 +27034,7 @@ REMOVING POWER CELLS
 
 > #str_00100164
 Generator Offline
-发电机关闭
+发电机离线
 
 > #str_00100165
 GENERATOR EMPTY
@@ -27032,7 +27042,7 @@ GENERATOR EMPTY
 
 > #str_00100166
 GENERATOR OFFLINE
-发电机关闭
+发电机离线
 
 > #str_00100167
 GENERATOR IN USE
@@ -27464,7 +27474,7 @@ Phobos Labs Exterior
 
 > #str_00100274
 SkyTram Junction
-空中缆车接合点
+空中缆车连接点
 
 > #str_00100275
 SkyTram Station West
@@ -27880,7 +27890,7 @@ Lounge
 
 > #str_00100378
 Administration Junction
-管理部门枢纽
+管理部门连接点
 
 > #str_00100379
 Administration Processing
@@ -27932,7 +27942,7 @@ Lobby
 
 > #str_00100391
 South Lounge Junction
-休息室接合处南
+南休息室连接点
 
 > #str_00100392
 Administration Staff Office
@@ -27948,7 +27958,7 @@ Administration East Hall
 
 > #str_00100395
 North Lounge Junction
-北休息室接合处
+北休息室连接点
 
 > #str_00100396
 Administration North Hall
@@ -28462,13 +28472,13 @@ Elevator Control
 """DO NOT OVERLOAD LIFT
 12 TON LIMIT
 4 OCCUPANT LIMIT"""
-"""不要超载货梯
+"""电梯不能超载
 限重12吨
 限装4件"""
 
 > #str_00100524
 CALL LIFT
-呼叫起重机
+呼叫电梯
 
 > #str_00100525
 EXCAVATION LADDER
@@ -28480,11 +28490,11 @@ DEBRIS PROCESSING
 
 > #str_00100527
 MACHINERY ONLINE
-机械 上线
+机械在线
 
 > #str_00100528
 MACHINERY OFFLINE
-机械 离线
+机械离线
 
 > #str_00100529
 RELEASE BRIDGE
@@ -30172,7 +30182,7 @@ Ted Anderson
 
 > #str_00100931
 Adam Bellefeuil
-Adam Bellefeuil
+亚当 Bellefeuil
 
 > #str_00100932
 Jay Brushwood
@@ -30300,7 +30310,7 @@ Tablet Site Beta
 
 > #str_00100963
 Portal Junction
-传送门结合点
+传送门连接点
 
 > #str_00100964
 Excavation Access
@@ -30368,7 +30378,7 @@ herp
 
 > #str_00100980
 DOOM 3: Resurrection of Evil
-毁灭战士3: 邪恶复苏
+DOOM 3: 邪恶复苏
 
 > #str_00100981
 Developed by Nerve Software
@@ -30376,7 +30386,7 @@ Nerve Software开发
 
 > #str_00100982
 Doom 3
-毁灭战士3
+Doom 3
 
 > #str_00100983
 Developed by id Software
@@ -30694,7 +30704,7 @@ Exis Labs is a partially completed research sector developing the fourth generat
 
 > #str_00200003
 ENPRO SECTOR 1
-ENPRO 1区
+恩普罗1区
 
 > #str_00200004
 Energy Processing and Storage
@@ -30702,11 +30712,11 @@ Energy Processing and Storage
 
 > #str_00200005
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
-Enpro电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
+恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
 > #str_00200006
 ENPRO SECTOR 2
-ENPRO 2区
+恩普罗2区
 
 > #str_00200007
 Energy Processing and Storage
@@ -30722,11 +30732,11 @@ UNDERGROUND
 
 > #str_00200010
 Mars City Service Sub-Level
-火星城市下层服务区
+火星城下层服务区
 
 > #str_00200011
 The Mars City Underground sub-levels consist of the needed infrastructure to support Mars City. The sub-levels also provide a connection between the multiple UAC research facilities located on Mars.
-火星城市地下底层包含了支持火星城市所需的基础设施。底层还提供了火星上UAC的多个研究设施之间的连接点。
+火星城地下各层包含了支持火星城所需的基础设施。底层还提供了火星上UAC的多个研究设施之间的连接点。
 
 > #str_00200012
 Exis Labs
@@ -30754,15 +30764,15 @@ Exis Labs Access
 
 > #str_00200018
 Mars City Sublevel
-火星城市下层
+火星城下层
 
 > #str_00200019
 EP Sector 2
-EP 2区
+EP第2区
 
 > #str_00200020
 EP Sector 1
-EP 1区
+EP第1区
 
 > #str_00200021
 Find Dr. Richard Meyers
@@ -30790,7 +30800,7 @@ Return Plasma Inducer to Exis Induction Terminal
 
 > #str_00200027
 CLICK TO EXIT
-点击退出
+点击离开
 
 > #str_00200028
 TRANSFER DEST
@@ -30858,7 +30868,7 @@ Disable Local Security Lockdown
 
 > #str_00200044
 Acquire security station pass key
-获取安全站通行密匙
+获取安全站通行钥匙
 
 > #str_00200045
 Use security terminal to gain access to service sub-levels.
@@ -30870,7 +30880,7 @@ Find Service Access to Exis Labs
 
 > #str_00200047
 Traverse service sub-levels to reach Exis Labs.
-通过服务地下层到达艾克西斯实验室。
+穿过下层的服务到达艾克西斯实验室。
 
 > #str_00200048
 Restore Power to Service Lift
@@ -30990,7 +31000,7 @@ Primary Mission: Retrieve science personnel and eliminate hostile threats
 
 > #str_00200074
 Coolant Junction
-冷却枢纽
+冷却连接点
 
 > #str_00200075
 Control Room
@@ -31018,7 +31028,7 @@ Canister Fill Station 4
 
 > #str_00200081
 Service Junction
-服务结合区
+服务连接点
 
 > #str_00200082
 Canister Monitor Station
@@ -31038,7 +31048,7 @@ Maintenance
 
 > #str_00200086
 Maintenance Junction
-维护接合点
+维护连接点
 
 > #str_00200087
 Elevator Access
@@ -31122,7 +31132,7 @@ Coolant Flow Area
 
 > #str_00200107
 Engineering Junction
-工程处枢纽
+工程处连接点
 
 > #str_00200108
 Power Test Chamber
@@ -31162,11 +31172,11 @@ Service Tunnel
 
 > #str_00200117
 Coolant Overflow Junction
-冷却溢流枢纽
+冷却溢流连接点
 
 > #str_00200118
 Maint Overflow Junction
-维护溢出枢纽
+维护溢出连接点
 
 > #str_00200119
 Maint Control Room
@@ -31234,7 +31244,7 @@ Pumping Station E7
 
 > #str_00200135
 Coolant Transfer Junction
-冷却转移枢纽
+冷却转移连接点
 
 > #str_00200136
 Service Corridor
@@ -31326,11 +31336,11 @@ Exis Access Lobby
 
 > #str_00200158
 Exis Junction 1
-艾克西斯枢纽1
+艾克西斯连接点1
 
 > #str_00200159
 Exis Junction 2
-艾克西斯枢纽2
+艾克西斯连接点2
 
 > #str_00200160
 Teleporter Sec. Check-In
@@ -31378,11 +31388,11 @@ Engineering Airlock Hatch 02
 
 > #str_00200171
 Engineering Junction 1
-工程处枢纽1
+工程处连接点1
 
 > #str_00200172
 Engineering Junction 2
-工程处枢纽2
+工程处连接点2
 
 > #str_00200173
 Engineering Storage E3-3
@@ -31422,11 +31432,11 @@ Environmental Elevator Lobby
 
 > #str_00200182
 Environmental Junction 1
-环境枢纽1
+环境连接点1
 
 > #str_00200183
 Environmental Junction 1
-环境枢纽1
+环境连接点1
 
 > #str_00200184
 Environmental Systems
@@ -31438,11 +31448,11 @@ Systems Substation B
 
 > #str_00200186
 Systems Junction 1
-系统枢纽1
+系统连接点1
 
 > #str_00200187
 Operations Junction 1
-操作枢纽1
+操作连接点1
 
 > #str_00200188
 Exis Central Operations
@@ -31458,7 +31468,7 @@ Exis Operations Lobby
 
 > #str_00200191
 Exis Main Junction
-艾克西斯主枢纽
+艾克西斯主连接点
 
 > #str_00200192
 Exis Access Stairs
@@ -31510,15 +31520,15 @@ Environ. Systems
 
 > #str_00200204
 Operations
-行动
+运营部
 
 > #str_00200205
 SECURITY TERMINAL 1
-安全终端 1
+安全终端1
 
 > #str_00200206
 SUBLEVEL ACCESS
-子层访问权
+下层访问权
 
 > #str_00200207
 EXIS LABS TELEPORTER
@@ -31538,7 +31548,7 @@ Elevator Lobby
 
 > #str_00200211
 Exis Junction 2
-艾克西斯枢纽2
+艾克西斯连接点2
 
 > #str_00200212
 Service Area 1
@@ -31635,7 +31645,7 @@ Upcoming VIP Visit
 Date: 10-20-2145
 Open for amendment: Yes
 Set for Archive: Yes"""
-"""制作者: William Banks
+"""制作者: 威廉姆·班克斯
 日期: 2145-10-20
 允许修改: 是
 存入档案: 是"""
@@ -31649,7 +31659,7 @@ Missing Personnel
 Date: 10-05-2145
 Open for amendment: Yes
 Set for Archive: No"""
-"""制作者: William Banks
+"""制作者: 威廉姆·班克斯
 日期: 2145-10-05
 允许修改: 是
 存入档案: 否"""
@@ -31753,7 +31763,7 @@ Banks
 
 > #str_admin_banks_pda_fullname
 William L. Banks
-William L. Banks
+威廉姆·L.班克斯
 
 > #str_admin_banks_pda_id
 9134-21
@@ -31761,7 +31771,7 @@ William L. Banks
 
 > #str_admin_banks_pda_name
 William Banks
-William Banks
+威廉姆·班克斯
 
 > #str_admin_banks_pda_post
 Administration
@@ -31822,7 +31832,7 @@ I heard that UAC Corporate is sending someone up here to check on Betruger. His 
 I'll keep you posted if anything goes down.
 Ethan"""
 """Alan,
-我听说 UAC 公司派了些人上来检查 Betruger. 他的名字叫埃利奥特·斯旺, 我不知道他是谁，但John说他是个凡人的家伙。他说他到哪都带着保镖。 这情况可不妙。我希望这个叫斯旺的家伙不要把我们的部门给关了。 我们马上就能解决稳定性的问题，而且传输错误现在也非常少了。
+我听说UAC公司派了些人上来检查贝特鲁格。他的名字叫埃利奥特·斯旺, 我不知道他是谁，但约翰说他是个凡人的家伙。他说他到哪都带着保镖。这情况可不妙。我希望这个叫斯旺的家伙不要把我们的部门给关了。我们马上就能解决稳定性的问题，而且传输错误现在也非常少了。
 
 我会继续和你保持联络的。
 Ethan"""
@@ -32125,7 +32135,7 @@ EPD事故
 
 > #str_alphalabs1_berger_email_1_email_from
 William Landow
-William Landow
+威廉姆·兰多
 
 > #str_alphalabs1_berger_email_1_email_subject
 EPD status
@@ -32138,16 +32148,16 @@ Everything is going exceptionaly well as we prepare the EPD for its next round o
 
 Bill Landow
 """
-"""Berger博士，
+"""伯格博士，
 
 我们在准备EPD进行下一轮测试时一切都进行得非常顺利。Roy Patterson正在设定基线，我们应该今天下午就能开始测试。如果你的安排允许的话，欢迎在2: 00左右光临实验室进行指导。应该会很令人兴奋的！
 
-Bill Landow
+比尔·兰多
 """
 
 > #str_alphalabs1_berger_email_1_email_to
 Kyle Berger
-凯尔·伯杰
+凯尔·伯格
 
 > #str_alphalabs1_berger_email_2_email_date
 11-10-2145
@@ -32168,7 +32178,7 @@ The maintenance team has just finished cleaning the EPD collection chamber.  All
 
 Thank You,
 UAC Maintenance"""
-"""Kyle Berger博士，
+"""凯尔·伯格博士，
 
 维护团队刚清理完EPD收集舱。所有生物物质已经从该区域清除。深度扫描也确认达到你要求的洁净区域。14种锥筒和5个盘子也已经归位。请一定要到维护处来，因为我们需要你签署一些申请表格。
 
@@ -32177,11 +32187,11 @@ UAC维护处"""
 
 > #str_alphalabs1_berger_email_2_email_to
 Kyle Berger
-凯尔·伯杰
+凯尔·伯格
 
 > #str_alphalabs1_berger_pda_fullname
 Kyle C. Berger
-凯尔C.伯杰
+凯尔·C.伯格
 
 > #str_alphalabs1_berger_pda_id
 7861-84
@@ -32189,7 +32199,7 @@ Kyle C. Berger
 
 > #str_alphalabs1_berger_pda_name
 Kyle Berger
-凯尔·伯杰
+凯尔·伯格
 
 > #str_alphalabs1_berger_pda_post
 Alpha Labs, Sector 1
@@ -32223,9 +32233,9 @@ Thank you,
 
 Dr. Harvey
 """
-"""George
+"""乔治
 
-我似乎把我的PDA连同保安密码一起弄丢了。前几天我在Hydrocon上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
+我似乎把我的PDA连同保安密码一起弄丢了。前几天我在氢聚变上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
 谢谢你，
 
 Harvey博士
@@ -32233,11 +32243,11 @@ Harvey博士
 
 > #str_alphalabs1_krietman_email_1_email_to
 Dr. George Krietman
-George Krietman博士
+乔治·科里特曼博士
 
 > #str_alphalabs1_krietman_pda_fullname
 George Krietman
-George Krietman
+乔治·科里特曼
 
 > #str_alphalabs1_krietman_pda_id
 6903-50
@@ -32245,7 +32255,7 @@ George Krietman
 
 > #str_alphalabs1_krietman_pda_name
 George Krietman
-George Krietman
+乔治·科里特曼
 
 > #str_alphalabs1_krietman_pda_post
 Alpha Labs, Sector 1
@@ -32279,9 +32289,9 @@ Some of the boys and I are headed over to Mars City tonight after the shift for 
 John
 
 """
-"""嘿伯尔尼,
+"""嘿，伯尔尼,
 
-我和一些兄弟今晚要在转移后去火星城喝几杯。  你, 还跟以前一样, 很欢迎你和我们一起去, 兄弟。  我在那里等你!
+我和一些兄弟今晚要在转移后去火星城喝几杯。你, 还跟以前一样, 很欢迎你和我们一起去, 兄弟。我会在那等你!
 
 约翰
 
@@ -32301,7 +32311,7 @@ Fredric Anubus
 
 > #str_alphalabs1_lipsitz_email_2_email_subject
 Hydrocon O2 leak
-Hydrocon02号排放室
+氢聚变氧气泄露
 
 > #str_alphalabs1_lipsitz_email_2_email_text
 """Lipsitz,
@@ -32312,7 +32322,7 @@ Dr. Anubus
 """
 """利普希茨,
 
-在氧气位移阀门的一个虹吸水管在Hydrocon实验室形成泄漏是因为其应要求降低了温度促进生产。  如果此管破裂, 它将导致Hydrocon系统的剧烈不稳定然后导致非常危险的情况。  它必须马上更换。
+在氧气位移阀门的一个虹吸水管在氢聚变实验室形成泄漏是因为其应要求降低了温度促进生产。  如果此管破裂, 它将导致氢聚变系统的剧烈不稳定然后导致非常危险的情况。  它必须马上更换。
 
 阿努布斯博士
 """
@@ -32339,7 +32349,7 @@ Alpha Labs, Sector 1
 
 > #str_alphalabs1_lipsitz_pda_security
 Hydrocon Access
-Hydrocon入口
+氢聚变权限
 
 > #str_alphalabs1_lipsitz_pda_title
 Research Assistant
@@ -32874,7 +32884,7 @@ It has come to my attention yet again, that you did not show up for your shift o
 
 Mark Lamia
 Operations Chief Alpha Labs, Sector 3"""
-"""George，
+"""乔治，
 
 我又一次地注意到，你在周三该值班的时候没有到岗。这是本月里你第四次旷工了。我已经开始厌倦你那些可悲可笑的理由了。上个月你已经有用过两次前列腺检查的借口了，我绝对不会再上当了。我郑重警告你，Poota先生。
 
@@ -32883,7 +32893,7 @@ Mark Lamia
 
 > #str_alphalabs3_george_email_1_email_to
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_george_email_2_email_date
 10-28-2145
@@ -32907,7 +32917,7 @@ www.martianbuddy.com"""
 
 > #str_alphalabs3_george_email_2_email_to
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_lamia_audio_1_audio_info
 """Made by: Mark Lamia
@@ -32929,7 +32939,7 @@ Incompetent Employees
 
 > #str_alphalabs3_lamia_email_1_email_from
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_lamia_email_1_email_subject
 Won't be in today
@@ -32947,7 +32957,7 @@ George Poota"""
 我今天感觉不大好，可能没办法来上班了。能否另外派人顶我的班？
 
 谢谢，
-George Poota"""
+乔治 Poota"""
 
 > #str_alphalabs3_lamia_email_1_email_to
 Mark Lamia
@@ -32991,7 +33001,7 @@ Mark Lamia
 
 > #str_alphalabs3_lamia_email_3_email_from
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_lamia_email_3_email_subject
 Doctor appointment
@@ -33009,7 +33019,7 @@ George Poota"""
 今天我感觉不大舒服，下午跟基地内科医生预约了，无法当班了。能否另外找人代一下？
 
 谢谢，
-George Poota"""
+乔治 Poota"""
 
 > #str_alphalabs3_lamia_email_3_email_to
 Mark Lamia
@@ -33173,7 +33183,7 @@ Plant Manager
 
 > #str_alphalabs3_poota_pda_fullname
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_poota_pda_id
 4450-86
@@ -33181,7 +33191,7 @@ George Poota
 
 > #str_alphalabs3_poota_pda_name
 George Poota
-George Poota
+乔治 Poota
 
 > #str_alphalabs3_poota_pda_post
 Alpha Labs, Sector 3
@@ -33314,7 +33324,7 @@ Date: 08/21/45
 What we know about the ancient civilization and the artifacts found"""
 """创建人: Pierce Rogers
 首席考古学家
-日期: 08/21/45
+日期: 45-08-21
 
 关于上古文明和所找到的遗物我们所知的一切"""
 
@@ -33383,16 +33393,16 @@ Please take more caution in securing your personal data assistant. It's turned u
 
 Mr. Peterson
 Maintenance Supervisor"""
-"""Adam,
+"""亚当,
 
-请多加注意保护你的个人资料助手。这个月已经连续丢了又找到三次了。要知道，你的基本安全许可都存储在里面，PDA丢掉了会造成严重的安全问题。不能保证你自己的PDA的安全的话，你自己可能因此被个职查办。
+请多加注意保护你的个人资料助手。这个月已经连续丢了又找到三次了。要知道，你的基本安全许可都存储在里面，PDA丢掉了会造成严重的安全问题。不能保证你自己的PDA的安全的话，你自己可能因此被革职查办。
 
 Mr. Peterson
 维护主管"""
 
 > #str_berneche_email_1_email_to
 Adam Berneche
-Adam Berneche
+亚当·伯内克
 
 > #str_berneche_email_2_email_date
 11-10-2145
@@ -33414,7 +33424,7 @@ I do not want to tell you again how important it is to record those codes.
 
 Mr. Peterson
 Maintenance Supervisor"""
-"""Adam,
+"""亚当,
 你的报告已经一拖再拖了。  用录一篇音频日志，告诉我今天你在轮班维护时都干了些什么，马上。我知道你今天得到了新密码，我必须用新密码来更新我的主控名单
 
 我可不想再强调这些密码有多重要了。
@@ -33424,7 +33434,7 @@ Mr. Peterson
 
 > #str_berneche_email_2_email_to
 Adam Berneche
-Adam Berneche
+亚当·伯内克
 
 > #str_berneche_email_3_email_date
 11-13-2145
@@ -33462,7 +33472,7 @@ Delta未来系统
 
 > #str_berneche_email_3_email_to
 Adam Berneche
-Adam Berneche
+亚当·伯内克
 
 > #str_bfg_video_info
 """Creator: UAC Advanced Weapons
@@ -33470,7 +33480,7 @@ Date: 10/10/45
 
 Informational video on the BFG 9000"""
 """创建人: UAC先进武器部门
-日期: 10/10/45
+日期: 45-10-10
 
 关于BFG9000的信息视频"""
 
@@ -33633,8 +33643,8 @@ Please retain for your records
 
 The entire Crater team thanks you"""
 """订单号: M8909848
-接收日期  10/10/2145
-订单总额:    $269.83
+接收日期: 2145-10-10
+订单总额: $269.83
 寄往: Universal Credit
 
 Crater经典音乐谢谢您的订购
@@ -33915,7 +33925,7 @@ Artifact Transport Concerns
 
 > #str_commoutside_holiday_email_1_email_from
 Ron Ridge
-罗恩 李德吉
+罗恩·里奇
 
 > #str_commoutside_holiday_email_1_email_subject
 Those Damn Chainsaws!
@@ -33979,7 +33989,7 @@ Communications Transfer
 
 > #str_commoutside_holiday_pda_security
 COMM Transfer Access
-通信转移许可
+通信传输权限
 
 > #str_commoutside_holiday_pda_title
 Transport Controller
@@ -34026,7 +34036,7 @@ UAC管理处"""
 
 > #str_commoutside_ridge_email_1_email_to
 Ron Ridge
-罗恩 李德吉
+罗恩·里奇
 
 > #str_commoutside_ridge_email_2_email_date
 11-14-2145
@@ -34056,11 +34066,11 @@ What are we gonna do with all those chainsaws?  We've got two shipments of exces
 Thanks,
 -RR"""
 """罗恩， 
-我一点都不知道要怎么用这些东西， 不如你好像上次一样丢那些东西下EMPRO附近的鸿沟。  
+我一点都不知道要怎么用这些东西， 不如你好像上次一样丢那些东西下恩普罗附近的鸿沟。  
 
 詹姆斯
 
- --原始邮件--  
+----原始邮件----
 寄出时间:  2145-11-13  
 收件人:  詹姆斯。哈利德  嘿， 詹姆斯， 我们要怎么处理那些链锯？  很快就有两批多余的治疗器具运过来而我们不够空间。  我简直不敢相信有人会误运那些东西。  在火星还有没有比链锯更没用的东西了！？！  话说你快点来帮我搞定这些东西。  
 
@@ -34069,11 +34079,11 @@ Thanks,
 
 > #str_commoutside_ridge_email_2_email_to
 Ron Ridge
-罗恩 李德吉
+罗恩·里奇
 
 > #str_commoutside_ridge_pda_fullname
 Ron I. Ridge
-罗恩 I. 李德吉
+罗恩·I.里奇
 
 > #str_commoutside_ridge_pda_id
 8735-80
@@ -34081,7 +34091,7 @@ Ron I. Ridge
 
 > #str_commoutside_ridge_pda_name
 Ron Ridge
-罗恩 李德吉
+罗恩·里奇
 
 > #str_commoutside_ridge_pda_post
 Communications Transfer
@@ -34209,11 +34219,11 @@ This should probably be reported to Dr. Betruger at once."""
 
 我找机会测试了一下你给我们的公式。结果已经上传到了你的邮箱当中。
 
-请特别留意一下12页的F段的第2部分。左侧的图标显示除了过去3周中的不寻常的峰值，这只可能是发生了对Enpro电力网络进行的非法接入。
+请特别留意一下12页的F段的第2部分。左侧的图标显示除了过去3周中的不寻常的峰值，这只可能是发生了对恩普罗电网进行的非法接入。
 
 如果不超过你们区域的电力限制的话，根本就没有办法获得你提供的图标。
 
-或许应该立即将这件事情汇报给Betruger博士。"""
+或许应该立即将这件事情汇报给贝特鲁格博士。"""
 
 > #str_cpu_bates_email_3_email_to
 Tony Bates
@@ -34839,7 +34849,7 @@ Date: 11/02/45
 Report on Patient 0432, Pvt. Steve Jenson"""
 """创建人: Peter Raleigh
 医疗管理人
-日期: 11/02/45
+日期: 45-11-02
 
 关于病患0432Steve Jenson列兵的报告"""
 
@@ -36066,7 +36076,7 @@ UAC Board Chairman"""
 
 理事会统一通过了一项全面复核火星研究设施的决议。你被任命为我们此次的官方代表，我们建议从今天起进行全面准备。
 
-我们希望你全面评估所有研究发展。当前和未来方向都应当符合理事会的期望。我们必须能控制Betruger博士。他的特别位面研究对于传送实验来说是个潜在威胁，这是我们无法接受的。理事会认为传送是UAC最重要的科学成果，坚决不能破坏它在这个研究领域的统治地位。
+我们希望你全面评估所有研究发展。当前和未来方向都应当符合理事会的期望。我们必须能控制贝特鲁格博士。他的特别位面研究对于传送实验来说是个潜在威胁，这是我们无法接受的。理事会认为传送是UAC最重要的科学成果，坚决不能破坏它在这个研究领域的统治地位。
 
 我们期待你能在未来几天内给出一份正式的简报和日程表。
 
@@ -36100,7 +36110,7 @@ Sincerely,
 Elizabeth McNeil"""
 """斯旺参事，
 
-我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心Betruger博士的研究方向，希望你的介入能带来急需的转变。我还听说Betruger博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。
+我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心贝特鲁格博士的研究方向，希望你的介入能带来急需的转变。我还听说贝特鲁格博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。
 
 我希望你的介入不会太迟。等你的调查有结论后，我很希望能和你在地球会面。
 
@@ -36237,7 +36247,7 @@ Date: 10/05/45
 
 Central Authority 'Demon Museum'"""
 """中央机构
-日期: 10/05/45
+日期: 45-10-05
 
 中央机构“恶魔博物馆”"""
 
@@ -36364,7 +36374,7 @@ Your gamer profile does not have the correct permissions to access Xbox LIVE fun
 
 > #str_dlg_360_installed_continue
 This content cannot be accessed when DOOM 3 BFG Edition is installed to the Xbox 360 HDD.  To access this content, please uninstall the game from your HDD and play it from the game disc.
-当毁灭战士3BFG版本安装到Xbox 360硬盘上的时候这可内容不可用。要使用这个内容的话，请从硬盘上卸载游戏并从游戏碟片运行。
+当DOOM 3 BFG版本安装到Xbox 360硬盘上的时候这可内容不可用。要使用这个内容的话，请从硬盘上卸载游戏并从游戏碟片运行。
 
 > #str_dlg_360_leave_lobby_ret_main
 Leaving the current lobby will end this session and return to the multiplayer menu.  Are you sure?
@@ -36396,7 +36406,7 @@ A new game host has been chosen.
 
 > #str_dlg_360_must_signin
 You must sign into a gamer profile to play DOOM 3
-你必须登录一个玩家档案才能进行毁灭战士3的游戏。
+你必须登录一个玩家档案才能进行DOOM 3的游戏。
 
 > #str_dlg_360_new_device_selected
 You will lose your autosave on this storage device.  Are you sure?
@@ -36516,7 +36526,7 @@ Do you want to keep these display settings?
 
 > #str_dlg_confirm_quit
 Are you sure you want to exit DOOM 3?
-你确定要退出DOOM3吗？
+你确定要退出DOOM 3吗？
 
 > #str_dlg_connecting
 Connecting...
@@ -36608,7 +36618,7 @@ Finding new host...
 
 > #str_dlg_no_guest_support
 DOOM 3 does not support guest profiles
-毁灭战士3不支持游客档案
+DOOM 3不支持游客档案
 
 > #str_dlg_no_savegames_available
 No saved games available.
@@ -37179,7 +37189,7 @@ Liz
 至: Elizabeth McNeil
 
 Liz,
-Lloyd 这次真的是变本加厉了。他把我转移到了Enpro沟渠旁边的办公室。他真的以为这样我就能对他有好感了？等等…或许这真的有用。被长时间孤立在这真的让我很难受。我现在一有机会与人交谈就滔滔不绝。
+Lloyd 这次真的是变本加厉了。他把我转移到了恩普罗沟渠旁边的办公室。他真的以为这样我就能对他有好感了？等等…或许这真的有用。被长时间孤立在这真的让我很难受。我现在一有机会与人交谈就滔滔不绝。
 
 好了，我得开始干活了
 -T."""
@@ -37202,7 +37212,7 @@ Theresa Chasar
 
 > #str_enpro_chasar_pda_post
 Enpro
-Enpro
+恩普罗
 
 > #str_enpro_chasar_pda_security
 """"""
@@ -37278,11 +37288,11 @@ guys..... this isn't a chain letter, but a choice for all of us to save a little
 
 > #str_enpro_hammer_email_2_email_to
 Steve Hammer
-斯蒂夫 哈默
+斯蒂夫·哈默
 
 > #str_enpro_hammer_pda_fullname
 Steve L. Hammer
-斯蒂夫 L.哈默
+斯蒂夫·L.哈默
 
 > #str_enpro_hammer_pda_id
 2671-93
@@ -37290,11 +37300,11 @@ Steve L. Hammer
 
 > #str_enpro_hammer_pda_name
 Steve Hammer
-斯蒂夫 哈默
+斯蒂夫·哈默
 
 > #str_enpro_hammer_pda_post
 Enpro
-Enpro
+恩普罗
 
 > #str_enpro_hammer_pda_security
 """"""
@@ -37414,7 +37424,7 @@ Paul Raad
 
 > #str_enpro_raad_pda_post
 Enpro
-Enpro
+恩普罗
 
 > #str_enpro_raad_pda_security
 """"""
@@ -37430,7 +37440,7 @@ Date: 04/15/45
 
 Information on the EPD system"""
 """创建人: UAC公关部
-日期: 04/15/45
+日期: 45-04-15
 
 关于EPD系统的信息"""
 
@@ -38952,7 +38962,7 @@ Date: 08/21/45
 Technical specifications"""
 """创建人: UAC
 工程处
-日期: 08/21/45
+日期: 45-08-21
 
 技术参数"""
 
@@ -39291,13 +39301,13 @@ Date: 04/15/45
 
 Information on the Hydrocon system"""
 """创建人: UAC公关部
-日期: 04/15/45
+日期: 45-04-15
 
-关于Hydrocon系统的信息"""
+关于氢聚变系统的信息"""
 
 > #str_hydrocon_video_name
 Hydrocon
-Hydrocon
+氢聚变
 
 > #str_ian_report_video_info
 """Creator: Ian McCormick
@@ -39305,7 +39315,7 @@ Date: 11/15/45
 
 Results of the human teleportation experiments"""
 """创建人: Ian Mccormick
-日期: 11/15/45
+日期: 45-11-15
 
 人类传输实验的结果"""
 
@@ -39329,11 +39339,11 @@ Thanks
 """Adrian Carmack
 Artist, Co-Owner"""
 """Adrian Carmack
-Artist, Co-Owner"""
+Artist, 共有人"""
 
 > #str_id_1_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_2_email_date
 11-16-2145
@@ -39352,12 +39362,12 @@ Thank You
 John Carmack
 Programmer, Co-Owner"""
 """谢谢你。
-John Carmack
-程序员，共同所有人"""
+约翰·卡马克
+程序员，共有人"""
 
 > #str_id_2_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_3_email_date
 11-16-2145
@@ -39375,13 +39385,13 @@ Thank You
 """I would like to thank our fans for playing Doom 3.
 Kevin Cloud
 Artist, Co-Owner"""
-"""我想要感谢我们的粉丝能够游玩毁灭战士3。
+"""我想要感谢我们的粉丝能够游玩Doom 3。
 凯文·克劳德
-美工，公司所有人"""
+艺术家，共有人"""
 
 > #str_id_3_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_4_email_date
 11-16-2145
@@ -39410,16 +39420,16 @@ CEO, Co-Owner"""
 
 我想要感谢Tara在我日以继夜工作疲于奔波时的耐心，无论我多晚回到家，她总是在等着我。感谢Tuffy, Champ, Barney, Boo, Tazzy, Charm, Ally, Annie, Nadeema, Firefox, Amira, Shahira, Misty还有我们记忆中的Hope，感谢他们在我不在时照顾Tara。感谢这些年来我的家人对我的所有支出和鼓励。
 
-感谢整个id的团队，感谢他们为Doom3付出的巨大努力。
+感谢整个id的团队，感谢他们为DOOM 3付出的巨大努力。
 
-当然还要感谢粉丝们，你们让所有的付出最终化作汇报。在QuakeCon和Doom3服务器上再见，我会很高兴用“Toddh”的礼仪喂你们几颗火箭弹的！
+当然还要感谢粉丝们，你们让所有的付出最终化作汇报。在QuakeCon和DOOM 3服务器上再见，我会很高兴用“Toddh”的礼仪喂你们几颗火箭弹的！
 
 Todd Hollenshead
-CEO，Co-Owner"""
+CEO，共有人"""
 
 > #str_id_4_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_5_email_date
 11-16-2145
@@ -39445,11 +39455,11 @@ Lead Designer, Co-Owner"""
 我也想特别感谢一下我的妻子斯蒂芬妮和我的孩子理查德， 还有德斯蒂尼在关键时刻陪伴了我很长时间。
 
 蒂姆·威利茨
-首席设计师, 公司所有人"""
+首席设计师, 共有人"""
 
 > #str_id_5_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_6_email_date
 11-16-2145
@@ -39485,7 +39495,7 @@ id的所有者们: '多谢你多年来持续的支持和指导'
 
 > #str_id_6_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_7_email_date
 11-16-2145
@@ -39527,7 +39537,7 @@ TTimo
 
 > #str_id_7_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_8_email_date
 11-16-2145
@@ -39555,7 +39565,7 @@ Mal Blackwell
 
 > #str_id_8_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_9_email_date
 11-16-2145
@@ -39563,7 +39573,7 @@ Doom Player
 
 > #str_id_9_email_from
 Andy Chang
-Andy Chang
+安迪·张
 
 > #str_id_9_email_subject
 Dirt
@@ -39606,12 +39616,12 @@ Kevin Cloud:只吃搅拌机里的东西。
 感谢家人，感谢朋友，还有你。
 
 完毕，
-Andy Chang
+安迪·张
 Mesquite, 德州, 美国，地球"""
 
 > #str_id_9_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_10_email_date
 11-16-2145
@@ -39643,7 +39653,7 @@ Jim"""
 
 > #str_id_10_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_11_email_date
 11-16-2145
@@ -39675,7 +39685,7 @@ patd"""
 
 > #str_id_11_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_12_email_date
 11-16-2145
@@ -39705,7 +39715,7 @@ robert..."""
 
 > #str_id_12_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_13_email_date
 11-16-2145
@@ -39731,7 +39741,7 @@ Matt Hooper
 
 > #str_id_13_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_14_email_date
 11-16-2145
@@ -39757,7 +39767,7 @@ Animator"""
 
 > #str_id_14_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_15_email_date
 11-16-2145
@@ -39785,7 +39795,7 @@ id Mom"""
 
 > #str_id_15_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_16_email_date
 11-16-2145
@@ -39815,7 +39825,7 @@ J. Keehan
 Designer"""
 """你花费了宝贵的时间终于来到了这里，战士！...=)
 
-首先最重要的是，诚挚地感谢你进行毁灭战士3的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。
+首先最重要的是，诚挚地感谢你进行Doom 3的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。
 *******
 万分感谢id的所有者 - 让我能够成为他们大家庭的一员。能和一些游戏产业里面最富有天分的人一起工作真的是非常大的荣幸。
 *******
@@ -39829,7 +39839,7 @@ J.Keehan
 
 > #str_id_16_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_17_email_date
 11-16-2145
@@ -39851,7 +39861,7 @@ Artist"""
 
 > #str_id_17_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_18_email_date
 11-16-2145
@@ -39907,7 +39917,7 @@ Fredrik"""
 
 > #str_id_18_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_19_email_date
 11-16-2145
@@ -39929,7 +39939,7 @@ Designer"""
 
 > #str_id_19_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_20_email_date
 11-16-2145
@@ -39957,7 +39967,7 @@ ps -我爱你Peach!"""
 
 > #str_id_20_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_21_email_date
 11-16-2145
@@ -39991,7 +40001,7 @@ Marty"""
 
 > #str_id_21_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_22_email_date
 11-16-2145
@@ -40009,11 +40019,11 @@ Thanks
 """Patrick Thomas
 Artist"""
 """Patrick Thomas
-美工"""
+艺术家"""
 
 > #str_id_22_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_23_email_date
 11-16-2145
@@ -40025,7 +40035,7 @@ JMP van Waveren
 
 > #str_id_23_email_subject
 Did you find the MrE behind DOOM 3 ?
-你找到毁灭战士3所隐藏的MrE了吗？
+你找到DOOM 3所隐藏的MrE了吗？
 
 > #str_id_23_email_text
 """Thanks to me and my beloved twin who unfortunately had to be stripped for spare parts.
@@ -40039,7 +40049,7 @@ MrElusive，
 
 > #str_id_23_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_24_email_date
 11-16-2145
@@ -40067,7 +40077,7 @@ Most of all, I have to thank my 'bagel-chick' Emmy! Thank you for all those nigh
 
 > #str_id_24_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_id_25_email_date
 11-16-2145
@@ -40091,7 +40101,7 @@ Again?
 
 > #str_id_25_email_to
 Doom Player
-毁灭战士播放器
+Doom播放器
 
 > #str_imp27email_email_date
 11-15-2145
@@ -40150,13 +40160,13 @@ Date: 11/15/45
 
 Daily News Report from IPN News Network"""
 """创建人: IPN新闻网络
-日期: 11/15/45
+日期: 45-11-15
 
 IPN新闻网的日常新闻报道"""
 
 > #str_ipn_news_video_name
 IPN News Network: Your Universe Now!  11/15/2145
-IPN 新闻网: 今日宇宙!  11/15/2145
+IPN新闻网: 你现在的宇宙！ 2145-11-15
 
 > #str_lang_english
 English
@@ -40172,7 +40182,7 @@ German
 
 > #str_lang_italian
 Italian
-意大利人
+意大利语
 
 > #str_lang_japanese
 Japanese
@@ -40180,7 +40190,7 @@ Japanese
 
 > #str_lang_spanish
 Spanish
-西班牙人
+西班牙语
 
 > #str_le_enpro_rhodes_audio_1_audio_info
 """Made by: Allen Rhodes
@@ -40226,7 +40236,7 @@ Transfer Data
 """I'm aware of the ongoing effort to get the Auxiliary Core online however, if we are going to meet Betruger's deadline, I need you to help with the transferance data.  I'll send over blocks 37 - 52, please try to get them done as quickly as possible.
 
 -Dr. Meyers"""
-"""我一直在努力使得辅助核心上线运营, 但是如果我们要满足Betruger的最后期限, 就需要你帮助处理传送数据。  我会传送至37 - 52数据块,请让他们尽快完成。
+"""我一直在努力使得辅助核心上线运营, 但是如果我们要满足贝特鲁格的最后期限, 就需要你帮助处理传送数据。我会传送至37-52数据块,请让他们尽快完成。
 
 -迈耶斯博士"""
 
@@ -40428,11 +40438,11 @@ David Voss
 
 > #str_le_enpro_voss_email_3_email_from
 Ron Ridge
-罗恩 李德吉
+罗恩·里奇
 
 > #str_le_enpro_voss_email_3_email_subject
 Oops
-啊噢
+嗷
 
 > #str_le_enpro_voss_email_3_email_text
 """Dave,
@@ -40444,7 +40454,7 @@ I regret to inform you that a shipping container addressed to you has ruptured i
 
 很遗憾地通知你，一批运往你处的货柜在运输途中破损，货物已丢失。那里面有什么东西啊？如果你想要剩下的货物，那就快点来拿，因为这让我们的假期很扫兴。
 
-—RR"""
+-RR"""
 
 > #str_le_enpro_voss_email_3_email_to
 David Voss
@@ -41007,7 +41017,7 @@ Mars City Administation"""
 全新的完整补给柜#108已投入使用。根据上述新规定密码设置为847.如果再次发生意外事件，我们把选择权交给高级职让他们决定是否愿意冒风险派发武器补给。
 
 莱斯利 沃特斯
-火星城市管理员"""
+火星城管理员"""
 
 > #str_le_undgrnd_anders_email_0_email_to
 Phillip Anders
@@ -41176,7 +41186,7 @@ Service Sub-Level
 
 > #str_le_undgrnd_anders_pda_security
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_le_undgrnd_anders_pda_title
 Sr. Technician
@@ -41316,7 +41326,7 @@ Service Sub-Level
 
 > #str_le_undgrnd_thompson_pda_security
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_le_undgrnd_thompson_pda_title
 Technician
@@ -41343,7 +41353,7 @@ Date: 03/11/45
 Standard Operating Procedures on Mars
 """
 """创建人: 陆战队总部
-日期: 03/11/45
+日期: 45-03-11
 
 火星标准行动流程
 """
@@ -41460,7 +41470,7 @@ Mark Caseon
 
 > #str_marscity2_caseon_pda_post
 Mars City
-火星城市
+火星城
 
 > #str_marscity2_caseon_pda_security
 """"""
@@ -41564,7 +41574,7 @@ Duncan Mathews
 
 > #str_marscity2_duncan_pda_post
 Mars City
-火星城市
+火星城
 
 > #str_marscity2_duncan_pda_security
 Analyst Office
@@ -41714,7 +41724,7 @@ Marcus Stanton
 
 > #str_marscity2_stanton_pda_post
 Mars City
-火星城市
+火星城
 
 > #str_marscity2_stanton_pda_security
 """"""
@@ -41858,7 +41868,7 @@ Bill Tyson
 
 > #str_marscity2_tyson_pda_post
 Mars City
-火星城市
+火星城
 
 > #str_marscity2_tyson_pda_security
 """"""
@@ -41937,7 +41947,7 @@ He was last seen in Mars City Underground approaching the airlock leading to the
 """
 """德尔塔科学小组的Jonathan Ishii博士失踪。保安部认为他可能受伤所以无法回复传呼或回到岗位。请注意Ishii博士的踪迹并在发现他后向UAC保安部汇报。
 
-他最后的出现地点是在火星城市的地下，正在前往通向通讯阵列的气闸。
+他最后的出现地点是在火星城的地下，正在前往通向通讯阵列的气闸。
 
 
 """
@@ -42031,7 +42041,7 @@ Mail recipient
 
 > #str_mc1_berneche_pda_fullname
 Adam E. Berneche
-Adam E. Berneche
+亚当·E.伯内克
 
 > #str_mc1_berneche_pda_id
 8321-14
@@ -42039,11 +42049,11 @@ Adam E. Berneche
 
 > #str_mc1_berneche_pda_name
 Adam Berneche
-Adam Berneche
+亚当·伯内克
 
 > #str_mc1_berneche_pda_post
 Mars City
-火星城市
+火星城
 
 > #str_mc1_berneche_pda_security
 """"""
@@ -42135,7 +42145,7 @@ Grant Baston
 
 > #str_mcunderground_baston_pda_post
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_mcunderground_baston_pda_security
 """"""
@@ -42259,7 +42269,7 @@ Frank Delahue
 
 > #str_mcunderground_delahue_pda_post
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_mcunderground_delahue_pda_security
 Engineering
@@ -42311,7 +42321,7 @@ Mark Ryan
 
 > #str_mcunderground_ryan_pda_post
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_mcunderground_ryan_pda_security
 """"""
@@ -42369,7 +42379,7 @@ Daniel Young
 
 > #str_mcunderground_young_pda_post
 Mars City Underground
-火星城市地下
+火星城地下
 
 > #str_mcunderground_young_pda_security
 """"""
@@ -42385,7 +42395,7 @@ Date: 11/15/45
 
 Warning about Exis Teleportation"""
 """创建人: Richard Meyers
-日期: 11/15/45
+日期: 45-11-15
 
 关于艾克西斯传送的警告"""
 
@@ -42399,7 +42409,7 @@ Date: 04/15/45
 
 Information on the MFS system"""
 """创建人: UAC公关部
-日期: 04/15/45
+日期: 45-04-15
 
 关于MFS系统的信息"""
 
@@ -42919,7 +42929,7 @@ Subject: Airlock Request
 The Site 2 engineering team will be conducting a few tests on the J5 airlock system next week.  We will need to manually override the ARSS for these tests, and request the input code be updated to 826, to conduct the tests.
 
 Thank You."""
-"""按你的需求,5号节点, 2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。
+"""按你的需求,5号连接点, 2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。
 
 ----原信息----
 发送于:    2145-11-03
@@ -43091,11 +43101,11 @@ Searching...
 
 > #str_online_ps3_invitation_subject
 DOOM 3 Invitation
-毁灭战士3邀请函
+DOOM 3邀请函
 
 > #str_online_ps3_msg_04
 Wouldn't you prefer a game of DOOM 3?
-你不想来一盘毁灭战士3吗？
+你不想来一盘DOOM 3吗？
 
 > #str_online_view_xbl_party
 Xbox LIVE Party Games
@@ -43120,9 +43130,9 @@ Report to Marine command as soon as possible.  Don't waste any time getting here
 Sergeant Kelly
 """
 """陆战队员,
-尽快去陆战队指挥部报告。别浪费时间来这里了。我们士兵数量不足，我要你们尽快去巡逻。
+尽快去陆战队指挥部报告，别在这里浪费时间。我们士兵数量不足，我要你们尽快去巡逻。
 
-Kelly中士
+凯利中士
 """
 
 > #str_personal2_email_to
@@ -43154,7 +43164,7 @@ Director William Banks
 我恳请占用你们一点时间，希望简短地欢迎你们来到这个所谓“乡外之乡”。我们会尽一切所能来让你们在这里感到舒适，如果你有需要，请随意联系你的主管获得及时的援助。我希望你们能够有时间享受我们良好的员工便利设施。稍微提醒一下，我们在这里从事高技术含量、高安全程度的测试和研究，请勿不慎闯入违禁区域。任何安保队成员将会在你有困难的时候帮助你。
 
 致敬，
-主管William Banks
+主管威廉姆·班克斯
 """
 
 > #str_personal_email_to
@@ -44414,7 +44424,7 @@ Date: 10/05/45
 
 Maintenance Department Safety Video"""
 """中央机构
-日期: 10/05/45
+日期: 45-10-05
 
 维护部安保录像"""
 
@@ -44466,7 +44476,7 @@ Profile Data
 
 > #str_savegame_title
 DOOM® 3: BFG Edition™
-毁灭战士®3: BFG版™
+DOOM® 3: BFG版本™
 
 > #str_site3_davis_audio_1_audio_info
 """Made by: Richard Davis
@@ -44776,7 +44786,7 @@ Date: 10/05/45
 
 Central Authority Research Archive"""
 """中央机构
-日期: 45-10-5
+日期: 45-10-05
 
 中央机构研究档案馆"""
 
@@ -45034,7 +45044,7 @@ DISCARD
 
 > #str_swf_doom3
 Doom 3
-毁灭战士3
+Doom 3
 
 > #str_swf_enabled
 Enabled
@@ -45496,7 +45506,7 @@ Date: 10/05/45
 
 Central Authority Research Archive"""
 """中央机构
-日期: 10/05/45
+日期: 45-10-05
 
 中央机构研究档案馆"""
 
@@ -45542,7 +45552,7 @@ Date: 03/05/45
 
 For additional help please see your UAC representative"""
 """创建人: 人力资源
-日期:  03/05/45
+日期: 45-03-05
 
 需要额外的帮助请联系你的UAC代表"""
 
@@ -45650,7 +45660,7 @@ BFG-9000在完全充能后拥有毁天灭地的破坏力。
 
 > #str_loadtip_5
 Running low on health, armor or ammunition?  Try exploring the environment for stashes.
-不够血， 子弹或者护甲？  尝试去搜索下场景里的容器吧。
+不够血，子弹或者护甲？尝试去搜索下场景里的容器吧。
 
 > #str_loadtip_6
 Conserve your flashlight for when you truly need it.  You don’t want to run out of power mid fight.
@@ -45770,7 +45780,7 @@ Key Assignment
 
 > #str_swf_action
 Action
-行动
+行为
 
 > #str_swf_stereo_side_by_side
 Side by Side
