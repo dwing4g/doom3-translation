@@ -116,7 +116,7 @@ Aspect Ratio
 
 > #str_swf_aspect_dynamic
 Dynamic
-动态分辨率
+动态
 
 > #str_swf_crosshair
 Crosshair

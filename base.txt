@@ -40,7 +40,7 @@ AREA SEALED
 
 > #str_00005
 GENERAL ACCESS
-综合通路
+常规通道
 
 > #str_00006
 ACCESS DOOR 1 OPEN
@@ -80,7 +80,7 @@ SECURITY DOOR
 
 > #str_00015
 LOCK
-锁定
+门锁
 
 > #str_00016
 ADMIN REMOTE
@@ -394,7 +394,7 @@ UAC行政办公室
 
 > #str_00066
 General Access
-综合通路
+常规通道
 
 > #str_00067
 Office 131
@@ -4882,7 +4882,7 @@ SHUTDOWN
 
 > #str_00742
 Scanning filtration system > Done > Filtration System activity below specified level
-扫描过滤系统  完毕  过滤系统运作功率在设定数值以下
+扫描过滤系统 > 完成 > 过滤系统运作功率在指定数值以下
 
 > #str_00743
 Extraction Canister supply within acceptable limits > Canister replacement needed
@@ -4898,7 +4898,7 @@ Automatic Canister replacement system offline > Manually activate replacement
 
 > #str_00746
 UACOS has highlighted necessary activity icon > Depress selection to begin
-UACOS 已经高亮出了必要的活动图标 >按下选择开始
+UACOS已经高亮必要的活动图标 > 按下选择开始
 
 > #str_00747
 REPLACE EXTRACTION CANISTER
@@ -6328,11 +6328,11 @@ We have implemented weekly security code changes. There have been
 multiple incidents of Delta personnel retasking CPU time for unapproved experiments.
 
 Remember: There are no unauthorized task changes without MG clearance. Do not share security codes. """
-"""-政策更变通知-
+"""-政策更改通知-
 我们的安全密码现在每周更新一次。最近Delta的工作人员
 擅改CPU时间并进行了多起未经许可的实验。
 
-记住:没有MG许可，任何任务更变都是未经授权的。请不要泄露安全密码。"""
+记住:没有MG许可，任何任务更改都是未经授权的。请不要泄露安全密码。"""
 
 > #str_01023
 PRIMARY RESEARCH ASSIGNMENT
@@ -6564,7 +6564,7 @@ Destination:
 
 > #str_01071
 Locked On
-锁定
+已锁定
 
 > #str_01072
 Area 8
@@ -7170,15 +7170,15 @@ NO TELEPORT DESTINATION SELECTED
 
 > #str_01181
 SET DESTINATION AT CONTROL STATION 1
-设定终点到控制中心1
+设置终点到控制中心1
 
 > #str_01182
 SET DESTINATION AT CONTROL STATION 2
-设定终点到控制中心2
+设置终点到控制中心2
 
 > #str_01183
 SET DESTINATION AT CONTROL STATION 3
-设定终点到控制中心3
+设置终点到控制中心3
 
 > #str_01184
 HIGH TOXIC LEVELS
@@ -8367,7 +8367,7 @@ Ammunition - Pistol bullets"""
 
 > #str_01428
 UAC-S98 Shotgun
-UAC-S98 霰弹枪
+UAC-S98霰弹枪
 
 > #str_01429
 """Capacity - 4 rounds
@@ -8656,7 +8656,7 @@ bridged for deep space communications via the Phobos Routing Station uplink."""
 > #str_01487
 """Comm Transfer connects Enpro and Communications, and acts as a multipurpose facility for power distribution, equipment repair, and cargo transfer to other base sectors. Due
 to the frequency of broken pressure seals, oxygen tanks are well stocked in this sector."""
-"""通讯传输通道连接Enpro和通讯设备，是一个用作电力分配、设备维修和向其他基地区域运输货物的多功能设施。由于
+"""通讯传输通道连接Enpro和通讯设备，是一个用作电力分配、设备维修和向其它基地区域运输货物的多功能设施。由于
 压力密封舱的损坏频率，该区域的氧气罐存量丰富。"""
 
 > #str_01488
@@ -8669,7 +8669,7 @@ The Delta Complex is the most advanced research facility on Mars. Sector 1 conta
 
 > #str_01490
 Delta Labs Research Facility - Sector 2 South contains the Matter Transfer division focusing on human experimentation and other biological testing. The prototype transfer platform is contained in the upper research hall. Teleporter distance is limited, serving only to test biological effects of matter transference.
-德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其他生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。
+德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。
 
 > #str_01491
 Delta Labs Research Facility - Sector 2 North contains the Biological Research division, focusing on studying various specimens from matter transfer tests. All specimens are catalogued and stored locally.
@@ -11787,7 +11787,7 @@ parm1 = 2= top floor, 1= bottom floor
 parm2 = 1= level1 up to level2, or 2= level1 down to sublevel1
 parm3 = top floor name
 parm4 = bottom floor name"""
-"""参数设定:
+"""参数设置:
 parm1 = 2= 顶层, 1= 底层
 parm2 = 1= 升至二层, 或 2= 下降至一层
 parm3 = 顶层名称
@@ -11883,11 +11883,11 @@ Downloading Video
 
 > #str_02034
 New transfers must report to the registration desk to be issued a PDA.
-新的输送必须去登记处报告，用PDA发布。
+新来客必须去登记处报告，以分配PDA。
 
 > #str_02035
 UAC-PDA issued. Toggle the PDA with the assigned keybind.
-UAC-PDA 已分配. 用分配的按键绑定打开PDA
+UAC-PDA已分配，用已分配的键位绑定开关PDA。
 
 > #str_02036
 Talk
@@ -12205,11 +12205,11 @@ Attack
 
 > #str_02113
 Prev. Weapon
-先前武器
+上一武器
 
 > #str_02114
 Next Weapon
-下个武器
+下一武器
 
 > #str_02115
 Reload
@@ -12277,11 +12277,11 @@ RESET DEFAULTS
 
 > #str_02131
 Reset all game options to default values
-重置所有游戏选项至默认
+重置所有游戏选项成默认值
 
 > #str_02132
 Show Decals
-显示贴图
+显示贴花
 
 > #str_02133
 Show Blood
@@ -12289,11 +12289,11 @@ Show Blood
 
 > #str_02134
 Auto Weapon Reload
-自动武器装填
+武器自动装填
 
 > #str_02135
 Auto Weapon Switch
-自动呼气更换
+武器自动切换
 
 > #str_02136
 Show HUD
@@ -12325,15 +12325,15 @@ Reset all system options to default values
 
 > #str_02143
  APPLY VIDEO CHANGES
- 应用视频设定
+ 应用视频更改
 
 > #str_02144
 Apply video changes
-应用视频更变
+应用视频更改
 
 > #str_02145
 Video Settings
-视频设定
+视频设置
 
 > #str_02146
 Video Quality
@@ -12377,15 +12377,15 @@ Brightness
 
 > #str_02156
  APPLY AUDIO CHANGES
- 应用音频更变
+ 应用音频更改
 
 > #str_02157
 Apply audio changes
-应用音频更变
+应用音频更改
 
 > #str_02158
 Audio Settings
-音频设定
+音频设置
 
 > #str_02159
 Sound Quality
@@ -12429,11 +12429,11 @@ Customize game options
 
 > #str_02169
 Close audio/video settings
-关闭 音频/视频设定
+关闭音频/视频设置
 
 > #str_02170
 Customize audio/video settings
-自定义音频/视频设定
+自定义音频/视频设置
 
 > #str_02171
  EASY MODE
@@ -12537,7 +12537,7 @@ Player Skin
 
 > #str_02196
  APPLY SETTINGS
- 应用设定
+ 应用设置
 
 > #str_02197
 Save player settings
@@ -12561,15 +12561,15 @@ Setup a multiplayer internet/lan server
 
 > #str_02202
 Close player settings
-关闭玩家设定
+关闭玩家设置
 
 > #str_02203
 close player settings
-关闭玩家设定
+关闭玩家设置
 
 > #str_02204
 Configure multiplayer settings
-配置多人游戏设定
+配置多人游戏设置
 
 > #str_02205
 Close Options section
@@ -12577,7 +12577,7 @@ Close Options section
 
 > #str_02206
 Configure controls and other game options
-配置控制和其他游戏选项
+配置控制器和其它游戏选项
 
 > #str_02207
 NEW GAME
@@ -13041,7 +13041,7 @@ RESET DEFAULT CONTROLS
 
 > #str_02321
 Are you sure you want to reset all control binds to the default values?
-你确定要恢复所有控制设定到默认值吗？
+你确定要重置所有控制绑定成默认值吗？
 
 > #str_02322
 RESET
@@ -13049,7 +13049,7 @@ RESET
 
 > #str_02323
 Close advanced system options
-关闭高级系统选项
+关闭进阶系统选项
 
 > #str_02324
 Default controls successfully reset
@@ -13069,7 +13069,7 @@ RESET DEFAULT GAME OPTIONS
 
 > #str_02328
 Are you sure you want to reset all game options to the default values?
-你确定想要重置所有游戏设定为默认值吗？
+你确定要重置所有游戏选项成默认值吗？
 
 > #str_02329
 Click to reset default game options
@@ -13077,19 +13077,19 @@ Click to reset default game options
 
 > #str_02330
 Default game options successfully reset
-成功重置默认游戏选项
+已成功重置默认游戏选项
 
 > #str_02331
 Defaut game options reset canceled
-重置默认游戏选项已取消
+已取消重置默认游戏选项
 
 > #str_02332
 RESET DEFAULT SYSTEM OPTIONS
-重置系统选项
+重置默认系统选项
 
 > #str_02333
 Are you sure you want to reset all system options to the default values?
-你确定想要重置所有系统设定为默认值吗？
+你确定想要重置所有系统选项成默认值吗？
 
 > #str_02334
 Click to reset default system options
@@ -13097,15 +13097,15 @@ Click to reset default system options
 
 > #str_02335
 Default system options successfully reset
-成功重置默认系统选项
+已成功重置默认系统选项
 
 > #str_02336
 Defaut system options reset canceled
-重置默认系统选项已取消
+已取消重置默认系统选项
 
 > #str_02337
 Are you sure you want to exit Doom 3?
-你确定要退出DOOM3吗？
+你确定要退出Doom3吗？
 
 > #str_02338
 Click to chicken out, you pansy.
@@ -13391,7 +13391,7 @@ Shoot
 
 > #str_02406
 Misc
-其他
+其它
 
 > #str_02407
 Look Up:
@@ -13599,7 +13599,7 @@ Show Hud
 
 > #str_02458
 Sound Settings
-声音设定
+声音设置
 
 > #str_02459
 Realtime Room Acoustics
@@ -13607,7 +13607,7 @@ Realtime Room Acoustics
 
 > #str_02460
 Apply Sound Changes
-应用声音更变
+应用音效更改
 
 > #str_02461
 Recommended Quality
@@ -13619,7 +13619,7 @@ Safe Mode
 
 > #str_02463
 Apply Video Changes
-应用视频更变
+应用视频更改
 
 > #str_02464
 """Adrian Carmack...Artist
@@ -13917,7 +13917,7 @@ No current objectives
 
 > #str_02527
 PDA FILES
-PDA 文件
+PDA文件
 
 > #str_02528
 PERSONAL DATA ASSISTANT
@@ -14384,11 +14384,11 @@ Vid
 
 > #str_02636
 Next Anim
-下个Anim
+下一动画
 
 > #str_02637
 Prev Anim
-先前动画
+前一动画
 
 > #str_02638
 Player name:
@@ -15192,7 +15192,7 @@ coolant rod2
 
 > #str_02838
 Lower Levels
-低层楼层
+低层
 
 > #str_02839
 Marine Command
@@ -15208,7 +15208,7 @@ Hangar Access
 
 > #str_02842
 Reception
-接受
+接待
 
 > #str_02843
 Admin Access
@@ -15456,7 +15456,7 @@ Some interactive computers allow you to download information to your PDA. Just c
 
 > #str_02904
 Your PDA contains personal e-mails, downloads from other PDAs, Video logs, Audio logs, Objectives, and Inventory data. Don't lose it.
-你的PDA里面含有从其他PDA上面下载的个人电子邮件，视频日志，音频日志，目标，以及物品数据。不要丢将它丢失。
+你的PDA里面含有从其它PDA上面下载的个人电子邮件，视频日志，音频日志，目标，以及物品数据。不要丢将它丢失。
 
 > #str_02905
 Some interactive computers affect equipment around you, this includes doors, shutters, locks, storage cabinets and many other items.
@@ -15464,7 +15464,7 @@ Some interactive computers affect equipment around you, this includes doors, shu
 
 > #str_02906
 You can pick up Video Disks, Audio Logs, PDAs, and other items. When there is new information stored in your PDA, you will see either a flashing PDA, or Video Disks on the lower left of the HUD.
-你可以拾起视频碟片，音频日志，PDA以及其他物品。当你的PDA储存了新的信息的时候，你就会在HUD的左下角看到一个闪动的PDA或者视频碟片。
+你可以拾起视频碟片，音频日志，PDA以及其它物品。当你的PDA储存了新的信息的时候，你就会在HUD的左下角看到一个闪动的PDA或者视频碟片。
 
 > #str_02907
 Tip
@@ -15952,7 +15952,7 @@ Access Granted!
 
 > #str_03028
 Find alternate path for access to the second floor
-找到进入二层的其他通路
+找到进入二层的其它通路
 
 > #str_03029
 Door Locked
@@ -16028,7 +16028,7 @@ Speak with Sergeant Kelly in Marine Command HQ
 
 > #str_03047
 Restroom
-休息室
+卫生间
 
 > #str_03048
 Sec Ops
@@ -17084,7 +17084,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03281
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03282
 10-29-45 REPORT
@@ -17152,7 +17152,7 @@ The research subjects continue to deteriorate mentally. I have requested a secur
 
 > #str_03297
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
-实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其他的实验体进入空闲的2区办公室以待进一步的观察。
+实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。Betruger向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。
 
 > #str_03298
 Jameson cleared the order for holding the test subject pending a detailed physical analysis. I uploaded a request for new volunteers, so we should have a few new transfers in that are looking for free credits. I am copying Sandra on this log entry, be sure and check ALL potential candidates for immediate family or local social ties. Make sure they won't be missed, Corporate does not want to deal with any more litigations.
@@ -17859,7 +17859,7 @@ STORAGE 02 OPEN
 
 > #str_03421
 Click this gui to access the other gui to click
-点击这个图形界面来进入其他的图形界面
+点击这个图形界面来进入其它的图形界面
 
 > #str_03422
 TELEPORTER CONTROL OPTIONS
@@ -17983,11 +17983,11 @@ Bell-State analysis waiting"""
 
 > #str_03434
 SET CMD ID LOCKER 104
-设定CMD ID锁柜104
+设置命令ID锁104
 
 > #str_03435
 UAC DELTA RESEARCH 1
-UAC3号研究 1
+UAC德尔塔研究1
 
 > #str_03436
 VALUABLE SACRIFICIAL POINTERS
@@ -18013,11 +18013,11 @@ MARS CITY COMPOUND"""
 
 > #str_03441
 ACCESS ATTEMPT LOGGED
-进入请求已登录
+尝试访问已被记录
 
 > #str_03442
 NO CARD FOUND
-没有找到卡片
+未找到卡片
 
 > #str_03443
 CLICK TO SCAN A.C.O. ACCESS CARD
@@ -18025,11 +18025,11 @@ CLICK TO SCAN A.C.O. ACCESS CARD
 
 > #str_03444
 A.C.O. GENERAL ACCESS
-A.C.O. 通用许可
+A.C.O.常规通道
 
 > #str_03445
 SECURITY ACCESS CODE DOOR
-安全密码门
+安全通道密码门
 
 > #str_03446
 REMOTE  DOOR
@@ -18249,7 +18249,7 @@ Energy Processing and Storage
 
 > #str_03499
 The primary excavation site houses the ancient burial chamber. The discovery of this chamber unearthed the stone tablets, soul cube, and many other valuable artifacts.
-主发掘地里面包含了古代墓室。由于这个墓室的发现，石碑，灵魂魔方以及许多其他很有价值的遗物都被发掘了出来。
+主发掘地里面包含了古代墓室。由于这个墓室的发现，石碑，灵魂魔方以及许多其它很有价值的遗物都被发掘了出来。
 
 > #str_03500
 PRIMARY EXCAVATION
@@ -18962,13 +18962,13 @@ MULTIPLE ROUTER FAILURES
 
 > #str_03638
 SUB-LEVEL 1
-子层 1
+子层1
 
 > #str_03639
 """INCORRECT SECURITY CLEARANCE
 
 ACCESS DENIED"""
-"""不正确的安全许可
+"""安全许可不合规
 
 访问拒绝"""
 
@@ -20061,7 +20061,7 @@ Download now to learn more about what you can do."""
 
 > #str_03832
 ERROR ACCESSING PDA
-进入PDA错误
+访问PDA错误
 
 > #str_03833
 VOLUNTEER FOR EXTRA CREDITS
@@ -21128,19 +21128,19 @@ ever conceived...
 
 > #str_04062
 APPLY CHANGES
-应用更变
+应用更改
 
 > #str_04063
 Save keybind changes
-保存键盘锁定变更
+保存键位绑定更改
 
 > #str_04064
 OTHER   
-其他
+其它
 
 > #str_04065
 CONTROLS - OTHER
-控制 - 其他
+控制 - 其它
 
 > #str_04066
 PDA / Score
@@ -21168,15 +21168,15 @@ Drop Weapon
 
 > #str_04072
 APPLY CHANGES  
-应用更变
+应用更改
 
 > #str_04073
 Save Game Option changes
-保存游戏设定变更
+保存游戏选项更改
 
 > #str_04074
 Apply video setting changes
-应用视频设置更变
+应用视频设置更改
 
 > #str_04075
 Video changes accepted
@@ -21184,11 +21184,11 @@ Video changes accepted
 
 > #str_04076
     ADVANCED OPTIONS
-    高级设置
+    进阶选项
 
 > #str_04077
 Open advanced option settings
-打开高级设定选项
+打开进阶选项设置
 
 > #str_04078
 Ultra Quality
@@ -21200,15 +21200,15 @@ Ultra Quality
 
 > #str_04080
 Detect the recommended quality setting
-检测推荐的质量设定
+检测推荐的质量设置
 
 > #str_04081
 Recommended quality selected
-已选推荐品质
+已选择推荐质量
 
 > #str_04082
          select optimal
-         选择最佳选项
+         选择最佳
 
 > #str_04083
            video quality
@@ -21216,7 +21216,7 @@ Recommended quality selected
 
 > #str_04084
 Click 'apply changes' to accept
-点击‘应用改变’以接受
+点击“应用更改”以接受
 
 > #str_04085
 Surround Speakers
@@ -21224,7 +21224,7 @@ Surround Speakers
 
 > #str_04086
 DEFAULTS
-默认值
+默认
 
 > #str_04087
 Reset all defaults
@@ -21316,11 +21316,11 @@ Load game mods
 
 > #str_04109
     ADVANCED SERVER OPTIONS
-    高级服务器设置
+    进阶服务器设置
 
 > #str_04110
 Open advanced server settings
-打开高级服务器设定
+打开进阶服务器设置
 
 > #str_04111
    CREATE MULTIPLAYER GAME SERVER
@@ -21328,7 +21328,7 @@ Open advanced server settings
 
 > #str_04112
 ADVANCED SERVER OPTIONS
-高级服务器设置
+进阶服务器设置
 
 > #str_04113
 Remote console password
@@ -21336,7 +21336,7 @@ Remote console password
 
 > #str_04114
 Reload engine on map change
-地图改变时重新装载引擎
+地图更换时重新加载引擎
 
 > #str_04115
 Allow server side mods
@@ -21360,11 +21360,11 @@ Configure Server Rate
 
 > #str_04120
 Close advanced server options
-关闭高级服务器选项
+关闭进阶服务器选项
 
 > #str_04121
 ADVANCED OPTIONS
-高级设置
+进阶设置
 
 > #str_04122
 High quality special effects
@@ -21396,7 +21396,7 @@ Antialiasing
 
 > #str_04129
 CLOSE ADVANCED OPTIONS
-关闭高级选项
+关闭进阶选项
 
 > #str_04130
 RESET ALL DEFAULTS
@@ -21404,11 +21404,11 @@ RESET ALL DEFAULTS
 
 > #str_04131
 Are you sure you want to reset all control/game/system options to their default values?
-你确定想要重置所有控制/游戏/系统设定为默认值吗？
+你确定要重置所有控制/游戏/系统选项成默认值吗？
 
 > #str_04132
 Click to reset all settings to default
-点击以重置所有设定为默认值
+点击以重置所有设置成默认
 
 > #str_04133
 Options reset
@@ -21416,15 +21416,15 @@ Options reset
 
 > #str_04134
 Cancel default reset
-取消重置默认值
+取消默认重置
 
 > #str_04135
 Default reset aborted
-重置为默认值已取消
+已中止默认重置
 
 > #str_04136
 APPLY VIDEO CHANGES
-应用视频更变
+应用视频更改
 
 > #str_04137
 These changes will take effect the next time you run Doom 3.
@@ -21436,11 +21436,11 @@ ACCEPT
 
 > #str_04139
 Cancel video changes
-取消更改视频设定
+取消视频更改
 
 > #str_04140
 Video settings unchanged
-视频设定未更改
+视频设置未更改
 
 > #str_04141
 UNABLE TO LOCATE 3D AUDIO
@@ -21625,7 +21625,7 @@ Donna Jackson"""
 """Your PDA is CRITICAL to your work at the UAC.  Toggle your PDA with the assigned key bind (TAB is default).  Your PDA contains your security clearance, personal email, audio logs, video disks and other important inventory and mission information.  When you pick up another UAC worker's PDA, their information is downloaded directly to your PDA.  Simply click on a name and navigate the windows accessed through the Data, Email and Video Disk buttons in the upper left portion of the screen, to gain valuable information about your surroundings.
 
 UAC employees store vital information on their PDAs that can be used to unlock the secrets of the facility.  This information includes embedded security access, storage locker codes, and personal information relayed through audio logs and email."""
-"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是TAB键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其他重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
+"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是TAB键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
 
 UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施中的秘密。这一信息包括嵌入式安全许可，储物柜密码，以及音频和邮箱中的个人信息。"""
 
@@ -21635,7 +21635,7 @@ UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施�
 UAC employees store vital information on their PDAs that can be used to unlock the secrets of the facility.  This information includes embedded security access, storage locker codes, and personal information relayed through audio logs and email.
 
 Click to Continue"""
-"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是TAB键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其他重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
+"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是TAB键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
 
 UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施中的秘密。这一信息包括嵌入式安全许可，储物柜密码，以及音频和邮箱中的个人信息。
 
@@ -21999,7 +21999,7 @@ can't kick the server host
 
 > #str_04258
 Change Game type to %s
-改变游戏模式为%s
+更改游戏模式为%s
 
 > #str_04259
 already at the voted Game Type
@@ -23145,11 +23145,11 @@ Delta Labs Main Elevator
 
 > #str_04545
 Delta 1 Service Area 1
-德尔塔1 服务区1
+德尔塔1服务区1
 
 > #str_04546
 Delta 1 Service Area 2
-德尔塔1 服务区2
+德尔塔1服务区2
 
 > #str_04547
 Delta Service Warehouse
@@ -23157,7 +23157,7 @@ Delta Service Warehouse
 
 > #str_04548
 Storage Room 21-D
-储存室 21-D
+储存室21-D
 
 > #str_04549
 Delta Service Tunnel 2
@@ -23269,11 +23269,11 @@ Office  M. Abrams
 
 > #str_04576
 Maintinance Duct 32
-维护 Duct 32
+维护Duct 32
 
 > #str_04577
 Maintinance Duct 31
-维护 Duct 31
+维护Duct 31
 
 > #str_04578
 Hazardous Materials
@@ -23309,7 +23309,7 @@ Elevator
 
 > #str_04586
 Maintinance 12a
-维护 12a
+维护12a
 
 > #str_04587
 Elevator
@@ -23317,7 +23317,7 @@ Elevator
 
 > #str_04588
 Shaft 2
-轴 2
+轴2
 
 > #str_04589
 Analysis Control
@@ -23381,11 +23381,11 @@ Supply Lift floor 1
 
 > #str_04604
 Supply Lift Access floor 1
-补给电梯入口 第1层
+补给电梯通道第1层
 
 > #str_04605
 Supply Lift Access floor 2
-补给电梯入口 第2层
+补给电梯通道第2层
 
 > #str_04606
 Upper Office Corridor
@@ -23397,7 +23397,7 @@ Stasis Control Junction
 
 > #str_04608
 Maintenance Area 4
-维护区 4
+维护区4
 
 > #str_04609
 Stasis Transfer
@@ -23405,7 +23405,7 @@ Stasis Transfer
 
 > #str_04610
 Stasis Transfer 002
-淤积转移 002
+淤积转移002
 
 > #str_04611
 Stasis Transfer Control
@@ -23413,7 +23413,7 @@ Stasis Transfer Control
 
 > #str_04612
 Lift Access floor1
-电梯许可楼层1
+电梯通道1层
 
 > #str_04613
 Research Control Corridor
@@ -23421,7 +23421,7 @@ Research Control Corridor
 
 > #str_04614
 Lift floor2
-电梯楼层2
+电梯2层
 
 > #str_04615
 Analysis Corridor
@@ -23441,19 +23441,19 @@ Service Area 002
 
 > #str_04619
 Service Area 001
-服务区 001
+服务区001
 
 > #str_04620
 Service Area 007
-服务区 003
+服务区007
 
 > #str_04621
 Lift Access floor2
-电梯许可楼层2
+电梯许可2层
 
 > #str_04622
 Lift floor1
-电梯楼层1
+电梯1层
 
 > #str_04623
 Security Station 1
@@ -23469,11 +23469,11 @@ Lower Terminal Office
 
 > #str_04626
 Chamber 1 Terminal - lower
-密室2终点 - 低层
+密室1终点 - 低层
 
 > #str_04627
 Level 3 lavoratory
-级别 3 研究所
+3级研究所
 
 > #str_04628
 T1 Observation - lower
@@ -23737,7 +23737,7 @@ Lower Storage Hall
 
 > #str_04693
 Airlock E-1
-气闸 E-1
+气闸E-1
 
 > #str_04694
 Transfer Bay
@@ -23745,7 +23745,7 @@ Transfer Bay
 
 > #str_04695
 Chamber 1 Lower
-密室2低层
+密室1低层
 
 > #str_04696
 Power Core Access Hall
@@ -24165,7 +24165,7 @@ Hazard Room Maintenance
 
 > #str_04800
 Lower Levels Access
-低层楼层入口
+低层访问
 
 > #str_04801
 Lower Lift Area
@@ -24185,7 +24185,7 @@ Elevator access
 
 > #str_04805
 Site3 entrance hall
-站点 3 入口大厅
+3号地点入口大厅
 
 > #str_04806
 Lab section2
@@ -24949,63 +24949,63 @@ Ammo Belt
 
 > #str_07018
 TAB
-TAB
+Tab
 
 > #str_07019
 ENTER
-输入
+回车
 
 > #str_07020
 ESCAPE
-逃离
+Esc
 
 > #str_07021
 SPACE
-太空
+空格
 
 > #str_07022
 BACKSPACE
-BACKSPACE
+退格
 
 > #str_07023
 UPARROW
-上箭头
+上方向
 
 > #str_07024
 DOWNARROW
-下箭头
+下方向
 
 > #str_07025
 LEFTARROW
-左箭头
+左方向
 
 > #str_07026
 RIGHTARROW
-右箭头
+右方向
 
 > #str_07027
 LALT
-左ALT
+左Alt
 
 > #str_07028
 LCTRL
-左CTRL
+左Ctrl
 
 > #str_07029
 LSHIFT
-左SHIFT
+左Shift
 
 > #str_07030
 LWIN
-左WIN
+左Win
 
 > #str_07031
 RWIN
-右WIN键
+右Win
 
 > #str_07032
 MENU
-主菜单
+菜单
 
 > #str_07033
 COMMAND
@@ -25013,7 +25013,7 @@ COMMAND
 
 > #str_07034
 CAPSLOCK
-大写锁定键
+大写锁定
 
 > #str_07035
 SCROLL
@@ -25069,7 +25069,7 @@ F12
 
 > #str_07048
 INS
-INS
+插入
 
 > #str_07049
 DEL
@@ -25077,19 +25077,19 @@ DEL
 
 > #str_07050
 PGDN
-PGDN
+下翻页
 
 > #str_07051
 PGUP
-PGUP
+上翻页
 
 > #str_07052
 HOME
-主页
+Home
 
 > #str_07053
 END
-结束
+End
 
 > #str_07054
 MOUSE1
@@ -25317,75 +25317,75 @@ AUX16
 
 > #str_07110
 KP_HOME
-KP_HOME
+小键盘Home
 
 > #str_07111
 KP_UPARROW
-KP_UPARROW
+小键盘上方向
 
 > #str_07112
 KP_PGUP
-KP_PGUP
+小键盘上翻页
 
 > #str_07113
 KP_LEFTARROW
-KP_LEFTARROW
+小键盘左方向
 
 > #str_07114
 KP_5
-KP_5
+小键盘5
 
 > #str_07115
 KP_RIGHTARROW
-KP_RIGHTARROW
+小键盘右方向
 
 > #str_07116
 KP_END
-KP_END
+小键盘End
 
 > #str_07117
 KP_DOWNARROW
-KP_DOWNARROW
+小键盘下方向
 
 > #str_07118
 KP_PGDN
-KP_PGDN
+小键盘下翻页
 
 > #str_07119
 KP_ENTER
-KP_ENTER
+小键盘回车
 
 > #str_07120
 KP_INS
-KP_INS
+小键盘插入
 
 > #str_07121
 KP_DEL
-KP_DEL
+小键盘删除
 
 > #str_07122
 KP_SLASH
-KP_SLASH
+小键盘/
 
 > #str_07123
 KP_MINUS
-KP_MINUS
+小键盘-
 
 > #str_07124
 KP_PLUS
-KP_PLUS
+小键盘+
 
 > #str_07125
 KP_NUMLOCK
-KP_NUMLOCK
+小键盘数字锁定
 
 > #str_07126
 KP_STAR
-KP_STAR
+小键盘*
 
 > #str_07127
 KP_EQUALS
-KP_EQUALS
+小键盘=
 
 > #str_07128
 PAUSE
@@ -25401,15 +25401,15 @@ APOSTROPHE
 
 > #str_07131
 MWHEELUP
-滚轮向上
+鼠标滚轮向上
 
 > #str_07132
 MWHEELDOWN
-滚轮向下
+鼠标滚轮向下
 
 > #str_07133
 <empty>
-<empty>
+<空>
 
 > #str_07134
 Kicked from server.
@@ -27084,7 +27084,7 @@ Pistol
 
 > #str_00100179
 Shotgun/Dbl
-霰弹枪/Db1
+霰弹枪/双管
 
 > #str_00100180
 Machinegun
@@ -27688,7 +27688,7 @@ Upper Office Corridor
 
 > #str_00100330
 Lift Access floor1
-电梯许可楼层1
+电梯通道1层
 
 > #str_00100331
 Research Control Corridor
@@ -27696,7 +27696,7 @@ Research Control Corridor
 
 > #str_00100332
 Lift floor2
-电梯楼层2
+电梯2层
 
 > #str_00100333
 Analysis Corridor
@@ -27708,11 +27708,11 @@ Technical Director Office
 
 > #str_00100335
 Lift Access floor2
-电梯许可楼层2
+电梯通道2层
 
 > #str_00100336
 Lift floor1
-电梯楼层1
+电梯1层
 
 > #str_00100337
 The Seal
@@ -27720,7 +27720,7 @@ The Seal
 
 > #str_00100338
 Site One
-站点 1
+站点一
 
 > #str_00100339
 Ancient Portal
@@ -28000,7 +28000,7 @@ Armory Access
 
 > #str_00100408
 General Access
-综合通路
+常规通道
 
 > #str_00100409
 Storage
@@ -28536,7 +28536,7 @@ Within the Erebus Complex, various ancient fragments found within Site 1 are car
 
 > #str_00100541
 SET DESTINATION AT CONTROL PANEL
-设定终点到操控点
+设置终点到操控点
 
 > #str_00100542
 """PAD 1
@@ -28792,7 +28792,7 @@ The Delta Complex is the most advanced research facility on Mars. Sector 1 conta
 
 > #str_00100604
 Apply video and sound setting changes
-应用视频和音频设置更变
+应用视频和音频设置更改
 
 > #str_00100605
 Make your way to the Hell Teleporter at all costs!
@@ -31474,11 +31474,11 @@ Exis Teleporter Staging Area
 
 > #str_00200195
 Main Level
-主楼层
+主层
 
 > #str_00200196
 Substation A
-变电所 A
+变电所A
 
 > #str_00200197
 Main Lobby
@@ -31494,7 +31494,7 @@ Service Area
 
 > #str_00200200
 Service Access 1
-服务访问 1
+服务访问1
 
 > #str_00200201
 Exis Service Area
@@ -32059,11 +32059,11 @@ Paul Simons
 
 > #str_admin_simons_email_2_email_from
 Russell Weilder
-罗素 韦德
+罗素·韦德
 
 > #str_admin_simons_email_2_email_subject
 Email Spam
-电邮
+垃圾电邮
 
 > #str_admin_simons_email_2_email_text
 """Paul-
@@ -35159,7 +35159,7 @@ In the meantime, for your own sake, do not share these findings with anyone else
 
 """
 """Bullman博士，
-我收到了你的报告，我觉得非常为难。由于我们对这个物体知之甚少，我无法想象你是怎么得出一个如此怪异的结论的，这完全无视了其他任何结果。把你所有的笔记都发给我，我要立即复核。
+我收到了你的报告，我觉得非常为难。由于我们对这个物体知之甚少，我无法想象你是怎么得出一个如此怪异的结论的，这完全无视了其它任何结果。把你所有的笔记都发给我，我要立即复核。
 
 与此同时，为了你个人的安全，不要将这些发现与任何人共享。我不想有人认为我手下的令人敬仰的科学家是幻想家。
 
@@ -35309,7 +35309,7 @@ Delta Security
 
 > #str_delta2b_erikson_email_1_email_subject
 Locker code change request
-储物柜密码更换申请
+锁密码更改申请
 
 > #str_delta2b_erikson_email_1_email_text
 """Francis,
@@ -35425,7 +35425,7 @@ Michael Abrams
 
 > #str_delta2b_mcneil_email_2_email_subject
 Storage room code changes
-储藏室密码变更
+储藏室密码更改
 
 > #str_delta2b_mcneil_email_2_email_text
 """All Delta Level 2 Personnel,
@@ -36500,7 +36500,7 @@ You have been banned from this session and cannot join.
 
 > #str_dlg_bind_restore
 Are you sure you want to restore all keys to their default bindings?
-你确定想要恢复所有按键设定至默认吗？
+你确定要恢复所有按键成默认绑定吗？
 
 > #str_dlg_bind_unbind
 This key is already bound to this action.  Do you want to unbind this key?
@@ -36512,7 +36512,7 @@ Changes have been made.  Discard current changes?
 
 > #str_dlg_confirm_display_changes
 Do you want to keep these display settings?
-你想要保留这些显示设定吗？
+你要保留这些显示设置吗？
 
 > #str_dlg_confirm_quit
 Are you sure you want to exit DOOM 3?
@@ -38291,7 +38291,7 @@ Thanks again,
 -VK"""
 """我在外面发送和接收邮件都很麻烦。看来你们系统遇到的问题都反弹回来了。
 
-一号地区的其他地方最近也在报告同样的事情。你能为我们去看看吗?
+一号地区的其它地方最近也在报告同样的事情。你能为我们去看看吗?
 
 再次感谢,
 
@@ -38804,7 +38804,7 @@ Erebus Complex
 
 > #str_erebus5_gibson_pda_security
 General Access
-综合通路
+常规通道
 
 > #str_erebus5_gibson_pda_title
 Maintenance
@@ -39027,7 +39027,7 @@ Finally, traveling through the portal has caused varied reactions.  For our reco
 I hope you have a safe trip.
 Heather"""
 """西蒙，
-如你所知，你已被派遣到14A-2探险队。这里有几个任务希望你们能在探险时达成。我知道你对发现的石碑很了解，我们希望你能在主传送门的另一边找到些相关的证据-相似的手迹或者其他任何发现都要拍照并收集。
+如你所知，你已被派遣到14A-2探险队。这里有几个任务希望你们能在探险时达成。我知道你对发现的石碑很了解，我们希望你能在主传送门的另一边找到些相关的证据-相似的手迹或者其它任何发现都要拍照并收集。
 
 最重要的是，我们想捕捉更多的生物物种，我们已经收集到了不少小型的生物，这次我希望你能带回些更大的一种被称为“地狱骑士”的生物回来。之前的探险队曾报告说在主传送门终点站看到过这种生物，这次你的任务地点就在那里。你可以携带多种武器，但是我们不希望你使用致命武器，尽量活捉。
 
@@ -41688,7 +41688,7 @@ Ray Gerhardt"""
 发送于: 2145-11-14
 至: Duncan Mathews
 
-如果你收到了这封电邮，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其他的机会。
+如果你收到了这封电邮，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。
 
 我会十分想念你们的。我确信在这里建立的友谊会伴我一生，我也将和你们保持联络。一旦我有了新地址之后我将立即告诉你们。
 
@@ -43171,7 +43171,7 @@ Unidentified Marine
 
 > #str_personal_pda_name
 ^5Personal^0
-^5Personal^0
+^5个人^0
 
 > #str_personal_pda_post
 Mars
@@ -45010,7 +45010,7 @@ Find and capture the enemy flag
 
 > #str_swf_customize_3d
 Customize 3D settings
-自定义3D设定
+自定义3D设置
 
 > #str_swf_damaged
 damaged
@@ -45198,7 +45198,7 @@ Lvl. %d
 
 > #str_swf_match_setting_desc
 Customize match settings
-自定义对战设定
+自定义对战设置
 
 > #str_swf_match_settings
 Match Settings
@@ -45376,7 +45376,7 @@ SELECT
 
 > #str_swf_select_new_key
 Select a new key to bind to action or press ESCAPE to cancel
-选择一个新的案件绑定行动或者按ESC取消
+选择一个新按键绑定动作或按Esc键取消
 
 > #str_swf_sensitivity
 SENSITIVITY
@@ -45384,11 +45384,11 @@ SENSITIVITY
 
 > #str_swf_set_active
 SET ACTIVE
-设定 开启
+设置激活
 
 > #str_swf_settings
 SETTINGS
-设定
+设置
 
 > #str_swf_soulcube_artifact
 Soulcube/Artifact
@@ -45408,19 +45408,19 @@ Swap Eyes
 
 > #str_swf_stereo_seperation
 View Offset
-视角补偿
+视角偏移
 
 > #str_swf_stereoscopic_rendering
 3D View
-3D 视角
+3D视角
 
 > #str_swf_stereoscopics
 3D Options
-3D 选项
+3D选项
 
 > #str_swf_stereoscopics_heading
 3D OPTIONS
-3D 选项
+3D选项
 
 > #str_swf_stop
 STOP
@@ -45586,15 +45586,15 @@ Mail recipient
 
 > #str_bind_RALT
 RALT
-RALT
+右Alt
 
 > #str_bind_RCTRL
 RCTRL
-RCTRL
+右Ctrl
 
 > #str_bind_RSHIFT
 RSHIFT
-右SHIFT
+右Shift
 
 > #str_game_mode_lms
 LMS
@@ -45702,7 +45702,7 @@ Explosive barrels make great weapons.  Fire at them when enemies are nearby.
 
 > #str_loadtip_18
 PDAs have weapon storage security codes and other useful hints in them. Make sure to look through all emails and audio logs.
-PDA里有武器仓库安全密码和其他有用的提示。一定要浏览一下所有的电子邮件和音频记录。
+PDA里有武器仓库安全密码和其它有用的提示。一定要浏览一下所有的电子邮件和音频记录。
 
 > #str_loadtip_19
 Some bosses are immune to normal damage.  Observe their attack patterns to try to find their weak spot.
@@ -45754,7 +45754,7 @@ This save is from a newer version of the game and cannot be loaded.
 
 > #str_dlg_game_restart_required
 Some changes will not take effect until you restart the game.
-有些变化需要重启游戏才能生效。
+有些更改需要重启游戏才能生效。
 
 > #str_swf_change_game
 CHANGE GAME

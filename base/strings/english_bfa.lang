@@ -28,7 +28,7 @@
 	"#str_swf_windowed"	"窗口化"
 	"#str_swf_exclusive_fullscreen"	"全屏独占"
 	"#str_swf_aspect"	"宽高比"
-	"#str_swf_aspect_dynamic"	"动态分辨率"
+	"#str_swf_aspect_dynamic"	"动态"
 	"#str_swf_crosshair"	"准星"
 	"#str_swf_classic_pose"	"经典持枪视角"
 	"#str_swf_layout"	"控制器界面"
