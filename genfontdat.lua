@@ -1,4 +1,4 @@
--- luajit genfontdat.lua <input.txt> <output.dat>
+-- luajit genfontdat.lua <fontdat.txt> <48.dat>
 
 -- tx/y=   1/   0 tw/h= 5/32 ox/y= 5/ 8 adv=15 c=   33(!)
 
