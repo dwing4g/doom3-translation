@@ -20,7 +20,7 @@ Swann: The situation is out of control!
 
 > #cc_admin_00000000006
 Betruger: It's not out of control, Swann. You are. I'll manage this. And you and your flunky will be taking control of... nothing. Do you understand?
-贝特鲁格：失控的不是局势，斯旺，而是你。这里由我来处理。而你和你的跟屁虫将要接管的……是什么也没有。明白了吗？
+贝特鲁格：失控的不是局势，斯旺。而是你。这里由我来处理。而你和你的跟屁虫将要接管的……是什么都没有。明白？
 
 > #cc_admin_00000000007
 Swann: Yes, Betruger.
@@ -36,7 +36,7 @@ Campbell: OK, plan B.
 
 > #cc_admin_00000000010
 E. Webb: Don't stop buddy, there's nothing you can do for me. They're all gone... (coughs blood) surprised us; they just came out of nowhere.
-E.韦伯：别停下，兄弟，你救不了我。他们都死了……（咳血）我们遭到了突袭；那些东西不知从哪儿就成堆冒了出来。
+E.韦伯：别停下，兄弟，你救不了我的。他们都死了……（咳血）我们遭到了袭击；那些东西不知从哪儿来的，成堆冒了出来。
 
 > #cc_admin_00000000011
 E. Webb: There are still a few squads operating... (coughs) but they're all cut off from each other. Try to find them.
@@ -52,7 +52,7 @@ Sgt. Kelly: Marine, Bravo Team reports that there is some sort of undentified gr
 
 > #cc_admin_00000000014
 Swann: It isn`t working, I tried everything! The computers aren't responding, I can't get root access to the systems. We can't do it here, we'll have to access the system somewhere else.
-斯旺：没用，我什么都试过了！电脑没有响应，我拿不到系统的根权限。我们在这里做不了，必须到别的地方去访问系统。
+斯旺：没用的，我什么都试过了！电脑没有响应，我拿不到系统的最高权限。我们在这里做不了，必须到别的地方去访问系统。
 
 > #cc_admin_00000000015
 Campbell: Alright, let's go.
@@ -76,7 +76,7 @@ For generations humankind has lived under the looming specter of slowly dwindlin
 
 > #cc_alphalabs1_00000000002
 Our new ventures on planets like Mars have only intensified our need to find fresh sources for metals, petrochemicals, food, water and even air.
-我们在像火星这样的行星上的新事业，只加剧了我们寻找金属、石化产品、食物、水甚至空气新来源的需求。
+我们在像火星这样的行星上的新事业，只加剧了我们寻找金属、石化产品、食物、水甚至空气这些需求的新来源。
 
 > #cc_alphalabs1_00000000003
 To meet that need UAC researches have developed dramatic solutions, solutions that will soon pay off for the UAC, its investors, and indeed entire human race.
@@ -128,7 +128,7 @@ The hydrogen is then used for hydrogen fuel, a substance so versatile and clean 
 
 > #cc_alphalabs1_00000000015
 A side benefit to producing this fuel is an endless supply of pure spring like water that is more refined than any Earth bound spring.
-生产这种燃料的一个附带好处是，可以源源不断地供应纯净如泉水的水，比任何地球上的泉水都更精纯。
+生产这种燃料的一个附带好处是，可以源源不断地供应纯净如泉水的水，比任何地球上的泉水都更纯净。
 
 > #cc_alphalabs1_00000000016
 We envision a world where technologies such as the hydrocon can be used to end drought and civil strife in impoverished nations where water or fuel have ever been in short supply.
@@ -188,7 +188,7 @@ Marine, I've received a report that you haven't reached Bravo Team yet. You need
 
 > #cc_alphalabs2_00000000001
 Female Computer: Danger! Toxic gasses present. Please clear room of toxins prior to entry.
-女性电脑语音：危险！存在有毒气体。进入前请先清除室内毒素。
+女性电脑语音：危险！有毒气体泄漏。进入前请先清除室内毒素。
 
 > #cc_alphalabs2_00000000002
 Hello, hello. Is this reaching anyone? I'm broadcasting on a very low frequency. If you can hear me, I'm not far. Please help me. I've locked myself in storage room C4. Please, if anyone can hear me, please help me.
@@ -5004,7 +5004,7 @@ Announcer: Engineering - Please report to site 2 access ramp. Airlock malfunctio
 
 > #cc_monorail_00000000037
 Computer: Airlock security over-ride enabled.
-电脑：气闸舱安全覆盖已启用。
+电脑：气闸舱安全覆写已启用。
 
 > #cc_monorail_00000000038
 Announcer: Now leaving Site 2. Next Stop, Delta Complex.

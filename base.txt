@@ -2337,7 +2337,7 @@ DOOR OPEN
 
 > #str_00289
 SECTOR 1
-区域 1
+区域1
 
 > #str_00290
 INSUFFICENT POWER
@@ -2345,15 +2345,15 @@ INSUFFICENT POWER
 
 > #str_00291
 SECTOR 2
-区域 2
+区域2
 
 > #str_00292
 SECTOR 3
-区域 3
+区域3
 
 > #str_00293
 SECTOR 4
-区域 4
+区域4
 
 > #str_00294
 SUBLEVEL 1 ACCESS
@@ -2583,7 +2583,7 @@ CLOSE ACCESS LADDER
 
 > #str_00329
 CALL UP THE BIG GIANT LIFT
-呼叫big giant起重机
+呼叫巨大起重机
 
 > #str_00330
 LIFT FUNCTION DISABLED
@@ -2707,11 +2707,11 @@ Sublevel 1 transfer lift
 
 > #str_00350
 Storage area 1
-储存区 1
+储存区1
 
 > #str_00351
 Storage area 2
-储存区 2
+储存区2
 
 > #str_00352
 Phase 1 excavation
@@ -3385,41 +3385,41 @@ System][
 
 > #str_00483
 System v.2][
-系统版本 2][
+系统版本2][
 
 > #str_00484
 System v.201][
-系统版本 201][
+系统版本201][
 
 > #str_00485
 """System v.201
 Al]["""
-"""系统版本 201
+"""系统版本201
 全]["""
 
 > #str_00486
 """System v.201
 All S]["""
-"""系统版本 201
+"""系统版本201
 全部]["""
 
 > #str_00487
 """System v.201
 All Sta]["""
-"""系统版本 201
+"""系统版本201
 全部状]["""
 
 > #str_00488
 """System v.201
 All Status]["""
-"""系统版本 201
+"""系统版本201
 全部状态]["""
 
 > #str_00489
 """System v.201
 All Status
 No]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正]["""
 
@@ -3427,7 +3427,7 @@ No]["""
 """System v.201
 All Status
 Norm]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正]["""
 
@@ -3435,7 +3435,7 @@ Norm]["""
 """System v.201
 All Status
 Normal]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常]["""
 
@@ -3444,7 +3444,7 @@ Normal]["""
 All Status
 Normal
 A]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所]["""
@@ -3454,7 +3454,7 @@ A]["""
 All Status
 Normal
 All]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有]["""
@@ -3464,7 +3464,7 @@ All]["""
 All Status
 Normal
 All St]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站]["""
@@ -3474,7 +3474,7 @@ All St]["""
 All Status
 Normal
 All Stat]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站]["""
@@ -3484,7 +3484,7 @@ All Stat]["""
 All Status
 Normal
 All Statio]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站]["""
@@ -3494,7 +3494,7 @@ All Statio]["""
 All Status
 Normal
 All Stations]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站点]["""
@@ -3505,7 +3505,7 @@ All Status
 Normal
 All Stations
 On]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站点
@@ -3517,7 +3517,7 @@ All Status
 Normal
 All Stations
 Onli]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站点
@@ -3529,7 +3529,7 @@ All Status
 Normal
 All Stations
 Online]["""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站点
@@ -3541,7 +3541,7 @@ All Status
 Normal
 All Stations
 Online"""
-"""系统版本 201
+"""系统版本201
 全部状态
 正常
 所有站点
@@ -3633,7 +3633,7 @@ MAIN LOBBY DOOR CONTROL
 
 > #str_00513
 SECURITY TERMINAL 1
-安全终端 1
+安全终端1
 
 > #str_00514
 AREA SECURE
@@ -3927,7 +3927,7 @@ STATION"""
 
 > #str_00570
 LIFT TRANSFER STATION 3
-电梯传送站 3
+电梯传送站3
 
 > #str_00571
 NO CURRENT TRANSFERS
@@ -3955,7 +3955,7 @@ STATION 2
 
 > #str_00576
 STATION 3
-中心 3
+中心3
 
 > #str_00577
 loading
@@ -4912,7 +4912,7 @@ All Status
 Normal
 All Stations
 Online"""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站点
@@ -4920,37 +4920,37 @@ Online"""
 
 > #str_00749
 System v.20.1][
-系统版本 20.1][
+系统版本20.1][
 
 > #str_00750
 """System v.20.1
 Al]["""
-"""系统版本 20.1
+"""系统版本20.1
 全]["""
 
 > #str_00751
 """System v.20.1
 All S]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部]["""
 
 > #str_00752
 """System v.20.1
 All Sta]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状]["""
 
 > #str_00753
 """System v.20.1
 All Status]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态]["""
 
 > #str_00754
 """System v.20.1
 All Status
 No]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正]["""
 
@@ -4958,7 +4958,7 @@ No]["""
 """System v.20.1
 All Status
 Norm]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正]["""
 
@@ -4966,7 +4966,7 @@ Norm]["""
 """System v.20.1
 All Status
 Normal]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常]["""
 
@@ -4975,7 +4975,7 @@ Normal]["""
 All Status
 Normal
 A]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所]["""
@@ -4985,7 +4985,7 @@ A]["""
 All Status
 Normal
 All]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有]["""
@@ -4995,7 +4995,7 @@ All]["""
 All Status
 Normal
 All St]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站]["""
@@ -5005,7 +5005,7 @@ All St]["""
 All Status
 Normal
 All Stat]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站]["""
@@ -5015,7 +5015,7 @@ All Stat]["""
 All Status
 Normal
 All Statio]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站]["""
@@ -5025,7 +5025,7 @@ All Statio]["""
 All Status
 Normal
 All Stations]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站点]["""
@@ -5036,7 +5036,7 @@ All Status
 Normal
 All Stations
 On]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站点
@@ -5048,7 +5048,7 @@ All Status
 Normal
 All Stations
 Onli]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站点
@@ -5060,7 +5060,7 @@ All Status
 Normal
 All Stations
 Online]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有站点
@@ -5092,7 +5092,7 @@ EMERGENCY MEDICAL STATION
 
 > #str_00772
 STATION ID : 219 - UAC HEALTH STATION
-中心ID: 219 - UAC 卫生中心
+站点ID: 219 - UAC卫生中心
 
 > #str_00773
 INJECTION CHARGES
@@ -5140,7 +5140,7 @@ DISCHARGING
 """Current charge rate: 127.556
 Current discharge rate 126.412"""
 """当前充能率: 127.556
-当前放能率 126.412"""
+当前放能率: 126.412"""
 
 > #str_00784
 Transfer Target
@@ -5212,19 +5212,19 @@ HYDROCON GENERATORS
 
 > #str_00797
 GENERATOR 2
-发电机 2
+发电机2
 
 > #str_00798
 """Current charge rate: 126.554
 Current discharge rate 124.410"""
 """当前充能率: 126.554
-当前放能率 124.410"""
+当前放能率: 124.410"""
 
 > #str_00799
 """Current charge rate: 127.554
 Current discharge rate 125.402"""
 """当前充能率: 127.554
-当前放能率 125.402"""
+当前放能率: 125.402"""
 
 > #str_00800
 Average Temperature
@@ -5344,7 +5344,7 @@ MOVE TO STATION 3
 
 > #str_00829
 Pump Control Station 27-2
-泵控制站 27-2
+泵控制站27-2
 
 > #str_00830
 |||||| PURGE SYSTEM ||||||
@@ -6022,35 +6022,35 @@ SECURITY MONITOR
 
 > #str_00955
 Playback Index 1:02:
-回放索引 1:02:
+回放索引1:02:
 
 > #str_00956
 Playback Index 1:03:
-回放索引 1:03:
+回放索引1:03:
 
 > #str_00957
 Playback Index 1:04:
-回放索引 1:04:
+回放索引1:04:
 
 > #str_00958
 Playback Index 1:05:
-回放索引 1:05:
+回放索引1:05:
 
 > #str_00959
 Playback Index 1:06:
-回放索引 1:06:
+回放索引1:06:
 
 > #str_00960
 Playback Index 1:07:
-回放索引 1:07:
+回放索引1:07:
 
 > #str_00961
 Playback Index 1:08:
-回放索引 1:08:
+回放索引1:08:
 
 > #str_00962
 Playback Index 1:09:
-回放索引 1:09:
+回放索引1:09:
 
 > #str_00963
 PLAYBACK
@@ -6190,7 +6190,7 @@ Research
 
 > #str_00994
 Labs 1-3
-实验室 1-3
+实验室1-3
 
 > #str_00995
 Power Status
@@ -6260,7 +6260,7 @@ Security Lockdowns (2 reports)
 """Delta 1 - Main crane access lockdown.
 Delta 2 - Security center lockdown, Halon leak detected."""
 """德尔塔1 - 主吊车通路封锁。
-德尔塔2 - 安保中心封锁，检测到Halon泄漏。"""
+德尔塔2 - 安保中心封锁，检测到灭火剂泄漏。"""
 
 > #str_01009
 INITIALIZE DATALINKER
@@ -6290,15 +6290,15 @@ Datalinker ERROR
 
 > #str_01013
 RUN SCRIPT 1
-运行脚本 1
+运行脚本1
 
 > #str_01014
 RUN SCRIPT 2
-运行脚本 2
+运行脚本2
 
 > #str_01015
 RUN SCRIPT 5
-运行脚本 5
+运行脚本5
 
 > #str_01016
 INITIALIZE POWER
@@ -6334,7 +6334,7 @@ Remember: There are no unauthorized task changes without MG clearance. Do not sh
 我们的安全密码现在每周更新一次。最近德尔塔的工作人员
 擅改CPU时间并进行了多起未经许可的实验。
 
-记住:没有MG许可，任何任务更改都是未经授权的。请不要泄露安全密码。"""
+记住: 没有MG许可，任何任务更改都是未经授权的。请不要泄露安全密码。"""
 
 > #str_01023
 PRIMARY RESEARCH ASSIGNMENT
@@ -6348,7 +6348,7 @@ SCHEDULED PROCESSING FUNCTIONS
 """Analysis of the quantum decoherence data recorded during the recent AcB teleportation experiment is presently underway in CPU B-1. The data processed so far has shown various distinctions between relevant macroscopic observables and environmental variables.
 Our primary goal is to feed the analysis into
 a looping simulation and record evidence of suppressed interference filtering a macroscopic test entity. A full reconstruction based on the simulation results could help stabilize the compression of teleportation subjects."""
-"""离散量子分析报告显示最近 AcB传送实验正在CPU B-1进行。目前的文件显示在宏观可见和环境变量上有着多种差异。
+"""离散量子分析报告显示最近AcB传送实验正在CPU B-1进行。目前的文件显示在宏观可见和环境变量上有着多种差异。
 我们的主要目标是用分析结果
 进行循环模拟实验，并记录宏观实验体受滤波干扰的证明。一个完整的模拟重现会有助于稳定传送对象的压力。"""
 
@@ -6392,7 +6392,7 @@ ventilation:active
 
 > #str_01032
 temp 72
-温度 72
+温度72
 
 > #str_01033
 BIOLAB
@@ -6400,7 +6400,7 @@ BIOLAB
 
 > #str_01034
 temp 74
-温度 74
+温度74
 
 > #str_01035
 OFFICES
@@ -6408,7 +6408,7 @@ OFFICES
 
 > #str_01036
 temp 75
-温度 75
+温度75
 
 > #str_01037
 TEST CHAMBER
@@ -6430,7 +6430,7 @@ ventilation:none
 
 > #str_01040
 temp 78
-温度 78
+温度78
 
 > #str_01041
 SECURITY
@@ -6531,35 +6531,35 @@ Access"""
 
 > #str_01062
 Area 1
-区域 1
+区域1
 
 > #str_01063
 Area 2
-区域 2
+区域2
 
 > #str_01064
 Area 3
-区域 3
+区域3
 
 > #str_01065
 Area 4
-区域 4
+区域4
 
 > #str_01066
 Area 5
-区域 5
+区域5
 
 > #str_01067
 Area 6
-区域 6
+区域6
 
 > #str_01068
 Area 7
-区域 7
+区域7
 
 > #str_01069
 Teleporter 1
-传送器 1
+传送器1
 
 > #str_01070
 Destination:
@@ -6571,71 +6571,71 @@ Locked On
 
 > #str_01072
 Area 8
-区域 8
+区域8
 
 > #str_01073
 Area 9
-区域 9
+区域9
 
 > #str_01074
 Area 10
-区域 10
+区域10
 
 > #str_01075
 Area 11
-区域 11
+区域11
 
 > #str_01076
 Area 12
-区域 12
+区域12
 
 > #str_01077
 Area 13
-区域 13
+区域13
 
 > #str_01078
 Area 14
-区域 14
+区域14
 
 > #str_01079
 Teleporter 2
-传送器 2
+传送器2
 
 > #str_01080
 Area 15
-区域 15
+区域15
 
 > #str_01081
 Area 16
-区域 16
+区域16
 
 > #str_01082
 Area 17
-区域 17
+区域17
 
 > #str_01083
 Area 18
-区域 18
+区域18
 
 > #str_01084
 Area 19
-区域 19
+区域19
 
 > #str_01085
 Area 20
-区域 20
+区域20
 
 > #str_01086
 Area 21
-区域 21
+区域21
 
 > #str_01087
 Area 22
-区域 22
+区域22
 
 > #str_01088
 Teleporter 3
-传送器 3
+传送器3
 
 > #str_01089
 DECONTAMINATION CHAMBER
@@ -6679,7 +6679,7 @@ CONTROL STATION 1
 
 > #str_01099
 TELEPORTER STATION 1
-传送站 1
+传送站1
 
 > #str_01100
 NO VALID AREA
@@ -6729,7 +6729,7 @@ Bell-State analysis inactive"""
 
 > #str_01108
 Targeting Station 1
-定位站 1
+定位站1
 
 > #str_01109
 """Sca
@@ -6918,8 +6918,8 @@ AREA - CHAMBER 1
 > #str_01143
 """Pad serial 4765 located - Pad 1
 Pad serial 6919 located - Pad 2"""
-"""已发现Pad序列4765 - Pad 1
-已发现Pad序列6919 - Pad 2"""
+"""已发现平台序列4765 - 平台1
+已发现平台序列6919 - 平台2"""
 
 > #str_01144
 """EPR Source control online
@@ -7062,14 +7062,14 @@ AREA - CHAMBER 2
 > #str_01165
 """Pad serial 9865 located - Pad 1
 Pad serial 2012 located - Pad 2"""
-"""已发现Pad序列9865 - Pad 1
-已发现Pad序列2012 - Pad 2"""
+"""已发现平台序列9865 - 平台1
+已发现平台序列2012 - 平台2"""
 
 > #str_01166
 """Pad serial 2012 located - Pad 2
 Pad serial 4512 located - Pad 3"""
-"""已发现Pad序列2012 - Pad 2
-已发现Pad序列4512 - Pad 3"""
+"""已发现平台序列2012 - 平台2
+已发现平台序列4512 - 平台3"""
 
 > #str_01167
 CONTROL STATION 3
@@ -7077,7 +7077,7 @@ CONTROL STATION 3
 
 > #str_01168
 TELEPORTER STATION 3
-传送站 3
+传送站3
 
 > #str_01169
 AREA - CHAMBER 3
@@ -7217,7 +7217,7 @@ Restricted Access
 
 > #str_01189
 A.C.O. Clearance Required
-需要A.C.O. 许可
+需要A.C.O.的许可
 
 > #str_01190
 UNLOCK
@@ -7328,15 +7328,15 @@ unlocked
 
 > #str_01211
 NITR    78.5%
-NITR    78.5%
+氮气    78.5%
 
 > #str_01212
 CO2    00.1%
-二氧化碳 0.1%
+二氧化碳 00.1%
 
 > #str_01213
 O2      20.3%
-O2      20.3%
+氧气    20.3%
 
 > #str_01214
   WARNING
@@ -7360,7 +7360,7 @@ co2 95.3%
 
 > #str_01219
 o2   00.1%
-o2   00.1%
+氧气 00.1%
 
 > #str_01220
 Temporary Button
@@ -7410,7 +7410,7 @@ MOVING TO LEVEL 1
 
 > #str_01229
 SUB 1
-替补 1
+地下1层
 
 > #str_01230
    S1
@@ -7660,11 +7660,11 @@ BEFORE PROCEEDING"""
 
 > #str_01280
 FILTER 2
-过滤器 2
+过滤器2
 
 > #str_01281
 FILTER 3
-过滤器 3
+过滤器3
 
 > #str_01282
 """FILTER ERROR
@@ -7696,7 +7696,7 @@ PLASMA FILTER CANISTER 1 ACTIVE
 
 > #str_01287
 FILTER 2 AND 3 REPLACEMENT REQUIRED
-过滤器 2 和 3 需要替换
+过滤器2和3需要替换
 
 > #str_01288
 FILTER MISSING
@@ -7806,7 +7806,7 @@ CL ROD"""
 """REPLACING
 CL ROD 2"""
 """正在替换
-冷却棒 2"""
+冷却棒2"""
 
 > #str_01311
 PRELIMINARY CORE BREACH DETECTED
@@ -7980,7 +7980,7 @@ SYSTEMS ACCESS CONTROL
 """Thursday, 1/30: Carlise paged Bob and wanted to know if he has seen the analysis before the 1/29 comcall. That was not a miscommunication or a problem. ECOM personnel on the 107 team had seen the analysis. In a situation where a conduit is considered lost, MMCA has responsibility in the MCS to coordinate determining the affected hardware parallel to the conduit.
 
 Since the analysis had determined there would not be burn-through, MMCA was not called to begin the process of assessing affected equipment. MMCA personnel discussed the analysis with DAB personnel who said they had seen the analysis from the MMT and did not consider it to be a concern."""
-"""1月30日，星期四: Carlise呼喊着Bob并且想知道他是否在1月29日的通信之前见过那份分析。这不是一次理解错误或者小问题。ECOM人员在107队见过那份分析。在一个导管被认为是丢失了的情况下，MMCA有责任配合找出受到丢失导管影响的MCS硬件。
+"""1月30日，星期四: 卡莱尔呼喊着鲍勃并且想知道他是否在1月29日的通信之前见过那份分析。这不是一次理解错误或者小问题。ECOM人员在107队见过那份分析。在一个导管被认为是丢失了的情况下，MMCA有责任配合找出受到丢失导管影响的MCS硬件。
 
 由于该分析决定烧穿的存在性，MMCA没有开始对受影响的设备进行评估。MMCA人员经过与建国这份分析的DAB人员讨论后，认为此事没有深究的必要。"""
 
@@ -8199,7 +8199,7 @@ ERROR READING PDA
 > #str_01390
 """System v.20.1
 UAC Military Comm"""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事通]["""
 
 > #str_01391
@@ -8224,94 +8224,94 @@ System v.][
 
 > #str_01396
 System v.20][
-系统版本 20][
+系统版本20][
 
 > #str_01397
 System v.20.][
-系统版本 20.][
+系统版本20.][
 
 > #str_01398
 """System v.20.1
 U]["""
-"""系统版本 20.1
+"""系统版本20.1
 U]["""
 
 > #str_01399
 """System v.20.1
 UA]["""
-"""系统版本 20.1
+"""系统版本20.1
 UA]["""
 
 > #str_01400
 """System v.20.1
 UAC]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC]["""
 
 > #str_01401
 """System v.20.1
 UAC M]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC]["""
 
 > #str_01402
 """System v.20.1
 UAC Mi]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军]["""
 
 > #str_01403
 """System v.20.1
 UAC Mil]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军]["""
 
 > #str_01404
 """System v.20.1
 UAC Mili]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军]["""
 
 > #str_01405
 """System v.20.1
 UAC Milit]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事]["""
 
 > #str_01406
 """System v.20.1
 UAC Milita]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事]["""
 
 > #str_01407
 """System v.20.1
 UAC Militar]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事]["""
 
 > #str_01408
 """System v.20.1
 UAC Military]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事通"""
 
 > #str_01409
 """System v.20.1
 UAC Military C]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事通]["""
 
 > #str_01410
 """System v.20.1
 UAC Military Co]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事通]["""
 
 > #str_01411
 """System v.20.1
 UAC Military Com]["""
-"""系统版本 20.1
+"""系统版本20.1
 UAC军事通]["""
 
 > #str_01412
@@ -8546,7 +8546,7 @@ UNIT SERIAL - 0205735318008
 
 > #str_01468
 ver 9.72b
-版本 9.72b
+版本9.72b
 
 > #str_01469
 PERSONAL PDA
@@ -8831,7 +8831,7 @@ Site 3 is the ground level access point to the original subterranean Mars base s
 
 > #str_01512
 The Edge 2
-边缘 2
+边缘2
 
 > #str_01513
 """Notes:
@@ -8847,17 +8847,17 @@ Changelog:
 - Added a dropdown from the upper South corridor into the caves below
 - Added more detail to the corridors leading to the West Computer Lab"""
 """记录:
--向之前的Edges致敬。
+- 向之前的Edges致敬。
 - 用传送器快速获得强化道具
 
 改动记录:
-添加了音频通道
+- 添加了音频通道
 - 传送器西边的房间和照明开关相连
--地图东边工业区有更多细节
--把各种灯和相应的env_swinglights作了链接
+- 地图东边工业区有更多细节
+- 把各种灯和相应的env_swinglights作了链接
 - 给telecolon模型添加了传送器效果
 - 上面南部走廊添加了跳落点，可以跳到下面的洞穴里。
--在通往西部电脑实验室的走廊上添加了更多细节"""
+- 在通往西部电脑实验室的走廊上添加了更多细节"""
 
 > #str_01514
 CLOSE BRIDGE
@@ -8929,7 +8929,7 @@ Lift Motor"""
 > #str_01528
 """Lateral Motor 2-PASS
 Lift Motor-SERVICE"""
-"""侧电机 2-通过
+"""侧电机2-通过
 电梯电机-服务中"""
 
 > #str_01529
@@ -8994,11 +8994,11 @@ COLLECTION GRID
 
 > #str_01539
 FILTER 1 STANDBY
-过滤器 1 就位
+过滤器1就位
 
 > #str_01540
 FILTER 2 STANDBY
-过滤器 2 就位
+过滤器2就位
 
 > #str_01541
 """System v.20.1
@@ -9007,7 +9007,7 @@ Normal
 All
 Stations
 Online"""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9020,7 +9020,7 @@ All Status
 Normal
 All
 St]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9032,7 +9032,7 @@ All Status
 Normal
 All
 Stat]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9044,7 +9044,7 @@ All Status
 Normal
 All
 Statio]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9056,7 +9056,7 @@ All Status
 Normal
 All
 Stations]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9069,7 +9069,7 @@ Normal
 All
 Stations
 On]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9083,7 +9083,7 @@ Normal
 All
 Stations
 Onli]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9098,7 +9098,7 @@ All
 Stations
 Online
 ]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9115,7 +9115,7 @@ Stations
 Online
 
 ]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9133,7 +9133,7 @@ Stations
 Online
 
 Fl]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9151,7 +9151,7 @@ Stations
 Online
 
 Flow]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9169,7 +9169,7 @@ Stations
 Online
 
 Flow Co]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9187,7 +9187,7 @@ Stations
 Online
 
 Flow Corre]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9205,7 +9205,7 @@ Stations
 Online
 
 Flow Correct]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9223,7 +9223,7 @@ Stations
 Online
 
 Flow Correction]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9242,7 +9242,7 @@ Online
 
 Flow Correction
 ]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9262,7 +9262,7 @@ Online
 
 Flow Correction
 Ac]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9282,7 +9282,7 @@ Online
 
 Flow Correction
 Act]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9302,7 +9302,7 @@ Online
 
 Flow Correction
 Active"""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9323,7 +9323,7 @@ Online
 Flow Correction
 Active
 ]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9346,7 +9346,7 @@ Flow Correction
 Active
 
 ]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9370,7 +9370,7 @@ Flow Correction
 Active
 
 Sc]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9394,7 +9394,7 @@ Flow Correction
 Active
 
 Scan]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9418,7 +9418,7 @@ Flow Correction
 Active
 
 Scan Co]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9442,7 +9442,7 @@ Flow Correction
 Active
 
 Scan Comp]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9466,7 +9466,7 @@ Flow Correction
 Active
 
 Scan Comple]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -9490,7 +9490,7 @@ Flow Correction
 Active
 
 Scan Complete"""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -10065,11 +10065,11 @@ ENTRANCE LOCKER ACCESS
 
 > #str_01651
 LOCKER 1
-储物柜 1
+储物柜1
 
 > #str_01652
 LOCKER 2
-储物柜 2
+储物柜2
 
 > #str_01653
 CURRENT LOGIN : BROOKS, T.
@@ -10113,7 +10113,7 @@ MONORAIL SECURITY SCANNER
 
 > #str_01663
 station 1
-站台 1
+站点1
 
 > #str_01664
 SCANNER ACTIVE
@@ -10713,7 +10713,7 @@ Normal
 All
 Stations
 Online]["""
-"""系统版本 20.1
+"""系统版本20.1
 全部状态
 正常
 所有
@@ -11480,11 +11480,11 @@ VENTILATION CONTROL
 
 > #str_01953
 Primary Vent 1 Shut
-主要通风管 1 关闭
+主要通风管1号关闭
 
 > #str_01954
 Backup Vent 1 Open
-备用1号排气孔打开
+备用通风管1号打开
 
 > #str_01955
 Disable Scanner
@@ -12068,7 +12068,7 @@ Space pauses and frame advances, Click Play Now to enter the game"""
 """使用回放控制来前进或暂停
 左键单击放置标记
 右键单击移除标记
-空格暂停或按帧播放，现在点击Play来进入游戏"""
+空格暂停或按帧播放，现在点击“开始玩”来进入游戏"""
 
 > #str_02074
 Rewind
@@ -13992,7 +13992,7 @@ A portable self-propelled rocket designed for demolition and debris removal, thi
 
 > #str_02540
 This prototype fires a threaded variable energy charge. UAC technicians have warned of stability issues at full power.
-这个原型机发射threaded variable能量。UAC技术员提醒过满载时的稳定性问题。
+这款原型武器发射的是带螺纹的可变能量弹药。UAC技术人员警告称，在全功率状态下存在稳定性问题。
 
 > #str_02541
 Self powered chain-blade cutting tool. Part of a shipment incorrectly routed to the Mars dropship distribution center. 
@@ -14118,7 +14118,7 @@ Status: Top Secret
 Projects: Top Secret
 Level 12 Clearance"""
 """研究
-最大可支撑生命数 825
+最大可支撑生命数825
 系统正常
 状态: 最高机密
 项目: 最高机密
@@ -14148,7 +14148,7 @@ DATA CENTER
 """UAC Data Storage
 Max Sustainable Life 299"""
 """UAC数据库
-最大可支持生命 299"""
+最大可支持生命299"""
 
 > #str_02574
 ENPRO FACILITY
@@ -14169,7 +14169,7 @@ MARS CITY
 Max Sustainable Life 2500
 Incoming Interplanetary Traffic"""
 """平民/军队住宅
-最大可容纳生命 2500
+最大可容纳生命2500
 正在接收跨行星运输"""
 
 > #str_02578
@@ -14960,7 +14960,7 @@ SECURITY-BIO LABS
 
 > #str_02774
 Delta Labs Sector 3
-德尔塔实验室 3区
+德尔塔实验室3区
 
 > #str_02775
 Research - Kennels
@@ -14972,7 +14972,7 @@ RESEARCH - 0010
 
 > #str_02777
 Delta Labs Sector 4
-德尔塔实验室 4区
+德尔塔实验室4区
 
 > #str_02778
     Access Codes
@@ -15268,7 +15268,7 @@ Dr. Thomas Green's PDA
 
 > #str_02851
 locate terminal at Marine HQ and establish radio contact with Sarge
-在陆战队总部找到终端并与军士建立无线电通讯
+在陆战队总部找到终端并与士官建立无线电通讯
 
 > #str_02852
 Return to Marine HQ
@@ -15520,7 +15520,7 @@ Data Linker
 
 > #str_02914
 Security Station 01
-安全中心 01
+安全中心01
 
 > #str_02915
 Departure Lounge
@@ -15688,7 +15688,7 @@ map_caves2::raise_smallcave_ladder
 
 > #str_02956
 Storage Room 11 Key
-储存室 11 钥匙
+储存室11钥匙
 
 > #str_02957
 Engr. Team
@@ -16504,7 +16504,7 @@ EMERGENCY MESSAGE CHANNEL
 
 > #str_03144
 MARKED URGENT - PRIORITY 1
-紧急情况 - 优先权 1
+紧急情况 - 优先权1
 
 > #str_03145
 """SECURITY REQUEST
@@ -16534,7 +16534,7 @@ TRANSFER SCHEDULE
 
 > #str_03149
 06:30 - LARGE ARTIFACT REMOVAL - COMPLETED 07:38
-06:30 - 大型遗物移除 - 完成 07:38
+06:30 - 大型遗物移除 - 已完成 07:38
 
 > #str_03150
 Storage Room 11
@@ -16911,7 +16911,7 @@ REACTOR
 
 > #str_03233
 MONDAY 11/15
-星期一 11/15
+11-15 星期一
 
 > #str_03234
 08:00 - Energy Team Meeting
@@ -17005,11 +17005,11 @@ DELTA 1 DIRECTORY
 
 > #str_03255
 RING 1 MONITORING STATION
-圆环区 1 监控站
+圆环区1监控站
 
 > #str_03256
 RING 2 MONITORING STATION
-圆环区 2 监控站
+圆环区2监控站
 
 > #str_03257
 PRIMARY REACTOR CONTROL
@@ -17105,11 +17105,11 @@ DELTA LABS 2 - SCIENCE TEAM 7
 
 > #str_03279
 We escorted #8 to the medical lab after further instances of self-mutilation. I have cleared him for final research and disposal, he is no longer useful as a data subject. Testing for today has been halted due to increased power fluctuations, however Ian thinks he can bypass the failsafes to boost our throughput, giving us the necessary power to move ahead with the final phase of Test 11. He is currently working on the problem in MC Routing. I am going to security to seal this area until testing can resume.
-在更严重的自残事件发生之后，我们将8号护送到医学实验室。我已经允许对他进行最后实验，并且在实验之后可以抛弃，他已经不再是一个有用的数据对象了。由于更严重的功率波动，今天的测试暂停了很久，然而Ian认为他可以绕过故障保护来提高我们的输出，这样我们就可以获得足够的电力继续11号测试的最后一个环节。他现在正在解决主电路路线。处于安全考虑，我要封锁这个区域直到测试得以继续进行。
+在更严重的自残事件发生之后，我们将8号护送到医学实验室。我已经允许对他进行最后实验，并且在实验之后可以抛弃，他已经不再是一个有用的数据对象了。由于更严重的功率波动，今天的测试暂停了很久，然而伊恩认为他可以绕过故障保护来提高我们的输出，这样我们就可以获得足够的电力继续11号测试的最后一个环节。他现在正在解决主电路路线。处于安全考虑，我要封锁这个区域直到测试得以继续进行。
 
 > #str_03280
 The research subjects continue to deteriorate mentally. I have requested a security guard onsite. I am beginning to question my own safety working in close proximity to the them. Test Subject 8 never stops screaming. I have informed the guard that offices occupied by the subjects are to be locked at all times. I asked Dr. Brasky to place some military supplies in the security room locker, if things get out of hand again I want to be ready.
-研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让Brasky博士在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
+研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基博士在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
 
 > #str_03281
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
@@ -17133,7 +17133,7 @@ Jameson cleared the order for holding the test subject pending a detailed physic
 
 > #str_03286
 Research subjects have become increasingly delusional. An interesting pattern has emerged in recent psych evaluations, all subjects are reporting supernatural experiences. While common enough as a schizophrenic manifestation, I have never seen the same psychosis affect all subjects in a controlled test group. Recommend occipital probes to check for growths or swelling, applied pressure in this region might explain the mass hallucinations. Again, I suggest halting experimentation on these subjects until we discover what is affecting them.
-Research subjects have become increasingly delusional. An interesting pattern has emerged in recent psych evaluations, all subjects are reporting supernatural experiences. While common enough as a schizophrenic manifestation, I have never seen the same psychosis affect all subjects in a controlled test group. Recommend occipital probes to check for growths or swelling, applied pressure in this region might explain the mass hallucinations. Again, I suggest halting experimentation on these subjects until we discover what is affecting them.
+研究对象变得越来越妄想。在最近的心理评估中出现了一个有趣的模式，所有受试者都报告了超自然的经历。虽然作为精神分裂症的一种常见表现，但从未见过同样的精神病症状影响到一个受控测试组中的所有受试者。建议使用枕叶探针检查是否有肿块或肿胀，该区域的压力可能是造成集体幻觉的原因。再次强调，建议在弄清楚影响他们的因素之前暂停对这些受试者的实验。
 
 > #str_03287
 We sent the first batch of volunteers through the teleporter today. Subjects were administered a mild anesthesia to put them under for the duration of the experiment. They reported no side effects when awakened, and the only reported injury was subject #7 who had several lacerations after recombination on the receiving pad. We have speculated they were somehow self-inflicted during matter transference, but are unable to fully explain how physical damage could be administered during an instantaneous transfer.
@@ -17145,7 +17145,7 @@ CURRENT USER: RALEIGH, P.
 
 > #str_03289
 SCIENCE TEAM 7 SUPERVISOR
-科学团队 7 主任
+科学团队7主任
 
 > #str_03290
 NOVEMBER REPORTS
@@ -17177,7 +17177,7 @@ REPORT UPLOAD ACCEPTED 11-14-45"""
 
 > #str_03296
 The research subjects continue to deteriorate mentally. I have requested a security guard onsite, I am beginning to question my own safety working in close proximity to the them. Test Subject 8 never stops screaming. I have informed the guard that offices occupied by the subjects are to be locked at all times. I asked Brasky to place some military supplies in the security room locker, if things get out of hand again I want to be ready.
-研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让Brasky在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
+研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
 
 > #str_03297
 Test Subject 4 attacked an inspector today. I want to know who was responsible for letting them into the rec area, especially when it was known that non-UAC personnel were coming through today. The last thing we needed was another accident. Betruger assured me that no report would be filed, but until we block these inspectors from entering secure areas we risk exposure. We have retired #4 and moved the remaining subjects into the empty Sector 2 offices for closer observation.
@@ -17189,11 +17189,11 @@ Jameson cleared the order for holding the test subject pending a detailed physic
 
 > #str_03299
 Research subjects have become increasingly delusional. An interesting pattern has emerged in a recent psych evaluations, in that all subjects are reporting supernatural experiences. While common enough as a schizophrenic manifestation, I have never seen the same psychosis affect all subjects in a controlled test group. Recommend occipital probes to check for growths or swelling, applied pressure in this region might explain the mass hallucinations. Again, I suggest halting experimentation on these subjects until we discover what is affecting them.
-Research subjects have become increasingly delusional. An interesting pattern has emerged in a recent psych evaluations, in that all subjects are reporting supernatural experiences. While common enough as a schizophrenic manifestation, I have never seen the same psychosis affect all subjects in a controlled test group. Recommend occipital probes to check for growths or swelling, applied pressure in this region might explain the mass hallucinations. Again, I suggest halting experimentation on these subjects until we discover what is affecting them.
+研究对象变得越来越妄想。在最近的心理评估中出现了一个有趣的模式，即所有受试者都报告有超自然的经历。虽然作为精神分裂症的一种常见表现，但从未见过同样的精神病症状影响到一个受控测试组中的所有受试者。建议在枕骨处进行探查以检查是否有肿块或肿胀，该区域受到的压力或许能解释这种集体幻觉。再次强调，建议在弄清楚影响他们的因素之前暂停对这些受试者的实验。
 
 > #str_03300
 SCIENCE TEAM 7 MD
-科学团队 7 MD
+科学团队7 MD
 
 > #str_03301
 """REPORT FILING STATION
@@ -17241,11 +17241,11 @@ UNLOCK OFFICES
 
 > #str_03311
 SECTOR 3 DOORS OPEN
-区域 3 门锁打开
+区域3门锁打开
 
 > #str_03312
 SECTOR 2 DOORS OPEN
-区域 2 门锁打开
+区域2门锁打开
 
 > #str_03313
 """SECURITY OVERRIDE
@@ -17310,7 +17310,7 @@ MACROSCOPIC SYNCHRONIZATION READY
 
 > #str_03328
 FILTER 1
-过滤器 1
+过滤器1
 
 > #str_03329
 TARGETING SYSTEM ACTIVATED
@@ -17570,11 +17570,11 @@ ACTIVATE CONVEYOR
 
 > #str_03373
 STASIS CHAMBER 1 MONITOR
-静滞场 1 监控
+静滞场1监控
 
 > #str_03374
 SPECIMEN 197
-标本 197
+标本197
 
 > #str_03375
 DOWNLOAD FULL RESEARCH REPORT
@@ -17602,7 +17602,7 @@ REPORT SENT TO PDA
 
 > #str_03380
 STASIS CHAMBER 2 MONITOR
-静滞场 2 监控
+静滞场2监控
 
 > #str_03381
 EMPTY
@@ -17618,11 +17618,11 @@ NO CURRENT SPECIMEN REGISTERED FOR CHAMBER 2
 
 > #str_03384
 STASIS CHAMBER 3 MONITOR
-静滞场 3 监控
+静滞场3监控
 
 > #str_03385
 SPECIMEN 42
-标本 42
+标本42
 
 > #str_03386
 """CURRENT RESEARCH
@@ -17638,11 +17638,11 @@ GCAGCTTTGCCTG
 
 > #str_03388
 STASIS CHAMBER 4 MONITOR
-静滞场 4 监控
+静滞场4监控
 
 > #str_03389
 SPECIMEN 27
-标本 27
+标本27
 
 > #str_03390
 """CURRENT RESEARCH
@@ -17658,11 +17658,11 @@ CGATCCTGC - - - -
 
 > #str_03392
 STASIS CHAMBER 5 MONITOR
-静滞场 5 监控
+静滞场5监控
 
 > #str_03393
 SPECIMEN 31
-标本 31
+标本31
 
 > #str_03394
 """CURRENT RESEARCH
@@ -17678,11 +17678,11 @@ TCGTACAGTCGTC
 
 > #str_03396
 STASIS CHAMBER 6 MONITOR
-静滞场 6 监控
+静滞场6监控
 
 > #str_03397
 SPECIMEN 218
-标本 218
+标本218
 
 > #str_03398
 """CURRENT RESEARCH
@@ -17868,7 +17868,7 @@ INTERNAL COMPARISON CHART
 
 > #str_03418
 SPECIMEN 125 LATERAL CRANIAL X-RAY
-标本 125 侧颅底X-光
+标本125侧颅底X光
 
 > #str_03419
 """Artifact ID: U1
@@ -18306,7 +18306,7 @@ Facility Transport
 
 > #str_03506
 The Monorail Skybridge crosses over the primary recycling station, a key element in processing waste products into useable resources.
-单轨Skybridge跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。
+单轨铁路天桥跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。
 
 > #str_03507
 MONORAIL SKYBRIDGE
@@ -18314,7 +18314,7 @@ MONORAIL SKYBRIDGE
 
 > #str_03508
 RECYCLING - SECTOR 2
-回收 - 区域 2
+回收 - 区域2
 
 > #str_03509
 Waste Recycling Center
@@ -18322,7 +18322,7 @@ Waste Recycling Center
 
 > #str_03510
 SITE 3
-区域 3
+区域3
 
 > #str_03511
 Analysis Facility
@@ -18881,7 +18881,7 @@ UAC火星基地
 
 > #str_03614
 CODE BLACK: MISSING STAFF
-代号BLACK: 失踪的人员
+代号布莱克: 失踪的人员
 
 > #str_03615
 """UAC Security is looking for a missing scientist.  We need your help to insure he is found quickly and safely.
@@ -18931,7 +18931,7 @@ CLOSED"""
 
 > #str_03622
 MARS CITY COMM STATION 1
-火星城通讯站 1
+火星城通讯站1
 
 > #str_03623
 CONNECTION CLOSED
@@ -21026,7 +21026,7 @@ Monorail Skybridge
 
 > #str_04027
 Recycling 2
-循环 2
+循环2
 
 > #str_04028
 TRANSFER DESTINATION
@@ -21038,19 +21038,19 @@ CLICK TO EXIT
 
 > #str_04030
 ALPHA LABS 1
-阿尔法实验室 1
+阿尔法实验室1
 
 > #str_04031
 ALPHA LABS 2
-阿尔法实验室 2
+阿尔法实验室2
 
 > #str_04032
 ALPHA LABS 3
-阿尔法实验室 3
+阿尔法实验室3
 
 > #str_04033
 ALPHA LABS 4
-阿尔法实验室 4
+阿尔法实验室4
 
 > #str_04034
 CAVERNS 1
@@ -21078,11 +21078,11 @@ DELTA LABS 3
 
 > #str_04040
 RECYCLING 1
-回收 1
+回收1
 
 > #str_04041
 RECYCLING 2
-回收 2
+回收2
 
 > #str_04042
 """POSITION PLANE ALIGNED
@@ -21102,7 +21102,7 @@ EPR光束未找到"""
 
 > #str_04045
 TELEPORTER STATION 6
-传送站 6
+传送站6
 
 > #str_04046
 HOLD TRIGGER
@@ -21314,11 +21314,11 @@ NIGHTMARE-An unstoppable death machine
 
 > #str_04098
 MODS
-MODS
+模组
 
 > #str_04099
   LOAD MOD
-  读取MOD
+  读取模组
 
 > #str_04100
 MULTIPLAYER SETTINGS
@@ -21354,7 +21354,7 @@ Return to the game in progress
 
 > #str_04108
 Load game mods
-载入游戏mod
+载入游戏模组
 
 > #str_04109
     ADVANCED SERVER OPTIONS
@@ -21382,7 +21382,7 @@ Reload engine on map change
 
 > #str_04115
 Allow server side mods
-允许服务器端MOD
+允许服务器端模组
 
 > #str_04116
 Map cycle script file
@@ -21548,7 +21548,7 @@ Join:
 
 > #str_04156
 Hit 'ESC' to return to the game
-按ESC回到游戏
+按“Esc”回到游戏
 
 > #str_04157
 Multiplayer
@@ -22077,11 +22077,11 @@ Frag Limit value is out of range
 
 > #str_04267
 already at the voted Frag Limit
-已达到投票Frag上限
+已达到投票杀敌数限制
 
 > #str_04268
 Set Time Limit to %d
-设置时间限制为 %d
+设置时间限制为%d
 
 > #str_04269
 Time Limit value is out of range
@@ -22359,7 +22359,7 @@ The configuration of this server doesn't allow pure mode
 
 > #str_04338
 Can't start pure server
-无法启动pure服务器
+无法启动纯净服务器
 
 > #str_04339
 OK
@@ -22483,7 +22483,7 @@ EPD粒子清洁器
 
 > #str_04369
 Storage Area 2
-储存区域 2
+储存区域2
 
 > #str_04370
 EPD Contaminant Purge
@@ -22959,7 +22959,7 @@ Airlock C-1
 
 > #str_04488
 Service Room 1a
-服务室 1a
+服务室1a
 
 > #str_04489
 Service Tunnels
@@ -22967,15 +22967,15 @@ Service Tunnels
 
 > #str_04490
 Airlock Hatch 2
-气闸舱门 2
+气闸舱门2
 
 > #str_04491
 Airlock Hatch 1
-气闸舱门 1
+气闸舱门1
 
 > #str_04492
 Service Room 1b
-服务室 1b
+服务室1b
 
 > #str_04493
 Maintenance Crawlspace
@@ -22983,7 +22983,7 @@ Maintenance Crawlspace
 
 > #str_04494
 Service Room 2a
-服务室 2a
+服务室2a
 
 > #str_04495
 PRC Maintenance
@@ -23023,7 +23023,7 @@ PRC - 个人准备区
 
 > #str_04504
 Service Room 3
-服务室 3
+服务室3
 
 > #str_04505
 Entrance Checkpoint
@@ -23119,7 +23119,7 @@ CPU
 
 > #str_04528
 Storage 1
-储存室 1
+储存室1
 
 > #str_04529
 Armory
@@ -23479,7 +23479,7 @@ Technical Director Office
 
 > #str_04618
 Service Area 002
-服务区 002
+服务区002
 
 > #str_04619
 Service Area 001
@@ -23523,7 +23523,7 @@ T1观察区 - 低层
 
 > #str_04629
 Teleport Station 1
-传送站 1
+传送站1
 
 > #str_04630
 Decon Chamber 1- upper
@@ -23551,7 +23551,7 @@ Chamber 2 Terminal
 
 > #str_04636
 Security Station 2
-安全中心 2
+安全中心2
 
 > #str_04637
 Chamber 2 Storage
@@ -23559,7 +23559,7 @@ Chamber 2 Storage
 
 > #str_04638
 Teleport Station 2
-传送站 2
+传送站2
 
 > #str_04639
 Upper Elevator Access
@@ -23595,15 +23595,15 @@ Decon Chamber 3
 
 > #str_04647
 Teleport Station 3
-传送站 3
+传送站3
 
 > #str_04648
 Teleporter 4 Access
-传送器 4 使用权限
+传送器4通道
 
 > #str_04649
 Level 1 Elevator Access
-1层电梯入口
+1层电梯通道
 
 > #str_04650
 T1 Access
@@ -23639,7 +23639,7 @@ Chamber 1 Terminal - upper
 
 > #str_04658
 T2 Pad 1
-T2 平台 1
+T2平台1
 
 > #str_04659
 Chamber 3 Access
@@ -23699,15 +23699,15 @@ Service Duct
 
 > #str_04673
 Teleporter 4 Entrance Hall
-传送器 4 门廊
+传送器4门廊
 
 > #str_04674
 Teleporter 4 Entrance Hall 002
-传送器 4 门廊 002
+传送器4门廊002
 
 > #str_04675
 Teleporter 4 Main Chamber
-传送器 4 主舱
+传送器4主舱
 
 > #str_04676
 Elevator Shaft
@@ -23967,7 +23967,7 @@ Recycling Facility Boarding Platform
 
 > #str_04740
 MR Airlock 01
-MR 气闸 01
+MR气闸01
 
 > #str_04741
 Debris Field S1-03
@@ -23975,7 +23975,7 @@ Debris Field S1-03
 
 > #str_04742
 MR Airlock 02
-MR 气闸 02
+MR气闸02
 
 > #str_04743
 Reclamation Grotto D-9
@@ -23983,7 +23983,7 @@ Reclamation Grotto D-9
 
 > #str_04744
 MR Airlock 03
-MR 气闸 03
+MR气闸03
 
 > #str_04745
 Debris Field S2-06
@@ -23991,7 +23991,7 @@ Debris Field S2-06
 
 > #str_04746
 MR Airlock 04
-MR 气闸 04
+MR气闸04
 
 > #str_04747
 Site 2 Boarding Platform
@@ -23999,7 +23999,7 @@ Site 2 Boarding Platform
 
 > #str_04748
 MR Airlock 05
-MR 气闸 05
+MR气闸05
 
 > #str_04749
 Site 2 Access Walkway
@@ -24007,15 +24007,15 @@ Site 2 Access Walkway
 
 > #str_04750
 MR Airlock 07
-MR 气闸 07
+MR气闸07
 
 > #str_04751
 MR Storage 02
-MR 储物室 02
+MR储物室02
 
 > #str_04752
 MR Airlock 08
-MR 气闸 08
+MR气闸08
 
 > #str_04753
 Delta Complex Walkway
@@ -24047,7 +24047,7 @@ Delta Security Checkpoint
 
 > #str_04760
 MR Airlock 06
-MR 气闸 06
+MR气闸06
 
 > #str_04761
 MR Machineroom A
@@ -24331,19 +24331,19 @@ OVERRIDE
 
 > #str_04831
 MONITOR STATION 1
-监控站 1
+监控站1
 
 > #str_04832
 MONITOR STATION 2
-监控站 2
+监控站2
 
 > #str_04833
 MONITOR STATION 3
-监控站 3
+监控站3
 
 > #str_04834
 MONITOR STATION 4
-监控站 4
+监控站4
 
 > #str_04835
 MONITOR STATION ACTIVE
@@ -24483,11 +24483,11 @@ Satellite Control Access
 
 > #str_06676
 Comm Engineering Unit 1
-通讯工程处单元 1
+通讯工程处单元1
 
 > #str_06677
 Comm Engineering Storage 1
-通讯工程处仓库 1
+通讯工程处仓库1
 
 > #str_06678
 Communications Maintenance
@@ -24499,11 +24499,11 @@ Comm Maintenance Elevator
 
 > #str_06680
 Comm Engineering Lift 1
-通讯工程处货梯 1
+通讯工程处货梯1
 
 > #str_06681
 Comm Engineering Lift 2
-通讯工程处货梯 2
+通讯工程处货梯2
 
 > #str_06682
 Comm Systems
@@ -24511,11 +24511,11 @@ Comm Systems
 
 > #str_06683
 Comm Engineering Unit 2
-通讯工程处单元 2
+通讯工程处单元2
 
 > #str_06684
 Sarge's Garage
-警官的车库
+士官的车库
 
 > #str_06685
 Delta Authority Lobby
@@ -24796,7 +24796,7 @@ Connecting to %s
 > #str_06751
 """Missing %d media pak files: %s
 """
-"""丢失 %d 媒体pak文件: %s
+"""丢失%d个媒体pak文件: %s
 """
 
 > #str_06752
@@ -24815,7 +24815,7 @@ Attempt to locate Bravo Team.
 
 > #str_06755
 Destroy the Hellgate.
-摧毁Hellgate。
+摧毁地狱之门。
 
 > #str_06756
 Reach the Delta Labs.
@@ -24831,7 +24831,7 @@ Reach the Communication Facility.
 
 > #str_06759
 Stop Sarge.
-组织士官长
+阻止士官。
 
 > #str_06760
 Find the Hell portal.
@@ -25568,23 +25568,23 @@ Recycling Sector
 
 > #str_07159
 Delta Labs Sector 1
-德尔塔实验室 1区
+德尔塔实验室1区
 
 > #str_07160
 Delta Labs Sector 2a
-德尔塔实验室 2a区
+德尔塔实验室2a区
 
 > #str_07161
 Delta Labs Sector 2b
-德尔塔实验室 2b区
+德尔塔实验室2b区
 
 > #str_07162
 Delta Labs Sector 3
-德尔塔实验室 3区
+德尔塔实验室3区
 
 > #str_07163
 Delta Labs Sector 4
-德尔塔实验室 4区
+德尔塔实验室4区
 
 > #str_07164
 Hell
@@ -25592,7 +25592,7 @@ Hell
 
 > #str_07165
 Delta Labs Sector 5
-德尔塔实验室 5区
+德尔塔实验室5区
 
 > #str_07166
 Central Server Banks
@@ -25624,7 +25624,7 @@ Frag Chamber
 
 > #str_07173
 The Edge 2
-边缘 2
+边缘2
 
 > #str_07174
 Lights Out
@@ -25718,11 +25718,11 @@ Doom3的RoE钥匙无效
 
 > #str_07196
 This Doom3 CD Key is banned
-这个Doom3的CD钥匙被禁。
+此Doom3的CD钥匙被禁。
 
 > #str_07197
 This Doom3 RoE Key is banned
-这个Doom3的RoE钥匙被禁。
+此Doom3的RoE钥匙被禁。
 
 > #str_07198
 Doom3 CD Key is in use
@@ -25775,7 +25775,7 @@ No Time Limit
 > #str_07210
 """Can't connect to the pure server at %s:
 """
-"""无法在%s内连接到pure服务器
+"""无法在%s连接到纯净服务器
 """
 
 > #str_07211
@@ -25820,7 +25820,7 @@ Missing required files
 
 > #str_07219
 Can't connect to the pure server: no downloads offered
-无法连接到pure服务器: 无下载提供
+无法连接到纯净服务器: 无下载提供
 
 > #str_07220
 You need to download game code to connect to this server. Are you sure? You should only answer yes if you trust the server administrators.
@@ -25956,7 +25956,7 @@ d3ctf1 - 空洞交叉口
 
 > #str_11114
 d3ctf2 - Pump Station 02
-d3ctf2 - 泵站 02
+d3ctf2 - 泵站02
 
 > #str_11115
 d3ctf3 - Power-Up Lab
@@ -26468,7 +26468,7 @@ ZA11 0SLGGHQ SGRG TM |
 
 > #str_00100015
 SITE ONE ACCESS STATION
-区域 1 接取站
+区域一访问站
 
 > #str_00100016
 Excavation Elevator
@@ -27422,7 +27422,7 @@ Administration
 
 > #str_00100253
 Sarges Office
-警官的办公室
+士官的办公室
 
 > #str_00100254
 Administrative Office
@@ -27626,7 +27626,7 @@ Go To Hell
 
 > #str_00100304
 Make your way to Hell.
-设法去Hell
+设法去地狱。
 
 > #str_00100305
 Hydrogen Storage Transfer
@@ -27634,7 +27634,7 @@ Hydrogen Storage Transfer
 
 > #str_00100306
 Security Station 3
-安全中心 3
+安全中心3
 
 > #str_00100307
 Decon Chamber 3
@@ -27642,7 +27642,7 @@ Decon Chamber 3
 
 > #str_00100308
 Teleport Station 3
-传送站 3
+传送站3
 
 > #str_00100309
 Chamber 3 Access
@@ -27678,7 +27678,7 @@ Escape the Delta Labs
 
 > #str_00100317
 Teleporter 4 Main Chamber
-传送器 4 主舱
+传送器4主舱
 
 > #str_00100318
 Analysis Control
@@ -27866,7 +27866,7 @@ Dr. Kharkov
 
 > #str_00100364
 Sarge's Office
-警官的办公室
+士官的办公室
 
 > #str_00100365
 Excavation Three
@@ -27894,7 +27894,7 @@ Mac Smith
 
 > #str_00100371
 Nathan's PDA
-Nathan的PDA
+内森的PDA
 
 > #str_00100372
 Make your way to the surface.
@@ -28006,11 +28006,11 @@ Take off enviro suit cinematic.
 
 > #str_00100399
 Cinematic 5-1
-电影 5-1
+电影5-1
 
 > #str_00100400
 E5 Cloud
-E5晕
+E5云
 
 > #str_00100401
 Put on enviroment suit cinematic goes here
@@ -28086,7 +28086,7 @@ Research Access
 
 > #str_00100419
 Research Sector 2
-科研区域 2
+科研区域2
 
 > #str_00100420
 Erebus Cargo Storage
@@ -28110,7 +28110,7 @@ Surface Access
 
 > #str_00100425
 Research Sector 1
-科研区域 1
+科研区域1
 
 > #str_00100426
 Sentry Bot
@@ -28298,7 +28298,7 @@ Gain access to the Phobos Labs SkyTram.
 
 > #str_00100472
 Cinematic 8-1
-电影 8-1
+电影8-1
 
 > #str_00100473
 Security Turrets
@@ -28838,7 +28838,7 @@ Apply video and sound setting changes
 
 > #str_00100605
 Make your way to the Hell Teleporter at all costs!
-不惜一切代价到达Hell传送器！
+不惜一切代价到达地狱传送器！
 
 > #str_00100606
 Find power for the lift in order to gain access to the surface.
@@ -29306,7 +29306,7 @@ Erebus Station
 
 > #str_00100722
 Find Dr. Cloud
-找到Cloud博士
+找到克劳德博士
 
 > #str_00100723
 The Artifact can be charged with human souls
@@ -29460,7 +29460,7 @@ Bell-State analysis inactive"""
 
 > #str_00100751
 Targeting Station 1
-定位站 1
+定位站1
 
 > #str_00100752
 """Sca
@@ -29677,19 +29677,19 @@ RESEARCH AUXILIARY POWER
 
 > #str_00100791
 CORE 1
-核心 1
+核心1
 
 > #str_00100792
 CORE 2
-核心 2
+核心2
 
 > #str_00100793
 CORE 3
-核心 3
+核心3
 
 > #str_00100794
 CORE 4
-核心 4
+核心4
 
 > #str_00100795
 SHIELD STATUS
@@ -29761,7 +29761,7 @@ deployment
 
 > #str_00100812
 Bring the Artifact to Dr.Mcneil
-将遗物带给Dr.Mcneil
+将遗物带给麦克内尔博士
 
 > #str_00100813
 Get the enviroment suit and follow the waste tunnels to the cargo station on the surface
@@ -29885,7 +29885,7 @@ ARTIFACT RESEARCH
 
 > #str_00100847
 SITE 1 TABLET FRAGMENT
-区域 1 板子碎片
+区域1板子碎片
 
 > #str_00100848
 COMPOSITION ANALYSIS
@@ -29901,11 +29901,11 @@ ATOMIC
 
 > #str_00100851
 SCAN 1
-扫描 1
+扫描1
 
 > #str_00100852
 SCAN 2
-扫描 2
+扫描2
 
 > #str_00100853
 The UAC's Mars Research Base suffers a cataclysmic mechanical failure during a classified research experiment, resulting in total destruction of the facility. Only one survivor is located.
@@ -30097,7 +30097,7 @@ Enviro Tank
 
 > #str_00100900
 Take the Skywalk to the Phobos Labs Experimental Teleporter
-乘坐Skywalk前往火卫一实验室实验传送器那里
+乘坐人行天桥前往火卫一实验室实验传送器那里
 
 > #str_00100901
 Environmental Support
@@ -30129,7 +30129,7 @@ BRIDGE RELEASED
 
 > #str_00100911
 Targeting Station 3
-定位站 3
+定位站3
 
 > #str_00100912
 """EPR Source control online
@@ -30675,7 +30675,7 @@ Return to the Phobos Labs SkyTram Station.
 
 > #str_00101044
 Take the Skywalk to the Phobos Labs Experimental Teleporter.
-乘坐Skywalk前往火卫一实验室实验传送器那里。
+乘坐人行天桥前往火卫一实验室实验传送器那里。
 
 > #str_00101045
 Shutdown the Phobos Labs Main Reactor.
@@ -30711,7 +30711,7 @@ Gain access to Excavation Elevator.
 
 > #str_00101053
 Bring the Artifact to Dr. McNeil
-将遗物带给Dr. McNeil
+将遗物带给麦克内尔博士
 
 > #str_00101054
 Reactor Key
@@ -31139,7 +31139,7 @@ Prime The Core
 
 > #str_00200099
 Prime the Auxiliary Core by using the IPL a.k.a. 'grabber gun' to release a plasma particle directly into the non-working primer tube
-使用IPL a.k.a‘抓握枪'对着非工作魔方释放等离子例子为附属核心做好准备。
+使用IPL也就是“抓握枪”对着非工作魔方释放等离子例子为附属核心做好准备。
 
 > #str_00200100
 Transfer Power
@@ -31455,11 +31455,11 @@ Engineering Elevator Lobby
 
 > #str_00200178
 Maintenance Access 9
-维护入口 9
+维护入口9
 
 > #str_00200179
 Maintenance Access 9
-维护入口 9
+维护入口9
 
 > #str_00200180
 Elevator Shaft
@@ -31603,7 +31603,7 @@ Engineering Airlock 02
 
 > #str_00200215
 Aux Core Access
-进入Aux核心
+辅助核心通道
 
 > #str_00200216
 PRESSURIZE
@@ -32038,7 +32038,7 @@ Jonathan Moses
 
 > #str_admin_moses_pda_fullname
 Jonathan A. Moses
-乔纳森A.摩西
+乔纳森·A.摩西
 
 > #str_admin_moses_pda_id
 2463-21
@@ -32428,9 +32428,9 @@ In light of the recent increase of work-related accidents in the Alpha Labs, we 
 Thank You,
 Brian Jenkins
 Safety Coordinator"""
-"""Smith先生，
+"""史密斯先生，
 
-由于Alpha实验室最近出现越来越多与工作有关的事故，我们认为有必要在对重型设备进行例行维护时安装一个窃听系统。这样应该可以减少提交到你部门的投诉数量。如果你有什么主意可以改善Alpha实验室的安全状态，请与我联系。
+由于阿尔法实验室最近出现越来越多与工作有关的事故，我们认为有必要在对重型设备进行例行维护时安装一个窃听系统。这样应该可以减少提交到你部门的投诉数量。如果你有什么主意可以改善阿尔法实验室的安全状态，请与我联系。
 
 谢谢，
 布莱恩·詹金斯
@@ -32460,7 +32460,7 @@ Next thing they'll do is try to fix the problem by having us fill out more MAR f
 
 """
 """杰克——
-请告诉我UAC公司是在开玩笑。什么样的合作伙伴会为了意外事故索赔什么都干除非发生了两次？告诉我什么样的合作伙伴会防止“残缺男孩”乔·莫斯的双腿双脚被Albuquerck Capacitator砍掉？或许他们的合作伙伴可以听见怪物咆哮着过来，手无寸铁也没有CRF组件就冲上去干？或许他们的合作伙伴头发着火了，都不用麻烦我们找水冲进火里面把他救出来。
+请告诉我UAC公司是在开玩笑。什么样的合作伙伴会为了意外事故索赔什么都干除非发生了两次？告诉我什么样的合作伙伴会防止“残缺男孩”乔·莫斯的双腿被阿尔伯克基空间稳定器砍掉？或许他们的合作伙伴可以听见怪物咆哮着过来，手无寸铁也没有CRF组件就冲上去干？或许他们的合作伙伴头发着火了，都不用麻烦我们找水冲进火里面把他救出来。
 
 他们亟待解决的问题就是我要再让我们以身犯险还要重新做好我们的ODF预判。
 
@@ -32472,7 +32472,7 @@ Jack Smith
 
 > #str_alphalabs1_smith_pda_fullname
 Jack T. Smith
-杰克T.史密斯
+杰克·T.史密斯
 
 > #str_alphalabs1_smith_pda_id
 1538-49
@@ -32518,7 +32518,7 @@ martianbuddy.com
 
 > #str_alphalabs2_chin_email_1_email_subject
 Play Uanet's DracoWyzard now!
-现在就开始玩Uanet的DracoWyzard
+现在就开始玩Uanet的《驭龙巫师》！
 
 > #str_alphalabs2_chin_email_1_email_text
 """On-Line Gamer,
@@ -32530,9 +32530,9 @@ Raise your scimitars aloft and strike back! Join Uanet's hottest RPG DracoWyzard
 """
 """在线玩家，
 
-Chalice of Sanguine Drak的旅程现在开始！邪恶的Vloxmire在Nozgath大陆上投下了一片乌云。谁会挺身而出挑战他的Wyldwulves和Berserkotroll军团？
+寻找血色龙血圣杯的征程现在开启！邪恶的沃洛克斯米尔在诺兹加斯大地上空投下了邪恶的阴影。谁将挺身而出，挑战他那由狂野狼人和狂暴巨魔组成的军团？
 
-高举弯刀反击吧！今天就加入Uanet最热门角色扮演游戏DracoWyzard，每月只要29块！
+举起弯刀，奋力反击！立即加入Uanet最热门的角色扮演游戏《驭龙巫师》，每月仅需29个积分！
 
 """
 
@@ -32681,7 +32681,7 @@ Collection
 Need to remember to get my eight-sided die back from Chin.  Should never have lent it to him in the first place.  He never invited me to play.  He is not my friend.
 """
 """备忘:
-别忘了从Chin那里拿回八面骰子。早知道就不借给他了。他从没邀请我去玩。他不是我的朋友。
+别忘了从陈那里拿回八面骰子。早知道就不借给他了。他从没邀请我去玩。他不是我的朋友。
 """
 
 > #str_alphalabs2_connors_email_1_email_to
@@ -33303,7 +33303,7 @@ John Okonkwo
 """
 """你好
 
-我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是ELEME，它是尼日利亚的一个石油储量丰富的小镇。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
+我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
 
 这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
 
@@ -34005,7 +34005,7 @@ Site 1 needs
 """The UAC has terminated all research at site 1.  This includes the McNeil Projects.  Arrangements for transportation and storage of useful equipment should be made immediately.
 
 -Shipping Authority"""
-"""UAC终止了1号站点的所有研究。其中包括McNeil计划。对有用设备的运输和储存的安排应该立刻进行。
+"""UAC终止了1号站点的所有研究。其中包括麦克内尔计划。对有用设备的运输和储存的安排应该立刻进行。
 
 -运输局"""
 
@@ -34588,7 +34588,7 @@ Some Name"""
 这是在电子邮件界面显示非常长的段落的例子。你不需要输入任何回车，只要一直输入文本就可以了。你可以在任何想要的时候添加这些斜杠加n的东西来进行换行或开启新的段落。
 
 谢谢，
-不知名的家伙。"""
+某个名字"""
 
 > #str_default_email_1_email_to
 none
@@ -34618,7 +34618,7 @@ Some Name"""
 这是在电子邮件界面显示非常长的段落的另一个例子。你不需要输入任何回车，只要一直输入文本就可以了。你可以在任何想要的时候添加这些斜杠加n的东西来进行换行或开启新的段落。
 
 谢谢，
-不知名的家伙。"""
+某个名字"""
 
 > #str_default_email_2_email_to
 none
@@ -34898,7 +34898,7 @@ Report on Patient 0432, Pvt. Steve Jenson"""
 
 > #str_delta2_medical_video_name
 Medical Report 16-8
-医疗报告 16-8
+医疗报告16-8
 
 > #str_delta2a_cinders_audio_1_audio_info
 """Made by: Frank Cinders
@@ -35456,7 +35456,7 @@ I have received your formal request for an inquiry into the activities on Mars. 
 Thank You,
 Elliot Swann
 UAC Executive Counsel"""
-"""McNeil小姐，
+"""麦克内尔小姐，
 
 我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣付或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。
 
@@ -35510,7 +35510,7 @@ Michael Abrams
 
 > #str_delta2b_mcneil_email_3_email_subject
 Level 3 Access Code Change
-级别 3 入口密码更换
+3层通道的密码更换
 
 > #str_delta2b_mcneil_email_3_email_text
 """All Delta Level 2 Personnel,
@@ -35522,7 +35522,7 @@ Mike Abrams
 Delta Security, Chief"""
 """所有2级德尔塔工作人员，
 
-每半年更换一次的3级登入密码已改变。新密码是 463
+每半年更换一次的3级登入密码已改变。新密码是463
 
 谢谢，
 迈克·艾布拉姆斯
@@ -35614,7 +35614,7 @@ Jacob Stemmons
 
 """
 """Stemmons先生，
-我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个德尔塔综合设施各处的几个电力问题。如果你能去查看一下Maint-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。
+我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个德尔塔综合设施各处的几个电力问题。如果你能去查看一下维-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。
 
 谢谢，
 维护部
@@ -36806,7 +36806,7 @@ Online functionality not available.
 
 > #str_dlg_pc_online_join_error_two_profiles_one_box
 Unable to join match, a local steam profile is already in this lobby
-无法加入比赛，一个本地Stream账户已经进入这个大厅
+无法加入比赛，一个本地Steam账户已经进入这个大厅
 
 > #str_dlg_pc_online_signin_request
 Online functionality not available.
@@ -37841,7 +37841,7 @@ I finally figured out the code to Sarge's old case, it's 428. After our shift, l
 Stu"""
 """嗯，极端的无聊终于产生了一些好东西。
 
-我终于找到了Sarge老箱子的密码，是428。等我们下班后，就去把那玩意儿打开然后去疯狂一把吧。
+我终于找到了士官的老箱子密码，是428。等我们下班后，就去把那玩意儿打开然后去疯狂一把吧。
 
 Stu"""
 
@@ -37921,7 +37921,7 @@ Steve"""
 发送日期: 2147-3-13
 收件人: 斯图尔特·杰克逊
 Stu，
-我无聊得要死。几个月来我没有为了泄怒开过一次枪！中士办公室里的那杆双筒枪在挑逗我。
+我无聊得要死。几个月来我没有为了泄怒开过一次枪！士官办公室里的那杆双筒枪在挑逗我。
 
 我好想摸它一把。它让我想起在缅因州打猎的时光，但我从来没有猎过这么大的一头熊！
 
@@ -38273,7 +38273,7 @@ mail.admin@elNET
 
 > #str_erebus3_kharkov_email_1_email_subject
 Undeliverable: E-Mail from Mars
-无法送达: 来自火星的E-Mail
+无法送达: 来自火星的电邮
 
 > #str_erebus3_kharkov_email_1_email_text
 """Your message did not reach some or all of the intended recipients.
@@ -38299,7 +38299,7 @@ I will see you soon.
 -VK"""
 """你的信息未送达部分或全部选定的收件人。
 
-    主题: 来自火星的邮件
+    主题: 来自火星的电邮
     发送日期: 2147-3-13
 
 无法找到下列收件人:
@@ -38311,7 +38311,7 @@ I will see you soon.
 发送日期: 2147-3-13
 收件人: 凯瑟琳·哈尔科夫 (k.kharkov@kpjNET)
 Kathrine,
-但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在McNeil博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了Stocker一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。
+但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在麦克内尔博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了斯托克一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。
 
 我得回去工作了。也许我多加班一点他们能够让我提前回去。
 
@@ -38399,7 +38399,7 @@ Elizabeth McNeil
 
 > #str_erebus3_kharkov_email_4_email_subject
 Update 3-14-2147
-更新 2147-3-14
+更新2147-3-14
 
 > #str_erebus3_kharkov_email_4_email_text
 """Viktor,
@@ -38796,16 +38796,16 @@ Leo,
 I need you to check the stockpiles within the hangar armory at the Erebus Complex. A situation is about to arise and we all need to be prepared as much as possible.
 
 If you need assistance, contact Sparks and Carnagey. They're doing research within your complex."""
-"""我们迫切需要弹药。McNeil博士发来一条信息说，我们得做好遭遇来犯并且随时协助还击的准备。检查货运隧道中的补给然后迅速汇报。
+"""我们迫切需要弹药。麦克内尔博士发来一条信息说，我们得做好遭遇来犯并且随时协助还击的准备。检查货运隧道中的补给然后迅速汇报。
 
 ----原始邮件----
 发送日期: 2147-3-14
-收件人: Leo Avery
-Leo,
+收件人: 里欧·艾弗里
+里欧，
 
 我需要你检查厄瑞玻斯综合设施武器库的库存。有情况即将发生，我们需要全员戒备以防万一。
 
-如果你需要协助，联系Sparks和Carnagey。他们正在你的综合设施内进行研究。"""
+如果你需要协助，联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"""
 
 > #str_erebus5_gibson_email_2_email_to
 Sean Gibson
@@ -39160,7 +39160,7 @@ Set for Archive: Yes"""
 
 > #str_hell_hebert_audio_1_audio_name
 Expedition Trip 14A-2
-探索行程 14A-2
+探索行程14A-2
 
 > #str_hell_hebert_email_1_email_date
 xx-xx-2145
@@ -39224,7 +39224,7 @@ Joshua Hebert
 
 > #str_hell_hebert_pda_fullname
 Joshua P. Hebert
-约书亚P.赫伯特
+约书亚·P.赫伯特
 
 > #str_hell_hebert_pda_id
 6119-53
@@ -39428,7 +39428,7 @@ Thank You
 """I would like to thank our fans for playing Doom 3.
 Kevin Cloud
 Artist, Co-Owner"""
-"""我想要感谢我们的粉丝能够游玩Doom 3。
+"""我想要感谢我们的粉丝能够游玩《Doom 3》。
 凯文·克劳德
 艺术家，共有人"""
 
@@ -39461,11 +39461,11 @@ Todd Hollenshead
 CEO, Co-Owner"""
 """哇。我们终于完成了！
 
-我想要感谢Tara在我日以继夜工作疲于奔波时的耐心，无论我多晚回到家，她总是在等着我。感谢Tuffy, Champ, Barney, Boo, Tazzy, Charm, Ally, Annie, Nadeema, Firefox, Amira, Shahira, Misty还有我们记忆中的Hope，感谢他们在我不在时照顾Tara。感谢这些年来我的家人对我的所有支出和鼓励。
+我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她无论多晚我回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。
 
-感谢整个id的团队，感谢他们为DOOM 3付出的巨大努力。
+感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。
 
-当然还要感谢粉丝们，你们让所有的付出最终化作汇报。在QuakeCon和DOOM 3服务器上再见，我会很高兴用“Toddh”的礼仪喂你们几颗火箭弹的！
+当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！
 
 陶德·霍伦斯黑德
 首席执行官，共有人"""
@@ -39493,7 +39493,7 @@ I would also like to give a special thanks to my wife Stephanie and children Ric
 
 Tim Willits
 Lead Designer, Co-Owner"""
-"""我想感谢所有Doom 3的玩家。制作这个游戏真是一段美好的时光。
+"""我想感谢所有《Doom 3》的玩家。制作这个游戏真是一段美好的时光。
 
 我也想特别感谢一下我的妻子斯蒂芬妮和我的孩子理查德，还有德斯蒂尼在关键时刻陪伴了我很长时间。
 
@@ -39718,7 +39718,7 @@ A quick thanks to my wife Christina for her endless dedication in caring for our
 Enjoy the rest of the game!
 
 patd"""
-"""希望你喜欢我们精心在Doom 3里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。
+"""希望你喜欢我们精心在《Doom 3》里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。
 
 还要谢谢我的妻子克里斯丁娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)
 
@@ -39751,7 +39751,7 @@ In the game of the year polls please remember Super Turbo Turkey Puncher 3.
 robert..."""
 """谢谢朋友们和家人的支持。
 我希望所有人都能像我们享受制作过程一样享受这个游戏。
-尤其要感谢Austen和Camryn:-)
+特别感谢奥斯汀和卡梅伦 :-)
 
 在年度游戏调查时请记得《超级涡轮火鸡拳3》。
 罗伯特……"""
@@ -39777,7 +39777,7 @@ Thank You
 
 Matt Hooper
 Designer"""
-"""感谢我的妻子谭雅，以及我的还在Gabriel，Aaron和Ariel。
+"""感谢我的妻子谭雅，还有我的孩子们加布里埃尔、阿伦和阿里尔。
 
 马特·胡珀
 设计师"""
@@ -39868,7 +39868,7 @@ J. Keehan
 Designer"""
 """你花费了宝贵的时间终于来到了这里，战士！……=)
 
-首先最重要的是，诚挚地感谢你进行Doom 3的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。
+首先最重要的是，诚挚地感谢你进行《Doom 3》的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。
 *******
 万分感谢id的所有者——让我能够成为他们大家庭的一员。能和一些游戏产业里面最富有天分的人一起工作真的是非常大的荣幸。
 *******
@@ -40033,7 +40033,7 @@ Enjoy the rest of the game.  See you at QuakeCon.
 
 Ship it!
 Marty"""
-"""游戏玩到现在，我确信你一定爱上了DOOM 3(或者你很享受跑遍地图不开枪来寻找这个秘密)。作为游戏制作组的一员我很荣幸。即使是在研发4年以后的今天，我还是很敬畏那些细节、复杂性、和创造性为一体组成的这个游戏的点点滴滴。
+"""游戏玩到现在，我确信你一定爱上了《DOOM 3》(或者你很享受跑遍地图不开枪来寻找这个秘密)。作为游戏制作组的一员我很荣幸。即使是在研发4年以后的今天，我还是很敬畏那些细节、复杂性、和创造性为一体组成的这个游戏的点点滴滴。
 
 送给我妻子简，还有我的孩子，安迪和亚历克莎——感谢你们的一切——你们的支持无可非议。你们仨是最伟大的！还有，送给我其他的家人，32年来的感谢、尊敬、和肯定。
 
@@ -41089,7 +41089,7 @@ Roger Harris
 
 > #str_le_undgrnd_anders_email_1_email_subject
 RE: Cabinet 108
-回复: 卡宾枪 108
+回复: 卡宾枪108
 
 > #str_le_undgrnd_anders_email_1_email_text
 """Phil, 
@@ -41147,7 +41147,7 @@ Robert Thompson
 
 > #str_le_undgrnd_anders_email_2_email_subject
 FW: Technician Lin
-转发: 技师Lin
+转发: 林技师
 
 > #str_le_undgrnd_anders_email_2_email_text
 """Can you believe this shit? They are going to try and cover this whole mess up. I mean, I know we had a lot to drink, but something was not right with Jenny. She was... she just wasn't acting like herself. It all happened so fast. I can't believe she is gone. The way those guards reacted - it was like they had seen it before... And then they tried to act like it was all her fault. 
@@ -41292,7 +41292,7 @@ Bradley Martin
 
 > #str_le_undgrnd_thompson_email_1_email_subject
 Technician Lin
-技师Lin
+林技师
 
 > #str_le_undgrnd_thompson_email_1_email_text
 """To all Service Sub-Level Staff: 
@@ -41675,7 +41675,7 @@ I'm sending these back as soon as I get the time.  Meanwhile, I would appreciate
 David Robbins
 Industrial Complex"""
 """马库斯，
-米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是机箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个p用！
+米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是机箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个屁用！
 
 我一有时间就把这些东西送回去。同时，如果你能再帮我向米克森投诉一次，并尽快弄到我的手提钻的话，那就太谢谢你了。
 
@@ -41746,7 +41746,7 @@ I will miss you terribly and will think of you often.  I'm sure the friendships 
 I hope you will join me in the Mars City kitchen for a drink tomorrow evening.  My shuttle leaves first thing on 11/16 and I'd hate to miss my last chance to see you... until next time.
 
 Ray Gerhardt"""
-"""知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字是Alan。
+"""知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字是阿兰。
 
 你会和他出去喝一杯吗？我是不会的……但如果他付账而且有其他人在场的话，可能会很有趣。
 
@@ -41847,7 +41847,7 @@ I hope you can talk to Sarge about this before something worse happens.
 
 哨兵机器人很强大——也很危险。为什么我们火星城需要这些多余的武装？除了那些古怪的个人报告会有些糟糕之外，我们没有任何问题。难道你能让机器人分辨谁今天不开心或者是疯了？
 
-我希望你能在事情变得更糟之前和士官长谈谈。
+我希望你能在事情变得更糟之前和士官谈谈。
 -PFC 海格尔"""
 
 > #str_marscity2_tyson_email_1_email_to
@@ -44223,7 +44223,7 @@ Anthony Garza
 
 > #str_recycling1_garza_pda_post
 Recycling Sector 1
-循环区 1
+循环区1
 
 > #str_recycling1_garza_pda_security
 """"""
@@ -44423,7 +44423,7 @@ Nick Sadowayj
 
 > #str_recycling1_sadowayj_pda_post
 Recycling Sector 1
-循环区 1
+循环区1
 
 > #str_recycling1_sadowayj_pda_security
 """"""
@@ -44471,7 +44471,7 @@ Jeffery Moen
 
 > #str_recycling2_moen_pda_post
 Recycling Sector 2
-循环区 2
+循环区2
 
 > #str_recycling2_moen_pda_security
 """"""
