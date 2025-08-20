@@ -3095,7 +3095,7 @@ Filter chamber shutdown - Brad Stevens"""
 
 封闭建设集装箱 - 第2小队
 便携设备移出 - 第7小队
-发电机关闭 - Ty Leeson
+发电机关闭 - 泰·利森
 安防封锁 - 布拉德·史蒂夫
 过滤室关闭 - 布拉德·史蒂夫"""
 
@@ -3554,7 +3554,7 @@ TIYOU KDMH LGSLDG SDLGKSE SDTK  576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG
 > #str_00429
 ; comm1/commterminal.gui marscity/comm2.gui erebus1/station3.gui
 KDMH LGSLDG SDLGKSE SDTK YU90G 576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3 VBNY77
-KDMH LGSLDG SDLGKSE SDTK YU90G 576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3
+KDMH LGSLDG SDLGKSE SDTK YU90G 576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3 VBNY77
 
 > #str_00430
 ; comm1/commterminal.gui
@@ -4663,7 +4663,7 @@ CURRENT SCAN"""
 类型三
 未定义
 记录至
-文件778-N82中
+文件778
 数据已记录
 正重新开始
 当前扫描"""
@@ -5895,7 +5895,7 @@ Calibrate
 """Unit
 1336"""
 """部门
-1335"""
+1336"""
 
 > #str_00796
 ; controlpanels/hydropower.gui
@@ -6248,31 +6248,31 @@ Energy Spread -- 0.943 %
 
 > #str_00866
 Transverce Emittance (Ex) -- 1203 nm rad
-横向发射度 (Ex) -- 1023 nm rad
+横向发射度(Ex) -- 1203 nm rad
 
 > #str_00867
 Transverce Emittance (Ey) -- 5 < (Ey) 13 nm rad
-横向发射度 (Ex) -- 5 < 13 (Ey) nm rad
+横向发射度(Ey) -- 5 < (Ey) 13 nm rad
 
 > #str_00868
 Dampening Ring Exit Energy -- 8.728 TeV
-湿润环状出口能量——8.728TeV
+湿润环状出口能量 -- 8.728 TeV
 
 > #str_00869
 Bunch Length -- 8.728 TeV
-整串长度 —— 8.728万亿伏特
+整串长度 -- 8.728 TeV
 
 > #str_00870
 Energy Spread -- 0.0032 %
-能量扩散——0.0032%
+能量扩散 -- 0.0032 %
 
 > #str_00871
 Transverce Emittance (Ex) -- 913 nm rad
-横向发射度 (Ex) -- 913 nm rad
+横向发射度(Ex) -- 913 nm rad
 
 > #str_00872
 Transverce Emittance (Ey) -- 3 < (Ey) 11 nm rad
-横向发射度 (Ex) -- 3 < 11 (Ey) nm rad
+横向发射度(Ex) -- 3 < (Ey) 11 nm rad
 
 > #str_00873
 current readings
@@ -6304,7 +6304,7 @@ Status
 
 > #str_00880
 Collider                                   Overview
-碰撞器                                   总览
+碰撞器                                     总览
 
 > #str_00881
 Heat Exchange Sink 2 damaged
@@ -6459,7 +6459,7 @@ Leak detection
 """DCL Processing Failure
 Cl2 levels are above acceptable threshold. Flush and vent area immediately."""
 """DCL处理失败
-C12水准高于可接受临界点。立即对该区域进行灌水和排放。"""
+Cl2水准高于可接受临界点。立即对该区域进行灌水和排放。"""
 
 > #str_00911
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6494,10 +6494,10 @@ Connector vent
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:0"""
-"""负荷:0m
-Rise R:0 ft.
-Lateral L:0 ft.
-Act. Manifold:0"""
+"""输入速率: 0米
+右侧提升: 0英尺
+左侧移动: 0英尺
+活动歧管: 0"""
 
 > #str_00917
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6555,10 +6555,10 @@ NFGC
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""负荷:0m
-Rise R:0 ft.
-Lateral L:0 ft.
-Act. Manifold:1"""
+"""输入速率: 0米
+右侧提升: 0英尺
+左侧移动: 0英尺
+活动歧管: 1"""
 
 > #str_00928
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6566,10 +6566,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""负荷:0m
-Rise R:1 ft.
-Lateral L:0 ft.
-Act. Manifold:1"""
+"""输入速率: 0米
+右侧提升: 1英尺
+左侧移动: 0英尺
+活动歧管: 1"""
 
 > #str_00929
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6577,10 +6577,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""负荷:0m
-Rise R:1 ft.
-Lateral L:1 ft.
-Act. Manifold:1"""
+"""输入速率: 0米
+右侧提升: 1英尺
+左侧移动: 1英尺
+活动歧管: 1"""
 
 > #str_00930
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6588,10 +6588,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""负荷:3m
-Rise R:2 ft.
-Lateral L:1 ft.
-Act. Manifold:1"""
+"""输入速率: 3米
+右侧提升: 2英尺
+左侧移动: 1英尺
+活动歧管: 1"""
 
 > #str_00931
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6599,10 +6599,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""负荷:5m
-Rise R:2 ft.
-Lateral L:2 ft.
-Act. Manifold:1"""
+"""输入速率: 5米
+右侧提升: 2英尺
+左侧移动: 2英尺
+活动歧管: 1"""
 
 > #str_00932
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6610,10 +6610,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""负荷:8m
-Rise R:2 ft.
-Lateral L:3 ft.
-Act. Manifold:1"""
+"""输入速率: 8米
+右侧提升: 2英尺
+左侧移动: 3英尺
+活动歧管: 1"""
 
 > #str_00933
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6621,10 +6621,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:10m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 10米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00934
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6632,10 +6632,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:12m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 12米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00935
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6643,10 +6643,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:15m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 15米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00936
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6654,10 +6654,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:19m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 19米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00937
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6665,10 +6665,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""负荷:20m
-Rise R:2 ft.
-Lateral L:3 ft.
-Act. Manifold:1"""
+"""输入速率: 20米
+右侧提升: 2英尺
+左侧移动: 3英尺
+活动歧管: 1"""
 
 > #str_00938
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6676,10 +6676,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""负荷:21m
-Rise R:2 ft.
-Lateral L:3 ft.
-Act. Manifold:1"""
+"""输入速率: 21米
+右侧提升: 2英尺
+左侧移动: 3英尺
+活动歧管: 1"""
 
 > #str_00939
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6687,10 +6687,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:22m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 22米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00940
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6698,10 +6698,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:23m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 23米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00941
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6709,10 +6709,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:24m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 24米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00942
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6720,10 +6720,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""负荷:25m
-Rise R:2 ft.
-Lateral L:4 ft.
-Act. Manifold:1"""
+"""输入速率: 25米
+右侧提升: 2英尺
+左侧移动: 4英尺
+活动歧管: 1"""
 
 > #str_00943
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6741,10 +6741,10 @@ Nominal
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""负荷:19m
-Rise R:2 ft.
-Lateral L:3 ft.
-Act. Manifold:1"""
+"""输入速率: 19米
+右侧提升: 2英尺
+左侧移动: 3英尺
+活动歧管: 1"""
 
 > #str_00946
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6752,10 +6752,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""负荷:12m
-Rise R:2 ft.
-Lateral L:2 ft.
-Act. Manifold:1"""
+"""输入速率: 12米
+右侧提升: 2英尺
+左侧移动: 2英尺
+活动歧管: 1"""
 
 > #str_00947
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6763,10 +6763,10 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""负荷:8m
-Rise R:2 ft.
-Lateral L:2 ft.
-Act. Manifold:1"""
+"""输入速率: 8米
+右侧提升: 2英尺
+左侧移动: 2英尺
+活动歧管: 1"""
 
 > #str_00948
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6774,10 +6774,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""负荷:7m
-Rise R:1 ft.
-Lateral L:1 ft.
-Act. Manifold:1"""
+"""输入速率: 7米
+右侧提升: 1英尺
+左侧移动: 1英尺
+活动歧管: 1"""
 
 > #str_00949
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6785,10 +6785,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""负荷:5m
-Rise R:1 ft.
-Lateral L:1 ft.
-Act. Manifold:1"""
+"""输入速率: 5米
+右侧提升: 1英尺
+左侧移动: 1英尺
+活动歧管: 1"""
 
 > #str_00950
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6796,10 +6796,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""负荷:4m
-Rise R:1 ft.
-Lateral L:1 ft.
-Act. Manifold:1"""
+"""输入速率: 4米
+右侧提升: 1英尺
+左侧移动: 1英尺
+活动歧管: 1"""
 
 > #str_00951
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6807,10 +6807,10 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""负荷:3m
-Rise R:1 ft.
-Lateral L:0 ft.
-Act. Manifold:1"""
+"""输入速率: 3米
+右侧提升: 1英尺
+左侧移动: 0英尺
+活动歧管: 1"""
 
 > #str_00952
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6818,10 +6818,10 @@ Act. Manifold:1"""
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""负荷:2m
-Rise R:0 ft.
-Lateral L:0 ft.
-Act. Manifold:1"""
+"""输入速率: 2米
+右侧提升: 0英尺
+左侧移动: 0英尺
+活动歧管: 1"""
 
 > #str_00953
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6829,10 +6829,10 @@ Act. Manifold:1"""
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""负荷:1m
-Rise R:0 ft.
-Lateral L:0 ft.
-Act. Manifold:1"""
+"""输入速率: 1米
+右侧提升: 0英尺
+左侧移动: 0英尺
+活动歧管: 1"""
 
 > #str_00954
 SECURITY MONITOR
@@ -7515,7 +7515,7 @@ HAVE SUBJECTS ENTER CHAMBER FOR CHEMICAL DECONTAMINATION
 > #str_01094
 ; delta3/decon.gui delta3/decon_malfunction.gui
 CHAMBER RESETS AFTER DECON
-密室 RESETS AFTER DECON
+密室在拆除后重置
 
 > #str_01095
 ; delta3/decon.gui delta3/decon_malfunction.gui
@@ -8336,7 +8336,7 @@ no ACO key
 
 > #str_01222
 Teh winnar!
-Teh winnar!
+赢家！
 
 > #str_01223
 ; doors/doorstatus.gui
@@ -8748,7 +8748,7 @@ AMMUNITION STATION
 
 > #str_01297
 M-7A PLASMA RIFLE
-M-7A PLASMA RIFLE
+M-7A等离子来复枪
 
 > #str_01298
 ; enpro/rod_replace.gui
@@ -9049,11 +9049,11 @@ PAGE 3
 DIAGRAM"""
 """关闭
 
-PAGE 1
-PAGE 2
-PAGE 3
+第1页
+第2页
+第3页
 
-DIAGRAM"""
+图表"""
 
 > #str_01343
 ; delta2/report.gui
@@ -9083,7 +9083,7 @@ Access Control text.
 > #str_01348
 ; delta2/report2.gui
 CURRENT USER : BRASKY, B.
-当前用户: BRASKY, B.
+当前用户: 布拉斯基，B.
 
 > #str_01349
 SYSTEM MAINTENANCE ENGINEER
@@ -9140,7 +9140,7 @@ Expand for map and facility details
 
 > #str_01362
 CURRENT LOCATION - USER INTERFACE LIBRARY
-当前 LOCATION - USER INTERFACE LIBRARY
+当前位置 - 用户界面库
 
 > #str_01363
 """UAC Designers customized this facility for easy access to all moveable interface panels.
@@ -11525,11 +11525,11 @@ BAY DOORS
 
 > #str_01697
 Chamber 1
-密室2
+密室1
 
 > #str_01698
 Chamber 2
-密室3
+密室2
 
 > #str_01699
 Destination Selected
@@ -11588,7 +11588,7 @@ you can't click now
 
 > #str_01712
 *** TEMP ART - need new ***
-*** TEMP ART - 需要新的 ***
+*** 临时素材 - 需要新的 ***
 
 > #str_01713
 NOTE: this GUI suffers from the focus bug
@@ -13159,10 +13159,10 @@ parm2 = 1= level1 up to level2, or 2= level1 down to sublevel1
 parm3 = top floor name
 parm4 = bottom floor name"""
 """参数设置:
-parm1 = 2= 顶层，1= 底层
-parm2 = 1= 1层升至2层，或 2= 1层降至地下1层
-parm3 = 顶层名称
-parm4 = 底层名称"""
+参数1 = 2= 顶层，1= 底层
+参数2 = 1= 1层升至2层，或 2= 1层降至地下1层
+参数3 = 顶层名称
+参数4 = 底层名称"""
 
 > #str_02012
 END OF LEVEL TEXT
@@ -15841,7 +15841,7 @@ Rescan
 
 > #str_02640
 Inet Address:
-Inet 地址:
+因特网地址:
 
 > #str_02641
 Num Players:
@@ -16148,7 +16148,7 @@ AIRLOCK STATION 24
 > #str_02705
 ; commoutside:界面参数7 commoutside:PDA物品.名
 T Sawyer
-T Sawyer
+T·索耶
 
 > #str_02706
 ; cpu:物品目标完成.内容
@@ -16364,7 +16364,7 @@ OFFICE D2-13
 > #str_02753
 ; delta2a:界面参数2
 Rescoe, Steve  M1-6603473
-Rescoe, Steve  M1-6603473
+莱斯科，史蒂夫 M1-6603473
 
 > #str_02754
 ; delta2a:界面参数4
@@ -16379,7 +16379,7 @@ OFFICE D2-15
 > #str_02756
 ; delta2a:界面参数2
 Blackwell, Mal  M1-6665769
-Blackwell, Mal  M1-6665769
+布莱克韦尔，马尔 M1-6665769
 
 > #str_02757
 ; delta2a:界面参数1
@@ -16389,7 +16389,7 @@ OFFICE D2-16
 > #str_02758
 ; delta2a:界面参数2
 Antkow, Christian M1-6021337
-Antkow, Christian M1-6021337
+安特科，克里斯蒂安 M1-6021337
 
 > #str_02759
 Operations Admin
@@ -16402,7 +16402,7 @@ OFFICE D2-17
 
 > #str_02761
 Willits, Tim  M1-6945534
-Willits, Tim  M1-6945534
+威利茨，蒂姆 M1-6945534
 
 > #str_02762
 ; delta2a:界面参数3
@@ -16690,7 +16690,7 @@ map_delta3::teleport3_control_up
 > #str_02826
 ; delta3:界面参数1 delta3:地点.名
 Chamber 2 Access
-密室3通道
+密室2通道
 
 > #str_02827
 ; delta5:PDA物品.名 delta5:PDA物品.界面参数6 delta5:界面参数7
@@ -18178,11 +18178,11 @@ Submitted by Dr. Alan Tokai
 
 Analysis of subject 7's psychotic state. Treatment suggestions enclosed."""
 """心理评估
-德尔塔2号实验体7
+德尔塔2号实验体7号
 2145年2月5日
 由阿兰·东海博士提交
 
-对实验体7的精神病理状态的分析。附带治疗建议。"""
+对实验体7号的精神病理状态的分析。附带治疗建议。"""
 
 > #str_03129
 MARS BASE
@@ -18790,7 +18790,7 @@ MONDAY 11/15
 ; delta1/info.gui
 """12:00 - Sector 2 preliminary systems
                  activation and decoherence test"""
-"""12:00 - 第二区准备系统
+"""12:00 - 第2区准备系统
                  激活并进行脱散测试"""
 
 > #str_03236
@@ -19505,7 +19505,7 @@ STASIS CHAMBERS
 > #str_03361
 ; delta2b/conveyor_system.gui
 CONVEYOR LINE INACTIVE
-运输线 INACTIVE
+运输线已停用
 
 > #str_03362
 ; delta2b/conveyor_system.gui
@@ -19517,42 +19517,42 @@ CONVEYOR LINE
 """CONVEYOR LINE
 A"""
 """运输线
-A"""
+启"""
 
 > #str_03364
 ; delta2b/conveyor_system.gui
 """CONVEYOR LINE
 AC"""
 """运输线
-AC"""
+启"""
 
 > #str_03365
 ; delta2b/conveyor_system.gui
 """CONVEYOR LINE
 ACT"""
 """运输线
-ACT"""
+启"""
 
 > #str_03366
 ; delta2b/conveyor_system.gui
 """CONVEYOR LINE
 ACTI"""
 """运输线
-ACTI"""
+启用"""
 
 > #str_03367
 ; delta2b/conveyor_system.gui
 """CONVEYOR LINE
 ACTIV"""
 """运输线
-ACTIV"""
+启用"""
 
 > #str_03368
 ; delta2b/conveyor_system.gui
 """CONVEYOR LINE
 ACTIVE"""
 """运输线
-ACTIVE"""
+启用"""
 
 > #str_03369
 ; delta2b/conveyor_system.gui
@@ -19596,7 +19596,7 @@ GENOME MAPPING
 STASIS DATE: 07-12-45"""
 """当前研究
 基因组绘制
-稳定日期: 07-12-45"""
+稳定日期: 45-07-12"""
 
 > #str_03377
 ; delta2b/demon1.gui
@@ -19650,7 +19650,7 @@ GENOME MAPPING
 STASIS DATE: 11-02-44"""
 """当前研究
 基因组绘制
-稳定日期: 11-02-44"""
+稳定日期: 44-11-02"""
 
 > #str_03387
 ; delta2b/demon3.gui
@@ -19674,7 +19674,7 @@ GENOME MAPPING
 STASIS DATE: 01-15-44"""
 """当前研究
 基因组绘制
-稳定日期: 01-15-44"""
+稳定日期: 44-01-15"""
 
 > #str_03391
 ; delta2b/demon4.gui
@@ -19698,7 +19698,7 @@ GENOME MAPPING
 STASIS DATE: 02-05-44"""
 """当前研究
 基因组绘制
-稳定日期: 02-05-44"""
+稳定日期: 44-02-05"""
 
 > #str_03395
 ; delta2b/demon5.gui
@@ -19722,7 +19722,7 @@ GENOME MAPPING
 STASIS DATE: 09-27-45"""
 """当前研究
 基因组绘制
-稳定日期: 09-27-45"""
+稳定日期: 45-09-27"""
 
 > #str_03399
 ; delta2b/demon6.gui
@@ -20343,15 +20343,15 @@ D3DM2 - 德尔塔实验室
 
 > #str_03489
 D3DM3 - FRAG CHAMBER
-D3DM3 - FRAG CHAMBER
+D3DM3 - 碎片室
 
 > #str_03490
 D3DM4 - THE EDGE 2
-D3DM4 - THE EDGE 2
+D3DM4 - 边缘2
 
 > #str_03491
 D3DM5 - LIGHTS OUT
-D3DM5 - LIGHTS OUT
+D3DM5 - 熄灯
 
 > #str_03492
 DELTA LABS - LEVEL 1
@@ -22774,7 +22774,7 @@ VIDEO ARCHIVE STATION
 > #str_03870
 ; movies/ipn.gui
 Four dead in a private shuttle explosion in USM Earth. --IPN NEWS-- Charges dropped against Senator Screggs in Uranus scandle --IPN NEWS-- Further outbreaks of Bolgia Virus reported on 3 orbital platforms --IPN NEWS-- Micrometeor storms sweep polar region of Mars --IPN NEWS-- Radiation shielding leaks on the Lunar Outpost more severe than first reports indicated --IPN NEWS-- Authorities arrest 2 miners in illegal uranium smuggling operation --IPN NEWS-- Andy Stratton takes the gold in the 149th Quakecon Games, beating thousands of other athletes for this year's 10 million credit prize. --IPN NEWS-- 
-在USM地球发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员斯克雷格斯在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告博尔贾病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了两名参与非法铀走私活动的采矿者 --IPN新闻-- 安迪·斯特拉顿在第149界雷神大赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- 
+在USM地球发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员斯克雷格斯在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告博尔贾病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了2名参与非法铀走私活动的采矿者 --IPN新闻-- 安迪·斯特拉顿在第149届雷神大赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- 
 
 > #str_03871
 ; movies/ipn.gui
@@ -23275,7 +23275,7 @@ HAZARDOUS TOXIC LEVELS
 > #str_03955
 ; recycle1/floodpump1.gui
 SPILLWAY CLEAR
-泄洪闸CLEAR
+泄洪道畅通
 
 > #str_03956
 ; recycle1/floodpump1.gui
@@ -23405,7 +23405,7 @@ CYCLE VENT 2
 > #str_03979
 ; recycle2/vent3.gui
 CYCLE VENT 3
-切换3豪通风口
+切换3号通风口
 
 > #str_03980
 ; erebus1/station11.gui screens/bluescan3.gui
@@ -23424,12 +23424,12 @@ METEOROLOGICAL DATA COLLECTION"""
 > #str_03982
 ; erebus1/station11.gui screens/bluescan3.gui
 SATELLITE TRACKER - EASTERN HEM.
-卫星追踪器 - HEM东区
+卫星追踪器 - HEM.东部
 
 > #str_03983
 ; erebus1/station11.gui screens/bluescan3.gui
 LIVE FEED FROM FROM HLO-SAT 7
-LIVE FEED FROM FROM HLO-SAT 7
+来自HLO-SAT 7的实时画面
 
 > #str_03984
 ; screens/bluescan4.gui
@@ -24526,27 +24526,27 @@ Click to Exit"""
 
 > #str_04208
 M[]
-M[]
+[]
 
 > #str_04209
 Ma[]
-Ma[]
+主[]
 
 > #str_04210
 Mai[]
-Mai[]
+主[]
 
 > #str_04211
 Main[]
-主要[]
+主选[]
 
 > #str_04212
 Main M[]
-主M[]
+主选[]
 
 > #str_04213
 Main Men[]
-主男士[]
+主选单[]
 
 > #str_04214
 Main Menu
@@ -26221,12 +26221,12 @@ Office  M. Abrams
 > #str_04576
 ; delta2a:地点.名
 Maintinance Duct 32
-维护Duct 32
+维护管道32
 
 > #str_04577
 ; delta2a:地点.名
 Maintinance Duct 31
-维护Duct 31
+维护管道31
 
 > #str_04578
 ; delta2a:地点.名
@@ -26496,7 +26496,7 @@ Decon Chamber 1- upper
 > #str_04631
 ; delta3:地点.名
 Chamber 1 Storage
-密室2仓库
+密室1仓库
 
 > #str_04632
 ; delta3:地点.名
@@ -26516,7 +26516,7 @@ Terminal Processing
 > #str_04635
 ; delta3:地点.名
 Chamber 2 Terminal
-密室3终点
+密室2终点
 
 > #str_04636
 ; delta3:地点.名
@@ -26526,7 +26526,7 @@ Security Station 2
 > #str_04637
 ; delta3:地点.名
 Chamber 2 Storage
-密室3仓库
+密室2仓库
 
 > #str_04638
 ; delta3:地点.名
@@ -26561,12 +26561,12 @@ HST观察
 > #str_04644
 ; delta3:地点.名
 Chamber 3 Control Access
-密室4控制通道
+密室3控制通道
 
 > #str_04645
 ; delta3:地点.名
 Chamber 3 Control
-密室4控制
+密室3控制
 
 > #str_04646
 ; delta3:地点.名
@@ -26596,7 +26596,7 @@ T1进入权限
 > #str_04651
 ; delta3:地点.名
 T1 Observation - upper
-T1观察区 - 高层
+T1观察区 - 上层
 
 > #str_04652
 ; delta3:地点.名
@@ -26606,12 +26606,12 @@ Terminal Office Storage
 > #str_04653
 ; delta3:地点.名
 Chamber 2 Control
-密室3控制
+密室2控制
 
 > #str_04654
 ; delta3:地点.名
 Chamber 1 Control
-密室2控制
+密室1控制
 
 > #str_04655
 ; delta3:地点.名
@@ -26626,7 +26626,7 @@ Lower Storage
 > #str_04657
 ; delta3:地点.名
 Chamber 1 Terminal - upper
-密室2终点 - 上层
+密室1终点 - 上层
 
 > #str_04658
 ; delta3:地点.名
@@ -26636,12 +26636,12 @@ T2平台1
 > #str_04659
 ; delta3:地点.名
 Chamber 3 Access
-密室4通道
+密室3通道
 
 > #str_04660
 ; delta3:地点.名
 Chamber 3 Terminal
-密室4终点
+密室3终点
 
 > #str_04661
 ; delta3:地点.名
@@ -26751,12 +26751,12 @@ Maintenance 1
 > #str_04682
 ; enpro:地点.名
 Chamber 1 Upper
-密室2上层
+密室1上层
 
 > #str_04683
 ; enpro:地点.名
 Chamber 2
-密室3
+密室2
 
 > #str_04684
 ; enpro:地点.名
@@ -26816,7 +26816,7 @@ Transfer Bay
 > #str_04695
 ; enpro:地点.名
 Chamber 1 Lower
-密室1低层
+密室1下层
 
 > #str_04696
 ; enpro:地点.名
@@ -28951,7 +28951,7 @@ Central Processing
 
 > #str_07178
 ^5QuickSave
-^5QuickSave
+^5快速保存
 
 > #str_07179
 PRINTSCREEN
@@ -29747,7 +29747,7 @@ BETRU"""
 
 1号站点需要支援
 
-BETRU"""
+贝特鲁"""
 
 > #str_00100006
 """REINFORCEMENTS REQUIRED IMMEDIATELY
@@ -30732,7 +30732,7 @@ DOUBLE BARREL SHOTGUN
 > #str_00100212
 ; _common/def/weapon_shotgun_double.def
 The Vulcan 1270 Double Barrel Shotgun fires two 12-guage rounds simultaneously and can take down even the largest of game.
-Vulcan 1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。
+火山1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。
 
 > #str_00100213
 ; _common/def/weapon_bloodstone_passive.def
@@ -31184,12 +31184,12 @@ Teleport Station 3
 > #str_00100309
 ; deltax:地点.名
 Chamber 3 Access
-密室4通道
+密室3通道
 
 > #str_00100310
 ; deltax:地点.名
 Chamber 3 Terminal
-密室4终点
+密室3终点
 
 > #str_00100311
 info_location_1
@@ -36374,7 +36374,7 @@ Russ"""
 垃圾邮件越来越多。最差的公司是火星搭档——不敢相信给我发来了这么多垃圾。我不知道他们怎么弄到我的电子邮件地址的。你能不能想办法让他们别发了？我一早上都在删垃圾邮件。
 
 谢谢，
-Russ"""
+罗斯"""
 
 > #str_admin_simons_email_2_email_to
 Paul Simons
@@ -36828,7 +36828,7 @@ Erik Reeves
 
 > #str_alphalabs2_chin_email_3_email_subject
 The E-Rock Has Landed
-E-Rock已着陆
+E-岩石号已着陆
 
 > #str_alphalabs2_chin_email_3_email_text
 """Andy,
@@ -36955,7 +36955,7 @@ Note to self
 Need to remember my code for cabinet #039 - 102
 """
 """备忘:
-我自己的39号柜密码 - 102
+我自己的039号柜密码 - 102
 """
 
 > #str_alphalabs2_connors_email_2_email_to
@@ -36983,14 +36983,14 @@ If you are remotely interested in not getting your gnome-loving dragon-slaying p
 
 Good luck on your next review :)
 -Derek"""
-"""Walter,
+"""沃尔特，
 
 我想要私下感谢你，感谢你最后那次关于扩大模型的修改建议。这些管CPU的人弄乱了你的数字，经过一些考虑之后，我们一致认为这是我们见过最厉害的不知所云的理论。
 
 如果你在远方对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。
 
 祝你下一次评审愉快:)
--Derek"""
+-德里克"""
 
 > #str_alphalabs2_connors_email_3_email_to
 Walter Connors
@@ -37553,7 +37553,7 @@ John Okonkwo
 """
 """你好
 
-我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
+我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
 
 这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
 
@@ -37897,7 +37897,7 @@ Mach-2 电锯枪简介
 Date: 10-16-2145
 Open for Amendment: Yes
 Set for Archive: No"""
-"""制作者: Seamus Blake
+"""制作者: 谢默斯·布雷克
 日期: 2145-10-16
 允许修改: 是
 存入档案: 否"""
@@ -38614,11 +38614,11 @@ Reporting-MTA dns; ua-corp.com
 Status 5.0.0
 接收自 [192.246.40.132.44543.43.661] (账号chaskell HELL chaskell.ua-corp.com)
 　通过 ua-corp.com (SpaceGate Pro STTP 5.2.6)
-　使用 ESMTP id 8302948-033-4488291 for Rbrody@ua-corp.com; 2145年11月13日周四 17:32:49 -0500(时区)
+　使用 ESMTP id 8302948-033-4488291 for Rbrody@ua-corp.com; 2145年11月13日星期四 17:32:49 -0500(时区)
 消息-Id <4.1.0.123.5.74839298473.84hdjlk83902@mail.ua-corp.com>
 X-Sender chaskell@mail.ua-corp.com
 X-Mailer MARSMAILER Xenerix Vartoxi Version 9.3
-Date Thu, 13 Nov 2145 173249 -0500
+日期 2145年11月13日星期四 17:32:49 -0500(时区)
 发送至 Rbrody@ua-corp.com
 来自查理·哈斯克尔 <chaskell@ua-corp.com>
 Subject MFC Failsafe failure
@@ -38780,7 +38780,7 @@ Unidentified Marine
 
 > #str_d3le_personal_pda_name
 ^5Personal^0
-^5Personal^0
+^5个人^0
 
 > #str_d3le_personal_pda_post
 Mars
@@ -38804,7 +38804,7 @@ Unidentified Marine
 
 > #str_d3xp_personal_pda_name
 ^5Personal^0
-^5Personal^0
+^5个人^0
 
 > #str_d3xp_personal_pda_post
 Mars
@@ -39011,7 +39011,7 @@ Delta Reactor Engineer
 Date: 10-12-2145
 Open for Amendment: Yes
 Set for Archive: No"""
-"""制作者: Robert Price
+"""制作者: 罗伯特·布莱斯
 日期: 2145-10-12
 允许修改: 是
 存入档案: 否"""
@@ -39025,7 +39025,7 @@ Engineer Placement
 Date: 10-13-2145
 Open for Amendment: No
 Set for Archive: No"""
-"""制作者: Robert Price
+"""制作者: 罗伯特·布莱斯
 日期: 2145-10-13
 允许修改: 否
 存入档案: 否"""
@@ -39627,7 +39627,7 @@ A few extra supplies for the Central Security Team will be sent to your area.  P
 Thank You,
 Thomas Sandersen
 Delta Security, Clerk"""
-"""Francis，
+"""弗朗西斯，
 给中央安保小队的一些额外的补给将会送到你那里。请把它们保存在103号柜子里面，并把密码改成259。
 
 谢谢，
@@ -39880,7 +39880,7 @@ Jacob Stemmons
 这一周来，物种转移区那该死的电力状况一直在起伏波动。这种情况让人干起活来简直会郁闷到死！你能否派人下去查看一下。
 
 谢谢，
-Jacob Stemmons
+雅各布·斯蒂蒙斯
 
 """
 
@@ -40509,7 +40509,7 @@ Director of Security - Delta Labs"""
 
 如果还有问题，随时可以来联系我们。
 
-Mitchell
+米切尔
 安全主管 - 德尔塔实验室"""
 
 > #str_deltax_hook_email_1_email_to
@@ -41527,7 +41527,7 @@ Weapon Analyst
 Date: 10-30-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""制作者: Steve Hammer
+"""制作者: 史蒂夫·哈默
 日期: 2145-10-30
 允许修改: 否
 存入档案: 是"""
@@ -41584,7 +41584,7 @@ Lets help this poor girl!
 
 > #str_enpro_hammer_email_2_email_text
 guys..... this isn't a chain letter, but a choice for all of us to save a little girl that's going to die of a serious and fatal form of cancer.  Please send this to everyone you know...or don't know at that.  This little girl has 6 months left to live her life, and as her last wish, she wanted to send a chain letter telling everyone to live their life to fullest, since she never will.  She'll never make it to prom, graduate school, or get married and have a family of her own. By you sending this to as many people as possible, you can give her and her family a little hope, because with every name that this is sent to, the UAC will donate 3 credits per name to her treatment and recovery plan.  One guy sent this to 500 people!!!!  So, I know that we can send it to at least 5 or 6.  Come on you guys.... and if you're too selfish to waste 10-15 minutes and scrolling this and forwarding it to EVERYONE, just think it could be you one day....and it's not even your credits, just your time. Please help this little girl out guys, I know you can do it!! I love you guys!
-伙计们……并不是一封连锁信，而是让我们选择是否去救一位即将因为致命癌症而死的小女孩的选择。请将这封发送给你认识的所有人……这位小女孩只有6个月的生命了，她最后的愿望，就是充实地按照自己的意愿活下去，因为她知道她做不到了。她永远无法体会到从学校毕业、结婚或者生儿育女的快乐。如果你能将这封信发送给尽可能多的人，你可以给她和她的家人一丝希望，因为每一位收到信的人，UAC都会以他们的名义捐赠3元打进她的恢复和治疗计划中。曾有一位好人发送给了500个人！！！所以，我知道我们可以至少发送给5,6个人。来吧伙计们……如果你们连15分钟都不愿意腾出来点击一下的话，想想如果你哪一天得了癌症……请帮帮这个小女孩吧。我知道你们可以做到的！！！我爱你们！
+伙计们……并不是一封连锁信，而是让我们选择是否去救一位即将因为致命癌症而死的小女孩的选择。请将这封发送给你认识的所有人……这位小女孩只有6个月的生命了，她最后的愿望，就是充实地按照自己的意愿活下去，因为她知道她做不到了。她永远无法体会到从学校毕业、结婚或者生儿育女的快乐。如果你能将这封信发送给尽可能多的人，你可以给她和她的家人一丝希望，因为每一位收到信的人，UAC都会以他们的名义捐赠3元打进她的恢复和治疗计划中。曾有一位好人发送给了500个人！！！所以，我知道我们可以至少发送给5、6个人。来吧伙计们……如果你们连10-15分钟都不愿意腾出来点击一下的话，想想如果你哪一天得了癌症……请帮帮这个小女孩吧。我知道你们可以做到的！！！我爱你们！
 
 > #str_enpro_hammer_email_2_email_to
 Steve Hammer
@@ -41934,7 +41934,7 @@ Marcus"""
 发送日期: 2147-3-13
 收件人: 维克多·哈尔科夫
 
-是的…我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。
+是的……我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。
 
 马库斯"""
 
@@ -41969,8 +41969,8 @@ Director of Security - Site One"""
 
 如果还有问题，随时可以来联系我们。
 
-Evans
-安全主管 - 1号地点"""
+伊文斯
+安全主管 - 一号地点"""
 
 > #str_erebus2_tanner_email_2_email_to
 Marcus Tanner
@@ -42100,7 +42100,7 @@ Stu"""
 
 我终于找到了士官的老箱子密码，是428。等我们下班后，就去把那玩意儿打开然后去疯狂一把吧。
 
-Stu"""
+斯图"""
 
 > #str_erebus3_crane_email_1_email_to
 Steven Crane
@@ -42177,14 +42177,14 @@ Steve"""
 ----原始邮件----
 发送日期: 2147-3-13
 收件人: 斯图尔特·杰克逊
-Stu，
+斯图，
 我无聊得要死。几个月来我没有为了泄怒开过一次枪！士官办公室里的那杆双筒枪在挑逗我。
 
 我好想摸它一把。它让我想起在缅因州打猎的时光，但我从来没有猎过这么大的一头熊！
 
 不管怎么样，最近的执勤表有什么变动吗？
 
-Steve"""
+史蒂夫"""
 
 > #str_erebus3_crane_email_3_email_to
 Steven Crane
@@ -42355,8 +42355,8 @@ Director of Security - Site One"""
 
 如果有问题请联系我们。
 
-Evans
-安全主管 - 1号地点"""
+伊文斯
+安全主管 - 一号地点"""
 
 > #str_erebus3_glenn_email_3_email_to
 Preston Glenn
@@ -42801,7 +42801,7 @@ Nathan
 
 ----原始邮件----
 发送日期: 2147-3-10
-收件人: Ron L. Gibbons
+收件人: 罗恩·L.吉宾斯
 罗恩,
 我们这里一直在灯火管制。你有没有多余的能量电池？
 先谢谢了，
@@ -42863,8 +42863,8 @@ Director of Security - Site One"""
 
 如果还有问题，随时可以来联系我们。
 
-Evans
-安全主管 - 1号地点"""
+伊文斯
+安全主管 - 一号地点"""
 
 > #str_erebus4_ron_email_1_email_to
 Ron Gibbons
@@ -43145,7 +43145,7 @@ To: Fred Grossman
 Make sure you get that sentry bot deployed. We can't take any chances on losing more men down there.
 
 When it returns, send me your status immediately."""
-"""Fred，
+"""弗雷德，
 
 我开始担心了。下面的情况怎么样？我们需要尽快进去。
 
@@ -43211,8 +43211,8 @@ Director of Security - Site One"""
 
 如果还有问题，随时可以来联系我们。
 
-Evans
-安全主管 - 1号地点"""
+伊文斯
+安全主管 - 一号地点"""
 
 > #str_erebus6_grossman_email_3_email_to
 Fred Grossman
@@ -43293,7 +43293,7 @@ Ionized Plasma Levitator Briefing
 Date: 08-08-2145
 Open for Amendment: No
 Set for Archive: No"""
-"""制作者: Simon Garlick
+"""制作者: 西蒙·加里克
 日期: 2145-08-08
 允许修改: 否
 存入档案: 否"""
@@ -43307,7 +43307,7 @@ Separated from Team
 Date: 08-10-2145
 Open for Amendment: Yes
 Set for Archive: No"""
-"""制作者: Simon Garlick
+"""制作者: 西蒙·加里克
 日期: 2145-08-10
 允许修改: 是
 存入档案: 否"""
@@ -44199,13 +44199,13 @@ Thanks...
 Fredrik"""
 """哇，如果你读到这个的话你真的沉迷游戏了。希望你真的很喜欢它……转过身去……赶快。=) 
 
-我想要对我的家人说声谢谢: Lars，Ingegard，Sofie，克里斯，安德鲁，Anneli，汤姆，Denise，TJ。
+我想要对我的家人说声谢谢: 拉尔斯，英格加德，索菲，克里斯，安德鲁，安内利，汤姆，丹尼斯，TJ。
 还有所有我在瑞典的朋友和家人。
 我想念你们……
 
 至SMR: ……
 
-帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太无敌了……
+帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太简单了……
 
 至我的同事: 我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)
 
@@ -44657,7 +44657,7 @@ Thanks
 -Rodney"""
 """感谢昨天帮我替班。我基本没怎么睡。那些药物让我的脑子都乱掉了。很高兴我有能帮上忙的朋友们。
 
--Rodney"""
+-罗尼"""
 
 > #str_le_enpro_vargas_email_2_email_to
 Chris Vargas
@@ -44835,7 +44835,7 @@ Nasir Adil
 
 > #str_le_exis_adil_email_1_email_from
 Chase Higgins
-追捕Higgins
+蔡斯·希金斯
 
 > #str_le_exis_adil_email_1_email_subject
 Additional Security Request
@@ -44856,7 +44856,7 @@ Exis Labs Engineering"""
 
 谢谢，
 
-Chase Higgins
+蔡斯·希金斯
 艾克西斯实验室工程处"""
 
 > #str_le_exis_adil_email_1_email_to
@@ -44918,7 +44918,7 @@ LAT...LON 3613 9899 3593 9900 3595 9934 3613 9933
 """
 """特殊天气报告
 火星气象局
-2145年11月15日星期一火星标准时区上午03:47
+2145年11月15日星期一 火星标准时区上午03:47
 
 ……重要天气报告……
 
@@ -44947,7 +44947,7 @@ LUCKY WINNER
 
 > #str_le_exis_folsom_email_1_email_subject
 ReTirE CasH FrEe!!!!!!!!
-ReTirE CasH FrEe!!!!!!!!
+免*费*提*现！！！！！！！！
 
 > #str_le_exis_folsom_email_1_email_text
 """You have just won the GRAND PRIZE in the LUCKY CASH WINNER Contest!  What are you going to do with all your new found wealth?!?
@@ -44959,7 +44959,7 @@ Call Now +156-972-765-0399
 DON'T DELAY!"""
 """你刚刚在幸运现金冠军比赛中赢得了大奖！你将要怎么使用新得到的财富？！？
 
-让我们来帮助你吧！！！
+让我们来帮助你吧！！！！
 
 现在就拨打+156-972-765-0399
 
@@ -45728,7 +45728,7 @@ I will coordinate with our colleagues here on Earth to find additional staff and
 My advice to you, continue to document everything you can, attempt to find the root of the problem, and for goodness sakes, stash weapons and medical supplies for yourself in case things get worse.  I'm glad to hear you've already taken some precautions by locking some supplies in that cabinet.  I hope it is enough.  I appreciate you including the code in your report and will keep it secure.
 
 """
-"""Mark,
+"""马克，
 谢谢你把音频记录发给我。要是有好消息就好了。
 
 我会在地球上和你的同事合作，找到额外的工作人员和资源协助你。不过照这个情况看，会比较艰难。你或许得单独行动一段时间。
@@ -46168,7 +46168,7 @@ Thank You,
 
 Central Security"""
 """泰森上士，
-由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将11月15日，2145开始。
+由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将于2145年11月15日生效。
 非常感谢你，
 
 安防中心"""
@@ -46528,10 +46528,10 @@ Party in the Delta Labs
 Don't forget that we're starting the party early this time... 8:15.
 
 --BMora--"""
-"""哟，Frank,
+"""哟，弗兰克，
 别忘了我们这次会提前开始排队……8:15。
 
---BMora--"""
+--B.莫拉--"""
 
 > #str_mcunderground_delahue_email_1_email_to
 Frank Delahue
@@ -47041,11 +47041,11 @@ Sam"""
 发送日期: 2145-11-04
 收件人: 卡尔·库伦
 
-Karl，
+卡尔，
 我今天早上修好了固定架；原因有是那些该死的米克森螺栓。我真的希望UAC能够找到一个更好的分包商。
 
 多谢，
-Sam"""
+山姆"""
 
 > #str_monorail_harding_email_3_email_to
 Sam Harding
@@ -47766,7 +47766,7 @@ Security Officer
 Date: 03-15-2147
 Open for Amendment: Yes
 Set for Archive: Yes"""
-"""制作者: Seth Killian
+"""制作者: 赛斯·基里安
 日期: 2147-03-15
 允许修改: 是
 存入档案: 是"""
@@ -48232,7 +48232,7 @@ Reactor Maintenance
 Date: 12-3-2146
 Open for Amendment: No
 Set for Archive: Yes"""
-"""制作者: Ronn Jolson
+"""制作者: 罗恩·乔尔森
 日期: 2146-12-3
 允许修改: 否
 存入档案: 是"""
@@ -49077,7 +49077,7 @@ Warn them all. You must not let this spread to Earth.
 
 God Bless You,
 Pierce"""
-"""服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（code504）
+"""服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）
 
 ----原始邮件----
 发送日期: 2145-11-15

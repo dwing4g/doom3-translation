@@ -696,7 +696,7 @@
 // caves/map.gui
 	"#str_00356"	"警告: 所有轮岗人员"
 // caves/map.gui
-	"#str_00357"	"由于结构不稳的问题，这个区域将会被关闭来等待将所有的遗物移出。在科学小队将研究遗物转移到上层之后，关闭程序将会开始。请确保全部\n工作人员明了最终封锁日期\n我们不想重复进行第1阶段。\n\n下面的这个任务列表的更加详细的版本将会发送给恰当的当班主管。\n\n封闭建设集装箱 - 第2小队\n便携设备移出 - 第7小队\n发电机关闭 - Ty Leeson\n安防封锁 - 布拉德·史蒂夫\n过滤室关闭 - 布拉德·史蒂夫"
+	"#str_00357"	"由于结构不稳的问题，这个区域将会被关闭来等待将所有的遗物移出。在科学小队将研究遗物转移到上层之后，关闭程序将会开始。请确保全部\n工作人员明了最终封锁日期\n我们不想重复进行第1阶段。\n\n下面的这个任务列表的更加详细的版本将会发送给恰当的当班主管。\n\n封闭建设集装箱 - 第2小队\n便携设备移出 - 第7小队\n发电机关闭 - 泰·利森\n安防封锁 - 布拉德·史蒂夫\n过滤室关闭 - 布拉德·史蒂夫"
 // caves/resetcrane.gui mc_underground/resetcrane.gui
 	"#str_00358"	"载入位置"
 // caves/resetcrane.gui mc_underground/resetcrane.gui
@@ -817,7 +817,7 @@
 // comm1/commterminal.gui marscity/comm2.gui erebus1/station3.gui
 	"#str_00428"	"TIYOU KDMH LGSLDG SDLGKSE SDTK  576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3 VBNY77"
 // comm1/commterminal.gui marscity/comm2.gui erebus1/station3.gui
-	"#str_00429"	"KDMH LGSLDG SDLGKSE SDTK YU90G 576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3"
+	"#str_00429"	"KDMH LGSLDG SDLGKSE SDTK YU90G 576457 DDKLFG  67 EO5IY DKFJ -386  FDGL 3465  FG34 36FDG  FGL DFGJDF  DFKGJ  6 KDFG  DFJ  DFGDFJG  DFGJLSD  APQAZ 100Y SDFM Z LM TIYOU KDMH LGSLDG SDLGKSE SDTK 576457 DDKLFG AVFTYU8P FKGKYR FJFGJH RETKJER DFKJA 4697 BNDWQ ERGAZS GHQAZ 1029GG3 VBNY77"
 // comm1/commterminal.gui
 	"#str_00430"	"G TM"
 // comm1/commterminal.gui
@@ -1155,7 +1155,7 @@
 // commoutside/thermal1.gui
 	"#str_00604"	"登陆"
 // commoutside/thermal1.gui commoutside/thermal2.gui pda/pda_npc.gui pda/tablet_npc.gui mc_underground/invasion1.gui
-	"#str_00605"	"热能状态\n读数正常\n处理\n类型一中\n处理\n类型二\n类型三\n未定义\n记录至\n文件778-N82中\n数据已记录\n正重新开始\n当前扫描"
+	"#str_00605"	"热能状态\n读数正常\n处理\n类型一中\n处理\n类型二\n类型三\n未定义\n记录至\n文件778\n数据已记录\n正重新开始\n当前扫描"
 // commoutside/thermal1.gui commoutside/thermal2.gui pda/pda_npc.gui pda/tablet_npc.gui mc_underground/invasion1.gui
 	"#str_00606"	"热能状态\n读数正常\n处理中\n类型2-一\n处理中\n类型2-二\n状态2-三\n未定义\n记录至\n文件778-N82中\n数据已记录\n正在重新开始\n当前扫描"
 // commoutside/thermal1.gui
@@ -1482,7 +1482,7 @@
 // controlpanels/hydrocon.gui
 	"#str_00794"	"部门\n1335"
 // controlpanels/hydrocon.gui
-	"#str_00795"	"部门\n1335"
+	"#str_00795"	"部门\n1336"
 // controlpanels/hydropower.gui
 	"#str_00796"	"氢聚变发电机"
 // controlpanels/hydropower.gui
@@ -1618,13 +1618,13 @@
 	"#str_00863"	"主线性能量注射 -- 12.392 TeV"
 	"#str_00864"	"整串长度 —— 23.1厘米"
 	"#str_00865"	"能量扩散——0.943%"
-	"#str_00866"	"横向发射度 (Ex) -- 1023 nm rad"
-	"#str_00867"	"横向发射度 (Ex) -- 5 < 13 (Ey) nm rad"
-	"#str_00868"	"湿润环状出口能量——8.728TeV"
-	"#str_00869"	"整串长度 —— 8.728万亿伏特"
-	"#str_00870"	"能量扩散——0.0032%"
-	"#str_00871"	"横向发射度 (Ex) -- 913 nm rad"
-	"#str_00872"	"横向发射度 (Ex) -- 3 < 11 (Ey) nm rad"
+	"#str_00866"	"横向发射度(Ex) -- 1203 nm rad"
+	"#str_00867"	"横向发射度(Ey) -- 5 < (Ey) 13 nm rad"
+	"#str_00868"	"湿润环状出口能量 -- 8.728 TeV"
+	"#str_00869"	"整串长度 -- 8.728 TeV"
+	"#str_00870"	"能量扩散 -- 0.0032 %"
+	"#str_00871"	"横向发射度(Ex) -- 913 nm rad"
+	"#str_00872"	"横向发射度(Ex) -- 3 < (Ey) 11 nm rad"
 	"#str_00873"	"正在读取"
 	"#str_00874"	"碰撞器"
 	"#str_00875"	"系统温度"
@@ -1632,7 +1632,7 @@
 	"#str_00877"	"系统状态"
 	"#str_00878"	"系统         维护"
 	"#str_00879"	"状态"
-	"#str_00880"	"碰撞器                                   总览"
+	"#str_00880"	"碰撞器                                     总览"
 	"#str_00881"	"散热槽2损坏"
 	"#str_00882"	"保护系统离线"
 	"#str_00883"	"需要手动维修"
@@ -1681,7 +1681,7 @@
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00909"	"泄漏检测"
 // erebus3/vent_storage.gui erebus3/vent_storage2.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00910"	"DCL处理失败\nC12水准高于可接受临界点。立即对该区域进行灌水和排放。"
+	"#str_00910"	"DCL处理失败\nCl2水准高于可接受临界点。立即对该区域进行灌水和排放。"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00911"	"通风成功。\n毒素等级正常。"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -1693,7 +1693,7 @@
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00915"	"连接器排气口"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00916"	"负荷:0m\nRise R:0 ft.\nLateral L:0 ft.\nAct. Manifold:0"
+	"#str_00916"	"输入速率: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 0"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00917"	"排气模式"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui _common/def/ammo.def
@@ -1715,59 +1715,59 @@
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00926"	"NFGC"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00927"	"负荷:0m\nRise R:0 ft.\nLateral L:0 ft.\nAct. Manifold:1"
+	"#str_00927"	"输入速率: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00928"	"负荷:0m\nRise R:1 ft.\nLateral L:0 ft.\nAct. Manifold:1"
+	"#str_00928"	"输入速率: 0米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00929"	"负荷:0m\nRise R:1 ft.\nLateral L:1 ft.\nAct. Manifold:1"
+	"#str_00929"	"输入速率: 0米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00930"	"负荷:3m\nRise R:2 ft.\nLateral L:1 ft.\nAct. Manifold:1"
+	"#str_00930"	"输入速率: 3米\n右侧提升: 2英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00931"	"负荷:5m\nRise R:2 ft.\nLateral L:2 ft.\nAct. Manifold:1"
+	"#str_00931"	"输入速率: 5米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00932"	"负荷:8m\nRise R:2 ft.\nLateral L:3 ft.\nAct. Manifold:1"
+	"#str_00932"	"输入速率: 8米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00933"	"负荷:10m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00933"	"输入速率: 10米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00934"	"负荷:12m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00934"	"输入速率: 12米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00935"	"负荷:15m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00935"	"输入速率: 15米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00936"	"负荷:19m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00936"	"输入速率: 19米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00937"	"负荷:20m\nRise R:2 ft.\nLateral L:3 ft.\nAct. Manifold:1"
+	"#str_00937"	"输入速率: 20米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00938"	"负荷:21m\nRise R:2 ft.\nLateral L:3 ft.\nAct. Manifold:1"
+	"#str_00938"	"输入速率: 21米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00939"	"负荷:22m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00939"	"输入速率: 22米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00940"	"负荷:23m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00940"	"输入速率: 23米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00941"	"负荷:24m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00941"	"输入速率: 24米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00942"	"负荷:25m\nRise R:2 ft.\nLateral L:4 ft.\nAct. Manifold:1"
+	"#str_00942"	"输入速率: 25米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00943"	"痕量"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00944"	"名义上的"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00945"	"负荷:19m\nRise R:2 ft.\nLateral L:3 ft.\nAct. Manifold:1"
+	"#str_00945"	"输入速率: 19米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00946"	"负荷:12m\nRise R:2 ft.\nLateral L:2 ft.\nAct. Manifold:1"
+	"#str_00946"	"输入速率: 12米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00947"	"负荷:8m\nRise R:2 ft.\nLateral L:2 ft.\nAct. Manifold:1"
+	"#str_00947"	"输入速率: 8米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00948"	"负荷:7m\nRise R:1 ft.\nLateral L:1 ft.\nAct. Manifold:1"
+	"#str_00948"	"输入速率: 7米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00949"	"负荷:5m\nRise R:1 ft.\nLateral L:1 ft.\nAct. Manifold:1"
+	"#str_00949"	"输入速率: 5米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00950"	"负荷:4m\nRise R:1 ft.\nLateral L:1 ft.\nAct. Manifold:1"
+	"#str_00950"	"输入速率: 4米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00951"	"负荷:3m\nRise R:1 ft.\nLateral L:0 ft.\nAct. Manifold:1"
+	"#str_00951"	"输入速率: 3米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00952"	"负荷:2m\nRise R:0 ft.\nLateral L:0 ft.\nAct. Manifold:1"
+	"#str_00952"	"输入速率: 2米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00953"	"负荷:1m\nRise R:0 ft.\nLateral L:0 ft.\nAct. Manifold:1"
+	"#str_00953"	"输入速率: 1米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 	"#str_00954"	"安全监控"
 	"#str_00955"	"回放索引1:02:"
 	"#str_00956"	"回放索引1:03:"
@@ -1945,7 +1945,7 @@
 // delta3/decon.gui
 	"#str_01093"	"让对象进入室内进行化学消毒"
 // delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_01094"	"密室 RESETS AFTER DECON"
+	"#str_01094"	"密室在拆除后重置"
 // delta3/decon.gui delta3/decon_malfunction.gui
 	"#str_01095"	"切换密室"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -2182,7 +2182,7 @@
 	"#str_01219"	"氧气 00.1%"
 	"#str_01220"	"临时按键"
 	"#str_01221"	"没有ACO钥匙"
-	"#str_01222"	"Teh winnar!"
+	"#str_01222"	"赢家！"
 // doors/doorstatus.gui
 	"#str_01223"	"此GUI显示信息。在编辑器内输入一个键值文字，键:Gui_Parm5 值:要显示的文字\n\n颜色设置 - 键:Gui_Parm4\n值: 1 = 红色       2 = 蓝色\n3 = 绿色           4 = Doom绿色\n5 = 黄色           6 = 橙色"
 // doors/doorstatus.gui
@@ -2303,7 +2303,7 @@
 	"#str_01294"	"等离子电荷"
 	"#str_01295"	"等离子系统离线"
 	"#str_01296"	"弹药站"
-	"#str_01297"	"M-7A PLASMA RIFLE"
+	"#str_01297"	"M-7A等离子来复枪"
 // enpro/rod_replace.gui
 	"#str_01298"	"当前临时"
 	"#str_01299"	"596 F / 311 C"
@@ -2391,7 +2391,7 @@
 // delta2/report.gui
 	"#str_01341"	"1月30日，星期四: 卡莱尔呼喊着鲍勃并且想知道他是否在1月29日的通信之前见过那份分析。这不是一次理解错误或者小问题。ECOM人员在107队见过那份分析。在一个导管被认为是丢失了的情况下，MMCA有责任配合找出受到丢失导管影响的MCS硬件。\n\n由于该分析决定烧穿的存在性，MMCA没有开始对受影响的设备进行评估。MMCA人员经过与建国这份分析的DAB人员讨论后，认为此事没有深究的必要。"
 // delta2/report.gui
-	"#str_01342"	"关闭\n\nPAGE 1\nPAGE 2\nPAGE 3\n\nDIAGRAM"
+	"#str_01342"	"关闭\n\n第1页\n第2页\n第3页\n\n图表"
 // delta2/report.gui
 	"#str_01343"	"登入日志"
 // delta2/report.gui
@@ -2403,7 +2403,7 @@
 // delta2/report.gui
 	"#str_01347"	"登入控制文本。"
 // delta2/report2.gui
-	"#str_01348"	"当前用户: BRASKY, B."
+	"#str_01348"	"当前用户: 布拉斯基，B."
 	"#str_01349"	"系统修理工程师"
 	"#str_01350"	"维护站日志"
 	"#str_01351"	"通信许可"
@@ -2418,7 +2418,7 @@
 	"#str_01359"	"用户界面库"
 	"#str_01360"	"区域信息"
 	"#str_01361"	"展开来查看地图和设施详细信息"
-	"#str_01362"	"当前 LOCATION - USER INTERFACE LIBRARY"
+	"#str_01362"	"当前位置 - 用户界面库"
 	"#str_01363"	"UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。\n\n想要使用它，首先注销值班技术员的账号，然后让技术员设定所需的界面值。如果你不确定需要哪个界面，向技术员索要库列表。\n\n想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，图形用户界面会自动配置。"
 	"#str_01364"	"德尔塔实验室 - 区域1"
 	"#str_01365"	"德尔塔1 实验室"
@@ -2942,8 +2942,8 @@
 // multiplayer/generator.gui
 	"#str_01695"	"正在重启"
 	"#str_01696"	"湾门"
-	"#str_01697"	"密室2"
-	"#str_01698"	"密室3"
+	"#str_01697"	"密室1"
+	"#str_01698"	"密室2"
 	"#str_01699"	"已选择目的地"
 	"#str_01700"	"选择终点"
 // multiplayer/lightswitch_parm.gui
@@ -2960,7 +2960,7 @@
 	"#str_01709"	"巨型球"
 	"#str_01710"	"隐形"
 	"#str_01711"	"你现在不能点击"
-	"#str_01712"	"*** TEMP ART - 需要新的 ***"
+	"#str_01712"	"*** 临时素材 - 需要新的 ***"
 	"#str_01713"	"注意: 此GUI遇到了焦点bug"
 	"#str_01714"	"( 禁用直到\n电源恢复 )"
 // multiplayer/windshutter.gui
@@ -3349,7 +3349,7 @@
 	"#str_02008"	"上层大厅"
 	"#str_02009"	"尽头"
 	"#str_02010"	"Use guis/doors/elevatorcall.gui"
-	"#str_02011"	"参数设置:\nparm1 = 2= 顶层，1= 底层\nparm2 = 1= 1层升至2层，或 2= 1层降至地下1层\nparm3 = 顶层名称\nparm4 = 底层名称"
+	"#str_02011"	"参数设置:\n参数1 = 2= 顶层，1= 底层\n参数2 = 1= 1层升至2层，或 2= 1层降至地下1层\n参数3 = 顶层名称\n参数4 = 底层名称"
 	"#str_02012"	"关卡文字结束"
 	"#str_02013"	"好"
 	"#str_02014"	"游戏结束"
@@ -4047,7 +4047,7 @@
 	"#str_02637"	"前一动画"
 	"#str_02638"	"玩家名:"
 	"#str_02639"	"重新扫描"
-	"#str_02640"	"Inet 地址:"
+	"#str_02640"	"因特网地址:"
 	"#str_02641"	"玩家数:"
 	"#str_02642"	"UAC - 探测研究开发"
 	"#str_02643"	"UAC - 当前项目 : "
@@ -4159,7 +4159,7 @@
 // commoutside:界面参数4
 	"#str_02704"	"气闸站24"
 // commoutside:界面参数7 commoutside:PDA物品.名
-	"#str_02705"	"T Sawyer"
+	"#str_02705"	"T·索耶"
 // cpu:物品目标完成.内容
 	"#str_02706"	"实验室A的访问已授权！"
 // cpu:物品目标完成.标题 cpu:物品目标.标题
@@ -4231,21 +4231,21 @@
 // delta2a:界面参数1
 	"#str_02752"	"办公室D2-13"
 // delta2a:界面参数2
-	"#str_02753"	"Rescoe, Steve  M1-6603473"
+	"#str_02753"	"莱斯科，史蒂夫 M1-6603473"
 // delta2a:界面参数4
 	"#str_02754"	"状态: 重新定位"
 // delta2a:界面参数1
 	"#str_02755"	"办公室D2-15"
 // delta2a:界面参数2
-	"#str_02756"	"Blackwell, Mal  M1-6665769"
+	"#str_02756"	"布莱克韦尔，马尔 M1-6665769"
 // delta2a:界面参数1
 	"#str_02757"	"办公室D2-16"
 // delta2a:界面参数2
-	"#str_02758"	"Antkow, Christian M1-6021337"
+	"#str_02758"	"安特科，克里斯蒂安 M1-6021337"
 	"#str_02759"	"操作管理"
 // delta2a:界面参数1
 	"#str_02760"	"办公室D2-17"
-	"#str_02761"	"Willits, Tim  M1-6945534"
+	"#str_02761"	"威利茨，蒂姆 M1-6945534"
 // delta2a:界面参数3
 	"#str_02762"	"2级行动"
 // delta2a:界面参数4
@@ -4338,7 +4338,7 @@
 	"#str_02824"	"map_delta3::teleport1_control_up"
 	"#str_02825"	"map_delta3::teleport3_control_up"
 // delta3:界面参数1 delta3:地点.名
-	"#str_02826"	"密室3通道"
+	"#str_02826"	"密室2通道"
 // delta5:PDA物品.名 delta5:PDA物品.界面参数6 delta5:界面参数7
 	"#str_02827"	"斯旺的PDA"
 // delta5:界面参数3
@@ -4886,7 +4886,7 @@
 	"#str_03125"	"数据文件 SC-802 打开"
 	"#str_03126"	"原理图扫描802\n德尔塔2号传送器\n2141年5月11日\n\n主要传送点候选区"
 	"#str_03127"	"数据文件 RP-87 打开"
-	"#str_03128"	"心理评估\n德尔塔2号实验体7\n2145年2月5日\n由阿兰·东海博士提交\n\n对实验体7的精神病理状态的分析。附带治疗建议。"
+	"#str_03128"	"心理评估\n德尔塔2号实验体7号\n2145年2月5日\n由阿兰·东海博士提交\n\n对实验体7号的精神病理状态的分析。附带治疗建议。"
 	"#str_03129"	"火星基地"
 	"#str_03130"	"信息"
 // marscity/uac_news.gui
@@ -5092,7 +5092,7 @@
 // delta1/info.gui
 	"#str_03234"	"08:00 - 能量组会议"
 // delta1/info.gui
-	"#str_03235"	"12:00 - 第二区准备系统\n                 激活并进行脱散测试"
+	"#str_03235"	"12:00 - 第2区准备系统\n                 激活并进行脱散测试"
 // delta1/info.gui
 	"#str_03236"	"13:00 - 检查所有文件"
 // delta1/info.gui
@@ -5342,21 +5342,21 @@
 // delta2b/conveyor_system.gui
 	"#str_03360"	"静滞场"
 // delta2b/conveyor_system.gui
-	"#str_03361"	"运输线 INACTIVE"
+	"#str_03361"	"运输线已停用"
 // delta2b/conveyor_system.gui
 	"#str_03362"	"运输线"
 // delta2b/conveyor_system.gui
-	"#str_03363"	"运输线\nA"
+	"#str_03363"	"运输线\n启"
 // delta2b/conveyor_system.gui
-	"#str_03364"	"运输线\nAC"
+	"#str_03364"	"运输线\n启"
 // delta2b/conveyor_system.gui
-	"#str_03365"	"运输线\nACT"
+	"#str_03365"	"运输线\n启"
 // delta2b/conveyor_system.gui
-	"#str_03366"	"运输线\nACTI"
+	"#str_03366"	"运输线\n启用"
 // delta2b/conveyor_system.gui
-	"#str_03367"	"运输线\nACTIV"
+	"#str_03367"	"运输线\n启用"
 // delta2b/conveyor_system.gui
-	"#str_03368"	"运输线\nACTIVE"
+	"#str_03368"	"运输线\n启用"
 // delta2b/conveyor_system.gui
 	"#str_03369"	"密室调度站"
 // delta2b/conveyor_system.gui
@@ -5372,7 +5372,7 @@
 // delta2b/demon1.gui delta2b/demon2.gui delta2b/demon3.gui delta2b/demon4.gui delta2b/demon5.gui delta2b/demon6.gui
 	"#str_03375"	"下载完整研究报告"
 // delta2b/demon1.gui
-	"#str_03376"	"当前研究\n基因组绘制\n稳定日期: 07-12-45"
+	"#str_03376"	"当前研究\n基因组绘制\n稳定日期: 45-07-12"
 // delta2b/demon1.gui
 	"#str_03377"	"GCTTGCATGCCTG"
 // delta2b/demon1.gui delta2b/demon2.gui delta2b/demon3.gui delta2b/demon4.gui delta2b/demon5.gui delta2b/demon6.gui
@@ -5392,7 +5392,7 @@
 // delta2b/demon3.gui
 	"#str_03385"	"标本42"
 // delta2b/demon3.gui
-	"#str_03386"	"当前研究\n基因组绘制\n稳定日期: 11-02-44"
+	"#str_03386"	"当前研究\n基因组绘制\n稳定日期: 44-11-02"
 // delta2b/demon3.gui
 	"#str_03387"	"GCAGCTTTGCCTG"
 // delta2b/demon4.gui
@@ -5400,7 +5400,7 @@
 // delta2b/demon4.gui
 	"#str_03389"	"标本27"
 // delta2b/demon4.gui
-	"#str_03390"	"当前研究\n基因组绘制\n稳定日期: 01-15-44"
+	"#str_03390"	"当前研究\n基因组绘制\n稳定日期: 44-01-15"
 // delta2b/demon4.gui
 	"#str_03391"	"CGATCCTGC - - - -"
 // delta2b/demon5.gui
@@ -5408,7 +5408,7 @@
 // delta2b/demon5.gui
 	"#str_03393"	"标本31"
 // delta2b/demon5.gui
-	"#str_03394"	"当前研究\n基因组绘制\n稳定日期: 02-05-44"
+	"#str_03394"	"当前研究\n基因组绘制\n稳定日期: 44-02-05"
 // delta2b/demon5.gui
 	"#str_03395"	"TCGTACAGTCGTC"
 // delta2b/demon6.gui
@@ -5416,7 +5416,7 @@
 // delta2b/demon6.gui
 	"#str_03397"	"标本218"
 // delta2b/demon6.gui
-	"#str_03398"	"当前研究\n基因组绘制\n稳定日期: 09-27-45"
+	"#str_03398"	"当前研究\n基因组绘制\n稳定日期: 45-09-27"
 // delta2b/demon6.gui
 	"#str_03399"	"ATGCCTGGCTTGC"
 // delta2b/keycard.gui
@@ -5580,9 +5580,9 @@
 	"#str_03486"	"主要服务库"
 	"#str_03487"	"D3DM1 - 富美子反应堆"
 	"#str_03488"	"D3DM2 - 德尔塔实验室"
-	"#str_03489"	"D3DM3 - FRAG CHAMBER"
-	"#str_03490"	"D3DM4 - THE EDGE 2"
-	"#str_03491"	"D3DM5 - LIGHTS OUT"
+	"#str_03489"	"D3DM3 - 碎片室"
+	"#str_03490"	"D3DM4 - 边缘2"
+	"#str_03491"	"D3DM5 - 熄灯"
 	"#str_03492"	"德尔塔实验室 - 1层"
 // _common/def/maps.def
 	"#str_03493"	"联合航天研究部门"
@@ -6326,7 +6326,7 @@
 // movies/triggeron.gui
 	"#str_03869"	"视频档案站"
 // movies/ipn.gui
-	"#str_03870"	"在USM地球发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员斯克雷格斯在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告博尔贾病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了两名参与非法铀走私活动的采矿者 --IPN新闻-- 安迪·斯特拉顿在第149界雷神大赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- "
+	"#str_03870"	"在USM地球发生的私人穿梭机爆炸中有四人丧生。--IPN新闻-- 对参议员斯克雷格斯在天王星的丑闻的指控被撤销 --IPN新闻-- 3座轨道平台报告博尔贾病毒爆发扩大 --IPN新闻-- 微米风暴在火星的极圈肆虐 --IPN新闻-- 在月球站点发生的防辐射护盾裂缝问题比首次报告得还要严重 --IPN新闻-- 官方逮捕了2名参与非法铀走私活动的采矿者 --IPN新闻-- 安迪·斯特拉顿在第149届雷神大赛中获得了冠军，战胜了今年参赛的数以千计的其他选手，赢得了一千万奖金。--IPN新闻-- "
 // movies/ipn.gui
 	"#str_03871"	"IPN新闻 - 你现在的宇宙"
 // movies/ipn.gui
@@ -6496,7 +6496,7 @@
 // recycle1/floodpump1.gui
 	"#str_03954"	"有害毒素等级"
 // recycle1/floodpump1.gui
-	"#str_03955"	"泄洪闸CLEAR"
+	"#str_03955"	"泄洪道畅通"
 // recycle1/floodpump1.gui
 	"#str_03956"	"主要过滤容器发生断裂"
 // recycle1/floodpump1.gui
@@ -6544,15 +6544,15 @@
 // recycle2/vent2.gui
 	"#str_03978"	"切换2号通风口"
 // recycle2/vent3.gui
-	"#str_03979"	"切换3豪通风口"
+	"#str_03979"	"切换3号通风口"
 // erebus1/station11.gui screens/bluescan3.gui
 	"#str_03980"	"SAT-COM 4\n宇宙深处通信中转站"
 // erebus1/station11.gui screens/bluescan3.gui
 	"#str_03981"	"W-SAT 1\n气象数据收集"
 // erebus1/station11.gui screens/bluescan3.gui
-	"#str_03982"	"卫星追踪器 - HEM东区"
+	"#str_03982"	"卫星追踪器 - HEM.东部"
 // erebus1/station11.gui screens/bluescan3.gui
-	"#str_03983"	"LIVE FEED FROM FROM HLO-SAT 7"
+	"#str_03983"	"来自HLO-SAT 7的实时画面"
 // screens/bluescan4.gui
 	"#str_03984"	"当前没有预定的入站目标\n-------------------------------\nUAC运输器4409号于06:18在MC机库3号成功着陆\n预计起飞时间为18:55\n-------------------------------\n下次预定接入 - 11-22 06:00 来自月球1号的补给运输船4315号入站"
 // screens/bluescan4.gui
@@ -6844,12 +6844,12 @@
 	"#str_04205"	"这里列出了用户的个人音频日志。\n查看用户的音频日志和电子邮件能够让你了解在UAC火星基地上发生的神奇事件。\n点击已继续"
 	"#str_04206"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全生产，祝你愉快。"
 	"#str_04207"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全生产，祝你愉快。\n\n点击来退出"
-	"#str_04208"	"M[]"
-	"#str_04209"	"Ma[]"
-	"#str_04210"	"Mai[]"
-	"#str_04211"	"主要[]"
-	"#str_04212"	"主M[]"
-	"#str_04213"	"主男士[]"
+	"#str_04208"	"[]"
+	"#str_04209"	"主[]"
+	"#str_04210"	"主[]"
+	"#str_04211"	"主选[]"
+	"#str_04212"	"主选[]"
+	"#str_04213"	"主选单[]"
 	"#str_04214"	"主选单"
 	"#str_04215"	"退出至主菜单"
 	"#str_04216"	" 取消"
@@ -7436,9 +7436,9 @@
 // delta2a:地点.名
 	"#str_04575"	"办公室  M.艾布拉姆斯"
 // delta2a:地点.名
-	"#str_04576"	"维护Duct 32"
+	"#str_04576"	"维护管道32"
 // delta2a:地点.名
-	"#str_04577"	"维护Duct 31"
+	"#str_04577"	"维护管道31"
 // delta2a:地点.名
 	"#str_04578"	"高危物质"
 // delta2a:地点.名
@@ -7546,7 +7546,7 @@
 // delta3:地点.名
 	"#str_04630"	"净化舱1-上层"
 // delta3:地点.名
-	"#str_04631"	"密室2仓库"
+	"#str_04631"	"密室1仓库"
 // delta3:地点.名
 	"#str_04632"	"上层终端办公室"
 // delta3:地点.名 mars_city2:地点.名
@@ -7554,11 +7554,11 @@
 // delta3:地点.名
 	"#str_04634"	"终端处理"
 // delta3:地点.名
-	"#str_04635"	"密室3终点"
+	"#str_04635"	"密室2终点"
 // delta3:地点.名
 	"#str_04636"	"安全中心2"
 // delta3:地点.名
-	"#str_04637"	"密室3仓库"
+	"#str_04637"	"密室2仓库"
 // delta3:地点.名
 	"#str_04638"	"传送站2"
 // delta3:地点.名
@@ -7572,9 +7572,9 @@
 // delta3:地点.名
 	"#str_04643"	"HST观察"
 // delta3:地点.名
-	"#str_04644"	"密室4控制通道"
+	"#str_04644"	"密室3控制通道"
 // delta3:地点.名
-	"#str_04645"	"密室4控制"
+	"#str_04645"	"密室3控制"
 // delta3:地点.名
 	"#str_04646"	"净化舱3"
 // delta3:地点.名
@@ -7586,25 +7586,25 @@
 // delta3:地点.名
 	"#str_04650"	"T1进入权限"
 // delta3:地点.名
-	"#str_04651"	"T1观察区 - 高层"
+	"#str_04651"	"T1观察区 - 上层"
 // delta3:地点.名
 	"#str_04652"	"终端办公室储存"
 // delta3:地点.名
-	"#str_04653"	"密室3控制"
+	"#str_04653"	"密室2控制"
 // delta3:地点.名
-	"#str_04654"	"密室2控制"
+	"#str_04654"	"密室1控制"
 // delta3:地点.名
 	"#str_04655"	"3层入口"
 // delta3:地点.名
 	"#str_04656"	"低层储物室"
 // delta3:地点.名
-	"#str_04657"	"密室2终点 - 上层"
+	"#str_04657"	"密室1终点 - 上层"
 // delta3:地点.名
 	"#str_04658"	"T2平台1"
 // delta3:地点.名
-	"#str_04659"	"密室4通道"
+	"#str_04659"	"密室3通道"
 // delta3:地点.名
-	"#str_04660"	"密室4终点"
+	"#str_04660"	"密室3终点"
 // delta3:地点.名
 	"#str_04661"	"T1楼梯井"
 // delta4:地点.名
@@ -7648,9 +7648,9 @@
 // enpro:地点.名
 	"#str_04681"	"维护1"
 // enpro:地点.名
-	"#str_04682"	"密室2上层"
+	"#str_04682"	"密室1上层"
 // enpro:地点.名
-	"#str_04683"	"密室3"
+	"#str_04683"	"密室2"
 // enpro:地点.名
 	"#str_04684"	"控制室2"
 // enpro:地点.名
@@ -7674,7 +7674,7 @@
 // enpro:地点.名
 	"#str_04694"	"转移区"
 // enpro:地点.名
-	"#str_04695"	"密室1低层"
+	"#str_04695"	"密室1下层"
 // enpro:地点.名
 	"#str_04696"	"电力核心通行大厅"
 // enpro:地点.名
@@ -8402,7 +8402,7 @@
 // _common/def/maps.def
 	"#str_07176"	"中央处理"
 	"#str_07177"	"%s^0 加入了游戏"
-	"#str_07178"	"^5QuickSave"
+	"#str_07178"	"^5快速保存"
 	"#str_07179"	"截图"
 	"#str_07180"	"%s^0 是 %s!\n"
 	"#str_07181"	"空闲的服务器"
@@ -8646,7 +8646,7 @@
 	"#str_00100002"	"给星轨舰队的紧急来电\n授权271 PAN-CIP KEY IDKFA\n\n——信息开始——\n"
 	"#str_00100003"	"给星轨舰队的紧急来电\n授权271 PAN-CIP KEY IDKFA\n\n——信息开始——\n请求立即增援\n\n"
 	"#str_00100004"	"--消息开始--\n立即请求支援\n\n1号挖掘点请求支援\n"
-	"#str_00100005"	"已立即请求增援\n\n1号站点需要支援\n\nBETRU"
+	"#str_00100005"	"已立即请求增援\n\n1号站点需要支援\n\n贝特鲁"
 	"#str_00100006"	"已立即请求增援\n\n1号站点需要支援\n\n贝特鲁格似"
 	"#str_00100007"	"已立即请求增援\n\n1号站点需要支援\n\n贝特鲁格似乎"
 	"#str_00100008"	"已立即请求增援\n\n1号站点需要支援\n\n贝特鲁格似乎已经"
@@ -8944,7 +8944,7 @@
 	"#str_00100210"	"电离等离子体悬浮器能够制造出电磁充能的等离子流来将物件短距离移动。"
 	"#str_00100211"	"双管霰弹枪"
 // _common/def/weapon_shotgun_double.def
-	"#str_00100212"	"Vulcan 1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。"
+	"#str_00100212"	"火山1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。"
 // _common/def/weapon_bloodstone_passive.def
 	"#str_00100213"	"由上古文明建立来抵抗地狱的势力。"
 // erebus1:可移动护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus4:可移动护甲物品名 erebus6:可移动护甲物品名 hell:可移动护甲物品名 phobos1:可移动护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 d3ctf3:对战护甲物品名 d3ctf4:对战护甲物品名
@@ -9105,9 +9105,9 @@
 // deltax:地点.名
 	"#str_00100308"	"传送站3"
 // deltax:地点.名
-	"#str_00100309"	"密室4通道"
+	"#str_00100309"	"密室3通道"
 // deltax:地点.名
-	"#str_00100310"	"密室4终点"
+	"#str_00100310"	"密室3终点"
 	"#str_00100311"	"info_location_1"
 	"#str_00100312"	"info_location_2"
 	"#str_00100313"	"info_location_3"
@@ -10867,7 +10867,7 @@
 	"#str_admin_simons_email_2_email_date"	"2145-11-13"
 	"#str_admin_simons_email_2_email_from"	"罗素·韦德"
 	"#str_admin_simons_email_2_email_subject"	"垃圾电邮"
-	"#str_admin_simons_email_2_email_text"	"保罗——\n垃圾邮件越来越多。最差的公司是火星搭档——不敢相信给我发来了这么多垃圾。我不知道他们怎么弄到我的电子邮件地址的。你能不能想办法让他们别发了？我一早上都在删垃圾邮件。\n\n谢谢，\nRuss"
+	"#str_admin_simons_email_2_email_text"	"保罗——\n垃圾邮件越来越多。最差的公司是火星搭档——不敢相信给我发来了这么多垃圾。我不知道他们怎么弄到我的电子邮件地址的。你能不能想办法让他们别发了？我一早上都在删垃圾邮件。\n\n谢谢，\n罗斯"
 	"#str_admin_simons_email_2_email_to"	"保罗·西蒙斯"
 	"#str_admin_simons_pda_fullname"	"保罗·M.西蒙斯"
 	"#str_admin_simons_pda_id"	"2463-21"
@@ -10952,7 +10952,7 @@
 	"#str_alphalabs2_chin_email_2_email_to"	"安德鲁·陈"
 	"#str_alphalabs2_chin_email_3_email_date"	"2145-11-08"
 	"#str_alphalabs2_chin_email_3_email_from"	"埃里克·里夫斯"
-	"#str_alphalabs2_chin_email_3_email_subject"	"E-Rock已着陆"
+	"#str_alphalabs2_chin_email_3_email_subject"	"E-岩石号已着陆"
 	"#str_alphalabs2_chin_email_3_email_text"	"安迪，\n\n我刚到。路上很不愉快。我和新系统分析师海梅·门多萨一起飞过来的。他总是和两个保安呆子混在一块，吉姆·戴利还有马克·沃特斯。他们会为任何话题争论几个小时（有时是几天）。在那个沙丁鱼罐头一样的地方呆上一个半月，谁都会不满意的。\n\n无论如何，让我们先吃点午饭吧，我得吃点像样的东西。\n\n-埃里克"
 	"#str_alphalabs2_chin_email_3_email_to"	"安德鲁·陈博士"
 	"#str_alphalabs2_chin_email_4_email_date"	"2145-11-12"
@@ -10976,12 +10976,12 @@
 	"#str_alphalabs2_connors_email_2_email_date"	"2145-10-16"
 	"#str_alphalabs2_connors_email_2_email_from"	"沃尔特·康纳斯"
 	"#str_alphalabs2_connors_email_2_email_subject"	"备忘"
-	"#str_alphalabs2_connors_email_2_email_text"	"备忘:\n我自己的39号柜密码 - 102\n"
+	"#str_alphalabs2_connors_email_2_email_text"	"备忘:\n我自己的039号柜密码 - 102\n"
 	"#str_alphalabs2_connors_email_2_email_to"	"沃尔特·康纳斯"
 	"#str_alphalabs2_connors_email_3_email_date"	"2145-11-02"
 	"#str_alphalabs2_connors_email_3_email_from"	"德里克·韦兰德"
 	"#str_alphalabs2_connors_email_3_email_subject"	"MFS 压缩机数量"
-	"#str_alphalabs2_connors_email_3_email_text"	"Walter,\n\n我想要私下感谢你，感谢你最后那次关于扩大模型的修改建议。这些管CPU的人弄乱了你的数字，经过一些考虑之后，我们一致认为这是我们见过最厉害的不知所云的理论。\n\n如果你在远方对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。\n\n祝你下一次评审愉快:)\n-Derek"
+	"#str_alphalabs2_connors_email_3_email_text"	"沃尔特，\n\n我想要私下感谢你，感谢你最后那次关于扩大模型的修改建议。这些管CPU的人弄乱了你的数字，经过一些考虑之后，我们一致认为这是我们见过最厉害的不知所云的理论。\n\n如果你在远方对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。\n\n祝你下一次评审愉快:)\n-德里克"
 	"#str_alphalabs2_connors_email_3_email_to"	"沃尔特·康纳斯"
 	"#str_alphalabs2_connors_pda_fullname"	"沃尔特·I.康纳斯"
 	"#str_alphalabs2_connors_pda_id"	"3710-66"
@@ -11082,7 +11082,7 @@
 	"#str_alphalabs4_kaczynski_email_2_email_date"	"2145-11-9"
 	"#str_alphalabs4_kaczynski_email_2_email_from"	"约翰·奥孔沃"
 	"#str_alphalabs4_kaczynski_email_2_email_subject"	"你好"
-	"#str_alphalabs4_kaczynski_email_2_email_text"	"你好\n\n我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。\n\n这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。\n\n就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。\n\n关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系老讨论。\n\n你真诚的，\n\n约翰·奥孔沃\n"
+	"#str_alphalabs4_kaczynski_email_2_email_text"	"你好\n\n我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。\n\n这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。\n\n就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。\n\n关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系老讨论。\n\n你真诚的，\n\n约翰·奥孔沃\n"
 	"#str_alphalabs4_kaczynski_email_2_email_to"	"拉里·卡钦斯基"
 	"#str_alphalabs4_kaczynski_pda_fullname"	"拉里·卡钦斯基"
 	"#str_alphalabs4_kaczynski_pda_id"	"3492-40"
@@ -11137,7 +11137,7 @@
 	"#str_caverns1_cody_pda_title"	"维护"
 	"#str_chaingun_video_info"	"创建者: UAC先进武器部门\n日期: 03/20/42\n\n关于Mach-2链枪的信息视频"
 	"#str_chaingun_video_name"	"Mach-2 电锯枪简介"
-	"#str_comm1_blake_audio_1_audio_info"	"制作者: Seamus Blake\n日期: 2145-10-16\n允许修改: 是\n存入档案: 否"
+	"#str_comm1_blake_audio_1_audio_info"	"制作者: 谢默斯·布雷克\n日期: 2145-10-16\n允许修改: 是\n存入档案: 否"
 	"#str_comm1_blake_audio_1_audio_name"	"替代模组"
 	"#str_comm1_blake_email_1_email_date"	"2145-10-10"
 	"#str_comm1_blake_email_1_email_from"	"陨石坑音乐"
@@ -11256,7 +11256,7 @@
 	"#str_cpu_haskell_email_1_email_date"	"2145-11-13"
 	"#str_cpu_haskell_email_1_email_from"	"系统主管"
 	"#str_cpu_haskell_email_1_email_subject"	"邮件发送失败"
-	"#str_cpu_haskell_email_1_email_text"	"无法发送至“Rbrody@ua-corp.com”。\nSTTP模块(域名ua-corp.com)报告:\n主机名未知\n\nReporting-MTA dns; ua-corp.com\n\n初始收件人: rtg374;<Rbrody@ua-corp.com>\n最终收件人: rtg374;<Rbrody@ua-corp.com>\n处理失败\nStatus 5.0.0\n接收自 [192.246.40.132.44543.43.661] (账号chaskell HELL chaskell.ua-corp.com)\n　通过 ua-corp.com (SpaceGate Pro STTP 5.2.6)\n　使用 ESMTP id 8302948-033-4488291 for Rbrody@ua-corp.com; 2145年11月13日周四 17:32:49 -0500(时区)\n消息-Id <4.1.0.123.5.74839298473.84hdjlk83902@mail.ua-corp.com>\nX-Sender chaskell@mail.ua-corp.com\nX-Mailer MARSMAILER Xenerix Vartoxi Version 9.3\nDate Thu, 13 Nov 2145 173249 -0500\n发送至 Rbrody@ua-corp.com\n来自查理·哈斯克尔 <chaskell@ua-corp.com>\nSubject MFC Failsafe failure\nMite-Version 3.6\nContent-Type text/plain; charset=us-ascii16; format=flowed\n"
+	"#str_cpu_haskell_email_1_email_text"	"无法发送至“Rbrody@ua-corp.com”。\nSTTP模块(域名ua-corp.com)报告:\n主机名未知\n\nReporting-MTA dns; ua-corp.com\n\n初始收件人: rtg374;<Rbrody@ua-corp.com>\n最终收件人: rtg374;<Rbrody@ua-corp.com>\n处理失败\nStatus 5.0.0\n接收自 [192.246.40.132.44543.43.661] (账号chaskell HELL chaskell.ua-corp.com)\n　通过 ua-corp.com (SpaceGate Pro STTP 5.2.6)\n　使用 ESMTP id 8302948-033-4488291 for Rbrody@ua-corp.com; 2145年11月13日星期四 17:32:49 -0500(时区)\n消息-Id <4.1.0.123.5.74839298473.84hdjlk83902@mail.ua-corp.com>\nX-Sender chaskell@mail.ua-corp.com\nX-Mailer MARSMAILER Xenerix Vartoxi Version 9.3\n日期 2145年11月13日星期四 17:32:49 -0500(时区)\n发送至 Rbrody@ua-corp.com\n来自查理·哈斯克尔 <chaskell@ua-corp.com>\nSubject MFC Failsafe failure\nMite-Version 3.6\nContent-Type text/plain; charset=us-ascii16; format=flowed\n"
 	"#str_cpu_haskell_email_1_email_to"	"查理·哈斯克尔"
 	"#str_cpu_haskell_email_2_email_date"	"2145-11-15"
 	"#str_cpu_haskell_email_2_email_from"	"约翰·比安加"
@@ -11287,13 +11287,13 @@
 	"#str_cpuboss_tooloose_pda_title"	"C.P.控制器"
 	"#str_d3le_personal_pda_fullname"	"身份不明的陆战队成员"
 	"#str_d3le_personal_pda_id"	"6703x-02"
-	"#str_d3le_personal_pda_name"	"^5Personal^0"
+	"#str_d3le_personal_pda_name"	"^5个人^0"
 	"#str_d3le_personal_pda_post"	"火星"
 	"#str_d3le_personal_pda_security"	"陆战队总部"
 	"#str_d3le_personal_pda_title"	"陆战队安保"
 	"#str_d3xp_personal_pda_fullname"	"身份不明的陆战队成员"
 	"#str_d3xp_personal_pda_id"	"4211x-17"
-	"#str_d3xp_personal_pda_name"	"^5Personal^0"
+	"#str_d3xp_personal_pda_name"	"^5个人^0"
 	"#str_d3xp_personal_pda_post"	"火星"
 	"#str_d3xp_personal_pda_security"	"陆战队总部"
 	"#str_d3xp_personal_pda_title"	"陆战队安保"
@@ -11329,9 +11329,9 @@
 	"#str_delta1_mora_pda_post"	"德尔塔实验室，1层"
 	"#str_delta1_mora_pda_security"	"反应堆工程"
 	"#str_delta1_mora_pda_title"	"德尔塔反应堆工程师"
-	"#str_delta1_price_audio_1_audio_info"	"制作者: Robert Price\n日期: 2145-10-12\n允许修改: 是\n存入档案: 否"
+	"#str_delta1_price_audio_1_audio_info"	"制作者: 罗伯特·布莱斯\n日期: 2145-10-12\n允许修改: 是\n存入档案: 否"
 	"#str_delta1_price_audio_1_audio_name"	"工程师配置"
-	"#str_delta1_price_audio_2_audio_info"	"制作者: Robert Price\n日期: 2145-10-13\n允许修改: 否\n存入档案: 否"
+	"#str_delta1_price_audio_2_audio_info"	"制作者: 罗伯特·布莱斯\n日期: 2145-10-13\n允许修改: 否\n存入档案: 否"
 	"#str_delta1_price_audio_2_audio_name"	"训练行动报告"
 	"#str_delta1_price_email_1_email_date"	"2145-11-13"
 	"#str_delta1_price_email_1_email_from"	"Price@kpjNET"
@@ -11433,7 +11433,7 @@
 	"#str_delta2b_erikson_email_1_email_date"	"2145-11-02"
 	"#str_delta2b_erikson_email_1_email_from"	"德尔塔保安"
 	"#str_delta2b_erikson_email_1_email_subject"	"锁密码更改申请"
-	"#str_delta2b_erikson_email_1_email_text"	"Francis，\n给中央安保小队的一些额外的补给将会送到你那里。请把它们保存在103号柜子里面，并把密码改成259。\n\n谢谢，\n托马斯·桑德森\n德尔塔保安部门，职员"
+	"#str_delta2b_erikson_email_1_email_text"	"弗朗西斯，\n给中央安保小队的一些额外的补给将会送到你那里。请把它们保存在103号柜子里面，并把密码改成259。\n\n谢谢，\n托马斯·桑德森\n德尔塔保安部门，职员"
 	"#str_delta2b_erikson_email_1_email_to"	"弗朗西斯·埃里克森"
 	"#str_delta2b_erikson_email_2_email_date"	"2145-10-30"
 	"#str_delta2b_erikson_email_2_email_from"	"科尔宾·休斯"
@@ -11475,7 +11475,7 @@
 	"#str_delta2b_stemmons_email_2_email_date"	"2145-11-15"
 	"#str_delta2b_stemmons_email_2_email_from"	"维护"
 	"#str_delta2b_stemmons_email_2_email_subject"	"回复: 电力耗尽"
-	"#str_delta2b_stemmons_email_2_email_text"	"斯蒂蒙斯先生，\n我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个德尔塔综合设施各处的几个电力问题。如果你能去查看一下维-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。\n\n谢谢，\n维护部\n\n----原始邮件----\n发送日期: 2145-11-13\n这一周来，物种转移区那该死的电力状况一直在起伏波动。这种情况让人干起活来简直会郁闷到死！你能否派人下去查看一下。\n\n谢谢，\nJacob Stemmons\n\n"
+	"#str_delta2b_stemmons_email_2_email_text"	"斯蒂蒙斯先生，\n我们发现你所在区域出现了电力问题。最近一段时间，我们正在处理整个德尔塔综合设施各处的几个电力问题。如果你能去查看一下维-04处的断路器盒是否是个简单的断路器问题，那就帮了我一个大忙。请用帮助桌面提交报告给我们，然后我们就会尽快赶到你的公寓。\n\n谢谢，\n维护部\n\n----原始邮件----\n发送日期: 2145-11-13\n这一周来，物种转移区那该死的电力状况一直在起伏波动。这种情况让人干起活来简直会郁闷到死！你能否派人下去查看一下。\n\n谢谢，\n雅各布·斯蒂蒙斯\n\n"
 	"#str_delta2b_stemmons_email_2_email_to"	"雅各布·斯蒂蒙斯"
 	"#str_delta2b_stemmons_pda_fullname"	"雅各布·L.斯蒂蒙斯"
 	"#str_delta2b_stemmons_pda_id"	"7545-99"
@@ -11584,7 +11584,7 @@
 	"#str_deltax_hook_email_1_email_date"	"2147-3-13"
 	"#str_deltax_hook_email_1_email_from"	"security@EC.net"
 	"#str_deltax_hook_email_1_email_subject"	"回复: 仓库锁柜"
-	"#str_deltax_hook_email_1_email_text"	"胡克先生，\n\n我们找到了你那里的锁柜的密码，输入634就行了。\n\n如果还有问题，随时可以来联系我们。\n\nMitchell\n安全主管 - 德尔塔实验室"
+	"#str_deltax_hook_email_1_email_text"	"胡克先生，\n\n我们找到了你那里的锁柜的密码，输入634就行了。\n\n如果还有问题，随时可以来联系我们。\n\n米切尔\n安全主管 - 德尔塔实验室"
 	"#str_deltax_hook_email_1_email_to"	"帕特里克·胡克"
 	"#str_deltax_hook_pda_fullname"	"帕特里克·胡克"
 	"#str_deltax_hook_pda_id"	"1970-34"
@@ -11812,7 +11812,7 @@
 	"#str_enpro_chasar_pda_post"	"恩普罗"
 	"#str_enpro_chasar_pda_security"	""
 	"#str_enpro_chasar_pda_title"	"武器分析师"
-	"#str_enpro_hammer_audio_1_audio_info"	"制作者: Steve Hammer\n日期: 2145-10-30\n允许修改: 否\n存入档案: 是"
+	"#str_enpro_hammer_audio_1_audio_info"	"制作者: 史蒂夫·哈默\n日期: 2145-10-30\n允许修改: 否\n存入档案: 是"
 	"#str_enpro_hammer_audio_1_audio_name"	"等离子弹药代码"
 	"#str_enpro_hammer_email_1_email_date"	"2145-10-25"
 	"#str_enpro_hammer_email_1_email_from"	"马修·莫顿"
@@ -11822,7 +11822,7 @@
 	"#str_enpro_hammer_email_2_email_date"	"2145-11-15"
 	"#str_enpro_hammer_email_2_email_from"	"埃里克·格罗斯曼"
 	"#str_enpro_hammer_email_2_email_subject"	"咱们来帮帮这个可怜姑娘！"
-	"#str_enpro_hammer_email_2_email_text"	"伙计们……并不是一封连锁信，而是让我们选择是否去救一位即将因为致命癌症而死的小女孩的选择。请将这封发送给你认识的所有人……这位小女孩只有6个月的生命了，她最后的愿望，就是充实地按照自己的意愿活下去，因为她知道她做不到了。她永远无法体会到从学校毕业、结婚或者生儿育女的快乐。如果你能将这封信发送给尽可能多的人，你可以给她和她的家人一丝希望，因为每一位收到信的人，UAC都会以他们的名义捐赠3元打进她的恢复和治疗计划中。曾有一位好人发送给了500个人！！！所以，我知道我们可以至少发送给5,6个人。来吧伙计们……如果你们连15分钟都不愿意腾出来点击一下的话，想想如果你哪一天得了癌症……请帮帮这个小女孩吧。我知道你们可以做到的！！！我爱你们！"
+	"#str_enpro_hammer_email_2_email_text"	"伙计们……并不是一封连锁信，而是让我们选择是否去救一位即将因为致命癌症而死的小女孩的选择。请将这封发送给你认识的所有人……这位小女孩只有6个月的生命了，她最后的愿望，就是充实地按照自己的意愿活下去，因为她知道她做不到了。她永远无法体会到从学校毕业、结婚或者生儿育女的快乐。如果你能将这封信发送给尽可能多的人，你可以给她和她的家人一丝希望，因为每一位收到信的人，UAC都会以他们的名义捐赠3元打进她的恢复和治疗计划中。曾有一位好人发送给了500个人！！！所以，我知道我们可以至少发送给5、6个人。来吧伙计们……如果你们连10-15分钟都不愿意腾出来点击一下的话，想想如果你哪一天得了癌症……请帮帮这个小女孩吧。我知道你们可以做到的！！！我爱你们！"
 	"#str_enpro_hammer_email_2_email_to"	"史蒂夫·哈默"
 	"#str_enpro_hammer_pda_fullname"	"史蒂夫·L.哈默"
 	"#str_enpro_hammer_pda_id"	"2671-93"
@@ -11878,12 +11878,12 @@
 	"#str_erebus2_tanner_email_1_email_date"	"2147-3-14"
 	"#str_erebus2_tanner_email_1_email_from"	"维克多·哈尔科夫"
 	"#str_erebus2_tanner_email_1_email_subject"	"回复: 好名字"
-	"#str_erebus2_tanner_email_1_email_text"	"麦克内尔博士今晚让我负责一个项目，她很想在我们晚上收工前得到一份报告。也许我们能明天再试着玩玩。\n\n-VK\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 维克多·哈尔科夫\n\n是的…我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。\n\n马库斯"
+	"#str_erebus2_tanner_email_1_email_text"	"麦克内尔博士今晚让我负责一个项目，她很想在我们晚上收工前得到一份报告。也许我们能明天再试着玩玩。\n\n-VK\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 维克多·哈尔科夫\n\n是的……我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。\n\n马库斯"
 	"#str_erebus2_tanner_email_1_email_to"	"马库斯·坦纳"
 	"#str_erebus2_tanner_email_2_email_date"	"2147-3-13"
 	"#str_erebus2_tanner_email_2_email_from"	"security@EC.net"
 	"#str_erebus2_tanner_email_2_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus2_tanner_email_2_email_text"	"坦纳先生，\n\n我们找到了你那里的锁柜的密码，输入516就可以了。\n\n如果还有问题，随时可以来联系我们。\n\nEvans\n安全主管 - 1号地点"
+	"#str_erebus2_tanner_email_2_email_text"	"坦纳先生，\n\n我们找到了你那里的锁柜的密码，输入516就可以了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号地点"
 	"#str_erebus2_tanner_email_2_email_to"	"马库斯·坦纳"
 	"#str_erebus2_tanner_pda_fullname"	"马库斯·H.坦纳"
 	"#str_erebus2_tanner_pda_id"	"4014-13"
@@ -11905,7 +11905,7 @@
 	"#str_erebus3_crane_email_1_email_date"	"2147-3-16"
 	"#str_erebus3_crane_email_1_email_from"	"斯图尔特·杰克逊"
 	"#str_erebus3_crane_email_1_email_subject"	"准备好了吗？"
-	"#str_erebus3_crane_email_1_email_text"	"嗯，极端的无聊终于产生了一些好东西。\n\n我终于找到了士官的老箱子密码，是428。等我们下班后，就去把那玩意儿打开然后去疯狂一把吧。\n\nStu"
+	"#str_erebus3_crane_email_1_email_text"	"嗯，极端的无聊终于产生了一些好东西。\n\n我终于找到了士官的老箱子密码，是428。等我们下班后，就去把那玩意儿打开然后去疯狂一把吧。\n\n斯图"
 	"#str_erebus3_crane_email_1_email_to"	"斯蒂文·克雷恩"
 	"#str_erebus3_crane_email_2_email_date"	"2147-3-15"
 	"#str_erebus3_crane_email_2_email_from"	"杰克·埃尔南德斯"
@@ -11915,7 +11915,7 @@
 	"#str_erebus3_crane_email_3_email_date"	"2147-3-14"
 	"#str_erebus3_crane_email_3_email_from"	"斯图尔特·杰克逊"
 	"#str_erebus3_crane_email_3_email_subject"	"回复: 疯了！"
-	"#str_erebus3_crane_email_3_email_text"	"稍等！我正在想办法。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 斯图尔特·杰克逊\nStu，\n我无聊得要死。几个月来我没有为了泄怒开过一次枪！士官办公室里的那杆双筒枪在挑逗我。\n\n我好想摸它一把。它让我想起在缅因州打猎的时光，但我从来没有猎过这么大的一头熊！\n\n不管怎么样，最近的执勤表有什么变动吗？\n\nSteve"
+	"#str_erebus3_crane_email_3_email_text"	"稍等！我正在想办法。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 斯图尔特·杰克逊\n斯图，\n我无聊得要死。几个月来我没有为了泄怒开过一次枪！士官办公室里的那杆双筒枪在挑逗我。\n\n我好想摸它一把。它让我想起在缅因州打猎的时光，但我从来没有猎过这么大的一头熊！\n\n不管怎么样，最近的执勤表有什么变动吗？\n\n史蒂夫"
 	"#str_erebus3_crane_email_3_email_to"	"斯蒂文·克雷恩"
 	"#str_erebus3_crane_pda_fullname"	"斯蒂文·W.克雷恩"
 	"#str_erebus3_crane_pda_id"	"1312-44"
@@ -11936,7 +11936,7 @@
 	"#str_erebus3_glenn_email_3_email_date"	"2147-3-12"
 	"#str_erebus3_glenn_email_3_email_from"	"security@EC.net"
 	"#str_erebus3_glenn_email_3_email_subject"	"已更新的安全密码"
-	"#str_erebus3_glenn_email_3_email_text"	"格伦先生，\n\n我们补充了医疗设施中的储物锁柜。新的密码是769。\n\n如果有问题请联系我们。\n\nEvans\n安全主管 - 1号地点"
+	"#str_erebus3_glenn_email_3_email_text"	"格伦先生，\n\n我们补充了医疗设施中的储物锁柜。新的密码是769。\n\n如果有问题请联系我们。\n\n伊文斯\n安全主管 - 一号地点"
 	"#str_erebus3_glenn_email_3_email_to"	"普利司通·格伦"
 	"#str_erebus3_glenn_pda_fullname"	"普利司通·J.格伦"
 	"#str_erebus3_glenn_pda_id"	"1127-52"
@@ -12002,7 +12002,7 @@
 	"#str_erebus4_nathan_email_1_email_date"	"2147-3-10"
 	"#str_erebus4_nathan_email_1_email_from"	"罗恩·L.吉宾斯"
 	"#str_erebus4_nathan_email_1_email_subject"	"回复: 需要能量块"
-	"#str_erebus4_nathan_email_1_email_text"	"内森,\n抱歉，伙计，我想自己拿点的。那些能量电池效果不错，就是数量太少。一向如此。\n如果我找到更多电池就告诉你。我们应该很快就有一批电池要到了。\n罗恩\n\n----原始邮件----\n发送日期: 2147-3-10\n收件人: Ron L. Gibbons\n罗恩,\n我们这里一直在灯火管制。你有没有多余的能量电池？\n先谢谢了，\n内森\n"
+	"#str_erebus4_nathan_email_1_email_text"	"内森,\n抱歉，伙计，我想自己拿点的。那些能量电池效果不错，就是数量太少。一向如此。\n如果我找到更多电池就告诉你。我们应该很快就有一批电池要到了。\n罗恩\n\n----原始邮件----\n发送日期: 2147-3-10\n收件人: 罗恩·L.吉宾斯\n罗恩,\n我们这里一直在灯火管制。你有没有多余的能量电池？\n先谢谢了，\n内森\n"
 	"#str_erebus4_nathan_email_1_email_to"	"内森·G.雷诺兹"
 	"#str_erebus4_nathan_pda_fullname"	"内森·G.雷诺兹"
 	"#str_erebus4_nathan_pda_id"	"1127-51"
@@ -12013,7 +12013,7 @@
 	"#str_erebus4_ron_email_1_email_date"	"2147-3-14"
 	"#str_erebus4_ron_email_1_email_from"	"security@EC.net"
 	"#str_erebus4_ron_email_1_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus4_ron_email_1_email_text"	"吉宾斯先生，\n\n我们找到了你那里的锁柜的密码，输入937就行了。\n\n如果还有问题，随时可以来联系我们。\n\nEvans\n安全主管 - 1号地点"
+	"#str_erebus4_ron_email_1_email_text"	"吉宾斯先生，\n\n我们找到了你那里的锁柜的密码，输入937就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号地点"
 	"#str_erebus4_ron_email_1_email_to"	"罗恩·吉宾斯"
 	"#str_erebus4_ron_email_2_email_date"	"2147-3-10"
 	"#str_erebus4_ron_email_2_email_from"	"内森·G.雷诺兹"
@@ -12066,7 +12066,7 @@
 	"#str_erebus6_grossman_email_1_email_date"	"2147-3-14"
 	"#str_erebus6_grossman_email_1_email_from"	"伊丽莎白·麦克内尔"
 	"#str_erebus6_grossman_email_1_email_subject"	"回复: 哨兵部署"
-	"#str_erebus6_grossman_email_1_email_text"	"Fred，\n\n我开始担心了。下面的情况怎么样？我们需要尽快进去。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 弗雷德·格罗斯曼\n记得要把哨兵机器人部署好。我们不能冒险再让任何人在下面丧生了。\n\n它回来后，就立刻把你的状态发给我。"
+	"#str_erebus6_grossman_email_1_email_text"	"弗雷德，\n\n我开始担心了。下面的情况怎么样？我们需要尽快进去。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 弗雷德·格罗斯曼\n记得要把哨兵机器人部署好。我们不能冒险再让任何人在下面丧生了。\n\n它回来后，就立刻把你的状态发给我。"
 	"#str_erebus6_grossman_email_1_email_to"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_email_2_email_date"	"2147-3-13"
 	"#str_erebus6_grossman_email_2_email_from"	"伊丽莎白·麦克内尔"
@@ -12076,7 +12076,7 @@
 	"#str_erebus6_grossman_email_3_email_date"	"2147-3-13"
 	"#str_erebus6_grossman_email_3_email_from"	"security@EC.net"
 	"#str_erebus6_grossman_email_3_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus6_grossman_email_3_email_text"	"格罗斯曼先生，\n\n我们找到了你那里的锁柜的密码，输入134就行了。\n\n如果还有问题，随时可以来联系我们。\n\nEvans\n安全主管 - 1号地点"
+	"#str_erebus6_grossman_email_3_email_text"	"格罗斯曼先生，\n\n我们找到了你那里的锁柜的密码，输入134就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号地点"
 	"#str_erebus6_grossman_email_3_email_to"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_pda_fullname"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_pda_id"	"1991-62"
@@ -12090,9 +12090,9 @@
 	"#str_generator_video_name"	"AM3系列便携电源设备"
 	"#str_grabber_video_info"	"创建者: UAC\n首席技术官\n日期: 11/27/46\n\n信息与安全考虑"
 	"#str_grabber_video_name"	"电离等离子悬浮器简介"
-	"#str_hell_garlick_audio_1_audio_info"	"制作者: Simon Garlick\n日期: 2145-08-08\n允许修改: 否\n存入档案: 否"
+	"#str_hell_garlick_audio_1_audio_info"	"制作者: 西蒙·加里克\n日期: 2145-08-08\n允许修改: 否\n存入档案: 否"
 	"#str_hell_garlick_audio_1_audio_name"	"与队伍分离"
-	"#str_hell_garlick_audio_2_audio_info"	"制作者: Simon Garlick\n日期: 2145-08-10\n允许修改: 是\n存入档案: 否"
+	"#str_hell_garlick_audio_2_audio_info"	"制作者: 西蒙·加里克\n日期: 2145-08-10\n允许修改: 是\n存入档案: 否"
 	"#str_hell_garlick_audio_2_audio_name"	"仍然离队"
 	"#str_hell_garlick_email_1_email_date"	"2145-08-06"
 	"#str_hell_garlick_email_1_email_from"	"海瑟·伊莱恩"
@@ -12238,7 +12238,7 @@
 	"#str_id_18_email_date"	"2145-11-16"
 	"#str_id_18_email_from"	"弗雷德里克·尼尔森"
 	"#str_id_18_email_subject"	"感谢"
-	"#str_id_18_email_text"	"哇，如果你读到这个的话你真的沉迷游戏了。希望你真的很喜欢它……转过身去……赶快。=) \n\n我想要对我的家人说声谢谢: Lars，Ingegard，Sofie，克里斯，安德鲁，Anneli，汤姆，Denise，TJ。\n还有所有我在瑞典的朋友和家人。\n我想念你们……\n\n至SMR: ……\n\n帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太无敌了……\n\n至我的同事: 我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)\n\n至id的所有者: 你们在这里建立了一个令人惊讶的世界……以学到了许多顶级的游戏设计的知识……\n\n当然还要感谢屏幕前这为玩家: 感谢你们所有的支持，以及在我们连夜赶工汉化时，你们把F5刷爆了的耐心。\n\n感谢……\n\n弗雷德里克"
+	"#str_id_18_email_text"	"哇，如果你读到这个的话你真的沉迷游戏了。希望你真的很喜欢它……转过身去……赶快。=) \n\n我想要对我的家人说声谢谢: 拉尔斯，英格加德，索菲，克里斯，安德鲁，安内利，汤姆，丹尼斯，TJ。\n还有所有我在瑞典的朋友和家人。\n我想念你们……\n\n至SMR: ……\n\n帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太简单了……\n\n至我的同事: 我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)\n\n至id的所有者: 你们在这里建立了一个令人惊讶的世界……以学到了许多顶级的游戏设计的知识……\n\n当然还要感谢屏幕前这为玩家: 感谢你们所有的支持，以及在我们连夜赶工汉化时，你们把F5刷爆了的耐心。\n\n感谢……\n\n弗雷德里克"
 	"#str_id_18_email_to"	"Doom播放器"
 	"#str_id_19_email_date"	"2145-11-16"
 	"#str_id_19_email_from"	"史蒂夫·莱斯科"
@@ -12323,7 +12323,7 @@
 	"#str_le_enpro_vargas_email_2_email_date"	"2145-10-27"
 	"#str_le_enpro_vargas_email_2_email_from"	"罗尼·丹尼尔斯"
 	"#str_le_enpro_vargas_email_2_email_subject"	"感谢"
-	"#str_le_enpro_vargas_email_2_email_text"	"感谢昨天帮我替班。我基本没怎么睡。那些药物让我的脑子都乱掉了。很高兴我有能帮上忙的朋友们。\n\n-Rodney"
+	"#str_le_enpro_vargas_email_2_email_text"	"感谢昨天帮我替班。我基本没怎么睡。那些药物让我的脑子都乱掉了。很高兴我有能帮上忙的朋友们。\n\n-罗尼"
 	"#str_le_enpro_vargas_email_2_email_to"	"克里斯·瓦尔加斯"
 	"#str_le_enpro_vargas_pda_fullname"	"克里斯托弗·A.瓦尔加斯"
 	"#str_le_enpro_vargas_pda_id"	"0717-03"
@@ -12358,9 +12358,9 @@
 	"#str_le_exis_adil_email_0_email_text"	"阿迪尔中士，\n\n我已意识到你对我的来访很关注。这次行程对UAC的管理层至关重要，作为现场勘查的一部分，我将亲自检查艾克西斯实验室。我了解艾克西斯发生了很多事，这次行程我也将调查事发原因。我已经给火星安全部门主管发去了信息，他们会为你们提供武器装备以及必需品，请务必做好安保工作。\n\n还有，我可以向你保证我已经对自身安全做了额外的预防措施。\n\n诚挚地，\n\n埃利奥特·斯旺\nUAC 执行顾问"
 	"#str_le_exis_adil_email_0_email_to"	"纳西尔·阿迪尔"
 	"#str_le_exis_adil_email_1_email_date"	"2145-10-09"
-	"#str_le_exis_adil_email_1_email_from"	"追捕Higgins"
+	"#str_le_exis_adil_email_1_email_from"	"蔡斯·希金斯"
 	"#str_le_exis_adil_email_1_email_subject"	"需要额外安全措施"
-	"#str_le_exis_adil_email_1_email_text"	"阿迪尔主管，\n\n我想知道我们是不是能多安排一些警卫驻扎在工程处附近。我和其他一些人在粒子交换机附近看到了一些奇怪的行为，把我们都吓坏了。昨天，摩根差点发疯了，我花了20分钟才让他冷静下来。他发誓说他看到了一只血腥的眼球从玻璃护盾后面盯着他。我们后来检查了那片区域却什么都没发现。你最好尽快派遣警卫来这里。\n\n谢谢，\n\nChase Higgins\n艾克西斯实验室工程处"
+	"#str_le_exis_adil_email_1_email_text"	"阿迪尔主管，\n\n我想知道我们是不是能多安排一些警卫驻扎在工程处附近。我和其他一些人在粒子交换机附近看到了一些奇怪的行为，把我们都吓坏了。昨天，摩根差点发疯了，我花了20分钟才让他冷静下来。他发誓说他看到了一只血腥的眼球从玻璃护盾后面盯着他。我们后来检查了那片区域却什么都没发现。你最好尽快派遣警卫来这里。\n\n谢谢，\n\n蔡斯·希金斯\n艾克西斯实验室工程处"
 	"#str_le_exis_adil_email_1_email_to"	"纳西尔·阿迪尔"
 	"#str_le_exis_adil_pda_fullname"	"纳西尔·H·阿迪尔"
 	"#str_le_exis_adil_pda_id"	"6594-87"
@@ -12371,12 +12371,12 @@
 	"#str_le_exis_folsom_email_0_email_date"	"2145-11-15"
 	"#str_le_exis_folsom_email_0_email_from"	"火星天气"
 	"#str_le_exis_folsom_email_0_email_subject"	"火星天气公告栏"
-	"#str_le_exis_folsom_email_0_email_text"	"特殊天气报告\n火星气象局\n2145年11月15日星期一火星标准时区上午03:47\n\n……重要天气报告……\n\n火星标准时区上午03:47……一个强沙尘暴在阿瑞斯峡谷出现……每小时60英里的速度往东方移动。\n\n灾害包括……\n飞石达到3英寸……\n风速每小时100英里……\n\n火星基地并没有对这么严重的突发天气做出相应措施。\n\nLAT...LON 3613 9899 3593 9900 3595 9934 3613 9933\n"
+	"#str_le_exis_folsom_email_0_email_text"	"特殊天气报告\n火星气象局\n2145年11月15日星期一 火星标准时区上午03:47\n\n……重要天气报告……\n\n火星标准时区上午03:47……一个强沙尘暴在阿瑞斯峡谷出现……每小时60英里的速度往东方移动。\n\n灾害包括……\n飞石达到3英寸……\n风速每小时100英里……\n\n火星基地并没有对这么严重的突发天气做出相应措施。\n\nLAT...LON 3613 9899 3593 9900 3595 9934 3613 9933\n"
 	"#str_le_exis_folsom_email_0_email_to"	"特拉维斯·福尔瑟姆"
 	"#str_le_exis_folsom_email_1_email_date"	"2145-11-02"
 	"#str_le_exis_folsom_email_1_email_from"	"幸运赢家"
-	"#str_le_exis_folsom_email_1_email_subject"	"ReTirE CasH FrEe!!!!!!!!"
-	"#str_le_exis_folsom_email_1_email_text"	"你刚刚在幸运现金冠军比赛中赢得了大奖！你将要怎么使用新得到的财富？！？\n\n让我们来帮助你吧！！！\n\n现在就拨打+156-972-765-0399\n\n不要迟疑！"
+	"#str_le_exis_folsom_email_1_email_subject"	"免*费*提*现！！！！！！！！"
+	"#str_le_exis_folsom_email_1_email_text"	"你刚刚在幸运现金冠军比赛中赢得了大奖！你将要怎么使用新得到的财富？！？\n\n让我们来帮助你吧！！！！\n\n现在就拨打+156-972-765-0399\n\n不要迟疑！"
 	"#str_le_exis_folsom_email_1_email_to"	"特拉维斯·福尔瑟姆"
 	"#str_le_exis_folsom_email_2_email_date"	"2145-10-22"
 	"#str_le_exis_folsom_email_2_email_from"	"安迪·卡瓦佐斯"
@@ -12488,7 +12488,7 @@
 	"#str_marscity2_caseon_email_1_email_date"	"2145-11-09"
 	"#str_marscity2_caseon_email_1_email_from"	"约旦·凯尼迪"
 	"#str_marscity2_caseon_email_1_email_subject"	"回复: 病人攻击"
-	"#str_marscity2_caseon_email_1_email_text"	"Mark,\n谢谢你把音频记录发给我。要是有好消息就好了。\n\n我会在地球上和你的同事合作，找到额外的工作人员和资源协助你。不过照这个情况看，会比较艰难。你或许得单独行动一段时间。\n\n我的建议是，继续记录尽可能多的东西，试着找到问题的根源，老天在上，如果情况不妙，你得准备好武器和医疗补给品。听到你已经把一些物资锁在柜子里以防万一我很高兴。希望那些就足够了。谢谢你把密码也写进了报告里，我会保管好的。\n\n"
+	"#str_marscity2_caseon_email_1_email_text"	"马克，\n谢谢你把音频记录发给我。要是有好消息就好了。\n\n我会在地球上和你的同事合作，找到额外的工作人员和资源协助你。不过照这个情况看，会比较艰难。你或许得单独行动一段时间。\n\n我的建议是，继续记录尽可能多的东西，试着找到问题的根源，老天在上，如果情况不妙，你得准备好武器和医疗补给品。听到你已经把一些物资锁在柜子里以防万一我很高兴。希望那些就足够了。谢谢你把密码也写进了报告里，我会保管好的。\n\n"
 	"#str_marscity2_caseon_email_1_email_to"	"马克·凯斯昂"
 	"#str_marscity2_caseon_email_2_email_date"	"2145-11-15"
 	"#str_marscity2_caseon_email_2_email_from"	"莎拉·候斯顿"
@@ -12557,7 +12557,7 @@
 	"#str_marscity2_tyson_email_3_email_date"	"2145-11-11"
 	"#str_marscity2_tyson_email_3_email_from"	"中央安防"
 	"#str_marscity2_tyson_email_3_email_subject"	"安全密码更改"
-	"#str_marscity2_tyson_email_3_email_text"	"泰森上士，\n由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将11月15日，2145开始。\n非常感谢你，\n\n安防中心"
+	"#str_marscity2_tyson_email_3_email_text"	"泰森上士，\n由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将于2145年11月15日生效。\n非常感谢你，\n\n安防中心"
 	"#str_marscity2_tyson_email_3_email_to"	"泰森上士"
 	"#str_marscity2_tyson_pda_fullname"	"比尔·泰森上士"
 	"#str_marscity2_tyson_pda_id"	"7488-89"
@@ -12616,7 +12616,7 @@
 	"#str_mcunderground_delahue_email_1_email_date"	"2145-11-13"
 	"#str_mcunderground_delahue_email_1_email_from"	"布莱恩·莫拉"
 	"#str_mcunderground_delahue_email_1_email_subject"	"德尔塔实验室聚会"
-	"#str_mcunderground_delahue_email_1_email_text"	"哟，Frank,\n别忘了我们这次会提前开始排队……8:15。\n\n--BMora--"
+	"#str_mcunderground_delahue_email_1_email_text"	"哟，弗兰克，\n别忘了我们这次会提前开始排队……8:15。\n\n--B.莫拉--"
 	"#str_mcunderground_delahue_email_1_email_to"	"弗兰克·德拉休"
 	"#str_mcunderground_delahue_email_2_email_date"	"2145-11-14"
 	"#str_mcunderground_delahue_email_2_email_from"	"UAC安全部队"
@@ -12701,7 +12701,7 @@
 	"#str_monorail_harding_email_3_email_date"	"2145-11-05"
 	"#str_monorail_harding_email_3_email_from"	"卡尔·库伦"
 	"#str_monorail_harding_email_3_email_subject"	"回复: 炮台"
-	"#str_monorail_harding_email_3_email_text"	"多谢你这么快就修好了它。\n\n----原始邮件----\n发送日期: 2145-11-04\n收件人: 卡尔·库伦\n\nKarl，\n我今天早上修好了固定架；原因有是那些该死的米克森螺栓。我真的希望UAC能够找到一个更好的分包商。\n\n多谢，\nSam"
+	"#str_monorail_harding_email_3_email_text"	"多谢你这么快就修好了它。\n\n----原始邮件----\n发送日期: 2145-11-04\n收件人: 卡尔·库伦\n\n卡尔，\n我今天早上修好了固定架；原因有是那些该死的米克森螺栓。我真的希望UAC能够找到一个更好的分包商。\n\n多谢，\n山姆"
 	"#str_monorail_harding_email_3_email_to"	"山姆·哈丁"
 	"#str_monorail_harding_pda_fullname"	"山姆·J.哈丁"
 	"#str_monorail_harding_pda_id"	"6107-37"
@@ -12837,7 +12837,7 @@
 	"#str_phobos2_edens_pda_post"	"火卫一实验室"
 	"#str_phobos2_edens_pda_security"	"P4安保"
 	"#str_phobos2_edens_pda_title"	"安防长官"
-	"#str_phobos2_killian_audio_1_audio_info"	"制作者: Seth Killian\n日期: 2147-03-15\n允许修改: 是\n存入档案: 是"
+	"#str_phobos2_killian_audio_1_audio_info"	"制作者: 赛斯·基里安\n日期: 2147-03-15\n允许修改: 是\n存入档案: 是"
 	"#str_phobos2_killian_audio_1_audio_name"	"帮助我"
 	"#str_phobos2_killian_email_1_email_date"	"2147-3-14"
 	"#str_phobos2_killian_email_1_email_from"	"弗雷德·格罗斯曼"
@@ -12908,7 +12908,7 @@
 	"#str_phobos3_haag_pda_post"	"火卫一实验室"
 	"#str_phobos3_haag_pda_security"	"反应堆维护"
 	"#str_phobos3_haag_pda_title"	"反应堆维护"
-	"#str_phobos4_jolson_audio_1_audio_info"	"制作者: Ronn Jolson\n日期: 2146-12-3\n允许修改: 否\n存入档案: 是"
+	"#str_phobos4_jolson_audio_1_audio_info"	"制作者: 罗恩·乔尔森\n日期: 2146-12-3\n允许修改: 否\n存入档案: 是"
 	"#str_phobos4_jolson_audio_1_audio_name"	"密码学报告"
 	"#str_phobos4_jolson_email_1_email_date"	"2147-3-14"
 	"#str_phobos4_jolson_email_1_email_from"	"罗恩·乔尔森"
@@ -13045,7 +13045,7 @@
 	"#str_site3_rogers_email_3_email_date"	"2145-11-15"
 	"#str_site3_rogers_email_3_email_from"	"服务器: 邮递失败"
 	"#str_site3_rogers_email_3_email_subject"	"灵魂魔方就是答案"
-	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（code504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
+	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
 	"#str_site3_rogers_email_3_email_to"	"皮尔斯·罗杰斯"
 	"#str_site3_rogers_pda_fullname"	"皮尔斯·M.罗杰斯，博士"
 	"#str_site3_rogers_pda_id"	"5304-29"

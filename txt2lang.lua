@@ -38,6 +38,9 @@ parseTxt(arg[1], function(k, e, v, c)
 	if e:gsub('[^\n]+', '') ~= v:gsub('[^\n]+', '') then
 		print('WARN: mismatch lines for key: ' .. k)
 	end
+--	if e:find '%d' and v:find '%d' and e:gsub('%D', '') ~= v:gsub('%D', '') then
+--		print('WARN: mismatch numbers for key: ' .. k)
+--	end
 	if c then
 		f:write('// ', c, '\r\n')
 	end
