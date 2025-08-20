@@ -3261,7 +3261,7 @@ VALUE 1 = Red       2 = Blue
 
 > #str_00381
 MULTI-BUTTON SCRIPT
-多按键脚本
+多按钮脚本
 
 > #str_00382
 ; templates/copy one click script.gui
@@ -8328,7 +8328,7 @@ o2   00.1%
 
 > #str_01220
 Temporary Button
-临时按键
+临时按钮
 
 > #str_01221
 no ACO key
@@ -17085,7 +17085,7 @@ Unidentified
 > #str_02912
 ; mc_underground:目标提示
 Use your flashlight to illuminate dark areas. Pressing _impulse16 will turn it on and off.
-使用手电筒来照亮黑暗的区域。按下_impulse16将会开启或关闭它。
+使用手电筒来照亮黑暗的区域。按下 _impulse16 将会开启或关闭它。
 
 > #str_02913
 ; delta1:移除物品名 delta1:中继触发.需求 delta1:普通物品名
@@ -28189,7 +28189,7 @@ The current video card / driver combination does not support the necessary featu
 
 > #str_07000
 Press any key...
-按下任意按键……
+按下任意键……
 
 > #str_07001
 Invalid bind info
@@ -34298,7 +34298,7 @@ Artifact Charge
 > #str_00100961
 ; erebus1:目标提示
 Use the Grabber to move and throw objects.  The _impulse13 button will drop objects to the floor.
-使用钩爪来移动和投掷物件。_impulse13按键会将物件掉落到地面上。
+使用钩爪来移动和投掷物件。 _impulse13 按键会将物件掉落到地面上。
 
 > #str_00100962
 ; erebus2:地点.名
@@ -42794,7 +42794,7 @@ We're browning out all the time over here.  Do you have any extra powercells?
 Thanks in advance, 
 Nathan
 """
-"""内森,
+"""内森，
 抱歉，伙计，我想自己拿点的。那些能量电池效果不错，就是数量太少。一向如此。
 如果我找到更多电池就告诉你。我们应该很快就有一批电池要到了。
 罗恩
@@ -42802,7 +42802,7 @@ Nathan
 ----原始邮件----
 发送日期: 2147-3-10
 收件人: 罗恩·L.吉宾斯
-罗恩,
+罗恩，
 我们这里一直在灯火管制。你有没有多余的能量电池？
 先谢谢了，
 内森
