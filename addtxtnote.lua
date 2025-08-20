@@ -151,7 +151,7 @@ for line in io.lines 'guis.dir' do
 	line = line:gsub('^french/', ''):gsub('^italian/', ''):gsub('^spanish/', '')
 	for k in s:gmatch '(#str_[%w_]+)' do
 		local n = k .. ' ' .. line
-		if not used[n] then
+		if not used[n] and not used[n:gsub(' _ordered/', ' _common/')] then
 			used[n] = true
 			t[k] = (t[k] or '') .. ' ' .. line
 		end

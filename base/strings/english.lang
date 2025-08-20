@@ -92,7 +92,7 @@
 	"#str_00042"	"网络连接失败"
 // admin/comm1.gui
 	"#str_00043"	"网络登录"
-// alphalabs1/gasline.gui alphalabs1/opengate.gui doors/doorhazard.gui caves/liftmalfunction.gui delta2/halonswitch.gui delta2/securitydoor.gui enpro/rod_replace.gui enpro/steam_off.gui erebus3/vent_storage.gui marscity/cargo.gui mc_underground/invasion1.gui monorail/lower_klaxxon.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
+// alphalabs1/gasline.gui alphalabs1/opengate.gui doors/doorhazard.gui caves/liftmalfunction.gui delta2/halonswitch.gui delta2/securitydoor.gui enpro/rod_replace.gui enpro/steam_off.gui erebus3/vent_storage.gui marscity/cargo.gui mc_underground/invasion1.gui monorail/lower_klaxxon.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui weapons/bfg.gui
 	"#str_00044"	"警告"
 	"#str_00045"	"信号"
 	"#str_00046"	"方向偏离"
@@ -485,6 +485,7 @@
 	"#str_00240"	"小"
 	"#str_00241"	"大"
 	"#str_00242"	"手枪"
+// _common/def/weapon_shotgun.def
 	"#str_00243"	"霰弹枪"
 	"#str_00244"	"机枪"
 	"#str_00245"	"链枪"
@@ -1695,7 +1696,7 @@
 	"#str_00916"	"负荷:0m\nRise R:0 ft.\nLateral L:0 ft.\nAct. Manifold:0"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00917"	"排气模式"
-// erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
+// erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui _common/def/ammo.def
 	"#str_00918"	"无"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00919"	"泵产量"
@@ -2481,6 +2482,7 @@
 	"#str_01421"	"链枪"
 	"#str_01422"	"手雷"
 	"#str_01423"	"等离子枪"
+// _common/def/weapon_rocketlauncher.def
 	"#str_01424"	"火箭发射器"
 	"#str_01425"	"电锯"
 	"#str_01426"	"UAC-P112 私人次要武器"
@@ -2493,6 +2495,7 @@
 	"#str_01433"	"允许进入所有红色等级安全许可区域"
 	"#str_01434"	"个人数据助手"
 	"#str_01435"	"UAC雇员私人储藏设备"
+// lvlmaps/genericmap.gui
 	"#str_01436"	"UAC - PDA"
 	"#str_01437"	"用户ID"
 	"#str_01438"	"用户ID   "
@@ -2513,6 +2516,7 @@
 	"#str_01453"	"已下载数据"
 	"#str_01454"	"武器列表"
 	"#str_01455"	"物品清单"
+// _common/def/weapon_plasmagun.def
 	"#str_01456"	"等离子枪"
 	"#str_01457"	"照明弹"
 	"#str_01458"	"目标区域图"
@@ -2533,25 +2537,42 @@
 	"#str_01473"	"音频会议"
 	"#str_01474"	"电邮收件箱"
 	"#str_01475"	"手枪\n霰弹枪\n机枪\n链枪\n手雷\n等离子枪\n火箭发射器\nBFG\n电锯\n照明弹\n灵魂魔方"
+// _common/def/maps.def
 	"#str_01476"	"管理设施是公司在火星上的象征。位于上层办公室里面的联合航天的管理人员负责全部的本地及行星间的管理事务。这个设施里面还拥有数据库以及一个全球网络接入站点。"
+// _common/def/maps.def
 	"#str_01477"	"阿尔法实验室1区存放着元素相位拆析器以及氢聚变系统，\n一项革命性的新科技，可以将火星当地原材料转换为可用资源。\n主要EPD反应堆为氢聚变处理系统供能，并传输至2区MFS进行提炼和存储。"
+// _common/def/maps.def
 	"#str_01478"	"阿尔法实验室2区为基地的主要设施处理并储存氢气燃料，也就是分子燃料存储压缩机。地下层区域放置着为氢气提炼准备的冷却控制系统。"
+// _common/def/maps.def
 	"#str_01479"	"阿尔法实验室3区包含分子燃料存储压缩机的\n副冷却控制系统。从MFS系统中放出的废弃材料也在这里处理，并发送至回收装置中进行再提炼和废弃工作。"
+// _common/def/maps.def
 	"#str_01480"	"阿尔法实验室4区封印并保存着处理过的氢气燃料。这些燃料供UAC基地太空平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。"
 	"#str_01481"	"弹药工厂"
 	"#str_01482"	"更新: 24 / 10 / 03"
 	"#str_01483"	"记录:\n- 游戏类型出发特殊阻挡几何\n- 调整水平几何适应出发的阻挡\n- 添加了兵工厂镜头，和兵工厂门图形用户界面附近的监视器相连。\n- 添加了兵工厂附近的尘埃和细节\n- 调整了外部地形模型\n- 修正了各种显示上的小错误\n- 要用决斗设定加载地图，把si_gametype设为决斗\n- 剩下的交给脚本"
+// _common/def/maps.def
 	"#str_01484"	"洞穴区域1是原有火星基地的所在地。尽管所有研究已经移动到新的建筑中，这个老旧的设施仍然作为区域2和地点3之间主要的物资交换点。"
+// _common/def/maps.def
 	"#str_01485"	"洞穴区域2是主要的考古挖掘场。所有物品经过处理后\n被运输到地点3进行估价和分析。"
+// _common/def/maps.def
 	"#str_01486"	"通信塔是星球外通信的最主要的连接。\n广播天线盘整齐排列来和UAC-地球分部进行直接通信以及\n为通过火卫一路由站上行线路的深层空间通信提供中转桥接。"
+// _common/def/maps.def
 	"#str_01487"	"通讯传输通道连接恩普罗和通讯设备，是一个用作电力分配、设备维修和向其它基地区域运输货物的多功能设施。由于\n压力密封舱的损坏频率，该区域的氧气罐存量丰富。"
+// _common/def/maps.def
 	"#str_01488"	"中央处理容纳了用来处理实验数据、文档数据的控制系统，并且管理上方负责安防和日常的火星前哨工作的CPU。"
+// _common/def/maps.def
 	"#str_01489"	"德尔塔综合设施是火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。"
+// _common/def/maps.def
 	"#str_01490"	"德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。"
+// _common/def/maps.def
 	"#str_01491"	"德尔塔实验室研究设施 - 北2区包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。"
+// _common/def/maps.def
 	"#str_01492"	"德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到保安监控。"
+// _common/def/maps.def
 	"#str_01493"	"德尔塔实验室 - 4区包含第三代传输平台。所有的传送器目的研究都是机密的。只有顶层人士可以进入中央控制室和激活主要测试舱的阵列。"
+// _common/def/maps.def
 	"#str_01494"	"德尔塔综合设施时火星上面最为先进的研究设施。这个综合设施分为3个主要的区域，每个都有专用的功能，还要一个较小的区域里面放置了主测试传送门。只有通过单轨或者CPU综合设施才能\n到达那里。"
+// _common/def/maps.def
 	"#str_01495"	"恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。"
 // d3dm3:地点.位置
 	"#str_01496"	"碎片室"
@@ -2562,13 +2583,17 @@
 	"#str_01501"	"熄灯"
 	"#str_01502"	"记录:\n- 额外音频通道\n- 添加了3种游戏模式的脚本\n- 为死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新的布局（移除了厨房，狂战士走廊和小隔间通道，加快了游戏节奏）\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
 	"#str_01503"	"检测到火灾\n\n电梯拒绝访问"
+// _common/def/maps.def
 	"#str_01504"	"火星城第下层是火星上最初建造的多功能设施之一。其中包含了库房、环境系统、本地化能源生产、通讯阵列以及基础的研究系统，这个古老的设施对火星城的正常运转至关重要。"
+// _common/def/maps.def
 	"#str_01505"	"单轨是连接UAC综合设施下层人员准入区域和上层准入的研究设施的交通手段。请准备好所有的证件和安全调查数据来接受检查。"
 	"#str_01506"	"灭除教授"
 	"#str_01507"	"更新: 06 / 10 / 03"
 	"#str_01508"	"记录:\n-利用中央房间里的狂战士强化道具。\n-当心别在燃烧周期进入房间。\n\n改动记录:\n- 调整了布局，优化了传送门，改良了性能\n- 改善了灯光性能。"
 	"#str_01509"	"回收站对火星上的生存至关重要，它将废弃物品加工成\n可用资源。1区主要清洁和纯化空气和水源贮藏\n来进行再分配。"
+// _common/def/maps.def
 	"#str_01510"	"回收站对火星上的生存至关重要，它将废弃物品加工成可用资源。2区主要精炼和回收化学及生物废料。"
+// _common/def/maps.def
 	"#str_01511"	"站点3是原火星地下基地建筑与地面的连接点，这里还进行下层科研项目的研究和分析。"
 	"#str_01512"	"边缘2"
 	"#str_01513"	"记录:\n- 向之前的Edges致敬。\n- 用传送器快速获得强化道具\n\n改动记录:\n- 添加了音频通道\n- 传送器西边的房间和照明开关相连\n- 地图东边工业区有更多细节\n- 把各种灯和相应的env_swinglights作了链接\n- 给telecolon模型添加了传送器效果\n- 上面南部走廊添加了跳落点，可以跳到下面的洞穴里。\n- 在通往西部电脑实验室的走廊上添加了更多细节"
@@ -3126,7 +3151,9 @@
 	"#str_01816"	"最小"
 	"#str_01817"	"关闭通风孔"
 	"#str_01818"	"压力控制"
+// _common/def/weapon_pistol.def
 	"#str_01819"	"手枪"
+// _common/def/weapon_shotgun.def
 	"#str_01820"	"散弹枪"
 	"#str_01821"	"机关\n枪"
 	"#str_01822"	"锁链\n枪"
@@ -3333,7 +3360,9 @@
 	"#str_02019"	"生化信号丢失"
 	"#str_02020"	"重新装填"
 	"#str_02021"	"拳头"
+// _common/def/weapon_bfg.def
 	"#str_02022"	"BFG-9000"
+// _common/def/weapon_soulcube.def
 	"#str_02023"	"灵魂立方体"
 	"#str_02024"	"手电筒"
 	"#str_02025"	"新目标"
@@ -3345,7 +3374,9 @@
 	"#str_02031"	"正在下载PDA"
 	"#str_02032"	"安全许可已更新。"
 	"#str_02033"	"正在下载视频"
+// _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 	"#str_02034"	"新来客必须去登记处报告，以分配PDA。"
+// _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 	"#str_02035"	"UAC-PDA已分配，用已分配的键位绑定开关PDA。"
 	"#str_02036"	"谈话"
 	"#str_02037"	"空气"
@@ -3824,13 +3855,21 @@
 	"#str_02472"	"击杀"
 	"#str_02473"	"当前在玩"
 	"#str_02474"	"没有下载地图"
+// _common/def/weapon_fists.def
 	"#str_02475"	"拳头"
+// _common/def/weapon_machinegun.def
 	"#str_02476"	"机枪"
+// _common/def/weapon_chaingun.def
 	"#str_02477"	"链枪"
+// _common/def/weapon_handgrenade.def
 	"#str_02478"	"手雷"
+// _common/def/weapon_plasmagun.def
 	"#str_02479"	"等离子枪"
+// _common/def/weapon_rocketlauncher.def
 	"#str_02480"	"火箭发射器"
+// _common/def/weapon_chainsaw.def
 	"#str_02481"	"肢解"
+// _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 	"#str_02482"	"手电筒"
 	"#str_02483"	"最后生存者最大生命"
 	"#str_02484"	"新投票"
@@ -3880,6 +3919,7 @@
 	"#str_02522"	"来自"
 	"#str_02523"	"实验体"
 	"#str_02524"	"BFG 9000"
+// _common/def/weapon_soulcube.def
 	"#str_02525"	"灵魂立方体"
 	"#str_02526"	"当前没有目标"
 	"#str_02527"	"PDA文件"
@@ -3888,15 +3928,25 @@
 	"#str_02530"	"物品"
 	"#str_02531"	"主要任务目标"
 	"#str_02532"	"UAC标准版本的光源。此型号使用静态转移电源供能，因此不需要更换电池。"
+// _common/def/weapon_pistol.def
 	"#str_02533"	"所有UAC安保和军事人员都配备这种基本的投射式手枪。"
+// _common/def/weapon_shotgun.def
 	"#str_02534"	"霰弹枪在近距离内能造成巨大伤害，但是较大的扩散范围限制了其在长距离上的效力。"
+// _common/def/weapon_machinegun.def
 	"#str_02535"	"MG-88实施者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。"
+// _common/def/weapon_chaingun.def
 	"#str_02536"	"机关炮那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。"
+// _common/def/weapon_handgrenade.def
 	"#str_02537"	"步兵版本的破片手雷使用捻式引爆器起爆。爆炸延迟为3秒，杀伤范围是30米。"
+// _common/def/weapon_plasmagun.def
 	"#str_02538"	"在火星武器设施开发的基于能量的武器。配备恩普罗设施制造的等离子霰弹。"
+// _common/def/weapon_rocketlauncher.def
 	"#str_02539"	"为爆破和移除残骸而设计的自推进型便携火箭，此设计已经被改造为军用武器。"
+// _common/def/weapon_bfg.def
 	"#str_02540"	"这款原型武器发射的是带螺纹的可变能量弹药。UAC技术人员警告称，在全功率状态下存在稳定性问题。"
+// _common/def/weapon_chainsaw.def
 	"#str_02541"	"自供电链刃切割工具，是火星运输中心运错货物的一部分。"
+// _common/def/weapon_soulcube.def
 	"#str_02542"	"在洞穴的挖掘点发现了一个遗物。关于此魔方的功能与来源正在研究。"
 	"#str_02543"	"身份鉴别"
 	"#str_02544"	"音频日志"
@@ -4060,7 +4110,7 @@
 	"#str_02677"	"维护"
 // comm1:界面参数2
 	"#str_02678"	"通讯中心"
-// comm1:界面参数1 transfer/enter_monorail.gui transfer/exit_recycling2.gui
+// comm1:界面参数1 transfer/enter_monorail.gui transfer/exit_recycling2.gui _common/def/maps.def
 	"#str_02679"	"单轨"
 // comm1:中继触发.调用函数
 	"#str_02680"	"map_comm1::airlock_door1_open"
@@ -4415,8 +4465,11 @@
 	"#str_02905"	"一些可操作的电脑可以控制你周围的设备，例如门，窗，锁，储藏柜等等。"
 // mars_city1:目标提示
 	"#str_02906"	"你可以拾起视频碟片，音频日志，PDA以及其它物品。当你的PDA储存了新的信息的时候，你就会在HUD的左下角看到一个闪动的PDA或者视频碟片。"
+// _common/def/target.def
 	"#str_02907"	"提示"
+// _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 	"#str_02908"	"信息"
+// _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 	"#str_02909"	"你需要一台PDA来获得下载。"
 // mars_city1:目标提示
 	"#str_02910"	"你可以用你的PDA或者真正的ACO钥匙卡开启许多上锁的门。你的PDA也包含有安全访问密码来打开储藏柜，因此要确保获得每个PDA"
@@ -4430,11 +4483,11 @@
 // hellhole:地点.名 mars_city1:门.界面参数1 mars_city1:地点.名
 	"#str_02915"	"出发休息室"
 	"#str_02916"	"游戏已保存……"
-// admin:医疗包物品名 alphalabs1:医疗包物品名 alphalabs1:小医疗包物品名 alphalabs2:小医疗包物品名 alphalabs2:医疗包物品名 alphalabs3:小医疗包物品名 alphalabs3:医疗包物品名 alphalabs4:医疗包物品名 alphalabs4:小医疗包物品名 caverns1:医疗包物品名 caverns1:小医疗包物品名 caverns2:小医疗包物品名 caverns2:医疗包物品名 comm1:小医疗包物品名 comm1:医疗包物品名 commoutside:小医疗包物品名 commoutside:医疗包物品名 cpu:医疗包物品名 cpu:小医疗包物品名 cpuboss:小医疗包物品名 cpuboss:医疗包物品名 delta1:小医疗包物品名 delta1:医疗包物品名 delta2a:医疗包物品名 delta2a:小医疗包物品名 delta2b:医疗包物品名 delta2b:小医疗包物品名 delta3:小医疗包物品名 delta3:医疗包物品名 delta5:医疗包物品名 delta5:小医疗包物品名 deltax:可移动小医疗包物品名 deltax:可移动医疗包物品名 enpro:医疗包物品名 enpro:小医疗包物品名 erebus2:可移动小医疗包物品名 erebus2:可移动医疗包物品名 erebus3:可移动医疗包物品名 erebus3:可移动小医疗包物品名 erebus4:可移动小医疗包物品名 erebus4:可移动医疗包物品名 erebus5:可移动小医疗包物品名 erebus5:可移动医疗包物品名 erebus6:可移动医疗包物品名 erebus6:可移动小医疗包物品名 hell:可移动小医疗包物品名 hell:可移动医疗包物品名 hell1:医疗包物品名 hell1:小医疗包物品名 hellhole:医疗包物品名 hellhole:小医疗包物品名 le_enpro1:小医疗包物品名 le_enpro1:医疗包物品名 le_enpro2:可移动医疗包物品名 le_enpro2:可移动小医疗包物品名 le_exis1:小医疗包物品名 le_exis1:可移动小医疗包物品名 le_exis1:可移动医疗包物品名 le_exis1:医疗包物品名 le_exis2:可移动医疗包物品名 le_exis2:小医疗包物品名 le_exis2:可移动小医疗包物品名 le_hell:可移动医疗包物品名 le_hell:可移动小医疗包物品名 le_hell_post:可移动小医疗包物品名 le_hell_post:可移动医疗包物品名 le_hell_post:医疗包物品名 le_underground:可移动医疗包物品名 le_underground:可移动小医疗包物品名 le_underground2:可移动医疗包物品名 le_underground2:可移动小医疗包物品名 mars_city1:医疗包物品名 mars_city1:小医疗包物品名 mars_city2:小医疗包物品名 mars_city2:医疗包物品名 mc_underground:小医疗包物品名 mc_underground:医疗包物品名 monorail:医疗包物品名 phobos1:可移动小医疗包物品名 phobos1:可移动医疗包物品名 phobos2:可移动医疗包物品名 phobos2:可移动小医疗包物品名 phobos3:可移动医疗包物品名 phobos4:可移动小医疗包物品名 phobos4:可移动医疗包物品名 recycling1:医疗包物品名 recycling1:小医疗包物品名 recycling2:医疗包物品名 recycling2:小医疗包物品名 site3:医疗包物品名 site3:小医疗包物品名 d3ctf1:对战医疗包物品名 d3ctf1:对战小医疗包物品名 d3ctf2:对战小医疗包物品名 d3ctf2:对战医疗包物品名 d3ctf3:对战医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf4:对战小医疗包物品名 d3ctf4:对战医疗包物品名 d3ctf4:医疗包物品名 d3dm1:对战医疗包物品名 d3dm1:对战小医疗包物品名 d3dm2:对战小医疗包物品名 d3dm2:医疗包物品名 d3dm2:对战医疗包物品名 d3dm3:对战小医疗包物品名 d3dm3:对战医疗包物品名 d3dm4:小医疗包物品名 d3dm4:对战医疗包物品名 d3dm4:对战小医疗包物品名 d3dm5:对战小医疗包物品名 d3dm5:对战医疗包物品名 d3xpdm1:对战小医疗包物品名 d3xpdm1:对战医疗包物品名 d3xpdm2:对战小医疗包物品名 d3xpdm2:对战医疗包物品名 d3xpdm3:对战医疗包物品名 d3xpdm4:对战小医疗包物品名 d3xpdm4:对战医疗包物品名
+// admin:医疗包物品名 alphalabs1:医疗包物品名 alphalabs1:小医疗包物品名 alphalabs2:小医疗包物品名 alphalabs2:医疗包物品名 alphalabs3:小医疗包物品名 alphalabs3:医疗包物品名 alphalabs4:医疗包物品名 alphalabs4:小医疗包物品名 caverns1:医疗包物品名 caverns1:小医疗包物品名 caverns2:小医疗包物品名 caverns2:医疗包物品名 comm1:小医疗包物品名 comm1:医疗包物品名 commoutside:小医疗包物品名 commoutside:医疗包物品名 cpu:医疗包物品名 cpu:小医疗包物品名 cpuboss:小医疗包物品名 cpuboss:医疗包物品名 delta1:小医疗包物品名 delta1:医疗包物品名 delta2a:医疗包物品名 delta2a:小医疗包物品名 delta2b:医疗包物品名 delta2b:小医疗包物品名 delta3:小医疗包物品名 delta3:医疗包物品名 delta5:医疗包物品名 delta5:小医疗包物品名 deltax:可移动小医疗包物品名 deltax:可移动医疗包物品名 enpro:医疗包物品名 enpro:小医疗包物品名 erebus2:可移动小医疗包物品名 erebus2:可移动医疗包物品名 erebus3:可移动医疗包物品名 erebus3:可移动小医疗包物品名 erebus4:可移动小医疗包物品名 erebus4:可移动医疗包物品名 erebus5:可移动小医疗包物品名 erebus5:可移动医疗包物品名 erebus6:可移动医疗包物品名 erebus6:可移动小医疗包物品名 hell:可移动小医疗包物品名 hell:可移动医疗包物品名 hell1:医疗包物品名 hell1:小医疗包物品名 hellhole:医疗包物品名 hellhole:小医疗包物品名 le_enpro1:小医疗包物品名 le_enpro1:医疗包物品名 le_enpro2:可移动医疗包物品名 le_enpro2:可移动小医疗包物品名 le_exis1:小医疗包物品名 le_exis1:可移动小医疗包物品名 le_exis1:可移动医疗包物品名 le_exis1:医疗包物品名 le_exis2:可移动医疗包物品名 le_exis2:小医疗包物品名 le_exis2:可移动小医疗包物品名 le_hell:可移动医疗包物品名 le_hell:可移动小医疗包物品名 le_hell_post:可移动小医疗包物品名 le_hell_post:可移动医疗包物品名 le_hell_post:医疗包物品名 le_underground:可移动医疗包物品名 le_underground:可移动小医疗包物品名 le_underground2:可移动医疗包物品名 le_underground2:可移动小医疗包物品名 mars_city1:医疗包物品名 mars_city1:小医疗包物品名 mars_city2:小医疗包物品名 mars_city2:医疗包物品名 mc_underground:小医疗包物品名 mc_underground:医疗包物品名 monorail:医疗包物品名 phobos1:可移动小医疗包物品名 phobos1:可移动医疗包物品名 phobos2:可移动医疗包物品名 phobos2:可移动小医疗包物品名 phobos3:可移动医疗包物品名 phobos4:可移动小医疗包物品名 phobos4:可移动医疗包物品名 recycling1:医疗包物品名 recycling1:小医疗包物品名 recycling2:医疗包物品名 recycling2:小医疗包物品名 site3:医疗包物品名 site3:小医疗包物品名 d3ctf1:对战医疗包物品名 d3ctf1:对战小医疗包物品名 d3ctf2:对战小医疗包物品名 d3ctf2:对战医疗包物品名 d3ctf3:对战医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf4:对战小医疗包物品名 d3ctf4:对战医疗包物品名 d3ctf4:医疗包物品名 d3dm1:对战医疗包物品名 d3dm1:对战小医疗包物品名 d3dm2:对战小医疗包物品名 d3dm2:医疗包物品名 d3dm2:对战医疗包物品名 d3dm3:对战小医疗包物品名 d3dm3:对战医疗包物品名 d3dm4:小医疗包物品名 d3dm4:对战医疗包物品名 d3dm4:对战小医疗包物品名 d3dm5:对战小医疗包物品名 d3dm5:对战医疗包物品名 d3xpdm1:对战小医疗包物品名 d3xpdm1:对战医疗包物品名 d3xpdm2:对战小医疗包物品名 d3xpdm2:对战医疗包物品名 d3xpdm3:对战医疗包物品名 d3xpdm4:对战小医疗包物品名 d3xpdm4:对战医疗包物品名 _common/def/items.def
 	"#str_02917"	"医疗包"
-// admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名
+// admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名 _common/def/items.def
 	"#str_02918"	"保安护甲"
-// admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名
+// admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名 _common/def/items.def
 	"#str_02919"	"护甲零件"
 // admin:PDA物品.名 admin:PDA物品.界面参数6 cpuboss:PDA物品.名 cpuboss:PDA物品.界面参数6 delta5:PDA物品.名 monorail:PDA物品.名 recycling1:PDA物品.名
 	"#str_02920"	"门PDA"
@@ -4485,7 +4538,7 @@
 	"#str_02943"	"阿尔法实验室4区。"
 // alphalabs4:物品目标.内容
 	"#str_02944"	"尽快抵达恩普罗电站"
-// alphalabs4:物品目标.标题
+// alphalabs4:物品目标.标题 _common/def/maps.def
 	"#str_02945"	"恩普罗电站"
 	"#str_02946"	"工具"
 // caverns1:物品目标完成.标题 caverns1:物品目标.标题
@@ -4571,7 +4624,7 @@
 	"#str_02987"	"获取安全许可进入中央处理区"
 // cpuboss:PDA物品.名
 	"#str_02988"	"security_unlock"
-// cpuboss:界面参数3 transfer/exit_cpuboss.gui transfer/enter_site3.gui
+// cpuboss:界面参数3 transfer/exit_cpuboss.gui transfer/enter_site3.gui _common/def/maps.def
 	"#str_02989"	"站点3"
 // cpuboss:界面参数4
 	"#str_02990"	"地下9层"
@@ -4689,7 +4742,7 @@
 	"#str_03048"	"安全行动"
 // mars_city1:界面参数4 mars_city2:界面参数4
 	"#str_03049"	"服务通道"
-// le_underground:界面参数3 mars_city1:界面参数3 mars_city2:界面参数3 mc_underground:界面参数3 marscity/elevatorcall.gui transfer/enter_mars_city2.gui transfer/exit_mc_underground.gui
+// le_underground:界面参数3 mars_city1:界面参数3 mars_city2:界面参数3 mc_underground:界面参数3 marscity/elevatorcall.gui transfer/enter_mars_city2.gui transfer/exit_mc_underground.gui _common/def/maps.def
 	"#str_03050"	"火星城"
 // mars_city1:界面参数1
 	"#str_03051"	"video/video_uac_welcome"
@@ -4757,7 +4810,7 @@
 	"#str_03082"	"设法去安全检查点。在哪里你可以坐电梯回火星城。"
 // mc_underground:物品目标.标题 mc_underground:物品目标完成.标题
 	"#str_03083"	"回到安全检查点"
-// d3dm4:对战背包物品名
+// d3dm4:对战背包物品名 _common/def/d3xp-items.def
 	"#str_03084"	"背包"
 	"#str_03085"	"马修·邓肯"
 	"#str_03086"	"弗兰克·埃里克森"
@@ -5498,24 +5551,32 @@
 	"#str_03466"	"峰值温度"
 // generic/spheredirty.gui
 	"#str_03467"	"冷却级别\n550 GPT"
+// _common/def/maps.def
 	"#str_03468"	"联合航天公司部门"
 	"#str_03469"	"正"
 	"#str_03470"	"正在"
 	"#str_03471"	"正在载"
 	"#str_03472"	"正在载入"
 	"#str_03473"	"阿尔法实验室 - 第1区"
+// _common/def/maps.def
 	"#str_03474"	"联合航天科学部门"
 	"#str_03475"	"阿尔法实验室 - 第2区"
 	"#str_03476"	"阿尔法实验室 - 第3区"
 	"#str_03477"	"阿尔法实验室 - 第4区"
 	"#str_03478"	"洞穴 - 第1区域"
+// _common/def/maps.def
 	"#str_03479"	"坑道传输"
 	"#str_03480"	"洞穴 - 第2区域"
+// _common/def/maps.def
 	"#str_03481"	"遗物挖掘"
+// _common/def/maps.def
 	"#str_03482"	"中央通信塔"
 	"#str_03483"	"通讯传输室"
+// _common/def/maps.def
 	"#str_03484"	"维护和传输站"
+// _common/def/maps.def
 	"#str_03485"	"正在处理分配中心"
+// _common/def/maps.def
 	"#str_03486"	"主要服务库"
 	"#str_03487"	"D3DM1 - 富美子反应堆"
 	"#str_03488"	"D3DM2 - 德尔塔实验室"
@@ -5523,25 +5584,35 @@
 	"#str_03490"	"D3DM4 - THE EDGE 2"
 	"#str_03491"	"D3DM5 - LIGHTS OUT"
 	"#str_03492"	"德尔塔实验室 - 1层"
+// _common/def/maps.def
 	"#str_03493"	"联合航天研究部门"
 	"#str_03494"	"德尔塔实验室 - 2层"
 	"#str_03495"	"德尔塔实验室 - 3层"
 	"#str_03496"	"德尔塔实验室 - 第4区"
 	"#str_03497"	"恩普罗电站"
+// _common/def/maps.def
 	"#str_03498"	"能源处理与储存"
+// _common/def/maps.def
 	"#str_03499"	"主发掘地里面包含了古代墓室。由于此墓室的发现，石碑，灵魂魔方以及许多其它很有价值的遗物都被发掘了出来。"
 	"#str_03500"	"主要挖掘点"
+// _common/def/maps.def
 	"#str_03501"	"遗物挖掘"
+// _common/def/maps.def
 	"#str_03502"	"火星城通往联合航天的所有火星基地。所有到达的人员前往指定岗位之前都在这里处理。火星城里有陆战队行动主控制室，以及总管理员办公室。"
 	"#str_03503"	"火星城地下区"
+// _common/def/maps.def
 	"#str_03504"	"联合航天子系统"
+// _common/def/maps.def
 	"#str_03505"	"设施交通"
+// _common/def/maps.def
 	"#str_03506"	"单轨铁路天桥跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。"
 	"#str_03507"	"单轨铁路天桥"
 	"#str_03508"	"回收 - 区域2"
+// _common/def/maps.def
 	"#str_03509"	"废料回收中心"
 // transfer/exit_site3.gui
 	"#str_03510"	"区域3"
+// _common/def/maps.def
 	"#str_03511"	"分析设施"
 // marscity/bioscan.gui marscity/bioscan2.gui marscity/bioscan3.gui marscity/bioscan4.gui
 	"#str_03512"	"扫描准备完毕"
@@ -6605,7 +6676,9 @@
 	"#str_04044"	"平面位置丢失\nEPR光束未找到"
 // transfer/hell.gui
 	"#str_04045"	"传送站6"
+// weapons/bfg.gui
 	"#str_04046"	"长按扳机"
+// weapons/bfg.gui
 	"#str_04047"	"充能"
 // credits.gui
 	"#str_04048"	"声音样式"
@@ -8124,14 +8197,23 @@
 	"#str_07006"	" - 等待队列中的第%d个"
 	"#str_07007"	"旁观中 - 全部死亡"
 	"#str_07008"	"跟随: %s"
+// _common/def/ammo.def
 	"#str_07009"	"炮弹"
+// _common/def/ammo.def
 	"#str_07010"	"子弹"
+// _common/def/ammo.def
 	"#str_07011"	"火箭"
+// _common/def/ammo.def
 	"#str_07012"	"电池"
+// _common/def/ammo.def _common/def/weapon_handgrenade.def
 	"#str_07013"	"手雷"
+// _common/def/ammo.def
 	"#str_07014"	"灵魂"
+// _common/def/ammo.def
 	"#str_07015"	"BFG 弹夹"
+// _common/def/ammo.def
 	"#str_07016"	"夹子"
+// _common/def/ammo.def
 	"#str_07017"	"弹药腰带"
 	"#str_07018"	"Tab"
 	"#str_07019"	"回车"
@@ -8265,32 +8347,59 @@
 	"#str_07147"	"客户未授权。"
 	"#str_07148"	"拒绝访问 - CD钥匙已被使用。"
 	"#str_07149"	"授权服务器 - 等待客户端。"
+// _common/def/maps.def
 	"#str_07150"	"火星城地下"
+// _common/def/maps.def
 	"#str_07151"	"UAC管理部门"
+// _common/def/maps.def
 	"#str_07152"	"阿尔法实验室1区"
+// _common/def/maps.def
 	"#str_07153"	"阿尔法实验室2区"
+// _common/def/maps.def
 	"#str_07154"	"阿尔法实验室3区"
+// _common/def/maps.def
 	"#str_07155"	"阿尔法实验室4区"
+// _common/def/maps.def
 	"#str_07156"	"通讯传输室"
+// _common/def/maps.def
 	"#str_07157"	"单轨天桥"
+// _common/def/maps.def
 	"#str_07158"	"循环区"
+// _common/def/maps.def
 	"#str_07159"	"德尔塔实验室1区"
+// _common/def/maps.def
 	"#str_07160"	"德尔塔实验室2a区"
+// _common/def/maps.def
 	"#str_07161"	"德尔塔实验室2b区"
+// _common/def/maps.def
 	"#str_07162"	"德尔塔实验室3区"
+// _common/def/maps.def
 	"#str_07163"	"德尔塔实验室4区"
+// _common/def/maps.def
 	"#str_07164"	"地狱"
+// _common/def/maps.def
 	"#str_07165"	"德尔塔实验室5区"
+// _common/def/maps.def
 	"#str_07166"	"中央服务器机房"
+// _common/def/maps.def
 	"#str_07167"	"洞穴区域1"
+// _common/def/maps.def
 	"#str_07168"	"洞穴区域2"
+// _common/def/maps.def
 	"#str_07169"	"主要撤离点"
+// _common/def/maps.def
 	"#str_07170"	"富美子反应堆"
+// _common/def/maps.def
 	"#str_07171"	"德尔塔实验室"
+// _common/def/maps.def
 	"#str_07172"	"碎片室"
+// _common/def/maps.def
 	"#str_07173"	"边缘2"
+// _common/def/maps.def
 	"#str_07174"	"熄灯"
+// _common/def/maps.def
 	"#str_07175"	"通讯"
+// _common/def/maps.def
 	"#str_07176"	"中央处理"
 	"#str_07177"	"%s^0 加入了游戏"
 	"#str_07178"	"^5QuickSave"
@@ -8509,9 +8618,13 @@
 	"#str_11506"	"蓝色下层"
 // d3ctf1:地点.名
 	"#str_11507"	"蓝色旗帜"
+// _common/def/d3ctf1.def
 	"#str_11600"	"HollowXings"
+// _common/def/d3ctf2.def
 	"#str_11601"	"泵站"
+// _common/def/d3ctf3.def
 	"#str_11602"	"为实验室供电"
+// _common/def/d3ctf4.def
 	"#str_11603"	"生化安全总部"
 	"#str_11604"	"%s^0 已经离开游戏。"
 // d3dm5:地点.名
@@ -8569,33 +8682,48 @@
 	"#str_00100031"	"D3XPDM3 - MEATHOLE"
 	"#str_00100032"	"D3XPDM4 - MALDM2"
 	"#str_00100033"	"德尔塔实验室 - 未知"
+// _common/def/maps.def
 	"#str_00100034"	"联合航天研究部门"
+// _common/def/maps.def
 	"#str_00100035"	"这个发掘地是1号站里面考古挖掘的焦点。在这里，火星表面地下深层，发掘出了许多的外星人洞窟和遗物。"
+// _common/def/maps.def
 	"#str_00100036"	"厄瑞玻斯 - 2层"
 // erebus3:地点.位置
 	"#str_00100037"	"主挖掘场"
+// _common/def/maps.def
 	"#str_00100038"	"找到刚经过的古老洞穴，遗物储存设施填满了各种各样在1号地区发现的挖掘物。地震活动在此地区时有发生，所以储存设施使用了UAC特有的专利减震技术来保护。"
+// _common/def/maps.def
 	"#str_00100039"	"厄瑞玻斯 - 3层"
+// _common/def/maps.def
 	"#str_00100040"	"厄瑞玻斯综合设施能够加工从火星洞穴深处采掘出来的矿石。实验性的UAC机械设备也被配置在这里来加工和处理高放射性的自然资源。"
+// _common/def/maps.def
 	"#str_00100041"	"厄瑞玻斯 - 4层"
 // phobos3:电梯.界面参数4 phobos3:界面参数4
 	"#str_00100042"	"正在处理"
 	"#str_00100043"	"1号站点中数目庞大的研究和工业活动会产生有害的废料，它们需要被小心处理。废物处理系统里面包含了许多应对这些高危物质的机制。"
+// _common/def/maps.def
 	"#str_00100044"	"厄瑞玻斯 - 5层"
 	"#str_00100045"	"废料管理"
+// _common/def/maps.def
 	"#str_00100046"	"站点1包含两个主要设施，厄瑞玻斯综合设施和火卫一实验室。在厄瑞玻斯站和火卫一第1区之间有定时的单轨列车通行。"
 // transfer/exit_erebus6.gui
 	"#str_00100047"	"厄瑞玻斯站"
+// _common/def/maps.def
 	"#str_00100048"	"火卫一实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于站点3的德尔塔实验室内建造了一个姊妹传送设施。"
 	"#str_00100049"	"火卫一实验室 - 第1区"
-// deltax:PDA物品.名 phobos1:界面参数1
+// deltax:PDA物品.名 phobos1:界面参数1 _common/def/maps.def
 	"#str_00100050"	"传送"
+// _common/def/maps.def
 	"#str_00100051"	"除了提供著名科学家伊丽莎白·麦克内尔博士和她的团队最先进的实验室设施，该部门还包含了1号地区的重要子系统。"
 	"#str_00100052"	"火卫一实验室 - 第2区"
+// _common/def/maps.def
 	"#str_00100053"	"分子研究"
+// _common/def/maps.def
 	"#str_00100054"	"挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在福布斯实验室内完成。"
 	"#str_00100055"	"火卫一实验室 - 第3区"
+// _common/def/maps.def
 	"#str_00100056"	"主反应堆"
+// _common/def/maps.def
 	"#str_00100057"	"尽管传送技术是1区的主要研究领域，UAC的科学家们还在这里做出了引力操控领域内的重大发现。其成果，引力加速器是UAC最为成功的产品之一。"
 // phobos/cargotunnel_shutters.gui
 	"#str_00100058"	"正在处理命令"
@@ -8617,18 +8745,18 @@
 	"#str_00100066"	"空中轨道车控制"
 // transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/exit_erebus4.gui
 	"#str_00100067"	"中转电梯"
-// erebus2:界面参数3 transfer/enter_erebus3.gui
+// erebus2:界面参数3 transfer/enter_erebus3.gui _common/def/maps.def
 	"#str_00100068"	"厄瑞玻斯实验室"
 // transfer/enter_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/enter_erebus5.gui transfer/enter_erebus6.gui transfer/enter_phobos1.gui transfer/enter_phobos2.gui transfer/enter_phobos3.gui transfer/enter_phobos4.gui
 	"#str_00100069"	"当前位置"
 // transfer/enter_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/enter_erebus5.gui transfer/enter_erebus6.gui transfer/enter_phobos1.gui transfer/enter_phobos2.gui transfer/enter_phobos3.gui transfer/enter_phobos4.gui
 	"#str_00100070"	"中转成功"
-// erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui
+// erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui _common/def/maps.def
 	"#str_00100071"	"厄瑞玻斯研究"
 // transfer/exit_erebus3.gui transfer/enter_erebus5.gui transfer/exit_erebus5.gui transfer/enter_erebus6.gui transfer/exit_phobos1.gui transfer/enter_phobos2.gui transfer/exit_phobos2.gui transfer/enter_phobos3.gui transfer/exit_phobos3.gui transfer/enter_phobos4.gui
 	"#str_00100072"	"中转台"
 	"#str_00100073"	"厄瑞玻斯综合设施"
-// transfer/exit_erebus5.gui transfer/enter_erebus6.gui
+// transfer/exit_erebus5.gui transfer/enter_erebus6.gui _common/def/maps.def
 	"#str_00100074"	"厄瑞玻斯站"
 // transfer/exit_erebus6.gui transfer/enter_phobos1.gui
 	"#str_00100075"	"单轨铁路站点"
@@ -8766,41 +8894,58 @@
 // powercellgenerator.gui
 	"#str_00100176"	"移除"
 	"#str_00100177"	"近战/抓取"
+// _common/def/weapon_pistol.def
 	"#str_00100178"	"手枪"
 	"#str_00100179"	"霰弹枪/双管"
+// _common/def/weapon_machinegun.def
 	"#str_00100180"	"机枪"
+// _common/def/weapon_chaingun.def
 	"#str_00100181"	"链枪"
 	"#str_00100182"	"手雷"
 	"#str_00100183"	"等离子枪"
 	"#str_00100184"	"火箭"
 	"#str_00100185"	"BFG"
+// _common/def/weapon_bloodstone_passive.def
 	"#str_00100186"	"神器"
+// _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 	"#str_00100187"	"手电筒"
+// _common/def/weapon_fists.def
 	"#str_00100188"	"拳头"
 	"#str_00100189"	"爪钩"
 	"#str_00100190"	"霰弹枪"
+// _common/def/weapon_shotgun_double.def
 	"#str_00100191"	"双管霰弹枪"
 	"#str_00100192"	"机枪"
 	"#str_00100193"	"链枪"
 	"#str_00100194"	"手雷"
 	"#str_00100195"	"等离子枪"
 	"#str_00100196"	"火箭发射器"
+// _common/def/weapon_bfg.def
 	"#str_00100197"	"BFG-9000"
 	"#str_00100198"	"神器 - 地狱时刻"
 	"#str_00100199"	"神器 - 狂暴"
 	"#str_00100200"	"神器 - 无敌"
+// _common/def/weapon_bloodstone_active.def
 	"#str_00100201"	"地狱时间"
+// _common/def/weapon_bloodstone_active.def
 	"#str_00100202"	"狂暴"
+// _common/def/weapon_bloodstone_active.def
 	"#str_00100203"	"无敌"
 	"#str_00100204"	"环境"
+// _common/def/weapon_chainsaw.def
 	"#str_00100205"	"电锯"
 	"#str_00100206"	"双管"
+// _common/def/weapon_grabber.def
 	"#str_00100207"	"爪钩"
 	"#str_00100208"	"双管"
+// _common/def/weapon_bloodstone_passive.def
 	"#str_00100209"	"神器"
+// _common/def/weapon_grabber.def
 	"#str_00100210"	"电离等离子体悬浮器能够制造出电磁充能的等离子流来将物件短距离移动。"
 	"#str_00100211"	"双管霰弹枪"
+// _common/def/weapon_shotgun_double.def
 	"#str_00100212"	"Vulcan 1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。"
+// _common/def/weapon_bloodstone_passive.def
 	"#str_00100213"	"由上古文明建立来抵抗地狱的势力。"
 // erebus1:可移动护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus4:可移动护甲物品名 erebus6:可移动护甲物品名 hell:可移动护甲物品名 phobos1:可移动护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 d3ctf3:对战护甲物品名 d3ctf4:对战护甲物品名
 	"#str_00100214"	"保安护甲"
@@ -8944,7 +9089,7 @@
 	"#str_00100298"	"关闭火卫一实验室生命维持系统"
 // phobos3:物品目标.标题 phobos3:物品目标完成.标题
 	"#str_00100299"	"生命维持系统"
-// phobos2:防辐射服物品名 phobos3:防辐射服物品名
+// phobos2:防辐射服物品名 phobos3:防辐射服物品名 _common/def/d3xp-items.def
 	"#str_00100300"	"防护服"
 // phobos3:地点.位置
 	"#str_00100301"	"等离子储存"
@@ -9361,6 +9506,7 @@
 	"#str_00100537"	"铁"
 	"#str_00100538"	"厄瑞玻斯 - 一层"
 	"#str_00100539"	"主挖掘场 - 一号地点"
+// _common/def/maps.def
 	"#str_00100540"	"在厄瑞玻斯综合设施里面，在1号站点发现的众多古代碎片被克劳德博士和他的研究者团队小心地研究者。在这里，遗物研究所的内部，他们努力地要解开古代残留物品上面的谜团。"
 	"#str_00100541"	"设置终点到操控点"
 	"#str_00100542"	"1号平台\n德尔塔实验室"
@@ -9465,6 +9611,7 @@
 	"#str_00100600"	"准备扫描"
 	"#str_00100601"	"D3XPDM3 - 地狱之洞"
 	"#str_00100602"	"D3XPDM4 - 日食"
+// _common/def/maps.def
 	"#str_00100603"	"德尔塔综合设施时火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。"
 	"#str_00100604"	"应用视频和音频设置更改"
 	"#str_00100605"	"不惜一切代价到达地狱传送器！"
@@ -9472,7 +9619,7 @@
 	"#str_00100607"	"你需要一些电池来将遗物储藏室里面的气体滤除。"
 // erebus3:物品目标.内容 erebus3:物品目标完成.内容
 	"#str_00100608"	"这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储存室。"
-// erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名
+// erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
 	"#str_00100609"	"原始生物"
 	"#str_00100610"	"找到1块电池来启动通往通风系统的电梯"
 // erebus4:物品目标.标题 erebus4:物品目标完成.标题
@@ -9657,10 +9804,10 @@
 	"#str_00100714"	"关闭自动保存错误对话框"
 	"#str_00100715"	"自动存储覆盖已取消"
 	"#str_00100716"	"地狱"
-// erebus2:界面参数4 transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui
+// erebus2:界面参数4 transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui _common/def/maps.def
 	"#str_00100717"	"厄瑞玻斯挖掘场"
 	"#str_00100718"	"厄瑞玻斯实验室"
-// erebus4:界面参数4 erebus5:界面参数4 transfer/exit_erebus3.gui transfer/enter_erebus4.gui
+// erebus4:界面参数4 erebus5:界面参数4 transfer/exit_erebus3.gui transfer/enter_erebus4.gui _common/def/maps.def
 	"#str_00100719"	"厄瑞玻斯控制"
 	"#str_00100720"	"厄瑞玻斯研究"
 	"#str_00100721"	"厄瑞玻斯站"
@@ -9846,7 +9993,9 @@
 // ctf/mainthatch.gui
 	"#str_00100830"	"关闭维修舱门"
 	"#str_00100831"	"站点1分布着大量的洞穴，是UAC最新挖掘的地点。这里有很多新发现，包括那些为UAC考古学家提供信息用来研究火星远古物种的石碑。"
+// _common/def/maps.def
 	"#str_00100832"	"厄瑞玻斯 - 1层"
+// _common/def/maps.def
 	"#str_00100833"	"厄瑞玻斯 - 6层"
 // transfer/enter_phobos1.gui
 	"#str_00100834"	"正在转移"
@@ -9927,6 +10076,7 @@
 	"#str_00100897"	"找到一个能量电池启动电梯通往洞穴换乘站"
 // erebus4:地点.位置 erebus4:界面参数1
 	"#str_00100898"	"坑道传输站"
+// _common/def/d3xp-items.def
 	"#str_00100899"	"防护箱"
 // phobos3:物品目标完成.内容
 	"#str_00100900"	"乘坐人行天桥前往火卫一实验室实验传送器那里"
@@ -9989,22 +10139,33 @@
 	"#str_00100941"	"肖恩·米切尔"
 	"#str_00100942"	"格雷戈里·斯通"
 	"#str_00100943"	"神经软件是"
+// _common/def/maps.def
 	"#str_00100944"	"主挖掘场"
 	"#str_00100945"	"厄瑞玻斯挖掘场"
 	"#str_00100946"	"厄瑞玻斯实验室"
 	"#str_00100947"	"厄瑞玻斯控制"
 	"#str_00100948"	"厄瑞玻斯研究"
 	"#str_00100949"	"厄瑞玻斯站"
+// _common/def/maps.def
 	"#str_00100950"	"火卫一实验室 - 1区"
+// _common/def/maps.def
 	"#str_00100951"	"火卫一实验室 - 2区"
+// _common/def/maps.def
 	"#str_00100952"	"火卫一实验室 - 3区"
+// _common/def/maps.def
 	"#str_00100953"	"火卫一实验室 - 重游"
+// _common/def/maps.def
 	"#str_00100954"	"德尔塔实验室 - 未知"
+// _common/def/maps.def
 	"#str_00100955"	"地狱"
+// _common/def/maps.def
 	"#str_00100956"	"坑道"
+// _common/def/maps.def
 	"#str_00100957"	"地狱游戏"
 	"#str_00100958"	"地狱之洞"
+// _common/def/maps.def
 	"#str_00100959"	"日食"
+// _common/def/d3xp-ammo.def
 	"#str_00100960"	"神器充能"
 // erebus1:目标提示
 	"#str_00100961"	"使用钩爪来移动和投掷物件。_impulse13按键会将物件掉落到地面上。"
@@ -10179,21 +10340,33 @@
 // phobos3:移除物品名 phobos3:钥匙卡物品名 phobos3:界面参数7
 	"#str_00101054"	"反应堆钥匙"
 	"#str_00101055"	"布莱恩·哈里斯"
+// _common/def/d3xp-items.def
 	"#str_00101056"	"能量电池"
+// _common/def/maps.def
 	"#str_00101057"	"地狱之洞"
-// le_exis1:界面参数3 le_enpro1/meyers_contact.gui transfer/exit_le_underground.gui
+// le_exis1:界面参数3 le_enpro1/meyers_contact.gui transfer/exit_le_underground.gui _common/def/maps.def
 	"#str_00200000"	"艾克西斯实验室"
+// _common/def/maps.def
 	"#str_00200001"	"联合航天研究部门"
+// _common/def/maps.def
 	"#str_00200002"	"艾克西斯实验室是一个开发第四代传送器的部分完成的研究区。传送器的原型机是以在厄瑞玻斯挖掘场发现的火星传送器为模版制作的。该设施完成后将展示UAC传送器研究的最高成就。"
-// le_enpro1/meyers_contact.gui
+// le_enpro1/meyers_contact.gui _common/def/maps.def
 	"#str_00200003"	"恩普罗1区"
+// _common/def/maps.def
 	"#str_00200004"	"能源处理与储存"
+// _common/def/maps.def
 	"#str_00200005"	"恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。"
+// _common/def/maps.def
 	"#str_00200006"	"恩普罗2区"
+// _common/def/maps.def
 	"#str_00200007"	"能源处理与储存"
+// _common/def/maps.def
 	"#str_00200008"	"区域2不但是通讯塔的主电源而且也是整个艾克西斯综合设施的备用电源。等离子罐也是由CRC电力公司生产制造。"
+// _common/def/maps.def
 	"#str_00200009"	"地下"
+// _common/def/maps.def
 	"#str_00200010"	"火星城地下层服务区"
+// _common/def/maps.def
 	"#str_00200011"	"火星城地下各层包含了支持火星城所需的基础设施。地下层还提供了火星上UAC的多个研究设施之间的连接点。"
 // transfer/enter_le_exis.gui
 	"#str_00200012"	"艾克西斯实验室"
@@ -10603,9 +10776,13 @@
 	"#str_00200220"	"地下层进入权限"
 // le_enpro2:目标安保.内容
 	"#str_00200221"	"辅助核心"
+// _common/def/maps.def
 	"#str_00200222"	"其愤怒降临之日；何人能抵挡？"
+// _common/def/maps.def
 	"#str_00200223"	"我看着大裂谷，从那个古老的地方生出了烟和火……"
+// _common/def/maps.def
 	"#str_00200224"	"……到时候他们就会倒下；他们的灾难之日正在到来他们的毁灭将会突然降临。"
+// _common/def/maps.def
 	"#str_00200225"	"但是世界末日将会是这段日子的终结……"
 // transfer/le_hell_post.gui
 	"#str_00200226"	"岗哨站1"
@@ -11951,6 +12128,7 @@
 	"#str_hell_hebert_pda_post"	"德尔塔实验室，3区"
 	"#str_hell_hebert_pda_security"	""
 	"#str_hell_hebert_pda_title"	"研究专家"
+// _common/def/maps.def
 	"#str_hell_outpost"	"地狱前哨站"
 	"#str_hellhole_id_pda_fullname"	"id软件"
 	"#str_hellhole_id_pda_id"	"2004-08"
@@ -13055,6 +13233,7 @@
 	"#str_tooley_exis_pda_02_audio_name"	"紧急情况"
 	"#str_uacwelcome_video_info"	"创建者: 人力资源\n日期: 45-03-05\n\n需要额外的帮助请联系你的UAC代表"
 	"#str_uacwelcome_video_name"	"欢迎来到火星研究设施一号"
+// _common/def/weapon_fists.def
 	"#str_weapon_fists_desc"	"胳膊末端空空如也的双手。可以用来狠揍敌人。"
 	"#str_xbl_party_desc"	"浏览你的Xbox LIVE小队"
 	"#str_zombie42email_email_date"	"2145-11-15"
@@ -13070,6 +13249,7 @@
 	"#str_game_mode_dm"	"DM"
 	"#str_game_mode_tourney"	"锦标赛"
 	"#str_online_join_error_full"	"大厅已满"
+// _common/def/items.def
 	"#str_item_ssd"	"固态硬盘驱动器"
 	"#str_swf_connection_problem"	"连接问题"
 	"#str_loadtip_title"	"游戏提示:"

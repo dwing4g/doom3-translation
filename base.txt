@@ -299,7 +299,7 @@ NETWORK LOGIN
 网络登录
 
 > #str_00044
-; alphalabs1/gasline.gui alphalabs1/opengate.gui doors/doorhazard.gui caves/liftmalfunction.gui delta2/halonswitch.gui delta2/securitydoor.gui enpro/rod_replace.gui enpro/steam_off.gui erebus3/vent_storage.gui marscity/cargo.gui mc_underground/invasion1.gui monorail/lower_klaxxon.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
+; alphalabs1/gasline.gui alphalabs1/opengate.gui doors/doorhazard.gui caves/liftmalfunction.gui delta2/halonswitch.gui delta2/securitydoor.gui enpro/rod_replace.gui enpro/steam_off.gui erebus3/vent_storage.gui marscity/cargo.gui mc_underground/invasion1.gui monorail/lower_klaxxon.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui weapons/bfg.gui
 WARNING
 警告
 
@@ -2387,6 +2387,7 @@ Pistol
 手枪
 
 > #str_00243
+; _common/def/weapon_shotgun.def
 Shotgun
 霰弹枪
 
@@ -6504,7 +6505,7 @@ Vent Mode
 排气模式
 
 > #str_00918
-; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
+; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui _common/def/ammo.def
 None
 无
 
@@ -9426,6 +9427,7 @@ Plasmagun
 等离子枪
 
 > #str_01424
+; _common/def/weapon_rocketlauncher.def
 Rocket Launcher
 火箭发射器
 
@@ -9480,6 +9482,7 @@ UAC employee personal storage device.
 UAC雇员私人储藏设备
 
 > #str_01436
+; lvlmaps/genericmap.gui
 UAC - PDA
 UAC - PDA
 
@@ -9560,6 +9563,7 @@ ITEMS LIST
 物品清单
 
 > #str_01456
+; _common/def/weapon_plasmagun.def
 Plasma Gun
 等离子枪
 
@@ -9660,10 +9664,12 @@ BFG
 灵魂魔方"""
 
 > #str_01476
+; _common/def/maps.def
 The Administration Facility is the Corporate presence on Mars. Union Aerospace executives located in the upper level offices are responsible for all local and interplanetary administrative tasks. The facility also houses data archives and a global network access station.
 管理设施是公司在火星上的象征。位于上层办公室里面的联合航天的管理人员负责全部的本地及行星间的管理事务。这个设施里面还拥有数据库以及一个全球网络接入站点。
 
 > #str_01477
+; _common/def/maps.def
 """Alpha Labs Sector 1 houses the Elemental Phase Deconstructor and Hydrocon
 systems, a revolutionary new technology that transforms raw materials native to
 Mars into useable resources. The primary EPD reactor feeds into the Hydrocon processing system for transport to Sector 2 MFS refinement and storage."""
@@ -9672,16 +9678,19 @@ Mars into useable resources. The primary EPD reactor feeds into the Hydrocon pro
 主要EPD反应堆为氢聚变处理系统供能，并传输至2区MFS进行提炼和存储。"""
 
 > #str_01478
+; _common/def/maps.def
 Alpha Labs Sector 2 processes and stores hydrogen fuel through the facility's primary system, the Molecular Fuel Storage Compactor. The sublevel section houses the coolant control system needed for proper hydrogen fuel refinement.
 阿尔法实验室2区为基地的主要设施处理并储存氢气燃料，也就是分子燃料存储压缩机。地下层区域放置着为氢气提炼准备的冷却控制系统。
 
 > #str_01479
+; _common/def/maps.def
 """Alpha Labs Sector 3 contains the secondary coolant control system for the Molecular
 Fuel Storage Compactor. Waste material from the MFS system is also processed here, and sent to the Recycling plant for post-refinement and disposal."""
 """阿尔法实验室3区包含分子燃料存储压缩机的
 副冷却控制系统。从MFS系统中放出的废弃材料也在这里处理，并发送至回收装置中进行再提炼和废弃工作。"""
 
 > #str_01480
+; _common/def/maps.def
 Alpha Labs Sector 4 seals and prepares shipments of processed hydrogen fuel for dropship distribution to UAC bases and subspace platforms. The system is fully automated and personnel access is limited due to open machinery hazards.
 阿尔法实验室4区封印并保存着处理过的氢气燃料。这些燃料供UAC基地太空平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。
 
@@ -9714,16 +9723,19 @@ Update: 24 / 10 / 03
 - 剩下的交给脚本"""
 
 > #str_01484
+; _common/def/maps.def
 Caverns Area 1 is the location of the original Mars Base. While all research has been moved to newer structures, this aging facility still serves as the primary material transfer point between Area 2 and Site 3.
 洞穴区域1是原有火星基地的所在地。尽管所有研究已经移动到新的建筑中，这个老旧的设施仍然作为区域2和地点3之间主要的物资交换点。
 
 > #str_01485
+; _common/def/maps.def
 """Caverns Area 2 is the primary archeological excavation site. All items are processed
 and transported to Site 3 for evaluation and analysis."""
 """洞穴区域2是主要的考古挖掘场。所有物品经过处理后
 被运输到地点3进行估价和分析。"""
 
 > #str_01486
+; _common/def/maps.def
 """The Communications Tower is the primary link for off-planet communications.
 Broadcast dishes are aligned for communications directly with UAC-Earth and
 bridged for deep space communications via the Phobos Routing Station uplink."""
@@ -9732,42 +9744,51 @@ bridged for deep space communications via the Phobos Routing Station uplink."""
 为通过火卫一路由站上行线路的深层空间通信提供中转桥接。"""
 
 > #str_01487
+; _common/def/maps.def
 """Comm Transfer connects Enpro and Communications, and acts as a multipurpose facility for power distribution, equipment repair, and cargo transfer to other base sectors. Due
 to the frequency of broken pressure seals, oxygen tanks are well stocked in this sector."""
 """通讯传输通道连接恩普罗和通讯设备，是一个用作电力分配、设备维修和向其它基地区域运输货物的多功能设施。由于
 压力密封舱的损坏频率，该区域的氧气罐存量丰富。"""
 
 > #str_01488
+; _common/def/maps.def
 Central Processing houses the control systems which are used to process data for experiments, archive data, and manage the CPU overhead for security and regular day-to-day operations of the entire outpost on Mars. 
 中央处理容纳了用来处理实验数据、文档数据的控制系统，并且管理上方负责安防和日常的火星前哨工作的CPU。
 
 > #str_01489
+; _common/def/maps.def
 The Delta Complex is the most advanced research facility on Mars. Sector 1 contains the power systems, energy core distribution center, and services the administrative functions of the entire Delta Complex.
 德尔塔综合设施是火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
 
 > #str_01490
+; _common/def/maps.def
 Delta Labs Research Facility - Sector 2 South contains the Matter Transfer division focusing on human experimentation and other biological testing. The prototype transfer platform is contained in the upper research hall. Teleporter distance is limited, serving only to test biological effects of matter transference.
 德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。
 
 > #str_01491
+; _common/def/maps.def
 Delta Labs Research Facility - Sector 2 North contains the Biological Research division, focusing on studying various specimens from matter transfer tests. All specimens are catalogued and stored locally.
 德尔塔实验室研究设施 - 北2区包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。
 
 > #str_01492
+; _common/def/maps.def
 Delta Labs - Sector 3 contains the second generation transfer platforms, able to teleport variable distances to small portable receiving platforms. Test chambers must be reserved prior to experimentation. All access is under security observation.
 德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到保安监控。
 
 > #str_01493
+; _common/def/maps.def
 Delta Labs - Sector 4 houses the third generation transfer portal. All teleporter destination research is classified. Only top level personnel have access to the central control room and activation grid for the primary test chamber.
 德尔塔实验室 - 4区包含第三代传输平台。所有的传送器目的研究都是机密的。只有顶层人士可以进入中央控制室和激活主要测试舱的阵列。
 
 > #str_01494
+; _common/def/maps.def
 """The Delta Complex is the most advanced research facility on Mars. The complex is divided into three main sectors each serving unique purposes and one smaller sector that houses the main test portal. Access can only be gained through the Monorail or
 CPU Complex."""
 """德尔塔综合设施时火星上面最为先进的研究设施。这个综合设施分为3个主要的区域，每个都有专用的功能，还要一个较小的区域里面放置了主测试传送门。只有通过单轨或者CPU综合设施才能
 到达那里。"""
 
 > #str_01495
+; _common/def/maps.def
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
 恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
@@ -9845,10 +9866,12 @@ ELEVATOR ACCESS DENIED"""
 电梯拒绝访问"""
 
 > #str_01504
+; _common/def/maps.def
 The Mars City sublevel was one of the first multi-purpose installations built on Mars. Housing storage, environmental systems, localized energy production, communications arrays, and rudimentary research systems, the aging facility is vital to keeping Mars City operational.
 火星城第下层是火星上最初建造的多功能设施之一。其中包含了库房、环境系统、本地化能源生产、通讯阵列以及基础的研究系统，这个古老的设施对火星城的正常运转至关重要。
 
 > #str_01505
+; _common/def/maps.def
 The Monorail serves as transportation between the low level access sectors of the UAC Complex and the priority access research facilities. Have all identification and security clearance data prepared for inspection.
 单轨是连接UAC综合设施下层人员准入区域和上层准入的研究设施的交通手段。请准备好所有的证件和安全调查数据来接受检查。
 
@@ -9885,10 +9908,12 @@ for redistribution."""
 来进行再分配。"""
 
 > #str_01510
+; _common/def/maps.def
 The Recycling Plant is key to survival on Mars, processing waste products into useable resources. Sector 2 primarily refines and recycles chemical and biological waste.
 回收站对火星上的生存至关重要，它将废弃物品加工成可用资源。2区主要精炼和回收化学及生物废料。
 
 > #str_01511
+; _common/def/maps.def
 Site 3 is the ground level access point to the original subterranean Mars base structure. Research objects from the lower levels are analyzed and studied in this facility.
 站点3是原火星地下基地建筑与地面的连接点，这里还进行下层科研项目的研究和分析。
 
@@ -12194,10 +12219,12 @@ pressure controlz0r
 压力控制
 
 > #str_01819
+; _common/def/weapon_pistol.def
 PISTOL
 手枪
 
 > #str_01820
+; _common/def/weapon_shotgun.def
 SHOTGUN
 散弹枪
 
@@ -13178,10 +13205,12 @@ Fists
 拳头
 
 > #str_02022
+; _common/def/weapon_bfg.def
 BFG-9000
 BFG-9000
 
 > #str_02023
+; _common/def/weapon_soulcube.def
 Soul Cube
 灵魂立方体
 
@@ -13226,10 +13255,12 @@ Downloading Video
 正在下载视频
 
 > #str_02034
+; _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 New transfers must report to the registration desk to be issued a PDA.
 新来客必须去登记处报告，以分配PDA。
 
 > #str_02035
+; _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 UAC-PDA issued. Toggle the PDA with the assigned keybind.
 UAC-PDA已分配，用已分配的键位绑定开关PDA。
 
@@ -15090,34 +15121,42 @@ no map loaded
 没有下载地图
 
 > #str_02475
+; _common/def/weapon_fists.def
 FISTS
 拳头
 
 > #str_02476
+; _common/def/weapon_machinegun.def
 MACHINE GUN
 机枪
 
 > #str_02477
+; _common/def/weapon_chaingun.def
 CHAIN GUN
 链枪
 
 > #str_02478
+; _common/def/weapon_handgrenade.def
 GRENADES
 手雷
 
 > #str_02479
+; _common/def/weapon_plasmagun.def
 PLASMA GUN
 等离子枪
 
 > #str_02480
+; _common/def/weapon_rocketlauncher.def
 ROCKET LAUNCHER
 火箭发射器
 
 > #str_02481
+; _common/def/weapon_chainsaw.def
 CHAINSAW
 肢解
 
 > #str_02482
+; _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 FLASHLIGHT
 手电筒
 
@@ -15296,6 +15335,7 @@ BFG 9000
 BFG 9000
 
 > #str_02525
+; _common/def/weapon_soulcube.def
 SOUL CUBE
 灵魂立方体
 
@@ -15328,42 +15368,52 @@ UAC Standard issue light source. This model utilizes a static transfer power sup
 UAC标准版本的光源。此型号使用静态转移电源供能，因此不需要更换电池。
 
 > #str_02533
+; _common/def/weapon_pistol.def
 All UAC Security and Military personnel are supplied with this basic projectile side arm.
 所有UAC安保和军事人员都配备这种基本的投射式手枪。
 
 > #str_02534
+; _common/def/weapon_shotgun.def
 The shotgun deals considerable damage at close range, however the wide spread limits long range effectiveness.
 霰弹枪在近距离内能造成巨大伤害，但是较大的扩散范围限制了其在长距离上的效力。
 
 > #str_02535
+; _common/def/weapon_machinegun.def
 The MG-88 Enforcer delivers a high rate of fire and dependable accuracy when fired in short bursts. Standard Marine Infantry issue.
 MG-88实施者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。
 
 > #str_02536
+; _common/def/weapon_chaingun.def
 The Chain Gun's 0.30 caliber armor piercing round delivers substantial damage, but heavy recoil reduces accuracy.
 机关炮那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。
 
 > #str_02537
+; _common/def/weapon_handgrenade.def
 The infantry issue fragmentation grenade is activated by a twist detonator. Fire delay is 3 seconds, with an injury radius of 30 meters.
 步兵版本的破片手雷使用捻式引爆器起爆。爆炸延迟为3秒，杀伤范围是30米。
 
 > #str_02538
+; _common/def/weapon_plasmagun.def
 Energy based weapon developed in the Mars weapon facility. Unit is powered by plasma canisters manufactured in the Enpro facility.
 在火星武器设施开发的基于能量的武器。配备恩普罗设施制造的等离子霰弹。
 
 > #str_02539
+; _common/def/weapon_rocketlauncher.def
 A portable self-propelled rocket designed for demolition and debris removal, this model has been modified for use as a military weapon.
 为爆破和移除残骸而设计的自推进型便携火箭，此设计已经被改造为军用武器。
 
 > #str_02540
+; _common/def/weapon_bfg.def
 This prototype fires a threaded variable energy charge. UAC technicians have warned of stability issues at full power.
 这款原型武器发射的是带螺纹的可变能量弹药。UAC技术人员警告称，在全功率状态下存在稳定性问题。
 
 > #str_02541
+; _common/def/weapon_chainsaw.def
 Self powered chain-blade cutting tool. Part of a shipment incorrectly routed to the Mars dropship distribution center. 
 自供电链刃切割工具，是火星运输中心运错货物的一部分。
 
 > #str_02542
+; _common/def/weapon_soulcube.def
 An artifact discovered in the caverns excavation site. Research of the Cube's origin and function are ongoing.
 在洞穴的挖掘点发现了一个遗物。关于此魔方的功能与来源正在研究。
 
@@ -15970,7 +16020,7 @@ Comm Center
 通讯中心
 
 > #str_02679
-; comm1:界面参数1 transfer/enter_monorail.gui transfer/exit_recycling2.gui
+; comm1:界面参数1 transfer/enter_monorail.gui transfer/exit_recycling2.gui _common/def/maps.def
 Monorail
 单轨
 
@@ -17009,14 +17059,17 @@ You can pick up Video Disks, Audio Logs, PDAs, and other items. When there is ne
 你可以拾起视频碟片，音频日志，PDA以及其它物品。当你的PDA储存了新的信息的时候，你就会在HUD的左下角看到一个闪动的PDA或者视频碟片。
 
 > #str_02907
+; _common/def/target.def
 Tip
 提示
 
 > #str_02908
+; _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 Info
 信息
 
 > #str_02909
+; _common/def/d3le-player.def _common/def/d3xp-player.def _common/def/player.def
 You need a PDA in order to receive downloads.
 你需要一台PDA来获得下载。
 
@@ -17054,17 +17107,17 @@ Game Saved...
 游戏已保存……
 
 > #str_02917
-; admin:医疗包物品名 alphalabs1:医疗包物品名 alphalabs1:小医疗包物品名 alphalabs2:小医疗包物品名 alphalabs2:医疗包物品名 alphalabs3:小医疗包物品名 alphalabs3:医疗包物品名 alphalabs4:医疗包物品名 alphalabs4:小医疗包物品名 caverns1:医疗包物品名 caverns1:小医疗包物品名 caverns2:小医疗包物品名 caverns2:医疗包物品名 comm1:小医疗包物品名 comm1:医疗包物品名 commoutside:小医疗包物品名 commoutside:医疗包物品名 cpu:医疗包物品名 cpu:小医疗包物品名 cpuboss:小医疗包物品名 cpuboss:医疗包物品名 delta1:小医疗包物品名 delta1:医疗包物品名 delta2a:医疗包物品名 delta2a:小医疗包物品名 delta2b:医疗包物品名 delta2b:小医疗包物品名 delta3:小医疗包物品名 delta3:医疗包物品名 delta5:医疗包物品名 delta5:小医疗包物品名 deltax:可移动小医疗包物品名 deltax:可移动医疗包物品名 enpro:医疗包物品名 enpro:小医疗包物品名 erebus2:可移动小医疗包物品名 erebus2:可移动医疗包物品名 erebus3:可移动医疗包物品名 erebus3:可移动小医疗包物品名 erebus4:可移动小医疗包物品名 erebus4:可移动医疗包物品名 erebus5:可移动小医疗包物品名 erebus5:可移动医疗包物品名 erebus6:可移动医疗包物品名 erebus6:可移动小医疗包物品名 hell:可移动小医疗包物品名 hell:可移动医疗包物品名 hell1:医疗包物品名 hell1:小医疗包物品名 hellhole:医疗包物品名 hellhole:小医疗包物品名 le_enpro1:小医疗包物品名 le_enpro1:医疗包物品名 le_enpro2:可移动医疗包物品名 le_enpro2:可移动小医疗包物品名 le_exis1:小医疗包物品名 le_exis1:可移动小医疗包物品名 le_exis1:可移动医疗包物品名 le_exis1:医疗包物品名 le_exis2:可移动医疗包物品名 le_exis2:小医疗包物品名 le_exis2:可移动小医疗包物品名 le_hell:可移动医疗包物品名 le_hell:可移动小医疗包物品名 le_hell_post:可移动小医疗包物品名 le_hell_post:可移动医疗包物品名 le_hell_post:医疗包物品名 le_underground:可移动医疗包物品名 le_underground:可移动小医疗包物品名 le_underground2:可移动医疗包物品名 le_underground2:可移动小医疗包物品名 mars_city1:医疗包物品名 mars_city1:小医疗包物品名 mars_city2:小医疗包物品名 mars_city2:医疗包物品名 mc_underground:小医疗包物品名 mc_underground:医疗包物品名 monorail:医疗包物品名 phobos1:可移动小医疗包物品名 phobos1:可移动医疗包物品名 phobos2:可移动医疗包物品名 phobos2:可移动小医疗包物品名 phobos3:可移动医疗包物品名 phobos4:可移动小医疗包物品名 phobos4:可移动医疗包物品名 recycling1:医疗包物品名 recycling1:小医疗包物品名 recycling2:医疗包物品名 recycling2:小医疗包物品名 site3:医疗包物品名 site3:小医疗包物品名 d3ctf1:对战医疗包物品名 d3ctf1:对战小医疗包物品名 d3ctf2:对战小医疗包物品名 d3ctf2:对战医疗包物品名 d3ctf3:对战医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf4:对战小医疗包物品名 d3ctf4:对战医疗包物品名 d3ctf4:医疗包物品名 d3dm1:对战医疗包物品名 d3dm1:对战小医疗包物品名 d3dm2:对战小医疗包物品名 d3dm2:医疗包物品名 d3dm2:对战医疗包物品名 d3dm3:对战小医疗包物品名 d3dm3:对战医疗包物品名 d3dm4:小医疗包物品名 d3dm4:对战医疗包物品名 d3dm4:对战小医疗包物品名 d3dm5:对战小医疗包物品名 d3dm5:对战医疗包物品名 d3xpdm1:对战小医疗包物品名 d3xpdm1:对战医疗包物品名 d3xpdm2:对战小医疗包物品名 d3xpdm2:对战医疗包物品名 d3xpdm3:对战医疗包物品名 d3xpdm4:对战小医疗包物品名 d3xpdm4:对战医疗包物品名
+; admin:医疗包物品名 alphalabs1:医疗包物品名 alphalabs1:小医疗包物品名 alphalabs2:小医疗包物品名 alphalabs2:医疗包物品名 alphalabs3:小医疗包物品名 alphalabs3:医疗包物品名 alphalabs4:医疗包物品名 alphalabs4:小医疗包物品名 caverns1:医疗包物品名 caverns1:小医疗包物品名 caverns2:小医疗包物品名 caverns2:医疗包物品名 comm1:小医疗包物品名 comm1:医疗包物品名 commoutside:小医疗包物品名 commoutside:医疗包物品名 cpu:医疗包物品名 cpu:小医疗包物品名 cpuboss:小医疗包物品名 cpuboss:医疗包物品名 delta1:小医疗包物品名 delta1:医疗包物品名 delta2a:医疗包物品名 delta2a:小医疗包物品名 delta2b:医疗包物品名 delta2b:小医疗包物品名 delta3:小医疗包物品名 delta3:医疗包物品名 delta5:医疗包物品名 delta5:小医疗包物品名 deltax:可移动小医疗包物品名 deltax:可移动医疗包物品名 enpro:医疗包物品名 enpro:小医疗包物品名 erebus2:可移动小医疗包物品名 erebus2:可移动医疗包物品名 erebus3:可移动医疗包物品名 erebus3:可移动小医疗包物品名 erebus4:可移动小医疗包物品名 erebus4:可移动医疗包物品名 erebus5:可移动小医疗包物品名 erebus5:可移动医疗包物品名 erebus6:可移动医疗包物品名 erebus6:可移动小医疗包物品名 hell:可移动小医疗包物品名 hell:可移动医疗包物品名 hell1:医疗包物品名 hell1:小医疗包物品名 hellhole:医疗包物品名 hellhole:小医疗包物品名 le_enpro1:小医疗包物品名 le_enpro1:医疗包物品名 le_enpro2:可移动医疗包物品名 le_enpro2:可移动小医疗包物品名 le_exis1:小医疗包物品名 le_exis1:可移动小医疗包物品名 le_exis1:可移动医疗包物品名 le_exis1:医疗包物品名 le_exis2:可移动医疗包物品名 le_exis2:小医疗包物品名 le_exis2:可移动小医疗包物品名 le_hell:可移动医疗包物品名 le_hell:可移动小医疗包物品名 le_hell_post:可移动小医疗包物品名 le_hell_post:可移动医疗包物品名 le_hell_post:医疗包物品名 le_underground:可移动医疗包物品名 le_underground:可移动小医疗包物品名 le_underground2:可移动医疗包物品名 le_underground2:可移动小医疗包物品名 mars_city1:医疗包物品名 mars_city1:小医疗包物品名 mars_city2:小医疗包物品名 mars_city2:医疗包物品名 mc_underground:小医疗包物品名 mc_underground:医疗包物品名 monorail:医疗包物品名 phobos1:可移动小医疗包物品名 phobos1:可移动医疗包物品名 phobos2:可移动医疗包物品名 phobos2:可移动小医疗包物品名 phobos3:可移动医疗包物品名 phobos4:可移动小医疗包物品名 phobos4:可移动医疗包物品名 recycling1:医疗包物品名 recycling1:小医疗包物品名 recycling2:医疗包物品名 recycling2:小医疗包物品名 site3:医疗包物品名 site3:小医疗包物品名 d3ctf1:对战医疗包物品名 d3ctf1:对战小医疗包物品名 d3ctf2:对战小医疗包物品名 d3ctf2:对战医疗包物品名 d3ctf3:对战医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf4:对战小医疗包物品名 d3ctf4:对战医疗包物品名 d3ctf4:医疗包物品名 d3dm1:对战医疗包物品名 d3dm1:对战小医疗包物品名 d3dm2:对战小医疗包物品名 d3dm2:医疗包物品名 d3dm2:对战医疗包物品名 d3dm3:对战小医疗包物品名 d3dm3:对战医疗包物品名 d3dm4:小医疗包物品名 d3dm4:对战医疗包物品名 d3dm4:对战小医疗包物品名 d3dm5:对战小医疗包物品名 d3dm5:对战医疗包物品名 d3xpdm1:对战小医疗包物品名 d3xpdm1:对战医疗包物品名 d3xpdm2:对战小医疗包物品名 d3xpdm2:对战医疗包物品名 d3xpdm3:对战医疗包物品名 d3xpdm4:对战小医疗包物品名 d3xpdm4:对战医疗包物品名 _common/def/items.def
 Med Kit
 医疗包
 
 > #str_02918
-; admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名
+; admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名 _common/def/items.def
 Security Armor
 保安护甲
 
 > #str_02919
-; admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名
+; admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名 _common/def/items.def
 Armor Shard
 护甲零件
 
@@ -17193,7 +17246,7 @@ Reach the Enpro Plant as quickly as possible.
 尽快抵达恩普罗电站
 
 > #str_02945
-; alphalabs4:物品目标.标题
+; alphalabs4:物品目标.标题 _common/def/maps.def
 Enpro Plant
 恩普罗电站
 
@@ -17411,7 +17464,7 @@ security_unlock
 security_unlock
 
 > #str_02989
-; cpuboss:界面参数3 transfer/exit_cpuboss.gui transfer/enter_site3.gui
+; cpuboss:界面参数3 transfer/exit_cpuboss.gui transfer/enter_site3.gui _common/def/maps.def
 Site 3
 站点3
 
@@ -17712,7 +17765,7 @@ Service Passage
 服务通道
 
 > #str_03050
-; le_underground:界面参数3 mars_city1:界面参数3 mars_city2:界面参数3 mc_underground:界面参数3 marscity/elevatorcall.gui transfer/enter_mars_city2.gui transfer/exit_mc_underground.gui
+; le_underground:界面参数3 mars_city1:界面参数3 mars_city2:界面参数3 mc_underground:界面参数3 marscity/elevatorcall.gui transfer/enter_mars_city2.gui transfer/exit_mc_underground.gui _common/def/maps.def
 Mars City
 火星城
 
@@ -17882,7 +17935,7 @@ Back to security checkpoint
 回到安全检查点
 
 > #str_03084
-; d3dm4:对战背包物品名
+; d3dm4:对战背包物品名 _common/def/d3xp-items.def
 Backpack
 背包
 
@@ -20197,6 +20250,7 @@ PEAK TEMP
 550 GPT"""
 
 > #str_03468
+; _common/def/maps.def
 Union Aerospace Corporate Division
 联合航天公司部门
 
@@ -20221,6 +20275,7 @@ ALPHA LABS - SECTOR 1
 阿尔法实验室 - 第1区
 
 > #str_03474
+; _common/def/maps.def
 Union Aerospace Science Division
 联合航天科学部门
 
@@ -20241,6 +20296,7 @@ CAVERNS - AREA 1
 洞穴 - 第1区域
 
 > #str_03479
+; _common/def/maps.def
 Excavation Transfer
 坑道传输
 
@@ -20249,10 +20305,12 @@ CAVERNS - AREA 2
 洞穴 - 第2区域
 
 > #str_03481
+; _common/def/maps.def
 Artifact Excavation
 遗物挖掘
 
 > #str_03482
+; _common/def/maps.def
 Central Communications Tower
 中央通信塔
 
@@ -20261,14 +20319,17 @@ COMMUNICATIONS TRANSFER
 通讯传输室
 
 > #str_03484
+; _common/def/maps.def
 Maintenance and Transfer Station
 维护和传输站
 
 > #str_03485
+; _common/def/maps.def
 Processing Distribution Center
 正在处理分配中心
 
 > #str_03486
+; _common/def/maps.def
 Primary Server Bank
 主要服务库
 
@@ -20297,6 +20358,7 @@ DELTA LABS - LEVEL 1
 德尔塔实验室 - 1层
 
 > #str_03493
+; _common/def/maps.def
 Union Aerospace Research Division
 联合航天研究部门
 
@@ -20317,10 +20379,12 @@ ENPRO PLANT
 恩普罗电站
 
 > #str_03498
+; _common/def/maps.def
 Energy Processing and Storage
 能源处理与储存
 
 > #str_03499
+; _common/def/maps.def
 The primary excavation site houses the ancient burial chamber. The discovery of this chamber unearthed the stone tablets, soul cube, and many other valuable artifacts.
 主发掘地里面包含了古代墓室。由于此墓室的发现，石碑，灵魂魔方以及许多其它很有价值的遗物都被发掘了出来。
 
@@ -20329,10 +20393,12 @@ PRIMARY EXCAVATION
 主要挖掘点
 
 > #str_03501
+; _common/def/maps.def
 Artifact Dig
 遗物挖掘
 
 > #str_03502
+; _common/def/maps.def
 Mars City is the gateway to all of Union Aerospace's Mars Base. All arriving personnel are processed here before moving to their assigned posts. Mars City houses the primary Marine Operations control room as well as the main administrator's office.
 火星城通往联合航天的所有火星基地。所有到达的人员前往指定岗位之前都在这里处理。火星城里有陆战队行动主控制室，以及总管理员办公室。
 
@@ -20341,14 +20407,17 @@ MARS CITY UNDERGROUND
 火星城地下区
 
 > #str_03504
+; _common/def/maps.def
 Union Aerospace Subsystems
 联合航天子系统
 
 > #str_03505
+; _common/def/maps.def
 Facility Transport
 设施交通
 
 > #str_03506
+; _common/def/maps.def
 The Monorail Skybridge crosses over the primary recycling station, a key element in processing waste products into useable resources.
 单轨铁路天桥跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。
 
@@ -20361,6 +20430,7 @@ RECYCLING - SECTOR 2
 回收 - 区域2
 
 > #str_03509
+; _common/def/maps.def
 Waste Recycling Center
 废料回收中心
 
@@ -20370,6 +20440,7 @@ SITE 3
 区域3
 
 > #str_03511
+; _common/def/maps.def
 Analysis Facility
 分析设施
 
@@ -23706,10 +23777,12 @@ TELEPORTER STATION 6
 传送站6
 
 > #str_04046
+; weapons/bfg.gui
 HOLD TRIGGER
 长按扳机
 
 > #str_04047
+; weapons/bfg.gui
 TO CHARGE
 充能
 
@@ -28151,38 +28224,47 @@ Following: %s
 跟随: %s
 
 > #str_07009
+; _common/def/ammo.def
 Shells
 炮弹
 
 > #str_07010
+; _common/def/ammo.def
 Bullets
 子弹
 
 > #str_07011
+; _common/def/ammo.def
 Rockets
 火箭
 
 > #str_07012
+; _common/def/ammo.def
 Cells
 电池
 
 > #str_07013
+; _common/def/ammo.def _common/def/weapon_handgrenade.def
 Hand Grenades
 手雷
 
 > #str_07014
+; _common/def/ammo.def
 Souls
 灵魂
 
 > #str_07015
+; _common/def/ammo.def
 BFG Cell
 BFG 弹夹
 
 > #str_07016
+; _common/def/ammo.def
 Clip
 夹子
 
 > #str_07017
+; _common/def/ammo.def
 Ammo Belt
 弹药腰带
 
@@ -28729,110 +28811,137 @@ Authorize Server - Waiting for client.
 授权服务器 - 等待客户端。
 
 > #str_07150
+; _common/def/maps.def
 Mars City Underground
 火星城地下
 
 > #str_07151
+; _common/def/maps.def
 UAC Administration
 UAC管理部门
 
 > #str_07152
+; _common/def/maps.def
 Alpha Labs Sector 1
 阿尔法实验室1区
 
 > #str_07153
+; _common/def/maps.def
 Alpha Labs Sector 2
 阿尔法实验室2区
 
 > #str_07154
+; _common/def/maps.def
 Alpha Labs Sector 3
 阿尔法实验室3区
 
 > #str_07155
+; _common/def/maps.def
 Alpha Labs Sector 4
 阿尔法实验室4区
 
 > #str_07156
+; _common/def/maps.def
 Communications Transfer
 通讯传输室
 
 > #str_07157
+; _common/def/maps.def
 Monorail Skybridge
 单轨天桥
 
 > #str_07158
+; _common/def/maps.def
 Recycling Sector
 循环区
 
 > #str_07159
+; _common/def/maps.def
 Delta Labs Sector 1
 德尔塔实验室1区
 
 > #str_07160
+; _common/def/maps.def
 Delta Labs Sector 2a
 德尔塔实验室2a区
 
 > #str_07161
+; _common/def/maps.def
 Delta Labs Sector 2b
 德尔塔实验室2b区
 
 > #str_07162
+; _common/def/maps.def
 Delta Labs Sector 3
 德尔塔实验室3区
 
 > #str_07163
+; _common/def/maps.def
 Delta Labs Sector 4
 德尔塔实验室4区
 
 > #str_07164
+; _common/def/maps.def
 Hell
 地狱
 
 > #str_07165
+; _common/def/maps.def
 Delta Labs Sector 5
 德尔塔实验室5区
 
 > #str_07166
+; _common/def/maps.def
 Central Server Banks
 中央服务器机房
 
 > #str_07167
+; _common/def/maps.def
 Caverns Area 1
 洞穴区域1
 
 > #str_07168
+; _common/def/maps.def
 Caverns Area 2
 洞穴区域2
 
 > #str_07169
+; _common/def/maps.def
 Primary Excavation Site
 主要撤离点
 
 > #str_07170
+; _common/def/maps.def
 Tomiko Reactor
 富美子反应堆
 
 > #str_07171
+; _common/def/maps.def
 Delta Lab
 德尔塔实验室
 
 > #str_07172
+; _common/def/maps.def
 Frag Chamber
 碎片室
 
 > #str_07173
+; _common/def/maps.def
 The Edge 2
 边缘2
 
 > #str_07174
+; _common/def/maps.def
 Lights Out
 熄灯
 
 > #str_07175
+; _common/def/maps.def
 Communications
 通讯
 
 > #str_07176
+; _common/def/maps.def
 Central Processing
 中央处理
 
@@ -29522,18 +29631,22 @@ Blue Flag
 蓝色旗帜
 
 > #str_11600
+; _common/def/d3ctf1.def
 HollowXings
 HollowXings
 
 > #str_11601
+; _common/def/d3ctf2.def
 PumpStation
 泵站
 
 > #str_11602
+; _common/def/d3ctf3.def
 Power-Up Lab
 为实验室供电
 
 > #str_11603
+; _common/def/d3ctf4.def
 BioSec HQ
 生化安全总部
 
@@ -29822,14 +29935,17 @@ DELTA LABS - UNKNOWN
 德尔塔实验室 - 未知
 
 > #str_00100034
+; _common/def/maps.def
 Union Aerospace Research Division
 联合航天研究部门
 
 > #str_00100035
+; _common/def/maps.def
 This excavation site is the focal point of the archeological dig at Site 1. Here, deep inside the surface of Mars, numerous alien caves and artifacts have been discovered.
 这个发掘地是1号站里面考古挖掘的焦点。在这里，火星表面地下深层，发掘出了许多的外星人洞窟和遗物。
 
 > #str_00100036
+; _common/def/maps.def
 EREBUS - LEVEL 2
 厄瑞玻斯 - 2层
 
@@ -29839,18 +29955,22 @@ Main Excavation
 主挖掘场
 
 > #str_00100038
+; _common/def/maps.def
 Located just past the ancient caverns, the Artifact Storage facility is a depository for the wide variety of objects discovered within Site 1. Seismic activity is prevalent in the area, so the storage facility is protected using patented UAC shock reduction technology.
 找到刚经过的古老洞穴，遗物储存设施填满了各种各样在1号地区发现的挖掘物。地震活动在此地区时有发生，所以储存设施使用了UAC特有的专利减震技术来保护。
 
 > #str_00100039
+; _common/def/maps.def
 EREBUS - LEVEL 3
 厄瑞玻斯 - 3层
 
 > #str_00100040
+; _common/def/maps.def
 The Erebus Complex has the capability to process ore retrieved from the deep Martian caverns. Experimental UAC machinery has been developed in order to process and handle the highly radioactive natural resources.
 厄瑞玻斯综合设施能够加工从火星洞穴深处采掘出来的矿石。实验性的UAC机械设备也被配置在这里来加工和处理高放射性的自然资源。
 
 > #str_00100041
+; _common/def/maps.def
 EREBUS - LEVEL 4
 厄瑞玻斯 - 4层
 
@@ -29864,6 +29984,7 @@ The myriad research and industrial activities of Site 1 can create hazardous was
 1号站点中数目庞大的研究和工业活动会产生有害的废料，它们需要被小心处理。废物处理系统里面包含了许多应对这些高危物质的机制。
 
 > #str_00100044
+; _common/def/maps.def
 EREBUS - LEVEL 5
 厄瑞玻斯 - 5层
 
@@ -29872,6 +29993,7 @@ Waste Management
 废料管理
 
 > #str_00100046
+; _common/def/maps.def
 Site 1 is comprised of two major facilities, the Erebus Complex and Phobos Labs. Monorails leave from Erebus Station to Phobos - Sector 1 at regularly scheduled intervals.
 站点1包含两个主要设施，厄瑞玻斯综合设施和火卫一实验室。在厄瑞玻斯站和火卫一第1区之间有定时的单轨列车通行。
 
@@ -29881,6 +30003,7 @@ EREBUS STATION
 厄瑞玻斯站
 
 > #str_00100048
+; _common/def/maps.def
 While the Phobos Labs play host to a wide array of research, Sector 1 is primarily concerned with the advancement of teleportation technology. A sister teleportation facility has been constructed in the Delta Labs, located at Site 3.
 火卫一实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于站点3的德尔塔实验室内建造了一个姊妹传送设施。
 
@@ -29889,11 +30012,12 @@ PHOBOS LABS - SECTOR 1
 火卫一实验室 - 第1区
 
 > #str_00100050
-; deltax:PDA物品.名 phobos1:界面参数1
+; deltax:PDA物品.名 phobos1:界面参数1 _common/def/maps.def
 Teleportation
 传送
 
 > #str_00100051
+; _common/def/maps.def
 In addition to providing state of the art lab facilities for renowned scientist Dr. Elizabeth McNeil and her team, this sector also contains many of Site 1's important sub-systems.
 除了提供著名科学家伊丽莎白·麦克内尔博士和她的团队最先进的实验室设施，该部门还包含了1号地区的重要子系统。
 
@@ -29902,10 +30026,12 @@ PHOBOS LABS - SECTOR 2
 火卫一实验室 - 第2区
 
 > #str_00100053
+; _common/def/maps.def
 Molecular Research
 分子研究
 
 > #str_00100054
+; _common/def/maps.def
 Power requirements for Site 1 are enormous and are generated in Sector 3 by an extremely efficient Plasma Reactor. This revolutionary technology was developed by UAC scientists within the Phobos Labs.
 挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在福布斯实验室内完成。
 
@@ -29914,10 +30040,12 @@ PHOBOS LABS - SECTOR 3
 火卫一实验室 - 第3区
 
 > #str_00100056
+; _common/def/maps.def
 Main Reactor
 主反应堆
 
 > #str_00100057
+; _common/def/maps.def
 While teleportation is the primary field of research in Sector 1, UAC scientists have also made important discoveries here in the area of gravity manipulation.  As a result, the Gravity Accelerator is one of the UAC's most successful products.
 尽管传送技术是1区的主要研究领域，UAC的科学家们还在这里做出了引力操控领域内的重大发现。其成果，引力加速器是UAC最为成功的产品之一。
 
@@ -29972,7 +30100,7 @@ TRANSFER LIFT
 中转电梯
 
 > #str_00100068
-; erebus2:界面参数3 transfer/enter_erebus3.gui
+; erebus2:界面参数3 transfer/enter_erebus3.gui _common/def/maps.def
 Erebus Labs
 厄瑞玻斯实验室
 
@@ -29987,7 +30115,7 @@ TRANSFER SUCCESSFUL
 中转成功
 
 > #str_00100071
-; erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui
+; erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui _common/def/maps.def
 Erebus Research
 厄瑞玻斯研究
 
@@ -30001,7 +30129,7 @@ Erebus Complex
 厄瑞玻斯综合设施
 
 > #str_00100074
-; transfer/exit_erebus5.gui transfer/enter_erebus6.gui
+; transfer/exit_erebus5.gui transfer/enter_erebus6.gui _common/def/maps.def
 Erebus Station
 厄瑞玻斯站
 
@@ -30451,6 +30579,7 @@ Melee/Grabber
 近战/抓取
 
 > #str_00100178
+; _common/def/weapon_pistol.def
 Pistol
 手枪
 
@@ -30459,10 +30588,12 @@ Shotgun/Dbl
 霰弹枪/双管
 
 > #str_00100180
+; _common/def/weapon_machinegun.def
 Machinegun
 机枪
 
 > #str_00100181
+; _common/def/weapon_chaingun.def
 Chaingun
 链枪
 
@@ -30483,14 +30614,17 @@ BFG
 BFG
 
 > #str_00100186
+; _common/def/weapon_bloodstone_passive.def
 Artifact
 神器
 
 > #str_00100187
+; _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 Flashlight
 手电筒
 
 > #str_00100188
+; _common/def/weapon_fists.def
 Fists
 拳头
 
@@ -30503,6 +30637,7 @@ Shotgun
 霰弹枪
 
 > #str_00100191
+; _common/def/weapon_shotgun_double.def
 Double Barrel Shotgun
 双管霰弹枪
 
@@ -30527,6 +30662,7 @@ Rocket Launcher
 火箭发射器
 
 > #str_00100197
+; _common/def/weapon_bfg.def
 BFG-9000
 BFG-9000
 
@@ -30543,14 +30679,17 @@ Artifact - Invulnerability
 神器 - 无敌
 
 > #str_00100201
+; _common/def/weapon_bloodstone_active.def
 Hell Time
 地狱时间
 
 > #str_00100202
+; _common/def/weapon_bloodstone_active.def
 Berserk
 狂暴
 
 > #str_00100203
+; _common/def/weapon_bloodstone_active.def
 Invulnerability
 无敌
 
@@ -30559,6 +30698,7 @@ Enviro
 环境
 
 > #str_00100205
+; _common/def/weapon_chainsaw.def
 Chainsaw
 电锯
 
@@ -30567,6 +30707,7 @@ Double Barrel
 双管
 
 > #str_00100207
+; _common/def/weapon_grabber.def
 GRABBER
 爪钩
 
@@ -30575,10 +30716,12 @@ DOUBLE BARREL
 双管
 
 > #str_00100209
+; _common/def/weapon_bloodstone_passive.def
 ARTIFACT
 神器
 
 > #str_00100210
+; _common/def/weapon_grabber.def
 The Ionized Plasma Levitator creates an electromagnetically charged plasma stream that can move objects over short distances.
 电离等离子体悬浮器能够制造出电磁充能的等离子流来将物件短距离移动。
 
@@ -30587,10 +30730,12 @@ DOUBLE BARREL SHOTGUN
 双管霰弹枪
 
 > #str_00100212
+; _common/def/weapon_shotgun_double.def
 The Vulcan 1270 Double Barrel Shotgun fires two 12-guage rounds simultaneously and can take down even the largest of game.
 Vulcan 1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。
 
 > #str_00100213
+; _common/def/weapon_bloodstone_passive.def
 Created by the ancient civilization to defend against the forces of hell.
 由上古文明建立来抵抗地狱的势力。
 
@@ -30995,7 +31140,7 @@ Life Support Systems
 生命维持系统
 
 > #str_00100300
-; phobos2:防辐射服物品名 phobos3:防辐射服物品名
+; phobos2:防辐射服物品名 phobos3:防辐射服物品名 _common/def/d3xp-items.def
 Enviro Suit
 防护服
 
@@ -32136,6 +32281,7 @@ Main Excavation - Site One
 主挖掘场 - 一号地点
 
 > #str_00100540
+; _common/def/maps.def
 Within the Erebus Complex, various ancient fragments found within Site 1 are carefully studied by Dr. Cloud and his team of researchers. Here, within Artifact Research, they strive to decipher the ancient remains.
 在厄瑞玻斯综合设施里面，在1号站点发现的众多古代碎片被克劳德博士和他的研究者团队小心地研究者。在这里，遗物研究所的内部，他们努力地要解开古代残留物品上面的谜团。
 
@@ -32433,6 +32579,7 @@ D3XPDM4 - ECLIPSE
 D3XPDM4 - 日食
 
 > #str_00100603
+; _common/def/maps.def
 The Delta Complex is the most advanced research facility on Mars. Sector 1 contains the power systems, energy core distribution center, and services the administrative functions of the entire Delta Complex.
 德尔塔综合设施时火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
 
@@ -32458,7 +32605,7 @@ Inside this facility is a tablet that Dr. McNeil needs to further her study. Mak
 这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储存室。
 
 > #str_00100609
-; erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名
+; erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
 The Primitive
 原始生物
 
@@ -32967,7 +33114,7 @@ HELL
 地狱
 
 > #str_00100717
-; erebus2:界面参数4 transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui
+; erebus2:界面参数4 transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui _common/def/maps.def
 Erebus Dig Site
 厄瑞玻斯挖掘场
 
@@ -32976,7 +33123,7 @@ Erebus Labs
 厄瑞玻斯实验室
 
 > #str_00100719
-; erebus4:界面参数4 erebus5:界面参数4 transfer/exit_erebus3.gui transfer/enter_erebus4.gui
+; erebus4:界面参数4 erebus5:界面参数4 transfer/exit_erebus3.gui transfer/enter_erebus4.gui _common/def/maps.def
 Erebus Control
 厄瑞玻斯控制
 
@@ -33597,10 +33744,12 @@ Site 1 contains numerous caverns and is the location of the latest UAC excavatio
 站点1分布着大量的洞穴，是UAC最新挖掘的地点。这里有很多新发现，包括那些为UAC考古学家提供信息用来研究火星远古物种的石碑。
 
 > #str_00100832
+; _common/def/maps.def
 EREBUS - LEVEL 1
 厄瑞玻斯 - 1层
 
 > #str_00100833
+; _common/def/maps.def
 EREBUS - LEVEL 6
 厄瑞玻斯 - 6层
 
@@ -33867,6 +34016,7 @@ Excavation Transfer
 坑道传输站
 
 > #str_00100899
+; _common/def/d3xp-items.def
 Enviro Tank
 防护箱
 
@@ -34067,6 +34217,7 @@ Nerve Software is
 神经软件是
 
 > #str_00100944
+; _common/def/maps.def
 Main Excavation
 主挖掘场
 
@@ -34091,34 +34242,42 @@ Erebus Station
 厄瑞玻斯站
 
 > #str_00100950
+; _common/def/maps.def
 Phobos Labs - Sector 1
 火卫一实验室 - 1区
 
 > #str_00100951
+; _common/def/maps.def
 Phobos Labs - Sector 2
 火卫一实验室 - 2区
 
 > #str_00100952
+; _common/def/maps.def
 Phobos Labs - Sector 3
 火卫一实验室 - 3区
 
 > #str_00100953
+; _common/def/maps.def
 Phobos Labs - Revisited
 火卫一实验室 - 重游
 
 > #str_00100954
+; _common/def/maps.def
 Delta Labs - Unknown
 德尔塔实验室 - 未知
 
 > #str_00100955
+; _common/def/maps.def
 Hell
 地狱
 
 > #str_00100956
+; _common/def/maps.def
 Excavation
 坑道
 
 > #str_00100957
+; _common/def/maps.def
 HellPlay
 地狱游戏
 
@@ -34127,10 +34286,12 @@ HellHoles
 地狱之洞
 
 > #str_00100959
+; _common/def/maps.def
 Eclipse
 日食
 
 > #str_00100960
+; _common/def/d3xp-ammo.def
 Artifact Charge
 神器充能
 
@@ -34595,60 +34756,72 @@ Brian Harris
 布莱恩·哈里斯
 
 > #str_00101056
+; _common/def/d3xp-items.def
 Pwr Cell
 能量电池
 
 > #str_00101057
+; _common/def/maps.def
 Hellhole
 地狱之洞
 
 > #str_00200000
-; le_exis1:界面参数3 le_enpro1/meyers_contact.gui transfer/exit_le_underground.gui
+; le_exis1:界面参数3 le_enpro1/meyers_contact.gui transfer/exit_le_underground.gui _common/def/maps.def
 EXIS LABS
 艾克西斯实验室
 
 > #str_00200001
+; _common/def/maps.def
 Union Aerospace Research Division
 联合航天研究部门
 
 > #str_00200002
+; _common/def/maps.def
 Exis Labs is a partially completed research sector developing the fourth generation teleporters.  The prototype teleporter is modeled on the Martian teleporter found in the Erebus Dig Site.  The facility, once complete, will showcase the crowning achievement of UAC teleporter research.
 艾克西斯实验室是一个开发第四代传送器的部分完成的研究区。传送器的原型机是以在厄瑞玻斯挖掘场发现的火星传送器为模版制作的。该设施完成后将展示UAC传送器研究的最高成就。
 
 > #str_00200003
-; le_enpro1/meyers_contact.gui
+; le_enpro1/meyers_contact.gui _common/def/maps.def
 ENPRO SECTOR 1
 恩普罗1区
 
 > #str_00200004
+; _common/def/maps.def
 Energy Processing and Storage
 能源处理与储存
 
 > #str_00200005
+; _common/def/maps.def
 The Enpro plant provides primary power to the Communications Tower and backup power to the entire Mars UAC Facility. Plasma canisters are also manufactured here from the CRC power production byproduct.
 恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。
 
 > #str_00200006
+; _common/def/maps.def
 ENPRO SECTOR 2
 恩普罗2区
 
 > #str_00200007
+; _common/def/maps.def
 Energy Processing and Storage
 能源处理与储存
 
 > #str_00200008
+; _common/def/maps.def
 Sector Two provides primary power to the Communications Tower and backup power to the entire Exis Complex. Plasma canisters are also manufactured here from the CRC power production byproduct.
 区域2不但是通讯塔的主电源而且也是整个艾克西斯综合设施的备用电源。等离子罐也是由CRC电力公司生产制造。
 
 > #str_00200009
+; _common/def/maps.def
 UNDERGROUND
 地下
 
 > #str_00200010
+; _common/def/maps.def
 Mars City Service Sub-Level
 火星城地下层服务区
 
 > #str_00200011
+; _common/def/maps.def
 The Mars City Underground sub-levels consist of the needed infrastructure to support Mars City. The sub-levels also provide a connection between the multiple UAC research facilities located on Mars.
 火星城地下各层包含了支持火星城所需的基础设施。地下层还提供了火星上UAC的多个研究设施之间的连接点。
 
@@ -35705,18 +35878,22 @@ Auxiliary Core
 辅助核心
 
 > #str_00200222
+; _common/def/maps.def
 For the great day of his wrath is come; and who shall be able to stand?
 其愤怒降临之日；何人能抵挡？
 
 > #str_00200223
+; _common/def/maps.def
 I looked upon the great rift, and there arose smoke and fire from the ancient place…
 我看着大裂谷，从那个古老的地方生出了烟和火……
 
 > #str_00200224
+; _common/def/maps.def
 ...In due time their foot will slip; their day of disaster is near and their doom rushes upon them.
 ……到时候他们就会倒下；他们的灾难之日正在到来他们的毁灭将会突然降临。
 
 > #str_00200225
+; _common/def/maps.def
 But the day of doom shall be the end of this time…
 但是世界末日将会是这段日子的终结……
 
@@ -43330,6 +43507,7 @@ Research Specialist
 研究专家
 
 > #str_hell_outpost
+; _common/def/maps.def
 Hell Outpost
 地狱前哨站
 
@@ -49722,6 +49900,7 @@ Welcome to Mars Research Facility One
 欢迎来到火星研究设施一号
 
 > #str_weapon_fists_desc
+; _common/def/weapon_fists.def
 Balled-up hands that attach to the ends of arms. Useful for bludgeoning.
 胳膊末端空空如也的双手。可以用来狠揍敌人。
 
@@ -49790,6 +49969,7 @@ Lobby is full
 大厅已满
 
 > #str_item_ssd
+; _common/def/items.def
 SSD DRIVE
 固态硬盘驱动器
 
