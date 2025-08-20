@@ -1,7 +1,7 @@
 -- luajit lang2txt.lua <input1.lang> <input2.lang> <output.txt>
 
 local function parseLang(fileName)
-	local i, t = 0, {}
+	local i, t, c = 0, {}
 	for line in io.lines(fileName) do
 		line = line:gsub('\r+$', '')
 		if line:find '^\xef\xbb\xbf' then
@@ -10,14 +10,18 @@ local function parseLang(fileName)
 		i = i + 1
 		local k, v = line:match '^[%s/]*"(.-)"%s+"(.-)"%s*$'
 		if k then
-			t[#t + 1] = {k, v}
+			t[#t + 1] = {k, v, c}
 			if t[k] then
 				error('ERROR: duplicated key: ' .. k)
 			else
-				t[k] = v
+				t[k] = {v, c}
 			end
-		elseif not line:find '^%s*//' and not line:find '^%s*[{}]%s*$' then
-			error('ERROR: invalid line ' .. i .. ': ' .. line)
+			c = nil
+		else
+			c = line:match '^%s*//%s*(.+)%s*$'
+			if not c and not line:find '^%s*[{}]%s*$' then
+				error('ERROR: invalid line ' .. i .. ': ' .. line)
+			end
 		end
 	end
 	return t
@@ -53,13 +57,16 @@ local ct = parseLang(arg[2])
 local f = io.open(arg[3], 'wb')
 local n = 0
 for i, kv in ipairs(et) do
-	local k = kv[1]
-	local e = kv[2]
-	local c = ct[k] or e
+	local k, e, c = kv[1], kv[2], kv[3]
+	local v = ct[k] and ct[k][1] or e
+	c = ct[k] and ct[k][2] or c
 	ct[k] = nil
 	f:write('> ', k, '\n')
+	if c then
+		f:write('; ', c, '\n')
+	end
 	f:write(fmtLine(e), '\n')
-	f:write(fmtLine(c), '\n\n')
+	f:write(fmtLine(v), '\n\n')
 	n = n + 1
 end
 f:close()

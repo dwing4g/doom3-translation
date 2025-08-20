@@ -1,4 +1,4 @@
--- luajit resdec.lua <input.resources> [path]
+-- luajit resdec.lua <input.resources> [path] [filename]
 
 local function readInt4(f)
 	local a, b, c, d = string.byte(f:read(4), 1, 4)
@@ -24,23 +24,25 @@ for i = 1, fn do
 	local path = f:read(n):gsub('%z', '')
 	p = readInt4Be(f)
 	n = readInt4Be(f)
-	print(string.format('%8X %9d %s', p, n, path))
-	if basePath then
-		path = basePath .. path
-		local dir = path:gsub('/', '\\'):gsub('\\[^\\]*$', '')
-		if not t[dir] then
-			t[dir] = true
-			os.execute('mkdir ' .. dir .. ' 2>nul')
+	if not arg[3] or path:find(arg[3]) then
+		print(string.format('%8X %9d %s', p, n, path))
+		if basePath then
+			path = basePath .. path
+			local dir = path:gsub('/', '\\'):gsub('\\[^\\]*$', '')
+			if not t[dir] then
+				t[dir] = true
+				os.execute('mkdir ' .. dir .. ' 2>nul')
+			end
+			local fo = io.open(path, 'wb')
+			if not fo then
+				error('ERROR: can not create file: ' .. path)
+			end
+			local q = f:seek()
+			f:seek('set', p)
+			fo:write((f:read(n)))
+			fo:close()
+			f:seek('set', q)
 		end
-		local fo = io.open(path, 'wb')
-		if not fo then
-			error('ERROR: can not create file: ' .. path)
-		end
-		local q = f:seek()
-		f:seek('set', p)
-		fo:write((f:read(n)))
-		fo:close()
-		f:seek('set', q)
 	end
 end
 f:close()

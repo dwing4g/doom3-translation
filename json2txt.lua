@@ -30,10 +30,14 @@ end
 
 f = io.open(arg[2], 'wb')
 local n = 0
-for k, e, c in s:gmatch '"key"%s*:%s*"(.-)"%s*,%s*"original"%s*:%s*"(.-)"%s*,%s*"translation"%s*:%s*"(.-)"%s*[,}]' do
+for k, e, v, c in s:gmatch '"key"%s*:%s*"(.-)"%s*,%s*"original"%s*:%s*"(.-)"%s*,%s*"translation"%s*:%s*"(.-)"%s*[,}](.-[{}%]])' do
+	c = c:match '"context"%s*:%s*"(.-)"%s*[,}]'
 	f:write('> ', k, '\n')
+	if c then
+		f:write('; ', c, '\n')
+	end
 	f:write(fmtLine(e), '\n')
-	f:write(fmtLine(c), '\n\n')
+	f:write(fmtLine(v), '\n\n')
 	n = n + 1
 end
 f:close()
