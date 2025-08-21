@@ -37,13 +37,11 @@ parseTxt(arg[1], function(k, e, v, c)
 	f:write '  {\n'
 	f:write('    "key": ', escape(k), ',\n')
 	f:write('    "original": ', escape(e), ',\n')
-	f:write('    "translation": ', escape(v))
+	f:write('    "translation": ', escape(v), ',\n')
 	if c then
-		f:write(',\n')
-		f:write('    "context": ', escape(c), '\n')
-	else
-		f:write('\n')
+		f:write('    "context": ', escape(c), ',\n')
 	end
+	f:write('    "stage": ', (e == v or e == '' and v == '') and '-1' or '1', '\n')
 	f:write '  },\n'
 	n = n + 1
 end)
