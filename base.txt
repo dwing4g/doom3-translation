@@ -126,7 +126,7 @@ Access Denied
 > #str_00021
 ; admin/adminlock.gui doors/doorlock.gui doors/dirtylock.gui
 Area secured through:
-区域安保:
+区域安全通道:
 
 > #str_00022
 ; admin/adminlock.gui
@@ -281,7 +281,7 @@ UAC
 > #str_00040
 ; admin/comm1.gui
 NO CURRENT USER 
-当前没有用户
+无当前用户
 
 > #str_00041
 ; admin/comm1.gui
@@ -503,24 +503,24 @@ SCANNING
 """FIRE DETECTED IN
 PIPE SECTOR 7-6"""
 """管道区域7-6
-发生活在"""
+发生火灾"""
 
 > #str_00075
 ; alphalabs1/gasline.gui
 SEAL BREACHED PIPE SECTION
-封闭的沦陷管道区域
+封闭有缺口的管道区
 
 > #str_00076
 ; alphalabs1/gasline.gui
 PIPE SECTION ISOLATED AND SEALED
-管道区隔离并封锁
+管道区已隔离并封闭
 
 > #str_00077
 ; alphalabs1/gasline.gui
 """
 SEALING BREACH"""
 """
-正在封锁缺口"""
+正在封闭缺口"""
 
 > #str_00078
 ; alphalabs1/gasline.gui
@@ -555,7 +555,7 @@ ACCESS GATE"""
 > #str_00082
 ; alphalabs1/opengate.gui
 CHAMBER REPAIR ACCESS
-密室维修通道
+房间维修通道
 
 > #str_00083
 ; alphalabs1/securitystation.gui
@@ -565,27 +565,27 @@ ALPHA LABS 1 ACCESS
 > #str_00084
 ; alphalabs1/securitystation.gui
 AREA LIGHTS SHUTDOWN
-区域照明关闭
+区域照明:关闭
 
 > #str_00085
 ; alphalabs1/securitystation.gui enpro/bridge_open.gui
 ACCESS DOORS LOCKED
-通道门已锁定
+通道门:已锁定
 
 > #str_00086
 ; alphalabs1/securitystation.gui
 ACCESS DOORS OPEN
-通道门开放
+通道门:开启
 
 > #str_00087
 ; alphalabs1/securitystation.gui
 AREA LIGHTS ON
-区域照明开启
+区域照明:开启
 
 > #str_00088
 ; alphalabs1/securitystation.gui
 PRIMARY LIGHTS ON
-主要灯光打开
+主要灯光:开启
 
 > #str_00089
 ; alphalabs1/securitystation.gui enpro/bridge_open.gui
@@ -632,12 +632,12 @@ CAUTION
 """DO NOT HANDLE LADDER
 DURING OPERATION"""
 """在操作时
-不要碰梯子"""
+不要碰爬梯"""
 
 > #str_00094
 ; alphalabs2/ladder.gui
 SERVICE LADDER SUCCESSFULLY OPENED
-服务爬梯成功打开
+成功打开服务爬梯
 
 > #str_00095
 ; alphalabs2/ladder.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
@@ -890,7 +890,7 @@ Open Vent Hatch."""
 ; alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
 """CHAMBER
 LOCKED"""
-"""密室
+"""房间
 已锁定"""
 
 > #str_00123
@@ -935,37 +935,37 @@ CHAMBER"""
 > #str_00130
 ; alphalabs3/vent.gui
 ACCESS GRATE 1 OPEN
-1号炉格开启
+1号检修格栅开启
 
 > #str_00131
 ; alphalabs3/vent.gui
 ACCESS GRATE 2 OPEN
-2号炉格开启
+2号检修格栅开启
 
 > #str_00132
 ; alphalabs3/vent.gui
 ACCESS GRATE 3 OPEN
-3号炉格开启
+3号检修格栅开启
 
 > #str_00133
 ; alphalabs3/vent.gui
 OPEN VENTILATION ACCESS GRATE 3
-打开3号通风入口栅板
+打开通风道3号检修格栅
 
 > #str_00134
 ; alphalabs3/vent2.gui cpu/maintenance.gui
 STORAGE AREA OPEN
-仓库区域开启
+存储区:开启
 
 > #str_00135
 ; alphalabs3/vent2.gui
 STORAGE BINS LOCKED
-储藏柜已锁定
+存储箱:已锁定
 
 > #str_00136
 ; alphalabs3/vent2.gui
 STORAGE PANELS ON AUTOMATIC CONTROL
-仓库面板自动控制模式中
+存储面板自动控制中
 
 > #str_00137
 ; alphalabs4/efr.gui
@@ -1473,7 +1473,7 @@ SYSTEM ACTIVATED
 ; alphalabs4/efr.gui
 """EXTEND SERVICE
 BRIDGE"""
-"""扩展服务
+"""展开服务
 桥"""
 
 > #str_00174
@@ -1586,7 +1586,7 @@ STATUS REPORT
 > #str_00195
 ; alphalabs4/efr.gui
 MAINTENANCE BRIDGE
-维护站桥梁
+维护桥
 
 > #str_00196
 ; alphalabs4/efr.gui
@@ -1607,8 +1607,8 @@ DISCHARGE FIELD ACTIVE
 ; alphalabs4/efr2.gui
 """INITIATE MAGNETIC
 FIELD DISCHARGE"""
-"""启动磁力
-消磁"""
+"""启动磁力场
+放电"""
 
 > #str_00200
 ; alphalabs4/efr_start.gui
@@ -2354,7 +2354,7 @@ EFR启动中
 ; alphalabs4/locker.gui
 """SAFETY IS IMPORTANT
 KEEP WEAPONS ACCESS LOCKED AT ALL TIMES"""
-"""安全是非常重要的
+"""安全性是非常重要的
 武器仓的入口一定要锁严"""
 
 > #str_00237
@@ -2543,11 +2543,11 @@ CAMERA STATUS -OFFLINE-
 
 > #str_00276
 Call Lift
-呼叫起重机
+呼叫电梯
 
 > #str_00277
 Send Lift
-传电梯来
+传送电梯
 
 > #str_00278
 ; caves/crane.gui
@@ -2890,24 +2890,24 @@ CLOSE ACCESS HATCH
 > #str_00327
 ; caves/ladder2.gui
 EXTEND ACCESS LADDER
-扩展通路楼梯
+展开通道梯
 
 > #str_00328
 CLOSE ACCESS LADDER
-关闭竖梯
+关闭通道梯
 
 > #str_00329
 CALL UP THE BIG GIANT LIFT
-呼叫巨大起重机
+呼叫巨大电梯
 
 > #str_00330
 LIFT FUNCTION DISABLED
-电梯功能禁止
+电梯功能已禁用
 
 > #str_00331
 ; caves/liftmalfunction.gui
 LIFT ACCESS CONTROL
-电梯使用控制室
+电梯访问控制
 
 > #str_00332
 ; caves/liftmalfunction.gui
@@ -2962,11 +2962,11 @@ damage
 
 Please use alternate
 transfer lift"""
-"""这台起重机当前
+"""这台电梯当前
 由于轨道损坏
 而锁定
 
-请使用替代起重机
+请使用替代电梯
 来转移货物"""
 
 > #str_00338
@@ -3067,7 +3067,7 @@ align
 > #str_00355
 ; caves/map.gui
 Excavation - Phase 2
-坑道 - 二阶段
+坑道 - 第2阶段
 
 > #str_00356
 ; caves/map.gui
@@ -3204,7 +3204,7 @@ RUN SCRIPT ONCE
 
 > #str_00372
 CALL DOWN
-责骂
+呼叫下来
 
 > #str_00373
 """This GUI activates a script command on click. Set the script name as a keyval, KEY Gui_Parm6 value script_name.
@@ -3222,11 +3222,11 @@ VALUE 1 = Red       2 = Blue
 
 > #str_00374
 MULTI-CLICK SCRIPT
-多点击脚本
+多次点击脚本
 
 > #str_00375
 CALL UP
-呼叫
+呼叫上去
 
 > #str_00376
 UP
@@ -3270,7 +3270,7 @@ RUN SCRIPT
 
 > #str_00383
 SEND MESSAGE
-寄短信
+发送消息
 
 > #str_00384
 """This GUI fires a trigger each time the button is clicked.
@@ -3292,7 +3292,7 @@ Triggered
 
 > #str_00386
 MULTI-CLICK TRIGGER
-多点击触发
+多次点击触发
 
 > #str_00387
 POSITION 1
@@ -3343,7 +3343,7 @@ DECRYPTING
 > #str_00398
 ; comm1/commterminal.gui delta1/airsys.gui
 COMPLETE
-万恒
+完成
 
 > #str_00399
 ; comm1/commterminal.gui
@@ -3383,7 +3383,7 @@ TRANSMIT MESSAGE:
 > #str_00406
 ; comm1/commterminal.gui
 'DISTRESS CALL TO ORBITAL FLEET'?
-“给星轨舰队的紧急来电”？
+“发起紧急呼叫给星轨舰队”？
 
 > #str_00407
 ; comm1/commterminal.gui comm1/commterminalbroken.gui
@@ -3434,12 +3434,12 @@ NO DATA |
 > #str_00413
 ; comm1/commterminal.gui comm1/commterminalbroken.gui
 NO DATA 
-无数据
+无数据 
 
 > #str_00414
 ; comm1/commterminal.gui
 TRANS
-中转
+转
 
 > #str_00415
 ; comm1/commterminal.gui
@@ -3454,7 +3454,7 @@ TRANSMISSION D
 > #str_00417
 ; comm1/commterminal.gui
 TRANSMISSION DATA E
-传送数据加
+传送数据
 
 > #str_00418
 ; comm1/commterminal.gui
@@ -3478,42 +3478,42 @@ DECRY"""
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND"""
 """传送数据加密
-解密并且"""
+解密并"""
 
 > #str_00422
 ; comm1/commterminal.gui
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND COMBI"""
 """传送数据加密
-解密并且组"""
+解密并组"""
 
 > #str_00423
 ; comm1/commterminal.gui
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND COMBINE TO P"""
 """传送数据加密
-解密并且组合后准"""
+解密并组合后准"""
 
 > #str_00424
 ; comm1/commterminal.gui
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND COMBINE TO PREP FO"""
 """传送数据加密
-解密并且组合后准备"""
+解密并组合后准备"""
 
 > #str_00425
 ; comm1/commterminal.gui
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND COMBINE TO PREP FOR TRAN"""
 """传送数据加密
-解密并且组合后准备转"""
+解密并组合后准备转"""
 
 > #str_00426
 ; comm1/commterminal.gui
 """TRANSMISSION DATA ENCRYPTED
 DECRYPT AND COMBINE TO PREP FOR TRANSFER"""
 """传送数据加密
-解密并且组合后准备转移"""
+解密并组合后准备转移"""
 
 > #str_00427
 ; comm1/commterminal.gui
@@ -3770,12 +3770,12 @@ UNABLE TO PROCESS CARD
 > #str_00471
 ; comm1/commterminalbroken.gui
 PRIMARY ACCESS STATION
-主要接入站
+主访问站
 
 > #str_00472
 ; comm1/commvid.gui delta1/vidscreen.gui
 VIDCOM ACCESS STATION
-视频通信接入站
+视频通信访问站
 
 > #str_00473
 ; comm1/commvid.gui comm1/securitylock.gui transfer/exit_comm1.gui movies/triggeron.gui marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
@@ -3794,7 +3794,7 @@ STANDBY
 
 > #str_00476
 INCOMING CALL
-来电
+呼入
 
 > #str_00477
 ; comm1/commvid.gui delta1/vidscreen.gui
@@ -3804,7 +3804,7 @@ CONNECTION ESTABLISHED
 > #str_00478
 ; comm1/dishvid.gui
 COM DISH 3-5
-压缩碟3-5
+通信盘3-5
 
 > #str_00479
 ; comm1/dishvid.gui delta2/teleporter1.gui delta2/teleporter3.gui erebus1/station2.gui erebus3/artifact.gui
@@ -4097,7 +4097,7 @@ bENXED"""
 > #str_00512
 ; comm1/securitylock.gui
 MAIN LOBBY DOOR CONTROL
-主大厅门控制室
+主大厅门控制
 
 > #str_00513
 ; comm1/securitylock.gui le_underground/security_lockdown.gui mc_underground/security.gui
@@ -4130,63 +4130,63 @@ Tracking System - OFFLINE"""
 
 能量系统 - 离线
 武器系统 - 离线
-追踪系统 - 离线"""
+跟踪系统 - 离线"""
 
 > #str_00518
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 OFFLINE"""
-"""电力系统
+"""能量系统
 离线"""
 
 > #str_00519
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 """
-"""电力系统
+"""能量系统
 """
 
 > #str_00520
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 O"""
-"""电力系统
-在"""
+"""能量系统
+上"""
 
 > #str_00521
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 ON"""
-"""电力系统
-在"""
+"""能量系统
+上"""
 
 > #str_00522
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 ONL"""
-"""电力系统
-在"""
+"""能量系统
+上"""
 
 > #str_00523
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 ONLI"""
-"""电力系统
-在线"""
+"""能量系统
+上线"""
 
 > #str_00524
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 ONLIN"""
-"""电力系统
-在线"""
+"""能量系统
+上线"""
 
 > #str_00525
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """POWER SYSTEM
 ONLINE"""
-"""电力系统
-在线"""
+"""能量系统
+上线"""
 
 > #str_00526
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
@@ -4207,42 +4207,42 @@ OFFLINE"""
 """TRACKING SYSTEM
 O"""
 """跟踪系统
-离"""
+上"""
 
 > #str_00529
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """TRACKING SYSTEM
 ON"""
 """跟踪系统
-在"""
+上"""
 
 > #str_00530
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """TRACKING SYSTEM
 ONL"""
 """跟踪系统
-在"""
+上"""
 
 > #str_00531
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """TRACKING SYSTEM
 ONLI"""
 """跟踪系统
-在线"""
+上线"""
 
 > #str_00532
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """TRACKING SYSTEM
 ONLIN"""
 """跟踪系统
-在线"""
+上线"""
 
 > #str_00533
 ; comm1/sentrybot.gui delta2b/conveyor_system.gui
 """TRACKING SYSTEM
 ONLINE"""
 """跟踪系统
-在线"""
+上线"""
 
 > #str_00534
 ; comm1/sentrybot.gui
@@ -4263,42 +4263,42 @@ OFFLINE"""
 """WEAPON SYSTEM
 O"""
 """武器系统
-失"""
+上"""
 
 > #str_00537
 ; comm1/sentrybot.gui
 """WEAPON SYSTEM
 ON"""
 """武器系统
-启"""
+上"""
 
 > #str_00538
 ; comm1/sentrybot.gui
 """WEAPON SYSTEM
 ONL"""
 """武器系统
-启"""
+上"""
 
 > #str_00539
 ; comm1/sentrybot.gui
 """WEAPON SYSTEM
 ONLI"""
 """武器系统
-启"""
+上线"""
 
 > #str_00540
 ; comm1/sentrybot.gui
 """WEAPON SYSTEM
 ONLIN"""
 """武器系统
-启动"""
+上线"""
 
 > #str_00541
 ; comm1/sentrybot.gui
 """WEAPON SYSTEM
 ONLINE"""
 """武器系统
-启动"""
+上线"""
 
 > #str_00542
 ; comm1/sentrybot.gui
@@ -4323,7 +4323,7 @@ ACTIVATE SENTRY
 > #str_00546
 ; doors/liftcall.gui commoutside/airlock_liftcall.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
 CALL LIFT
-呼叫起重机
+呼叫电梯
 
 > #str_00547
 ; commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
@@ -4429,12 +4429,12 @@ LIFT IDLE
 > #str_00566
 ; commoutside/co_callstation.gui
 BAD COMMAND
-坏指令
+错误命令
 
 > #str_00567
 ; commoutside/co_callstation.gui
 ACCESS LOCKED
-登入锁定
+访问已锁定
 
 > #str_00568
 ; commoutside/co_callstation.gui
@@ -4446,7 +4446,7 @@ LIFT IN USE
 """CALL LIFT
 TO CURRENT
 STATION"""
-"""呼叫起重机
+"""呼叫电梯
 至当前
 站点"""
 
@@ -5422,15 +5422,15 @@ ALPHA LABS
 
 > #str_00721
   ACCESS ONLY
-  仅限进入
+  专用通道
 
 > #str_00722
 Area Access
-进入区域
+区域访问
 
 > #str_00723
 Batch Processes
-批处理
+批量处理
 
 > #str_00724
 Server Bank Status
@@ -5467,11 +5467,11 @@ Pending
 
 > #str_00732
 Bank A
-机房A
+A库
 
 > #str_00733
 Bank B
-机房B
+B库
 
 > #str_00734
 -Active-
@@ -5513,7 +5513,7 @@ RESTART SYSTEM
 > #str_00740
 ; controlpanels/efc.gui
 REPLACE EXT. CAN.
-替换EXT.CAN.
+替换分解罐
 
 > #str_00741
 ; controlpanels/efc.gui enpro/efc.gui
@@ -5548,7 +5548,7 @@ UACOS已经高亮必要的活动图标 > 按下选择开始
 > #str_00747
 ; controlpanels/efc.gui
 REPLACE EXTRACTION CANISTER
-替换分解容器
+替换分解罐
 
 > #str_00748
 ; controlpanels/epd1.gui
@@ -5731,7 +5731,7 @@ Online]["""
 > #str_00766
 ; controlpanels/epd2b.gui
 Feed pipes strain detected
-发现输入管道流
+检测到进料管损伤
 
 > #str_00767
 ; controlpanels/epd2b.gui
@@ -6042,7 +6042,7 @@ MOVE TO STATION 1 - LOADING
 > #str_00824
 ; controlpanels/mover.gui
 MOVE TO STATION 2 - CONTROL
-移动至2号站点 - 控制室
+移动至2号站点 - 控制
 
 > #str_00825
 ; controlpanels/mover.gui
@@ -6240,19 +6240,19 @@ Main Linac Energy Injection -- 12.392 TeV
 
 > #str_00864
 Bunch Length -- 23.1 mm
-整串长度 —— 23.1厘米
+整串长度 -- 23.1毫米
 
 > #str_00865
 Energy Spread -- 0.943 %
-能量扩散——0.943%
+能量扩散 -- 0.943%
 
 > #str_00866
 Transverce Emittance (Ex) -- 1203 nm rad
-横向发射度(Ex) -- 1203 nm rad
+发射度(Ex) -- 1203 nm rad
 
 > #str_00867
 Transverce Emittance (Ey) -- 5 < (Ey) 13 nm rad
-横向发射度(Ey) -- 5 < (Ey) 13 nm rad
+发射度(Ey) -- 5 < (Ey) 13 nm rad
 
 > #str_00868
 Dampening Ring Exit Energy -- 8.728 TeV
@@ -6264,7 +6264,7 @@ Bunch Length -- 8.728 TeV
 
 > #str_00870
 Energy Spread -- 0.0032 %
-能量扩散 -- 0.0032 %
+能量扩散 -- 0.0032%
 
 > #str_00871
 Transverce Emittance (Ex) -- 913 nm rad
@@ -6296,7 +6296,7 @@ System Status
 
 > #str_00878
 System         Maintenance
-系统         维护
+系统           维护
 
 > #str_00879
 Status
@@ -6347,7 +6347,7 @@ SECURITY DOOR CONTROL
 > #str_00890
 ; commoutside/co_unlock.gui controlpanels/securitylock.gui erebus4/e4_bridge_release.gui phobos2/p2_secliftcontrol.gui
 DELTA LABS SECURITY DOORS
-德尔塔实验室保安门
+德尔塔实验室安全门
 
 > #str_00891
 ; commoutside/co_unlock.gui controlpanels/securitylock.gui enpro/bridge_open.gui erebus4/e4_bridge_release.gui phobos2/p2_secliftcontrol.gui
@@ -6378,7 +6378,7 @@ open vents
 > #str_00897
 ; controlpanels/storage.gui delta2b/teleporter_backdoor.gui
 SUPPLY STORAGE AREA
-补充仓库地区
+补充仓库区
 
 > #str_00898
 ; doors/admin_pda_door.gui doors/pda_door.gui controlpanels/storage.gui erebus2/e2_pda_ladder.gui doors/pda_door_trigger.gui
@@ -6476,7 +6476,7 @@ Please allow 2 hours before activating DCL Processing.
 > #str_00913
 ; controlpanels/vent.gui
 VENT CONTAINMENT CHAMBER
-给控制室通风
+给抑制房间通风
 
 > #str_00914
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6494,7 +6494,7 @@ Connector vent
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:0"""
-"""输入速率: 0米
+"""额定输入: 0米
 右侧提升: 0英尺
 左侧移动: 0英尺
 活动歧管: 0"""
@@ -6555,7 +6555,7 @@ NFGC
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""输入速率: 0米
+"""额定输入: 0米
 右侧提升: 0英尺
 左侧移动: 0英尺
 活动歧管: 1"""
@@ -6566,7 +6566,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""输入速率: 0米
+"""额定输入: 0米
 右侧提升: 1英尺
 左侧移动: 0英尺
 活动歧管: 1"""
@@ -6577,7 +6577,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""输入速率: 0米
+"""额定输入: 0米
 右侧提升: 1英尺
 左侧移动: 1英尺
 活动歧管: 1"""
@@ -6588,7 +6588,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""输入速率: 3米
+"""额定输入: 3米
 右侧提升: 2英尺
 左侧移动: 1英尺
 活动歧管: 1"""
@@ -6599,7 +6599,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""输入速率: 5米
+"""额定输入: 5米
 右侧提升: 2英尺
 左侧移动: 2英尺
 活动歧管: 1"""
@@ -6610,7 +6610,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""输入速率: 8米
+"""额定输入: 8米
 右侧提升: 2英尺
 左侧移动: 3英尺
 活动歧管: 1"""
@@ -6621,7 +6621,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 10米
+"""额定输入: 10米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6632,7 +6632,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 12米
+"""额定输入: 12米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6643,7 +6643,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 15米
+"""额定输入: 15米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6654,7 +6654,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 19米
+"""额定输入: 19米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6665,7 +6665,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""输入速率: 20米
+"""额定输入: 20米
 右侧提升: 2英尺
 左侧移动: 3英尺
 活动歧管: 1"""
@@ -6676,7 +6676,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""输入速率: 21米
+"""额定输入: 21米
 右侧提升: 2英尺
 左侧移动: 3英尺
 活动歧管: 1"""
@@ -6687,7 +6687,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 22米
+"""额定输入: 22米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6698,7 +6698,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 23米
+"""额定输入: 23米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6709,7 +6709,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 24米
+"""额定输入: 24米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6720,7 +6720,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:4 ft.
 Act. Manifold:1"""
-"""输入速率: 25米
+"""额定输入: 25米
 右侧提升: 2英尺
 左侧移动: 4英尺
 活动歧管: 1"""
@@ -6728,12 +6728,12 @@ Act. Manifold:1"""
 > #str_00943
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 Trace levels
-痕量
+追踪等级
 
 > #str_00944
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 Nominal
-名义上的
+标称
 
 > #str_00945
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6741,7 +6741,7 @@ Nominal
 Rise R:2 ft.
 Lateral L:3 ft.
 Act. Manifold:1"""
-"""输入速率: 19米
+"""额定输入: 19米
 右侧提升: 2英尺
 左侧移动: 3英尺
 活动歧管: 1"""
@@ -6752,7 +6752,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""输入速率: 12米
+"""额定输入: 12米
 右侧提升: 2英尺
 左侧移动: 2英尺
 活动歧管: 1"""
@@ -6763,7 +6763,7 @@ Act. Manifold:1"""
 Rise R:2 ft.
 Lateral L:2 ft.
 Act. Manifold:1"""
-"""输入速率: 8米
+"""额定输入: 8米
 右侧提升: 2英尺
 左侧移动: 2英尺
 活动歧管: 1"""
@@ -6774,7 +6774,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""输入速率: 7米
+"""额定输入: 7米
 右侧提升: 1英尺
 左侧移动: 1英尺
 活动歧管: 1"""
@@ -6785,7 +6785,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""输入速率: 5米
+"""额定输入: 5米
 右侧提升: 1英尺
 左侧移动: 1英尺
 活动歧管: 1"""
@@ -6796,7 +6796,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:1 ft.
 Act. Manifold:1"""
-"""输入速率: 4米
+"""额定输入: 4米
 右侧提升: 1英尺
 左侧移动: 1英尺
 活动歧管: 1"""
@@ -6807,7 +6807,7 @@ Act. Manifold:1"""
 Rise R:1 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""输入速率: 3米
+"""额定输入: 3米
 右侧提升: 1英尺
 左侧移动: 0英尺
 活动歧管: 1"""
@@ -6818,7 +6818,7 @@ Act. Manifold:1"""
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""输入速率: 2米
+"""额定输入: 2米
 右侧提升: 0英尺
 左侧移动: 0英尺
 活动歧管: 1"""
@@ -6829,7 +6829,7 @@ Act. Manifold:1"""
 Rise R:0 ft.
 Lateral L:0 ft.
 Act. Manifold:1"""
-"""输入速率: 1米
+"""额定输入: 1米
 右侧提升: 0英尺
 左侧移动: 0英尺
 活动歧管: 1"""
@@ -6929,11 +6929,11 @@ STOP CRANE
 
 > #str_00975
 NOMINAL FUNCTIONS ONLY
-只有名义上的功能
+仅限标称功能
 
 > #str_00976
 NOMINAL FUNCTIONS
-名义上的功能
+标称功能
 
 > #str_00977
 Backup Power
@@ -6970,7 +6970,7 @@ all systems functioning normally"""
 
 > #str_00983
 LOCK STATION
-锁站
+锁定站点
 
 > #str_00984
 RESTART
@@ -7106,7 +7106,7 @@ VALUE 1 = Red       2 = Blue
 
 > #str_01011
 Datalinker Initialized
-数据连接器初始化完毕
+数据连接器已初始化
 
 > #str_01012
 Datalinker ERROR
@@ -7131,11 +7131,11 @@ INITIALIZE POWER
 
 > #str_01017
 Power Initialized
-电力已启动
+电力已初始化
 
 > #str_01018
 PDA SECURITY ACCESS ERROR
-PDA安全进入错误
+PDA安全访问错误
 
 > #str_01019
 ; delta1/whiteboard.gui
@@ -7145,12 +7145,12 @@ new security code
 > #str_01020
 ; delta1/whiteboard.gui
 every thursday
-每个周三
+每周四
 
 > #str_01021
 ; delta1/whiteboard.gui
 LAB A INFO BOARD
-LAB A 信息板
+实验室A信息板
 
 > #str_01022
 ; delta1/whiteboard.gui
@@ -7490,12 +7490,12 @@ Teleporter 3
 > #str_01089
 ; delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui
 DECONTAMINATION CHAMBER
-净化舱
+净化房间
 
 > #str_01090
 ; delta3/decon.gui delta3/decon_malfunction.gui
 Cycle decontamination exchange sequence to access sealed sector.
-循环净化交换序列以进入密闭的区域。
+循环净化交换序列以访问密闭区域。
 
 > #str_01091
 ; delta3/decon.gui delta3/decon_malfunction.gui
@@ -7505,22 +7505,22 @@ DECON SYSTEM SEALED
 > #str_01092
 ; delta3/decon_malfunction.gui
 DECONTAMINATION CHAMBER SYSTEMS INITIATED
-净化舱系统初始化完毕
+净化房间系统已初始化
 
 > #str_01093
 ; delta3/decon.gui
 HAVE SUBJECTS ENTER CHAMBER FOR CHEMICAL DECONTAMINATION
-让对象进入室内进行化学消毒
+让对象进入房间进行化学净化
 
 > #str_01094
 ; delta3/decon.gui delta3/decon_malfunction.gui
 CHAMBER RESETS AFTER DECON
-密室在拆除后重置
+房间在净化后重置
 
 > #str_01095
 ; delta3/decon.gui delta3/decon_malfunction.gui
 CYCLE CHAMBER
-切换密室
+切换房间
 
 > #str_01096
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -7667,27 +7667,27 @@ Locating active destination pads"""
 > #str_01118
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
 scanning loc 1456,7891
-扫描位置 1456,7891
+扫描搜寻 1456,7891
 
 > #str_01119
 ; delta3/telecontrol1.gui
 scanning loc 1412,8239
-扫描位置 1412,8239
+扫描搜寻 1412,8239
 
 > #str_01120
 ; delta3/telecontrol1.gui
 scanning loc 1361,9187
-扫描位置 1361,9187
+扫描搜寻 1361,9187
 
 > #str_01121
 ; delta3/telecontrol1.gui
 scanning loc 2198,8672
-扫描位置 2198,8672
+扫描搜寻 2198,8672
 
 > #str_01122
 ; delta3/telecontrol1.gui
 scanning loc 2036,8173
-扫描位置 2036,8173
+扫描搜寻 2036,8173
 
 > #str_01123
 ; delta3/telecontrol1.gui
@@ -7871,27 +7871,27 @@ Targeting Station 2
 > #str_01150
 ; delta3/telecontrol2.gui
 scanning loc 3421,1291
-扫描位置 3421,1291
+扫描搜寻 3421,1291
 
 > #str_01151
 ; delta3/telecontrol2.gui
 scanning loc 3465,1339
-扫描位置 3465,1339
+扫描搜寻 3465,1339
 
 > #str_01152
 ; delta3/telecontrol2.gui
 scanning loc 3382,1487
-扫描位置 3382,1487
+扫描搜寻 3382,1487
 
 > #str_01153
 ; delta3/telecontrol2.gui
 scanning loc 4146,1572
-扫描位置 4146,1572
+扫描搜寻 4146,1572
 
 > #str_01154
 ; delta3/telecontrol2.gui
 scanning loc 4029,1673
-扫描位置 4029,1673
+扫描搜寻 4029,1673
 
 > #str_01155
 ; delta3/telecontrol2.gui
@@ -8497,7 +8497,7 @@ TRANSFERRING
 > #str_01248
 ; doors/exit_outer.gui delta2/teleporter5.gui erebus1/station5.gui
 EXIT
-离开
+出口
 
 > #str_01249
 ; doors/liftcall.gui doors/liftcallscript.gui phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
@@ -8610,22 +8610,22 @@ OENERiAL XCCESS
 
 > #str_01268
 BIG STUFF
-大家伙
+重要物品
 
 > #str_01269
 ; enpro/bridge_open.gui
 CHAMBER 1 ACCESS
-密室1通道
+房间1通道
 
 > #str_01270
 ; enpro/bridge_open.gui
 BRIDGE CLAMPS ENGAGED
-已接触舰桥钳具
+舰桥钳具已占用
 
 > #str_01271
 ; enpro/bridge_open.gui
 RELEASE BRIDGE
-放开桥梁
+放出桥梁
 
 > #str_01272
 ; enpro/cam.gui
@@ -8716,7 +8716,7 @@ FILTER MISSING
 
 > #str_01289
 TRANSFER CELL
-中转间
+转移电池
 
 > #str_01290
 PLASMA DISPENSER
@@ -8736,7 +8736,7 @@ DEATH-HB9Z0 1&4I
 
 > #str_01294
 PLASMA CHARGE
-等离子电荷
+等离子充电
 
 > #str_01295
 PLASMA SYSTEM OFFLINE
@@ -8748,12 +8748,12 @@ AMMUNITION STATION
 
 > #str_01297
 M-7A PLASMA RIFLE
-M-7A等离子来复枪
+M-7A等离子步枪
 
 > #str_01298
 ; enpro/rod_replace.gui
 CURRENT TEMP
-当前临时
+当前温度
 
 > #str_01299
 596 F / 311 C
@@ -9012,7 +9012,7 @@ BEGIN VALVE ROUTING PROCEDURE
 
 > #str_01337
 MAINTENANCE TEAM - COMM TOWER
-维护站小组 - 指挥塔
+维护组 - 指挥塔
 
 > #str_01338
 ; delta2/report.gui
@@ -9058,12 +9058,12 @@ DIAGRAM"""
 > #str_01343
 ; delta2/report.gui
 ACCESS LOG
-登入日志
+访问日志
 
 > #str_01344
 ; delta2/report.gui
 Access Log Text
-登入日志文本
+访问日志文本
 
 > #str_01345
 ; cranegame/crane_control.gui marscity/comm1mp.gui delta2/report.gui delta2/report2.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/cargo.gui marscity/kellyrequest.gui marscity/comm3.gui phobos2/mcneil_touchscreen.gui
@@ -9091,7 +9091,7 @@ SYSTEM MAINTENANCE ENGINEER
 
 > #str_01350
 MAINTENANCE LOG
-维护站日志
+维护日志
 
 > #str_01351
 COMM ACCESS
@@ -9150,9 +9150,9 @@ To operate, sign out panels with the technician on duty, and have the tech set t
 To activate a new panel, simply place it on an available power receptacle, and the gui will auto-configure."""
 """UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。
 
-想要使用它，首先注销值班技术员的账号，然后让技术员设定所需的界面值。如果你不确定需要哪个界面，向技术员索要库列表。
+如需操作，请与值班技术人员在面板上签字，并让技术人员设置所需的接口值。如果您不确定需要哪个接口，请向技术人员索取库列表。
 
-想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，图形用户界面会自动配置。"""
+想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"""
 
 > #str_01364
 DELTA LABS - AREA 1
@@ -9160,7 +9160,7 @@ DELTA LABS - AREA 1
 
 > #str_01365
 Delta 1 Labs
-德尔塔1 实验室
+德尔塔1实验室
 
 > #str_01366
 Office Directory
@@ -9220,7 +9220,7 @@ Panel
 
 > #str_01380
 Containment Control
-防泄控制室
+抑制控制
 
 > #str_01381
 ; recycling2:物品目标.标题 recycling2:物品目标完成.标题
@@ -9241,7 +9241,7 @@ Utility Hall
 
 > #str_01385
 Intake Control
-通风口控制室
+通风口控制
 
 > #str_01386
 Current Objectives
@@ -9264,19 +9264,19 @@ ERROR READING PDA
 """System v.20.1
 UAC Military Comm"""
 """系统版本20.1
-UAC军事通]["""
+UAC军事通讯"""
 
 > #str_01391
 S][
-S}{
+系][
 
 > #str_01392
 Sys][
-系][
+系统][
 
 > #str_01393
 Syste][
-系统][
+系统版][
 
 > #str_01394
 System v][
@@ -9358,7 +9358,7 @@ UAC军事]["""
 """System v.20.1
 UAC Military]["""
 """系统版本20.1
-UAC军事通"""
+UAC军事通]["""
 
 > #str_01409
 """System v.20.1
@@ -9376,11 +9376,11 @@ UAC军事通]["""
 """System v.20.1
 UAC Military Com]["""
 """系统版本20.1
-UAC军事通]["""
+UAC军事通讯]["""
 
 > #str_01412
 Email
-电邮
+邮件
 
 > #str_01413
 Video
@@ -9457,7 +9457,7 @@ Ammunition - Scatter slugs"""
 
 > #str_01430
 UAC-A45MG
-UAC -A45MG
+UAC-A45机枪
 
 > #str_01431
 """Capacity - 60 rounds
@@ -9504,11 +9504,11 @@ VIDEO DISKS
 
 > #str_01441
 EMAIL   
-电邮
+邮件   
 
 > #str_01442
 EMAIL
-电邮
+邮件
 
 > #str_01443
 USER I.D.
@@ -9532,7 +9532,7 @@ VOICEMAIL
 
 > #str_01448
 EMAIL 
-电邮
+邮件 
 
 > #str_01449
 Name :
@@ -9544,7 +9544,7 @@ I.D. :
 
 > #str_01451
 Post :
-发布 :
+岗位 :
 
 > #str_01452
 Security Clearance
@@ -9637,7 +9637,7 @@ Audio Comm
 
 > #str_01474
 Email Inbox
-电邮收件箱
+邮件收件箱
 
 > #str_01475
 """Pistol
@@ -9852,7 +9852,7 @@ Lights Out
 - To load map with Duel settings, set si_gametype to duel - the scripting does the rest"""
 """记录:
 - 额外音频通道
-- 添加了3种游戏模式的脚本
+- 添加了3种游戏类型的脚本
 - 为死亡竞赛和决斗模式调整了物品放置
 - 决斗模式有了新的布局（移除了厨房，狂战士走廊和小隔间通道，加快了游戏节奏）
 - 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"""
@@ -9953,7 +9953,7 @@ CLOSE BRIDGE
 
 > #str_01515
 OPEN BRIDGE
-打开桥
+打开桥梁
 
 > #str_01516
 ; mc_underground/crane.gui
@@ -10124,7 +10124,7 @@ Online"""
 正常
 所有
 站点
-上线]["""
+上线"""
 
 > #str_01542
 ; delta2b/artifact_analyzer.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui
@@ -11258,27 +11258,27 @@ RESTARTING CONTROL ARM
 > #str_01645
 ; mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
 OUTPUT MONITOR
-输出监视器
+输出监测
 
 > #str_01646
 ; mc_underground/safety_bridge3.gui
 INPUT MONITOR
-输入监视器
+输入监测
 
 > #str_01647
 ; le_underground/security_lockdown.gui mc_underground/security.gui
 MAIN ENTRANCE CONTROL
-主入口控制室
+主入口控制
 
 > #str_01648
 ; mc_underground/security.gui
 SECURITY CHECK POINT
-安全记录点
+安全检查点
 
 > #str_01649
 ; mc_underground/security.gui
 MARS CITY SUBLEVEL ACCESS
-火星城地下层通道
+火星城地下通道
 
 > #str_01650
 ; mc_underground/security.gui
@@ -11399,12 +11399,12 @@ Turrents"""
 > #str_01670
 ; xian/monorail/monorail.gui
 ACTIVATE MONORAIL
-启动索道
+启动单轨铁路
 
 > #str_01671
 ; erebus6/erebus6_monorail.gui xian/monorail/monorail.gui
 MONORAIL CONTROL
-单轨铁路控制室
+单轨铁路控制
 
 > #str_01672
 HEALTH STATION ACTIVITY
@@ -11460,7 +11460,7 @@ OPEN
 
 > #str_01683
 ARMORY
-军械
+军械库
 
 > #str_01684
 CLOSED
@@ -11485,13 +11485,13 @@ SELECT TO ACTIVATE
 
 > #str_01689
 Power-Up Chamber
-为密室供电
+为房间供电
 
 > #str_01690
 ; multiplayer/fragchamber_console.gui
 """CHAMBER
 OPEN"""
-"""密室
+"""房间
 打开"""
 
 > #str_01691
@@ -11525,11 +11525,11 @@ BAY DOORS
 
 > #str_01697
 Chamber 1
-密室1
+房间1
 
 > #str_01698
 Chamber 2
-密室2
+房间2
 
 > #str_01699
 Destination Selected
@@ -11547,12 +11547,12 @@ CLICK TO TURN
 > #str_01702
 ; multiplayer/lightswitch_parm.gui
 LIGHTS OFF
-灯光-关
+灯光:关
 
 > #str_01703
 ; multiplayer/lightswitch_parm.gui
 LIGHTS ON
-灯光-开
+灯光:开
 
 > #str_01704
 Processing. Please wait.
@@ -11564,7 +11564,7 @@ Standby.
 
 > #str_01706
 POWER-UP DISPENSER
-强化道具产生器
+能量提升分配器
 
 > #str_01707
 Berserk
@@ -11576,7 +11576,7 @@ Invulnerability
 
 > #str_01709
 Megasphere
-巨型球
+超级球
 
 > #str_01710
 Invisibility
@@ -11801,7 +11801,7 @@ FAILURE"""
 > #str_01748
 ; screens/cpu_uac.gui erebus1/station1.gui
 M-IPN SATELLITE RELAY - SIGNAL SYNCHRONIZED
-M-IPN 卫星转播 - 信号已同步
+M-IPN卫星转播 - 信号已同步
 
 > #str_01749
 ; screens/cpu_uac.gui screens/cpu_uacoffline.gui erebus1/station1.gui
@@ -11816,7 +11816,7 @@ LEADING THE WAY TO A BETTER FUTURE
 > #str_01751
 ; screens/cpu_uacoffline.gui
 M-IPN SATELLITE RELAY - SIGNAL SYNCHRONIZATION FAILED
-M-IPN 卫星转播 - 信号同步失败
+M-IPN卫星转播 - 信号同步失败
 
 > #str_01752
 ; screens/cpu_uacoffline.gui
@@ -12167,27 +12167,27 @@ INCOMING VIDEO TRANSMISSION
 
 > #str_01806
 TEMP
-临时
+温度
 
 > #str_01807
    EMP
-   临时
+  温度
 
 > #str_01808
       MP
-      时
+      度
 
 > #str_01809
           P
-         时
+         度
 
 > #str_01810
 TE
-临
+温
 
 > #str_01811
 TEM
-临时
+温度
 
 > #str_01812
 ; marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
@@ -12838,35 +12838,35 @@ Disable Scanner
 
 > #str_01956
 AIRLOCK 1
-气闸室1号
+气闸1号
 
 > #str_01957
 AIRLOCK 2
-气闸室2号
+气闸2号
 
 > #str_01958
 AIRLOCK 3
-气闸室3号
+气闸3号
 
 > #str_01959
 AIRLOCK 4
-气闸室4号
+气闸4号
 
 > #str_01960
 AIRLOCK 5
-气闸室5号
+气闸5号
 
 > #str_01961
 AIRLOCK 6
-气闸室6号
+气闸6号
 
 > #str_01962
 AIRLOCK 7
-气闸室7号
+气闸7号
 
 > #str_01963
 AIRLOCK 8
-气闸室8号
+气闸8号
 
 > #str_01964
 """AIRLOCK
@@ -12874,7 +12874,7 @@ ALREADY
 LOCKED"""
 """气闸
 已经
-关闭"""
+锁定"""
 
 > #str_01965
 """AIRLOCK
@@ -13130,7 +13130,7 @@ Left
 
 > #str_02005
 Right
-右边
+右
 
 > #str_02006
 Up
@@ -13212,7 +13212,7 @@ BFG-9000
 > #str_02023
 ; _common/def/weapon_soulcube.def
 Soul Cube
-灵魂立方体
+灵魂魔方
 
 > #str_02024
 Flashlight
@@ -13672,7 +13672,7 @@ Auto Weapon Switch
 
 > #str_02136
 Show HUD
-显示界面
+显示HUD
 
 > #str_02137
 Show Gun Model
@@ -13772,11 +13772,11 @@ Speaker Setup
 
 > #str_02161
 Reverse Channels
-相反频道
+反转声道
 
 > #str_02162
 Realtime Acoustics
-实时声学
+实时音质
 
 > #str_02163
 Volume
@@ -14832,7 +14832,7 @@ Free Look:
 
 > #str_02413
 Always Run (MP):
-总是运行 (MP):
+总是奔跑(MP):
 
 > #str_02414
 Forward:
@@ -15153,7 +15153,7 @@ ROCKET LAUNCHER
 > #str_02481
 ; _common/def/weapon_chainsaw.def
 CHAINSAW
-肢解
+电锯
 
 > #str_02482
 ; _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
@@ -15337,7 +15337,7 @@ BFG 9000
 > #str_02525
 ; _common/def/weapon_soulcube.def
 SOUL CUBE
-灵魂立方体
+灵魂魔方
 
 > #str_02526
 No current objectives
@@ -15990,7 +15990,7 @@ Coolant_Maintenance_key
 > #str_02672
 ; alphalabs4:界面参数1
 CHAMBER
-密室
+房间
 
 > #str_02673
 ACCOUNTING
@@ -16003,7 +16003,7 @@ EFR系统
 > #str_02675
 ; alphalabs4:界面参数1
 CHAMBER REACTOR
-密室反应堆
+房间反应堆
 
 > #str_02676
 Find the key card
@@ -16621,7 +16621,7 @@ map_delta3::decon_cycle_door5
 > #str_02809
 ; delta3:界面参数1 delta3:地点.名 delta3:地点.位置
 Chamber 1 Access
-密室1通道
+房间1通道
 
 > #str_02810
 map_delta3::teleport1_machine_ready
@@ -16690,7 +16690,7 @@ map_delta3::teleport3_control_up
 > #str_02826
 ; delta3:界面参数1 delta3:地点.名
 Chamber 2 Access
-密室2通道
+房间2通道
 
 > #str_02827
 ; delta5:PDA物品.名 delta5:PDA物品.界面参数6 delta5:界面参数7
@@ -18381,7 +18381,7 @@ UNLOCK CARGO LIFT CONTROLS
 > #str_03161
 ; caves/liftlock.gui
 LIFT CONTROL ACCESS ONLINE
-电梯控制室入口上线
+电梯控制通道上线
 
 > #str_03162
 ; caves/liftmalfunction.gui
@@ -18624,7 +18624,7 @@ DOWN"""
 > #str_03204
 ; cranegame/crane_control.gui
 LATERAL CONTROL
-侧控制室
+侧控制
 
 > #str_03205
 ; delta1/airsys.gui
@@ -19557,7 +19557,7 @@ ACTIVE"""
 > #str_03369
 ; delta2b/conveyor_system.gui
 CHAMBER DEPLOYMENT STATION
-密室调度站
+房间调度站
 
 > #str_03370
 ; delta2b/conveyor_system.gui
@@ -19567,7 +19567,7 @@ CONVEYOR SYSTEM
 > #str_03371
 ; delta2b/conveyor_system.gui
 CHAMBER PROCESSING ACTIVE
-密室处理启用
+房间处理启用
 
 > #str_03372
 ; delta2b/conveyor_system.gui
@@ -19968,7 +19968,7 @@ DECONTAMINATION CHAMBER SEQUENCE INITIATED
 > #str_03426
 ; delta3/decon_malfunction.gui
 CHAMBER MALFUNCTION
-密室故障
+房间故障
 
 > #str_03427
 ; delta3/decon_malfunction.gui
@@ -24287,7 +24287,7 @@ CURRENT MISSION OBJECTIVES
 
 > #str_04171
 Email Inbox of 
-电邮收件箱: 
+邮件收件箱: 
 
 > #str_04172
 MISSION OBJECTIVES
@@ -25286,7 +25286,7 @@ Atomic Stabilization Hub
 > #str_04389
 ; alphalabs2:地点.名
 Lower MFS Control
-低层MFS控制室
+低层MFS控制
 
 > #str_04390
 ; alphalabs2:地点.名
@@ -25661,7 +25661,7 @@ Personnel Transfer Station
 > #str_04464
 ; caverns2:地点.名
 Chamber Junction 1
-密室连接点1
+房间连接点1
 
 > #str_04465
 ; caverns2:地点.名
@@ -25701,12 +25701,12 @@ Room of Stars
 > #str_04472
 ; caverns2:地点.名
 Chamber Junction 2
-密室连接点2
+房间连接点2
 
 > #str_04473
 ; caverns2:地点.名
 Chamber Junction 3
-密室连接点3
+房间连接点3
 
 > #str_04474
 ; caverns2:地点.名
@@ -26341,7 +26341,7 @@ Specimen Research Lab
 > #str_04600
 ; delta2b:地点.名
 Research Control
-科研区控制室
+科研区控制
 
 > #str_04601
 ; delta2b:地点.名
@@ -26406,7 +26406,7 @@ Lift Access floor1
 > #str_04613
 ; delta2b:地点.名
 Research Control Corridor
-科研区控制室走廊
+科研区控制走廊
 
 > #str_04614
 ; delta2b:地点.名
@@ -26471,7 +26471,7 @@ Lower Terminal Office
 > #str_04626
 ; delta3:地点.名
 Chamber 1 Terminal - lower
-密室1终点 - 下层
+房间1终点 - 下层
 
 > #str_04627
 ; delta3:地点.名
@@ -26496,7 +26496,7 @@ Decon Chamber 1- upper
 > #str_04631
 ; delta3:地点.名
 Chamber 1 Storage
-密室1仓库
+房间1仓库
 
 > #str_04632
 ; delta3:地点.名
@@ -26516,7 +26516,7 @@ Terminal Processing
 > #str_04635
 ; delta3:地点.名
 Chamber 2 Terminal
-密室2终点
+房间2终点
 
 > #str_04636
 ; delta3:地点.名
@@ -26526,7 +26526,7 @@ Security Station 2
 > #str_04637
 ; delta3:地点.名
 Chamber 2 Storage
-密室2仓库
+房间2仓库
 
 > #str_04638
 ; delta3:地点.名
@@ -26561,12 +26561,12 @@ HST观察
 > #str_04644
 ; delta3:地点.名
 Chamber 3 Control Access
-密室3控制通道
+房间3控制通道
 
 > #str_04645
 ; delta3:地点.名
 Chamber 3 Control
-密室3控制
+房间3控制
 
 > #str_04646
 ; delta3:地点.名
@@ -26606,12 +26606,12 @@ Terminal Office Storage
 > #str_04653
 ; delta3:地点.名
 Chamber 2 Control
-密室2控制
+房间2控制
 
 > #str_04654
 ; delta3:地点.名
 Chamber 1 Control
-密室1控制
+房间1控制
 
 > #str_04655
 ; delta3:地点.名
@@ -26626,7 +26626,7 @@ Lower Storage
 > #str_04657
 ; delta3:地点.名
 Chamber 1 Terminal - upper
-密室1终点 - 上层
+房间1终点 - 上层
 
 > #str_04658
 ; delta3:地点.名
@@ -26636,12 +26636,12 @@ T2平台1
 > #str_04659
 ; delta3:地点.名
 Chamber 3 Access
-密室3通道
+房间3通道
 
 > #str_04660
 ; delta3:地点.名
 Chamber 3 Terminal
-密室3终点
+房间3终点
 
 > #str_04661
 ; delta3:地点.名
@@ -26751,12 +26751,12 @@ Maintenance 1
 > #str_04682
 ; enpro:地点.名
 Chamber 1 Upper
-密室1上层
+房间1上层
 
 > #str_04683
 ; enpro:地点.名
 Chamber 2
-密室2
+房间2
 
 > #str_04684
 ; enpro:地点.名
@@ -26816,7 +26816,7 @@ Transfer Bay
 > #str_04695
 ; enpro:地点.名
 Chamber 1 Lower
-密室1下层
+房间1下层
 
 > #str_04696
 ; enpro:地点.名
@@ -26836,7 +26836,7 @@ Unknown
 > #str_04699
 ; hellhole:地点.名
 Chamber of the Hero
-英雄密室
+英雄房间
 
 > #str_04700
 ; hellhole:地点.名
@@ -27470,7 +27470,7 @@ Teleportation Recovery
 > #str_04826
 ; d3dm1:地点.名
 Chamber Passageway
-密室走廊
+房间走廊
 
 > #str_04827
 ; d3dm1:地点.名
@@ -30473,7 +30473,7 @@ Add
 
 > #str_00100155
 Rem
-剩
+剩余
 
 > #str_00100156
 REMOVING POWER CELLS...
@@ -30481,7 +30481,7 @@ REMOVING POWER CELLS...
 
 > #str_00100157
 COMPLETE
-万恒
+完成
 
 > #str_00100158
 DEVICE IS OFF
@@ -30803,7 +30803,7 @@ Escape the Erebus Complex
 
 > #str_00100228
 Control Access
-控制室入口
+控制通道
 
 > #str_00100229
 ; erebus3:PDA物品.名
@@ -31184,12 +31184,12 @@ Teleport Station 3
 > #str_00100309
 ; deltax:地点.名
 Chamber 3 Access
-密室3通道
+房间3通道
 
 > #str_00100310
 ; deltax:地点.名
 Chamber 3 Terminal
-密室3终点
+房间3终点
 
 > #str_00100311
 info_location_1
@@ -31267,7 +31267,7 @@ Specimen Research Lab
 > #str_00100327
 ; deltax:地点.名 phobos2:界面参数1
 Research Control
-科研区控制室
+科研区控制
 
 > #str_00100328
 ; deltax:地点.名
@@ -31287,7 +31287,7 @@ Lift Access floor1
 > #str_00100331
 ; deltax:地点.名
 Research Control Corridor
-科研区控制室走廊
+科研区控制走廊
 
 > #str_00100332
 Lift floor2
@@ -31353,7 +31353,7 @@ Elevator Bay
 > #str_00100345
 ; erebus2:地点.位置
 Excavation Control
-坑道控制室
+坑道控制
 
 > #str_00100346
 ; erebus1:地点.位置 erebus2:地点.名
@@ -32195,7 +32195,7 @@ Phobos Cargo A2
 
 > #str_00100522
 Elevator Control
-电梯控制室
+电梯控制
 
 > #str_00100523
 """DO NOT OVERLOAD LIFT
@@ -32355,7 +32355,7 @@ SECURITY
 > #str_00100555
 ; phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 LIFT CONTROL
-电梯控制室
+电梯控制
 
 > #str_00100556
 ; phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui phobos/reactor_bridgecontrol2.gui
@@ -32746,7 +32746,7 @@ Levitation Site Gamma
 > #str_00100641
 ; erebus3:地点.位置
 Chamber Junction 1
-密室连接点1
+房间连接点1
 
 > #str_00100642
 ; erebus3:地点.位置
@@ -32756,7 +32756,7 @@ The Proving Grounds
 > #str_00100643
 ; erebus3:地点.位置
 Chamber Junction 2
-密室连接点2
+房间连接点2
 
 > #str_00100644
 Find 2 power cells to activate the lift that leads into the ventilation system
@@ -33775,7 +33775,7 @@ EREBUS LIFT
 > #str_00100842
 ; erebus2/e2_cavelift2.gui
 Lift Control
-电梯控制室
+电梯控制
 
 > #str_00100843
 ; erebus2/e2_cavelift2.gui
@@ -34545,7 +34545,7 @@ Great Divide
 > #str_00101012
 ; d3xpdm2:地点.位置
 Chamber Access
-密室通道
+房间通道
 
 > #str_00101013
 ; d3xpdm2:地点.位置
@@ -34555,7 +34555,7 @@ Pit of Uumlaut
 > #str_00101014
 ; d3xpdm2:地点.位置
 Chamber of Uumlaut
-乌姆劳特密室
+乌姆劳特房间
 
 > #str_00101015
 ; d3xpdm3:地点.位置
@@ -36095,7 +36095,7 @@ Ethan"""
 """阿兰，
 继续我们之前的对话，我在你所在区域的储物柜里存了一些子弹和护甲。门上的密码是586。我不清楚到底发生了什么事，但小心行事是没错的。希望我们永远都不要用上这些东西。
 
-如果有其它消息我会继续给你发电邮的。
+如果有其它消息我会继续给你发邮件的。
 伊森"""
 
 > #str_admin_dorweiler_email_1_email_to
@@ -36362,7 +36362,7 @@ Russell Weilder
 
 > #str_admin_simons_email_2_email_subject
 Email Spam
-垃圾电邮
+垃圾邮件
 
 > #str_admin_simons_email_2_email_text
 """Paul-
@@ -36469,7 +36469,7 @@ Thank You,
 UAC Maintenance"""
 """凯尔·伯格博士，
 
-维护团队刚清理完EPD收集舱。所有生物物质已经从该区域清除。深度扫描也确认达到你要求的洁净区域。14种锥筒和5个盘子也已经归位。请一定要到维护处来，因为我们需要你签署一些申请表格。
+维护组刚清理完EPD收集舱。所有生物物质已经从该区域清除。深度扫描也确认达到你要求的洁净区域。14种锥筒和5个盘子也已经归位。请一定要到维护处来，因为我们需要你签署一些申请表格。
 
 谢谢，
 UAC维护处"""
@@ -37504,7 +37504,7 @@ David Carter
 
 > #str_alphalabs4_kaczynski_email_1_email_subject
 Chamber Calibration
-密室刻度
+房间刻度
 
 > #str_alphalabs4_kaczynski_email_1_email_text
 """Dr. Kaczynski,
@@ -37800,7 +37800,7 @@ Dangerous Conditions in the Caverns
 
 > #str_caverns1_cody_email_1_email_from
 Maint. Control
-维护控制室
+维护控制
 
 > #str_caverns1_cody_email_1_email_subject
 Generator Repairs Needed
@@ -39446,7 +39446,7 @@ Set for Archive: Yes"""
 
 > #str_delta2b_bullman_audio_1_audio_name
 Soul Cube as a Weapon
-用灵魂立方体做武器
+用灵魂魔方做武器
 
 > #str_delta2b_bullman_email_1_email_date
 10-20-2145
@@ -39502,7 +39502,7 @@ Do what you can to stall him.  Do not let him take possession of the object!
 
 """
 """布曼博士，
-希望你能找到这封电邮。我通过伪装这封电邮隐藏了我的真实名字和地址。他可能在读你的信。
+希望你能找到这封邮件。我通过伪装这封邮件隐藏了我的真实名字和地址。他可能在读你的信。
 
 你的老板（我不会提到他的名字）远比你能想象的要更加危险。我认为他在利用你，篡改你的成果。
 
@@ -42530,7 +42530,7 @@ mail.admin@elNET
 
 > #str_erebus3_kharkov_email_1_email_subject
 Undeliverable: E-Mail from Mars
-无法送达: 来自火星的电邮
+无法送达: 来自火星的邮件
 
 > #str_erebus3_kharkov_email_1_email_text
 """Your message did not reach some or all of the intended recipients.
@@ -42556,7 +42556,7 @@ I will see you soon.
 -VK"""
 """你的信息未送达部分或全部选定的收件人。
 
-    主题: 来自火星的电邮
+    主题: 来自火星的邮件
     发送日期: 2147-3-13
 
 无法找到下列收件人:
@@ -46019,7 +46019,7 @@ Ray Gerhardt"""
 发送日期: 2145-11-14
 收件人: 邓肯·马修斯
 
-如果你收到了这封电邮，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。
+如果你收到了这封邮件，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。
 
 我会十分想念你们的。我确信在这里建立的友谊会伴我一生，我也将和你们保持联络。一旦我有了新地址之后我将立即告诉你们。
 
@@ -48931,7 +48931,7 @@ I will contact you post-haste with any news regarding our funding.
 Pierce"""
 """理查德，
 
-谢谢你对这里工作的辛勤付出与支持。我把你得到的资料和我的编析到一起，取得了一些令人吃惊的新发现。我相信你对那块板子的研究可以解开灵魂立方体，古物，还有我们之间的神秘关系。
+谢谢你对这里工作的辛勤付出与支持。我把你得到的资料和我的编析到一起，取得了一些令人吃惊的新发现。我相信你对那块板子的研究可以解开灵魂魔方，古物，还有我们之间的神秘关系。
 
 我现在正发信去执行部门要求得到更多的经费。
 
@@ -49084,7 +49084,7 @@ Pierce"""
 收件人: 伊丽莎白·麦克内尔
 
 现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。
-博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
+博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
 
 警告所有人。千万不要让地球遭受同样的灾难。
 
