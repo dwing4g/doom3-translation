@@ -47,7 +47,7 @@
 // admin/adminlock.gui doors/keycard.gui doors/doorlock.gui doors/dirtylock.gui delta2b/keycard.gui
 	"#str_00020"	"拒绝访问"
 // admin/adminlock.gui doors/doorlock.gui doors/dirtylock.gui
-	"#str_00021"	"区域安保:"
+	"#str_00021"	"区域安全通道:"
 // admin/adminlock.gui
 	"#str_00022"	"终端3 - 数据库"
 // admin/adminlock.gui controlpanels/cabinet.gui controlpanels/cabinetmb.gui doors/admin_pda_door.gui doors/pda_door.gui doors/uac_general.gui doors/uac_general_alt.gui doors/uac_door.gui transfer/outerdoor_open_multiclick.gui transfer/outerdoor_open.gui transfer/outerdoor_open_noclick.gui controlpanels/storage.gui doors/uac_doorparm.gui transfer/outerdoor_locked_multiclick.gui caves/door_move.gui caves/door_open.gui caves/keycard.gui caves/keycard2.gui comm1/securitylock.gui doors/doorlock.gui doors/uac_sentry.gui transfer/outerdoor_locked.gui doors/dirtylock.gui doors/uac_door_trigger.gui doors/areakeypad.gui delta2/officelock2.gui delta2/officelock3.gui delta2/officeopen.gui delta2/securitydoor.gui delta2b/teleporter_backdoor.gui doors/external.gui erebus2/e2_pda_ladder.gui erebus2/e2_pda_ladder_green.gui doors/pda_door_green.gui caves/door_error2.gui caves/door_error3.gui le_underground/security_lockdown.gui doors/uac_door_error.gui doors/uac_general_click.gui marscity/uac_general_click.gui mc_underground/security.gui doors/pda_door_trigger.gui recycle2/outerdoor_locked.gui
@@ -85,7 +85,7 @@
 // admin/comm1.gui screens/scan4.gui screens/scan5a.gui screens/scan6.gui screens/scan1.gui screens/scan2.gui screens/scan5.gui screens/scan2a.gui screens/scan3.gui screens/scan5b2.gui comm1/hatch.gui screens/scan2dirt.gui delta2/report.gui delta2/report2.gui delta2/teleporter3.gui delta2/teleporter6.gui screens/scan5b.gui erebus1/station10.gui erebus1/station2.gui erebus1/station6.gui recycle2/temp_two.gui mc_underground/safety_bridge1a.gui mc_underground/safety_bridge3.gui mc_underground/machine1.gui marscity/code_black.gui marscity/uac_news.gui marscity/volunteers.gui mc_underground/safety_bridge1b.gui mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
 	"#str_00039"	"UAC"
 // admin/comm1.gui
-	"#str_00040"	"当前没有用户"
+	"#str_00040"	"无当前用户"
 // admin/comm1.gui
 	"#str_00041"	"登录以获得用户访问"
 // admin/comm1.gui
@@ -151,35 +151,35 @@
 // alphalabs1/gasline.gui delta3/telecontrol1.gui delta3/telecontrol2.gui enpro/steam.gui enpro/steam_off.gui erebus1/station13.gui marscity/bioscan.gui marscity/bioscan2.gui marscity/bioscan3.gui marscity/bioscan4.gui movies/rescue.gui marscity/ship.gui marscity/transport_intro.gui
 	"#str_00073"	"扫描中"
 // alphalabs1/gasline.gui
-	"#str_00074"	"管道区域7-6\n发生活在"
+	"#str_00074"	"管道区域7-6\n发生火灾"
 // alphalabs1/gasline.gui
-	"#str_00075"	"封闭的沦陷管道区域"
+	"#str_00075"	"封闭有缺口的管道区"
 // alphalabs1/gasline.gui
-	"#str_00076"	"管道区隔离并封锁"
+	"#str_00076"	"管道区已隔离并封闭"
 // alphalabs1/gasline.gui
-	"#str_00077"	"\n正在封锁缺口"
+	"#str_00077"	"\n正在封闭缺口"
 // alphalabs1/gasline.gui
 	"#str_00078"	"管道泄漏火焰\n已扑灭"
 // alphalabs1/opengate.gui
 	"#str_00079"	"在EPD运行时\n登录会产生致命后果"
 // alphalabs1/opengate.gui
-	"#str_00080"	"EPD光束仍\n激活——处理\n需谨慎"
+	"#str_00080"	"EPD光束仍\n在运作——\n处理需谨慎"
 // alphalabs1/opengate.gui
 	"#str_00081"	"打开维修\n通道大门"
 // alphalabs1/opengate.gui
-	"#str_00082"	"密室维修通道"
+	"#str_00082"	"房间维修通道"
 // alphalabs1/securitystation.gui
 	"#str_00083"	"阿尔法1号实验室通道"
 // alphalabs1/securitystation.gui
-	"#str_00084"	"区域照明关闭"
+	"#str_00084"	"区域照明:关闭"
 // alphalabs1/securitystation.gui enpro/bridge_open.gui
-	"#str_00085"	"通道门已锁定"
+	"#str_00085"	"通道门:已锁定"
 // alphalabs1/securitystation.gui
-	"#str_00086"	"通道门开放"
+	"#str_00086"	"通道门:开启"
 // alphalabs1/securitystation.gui
-	"#str_00087"	"区域照明开启"
+	"#str_00087"	"区域照明:开启"
 // alphalabs1/securitystation.gui
-	"#str_00088"	"主要灯光打开"
+	"#str_00088"	"主要灯光:开启"
 // alphalabs1/securitystation.gui enpro/bridge_open.gui
 	"#str_00089"	"解锁大门"
 // alphalabs2/ladder.gui caves/ladder.gui caves/ladder2.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
@@ -189,9 +189,9 @@
 // alphalabs2/ladder.gui caves/ladder.gui caves/ladder2.gui delta2/halonswitch.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
 	"#str_00092"	"注意"
 // alphalabs2/ladder.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
-	"#str_00093"	"在操作时\n不要碰梯子"
+	"#str_00093"	"在操作时\n不要碰爬梯"
 // alphalabs2/ladder.gui
-	"#str_00094"	"服务爬梯成功打开"
+	"#str_00094"	"成功打开服务爬梯"
 // alphalabs2/ladder.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
 	"#str_00095"	"警告"
 // alphalabs2/ladder.gui delta5/ventshaft_ladder.gui recycle1/ladder.gui
@@ -247,7 +247,7 @@
 // alphalabs2/venthatch.gui
 	"#str_00121"	"主通风舱口\n没有流量。\n备用通风管道\n达到最大流量。\n打开通风舱口"
 // alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
-	"#str_00122"	"密室\n已锁定"
+	"#str_00122"	"房间\n已锁定"
 // alphalabs4/efr2.gui alphalabs4/fragchamber.gui controlpanels/bridgesignr.gui multiplayer/lightswitch_parm.gui multiplayer/fragchamber_console.gui multiplayer/generator.gui enpro/rod_replace.gui monorail/stop1.gui
 	"#str_00123"	"正在处理"
 // controlpanels/epd2.gui alphalabs4/fragchamber.gui comm1/commterminal.gui marscity/reception.gui
@@ -263,19 +263,19 @@
 // alphalabs4/fragchamber.gui
 	"#str_00129"	"打开\n房间"
 // alphalabs3/vent.gui
-	"#str_00130"	"1号炉格开启"
+	"#str_00130"	"1号检修格栅开启"
 // alphalabs3/vent.gui
-	"#str_00131"	"2号炉格开启"
+	"#str_00131"	"2号检修格栅开启"
 // alphalabs3/vent.gui
-	"#str_00132"	"3号炉格开启"
+	"#str_00132"	"3号检修格栅开启"
 // alphalabs3/vent.gui
-	"#str_00133"	"打开3号通风入口栅板"
+	"#str_00133"	"打开通风道3号检修格栅"
 // alphalabs3/vent2.gui cpu/maintenance.gui
-	"#str_00134"	"仓库区域开启"
+	"#str_00134"	"存储区:开启"
 // alphalabs3/vent2.gui
-	"#str_00135"	"储藏柜已锁定"
+	"#str_00135"	"存储箱:已锁定"
 // alphalabs3/vent2.gui
-	"#str_00136"	"仓库面板自动控制模式中"
+	"#str_00136"	"存储面板自动控制中"
 // alphalabs4/efr.gui
 	"#str_00137"	"EFR系统处于待机模式"
 // alphalabs4/efr.gui alphalabs4/efr_start.gui
@@ -349,7 +349,7 @@
 // alphalabs4/efr.gui alphalabs4/efr2.gui alphalabs4/efr_start.gui
 	"#str_00172"	"系统已激活"
 // alphalabs4/efr.gui
-	"#str_00173"	"扩展服务\n桥"
+	"#str_00173"	"展开服务\n桥"
 // alphalabs4/efr.gui
 	"#str_00174"	"系统"
 // alphalabs4/efr.gui
@@ -393,7 +393,7 @@
 // alphalabs4/efr.gui
 	"#str_00194"	"状态报告"
 // alphalabs4/efr.gui
-	"#str_00195"	"维护站桥梁"
+	"#str_00195"	"维护桥"
 // alphalabs4/efr.gui
 	"#str_00196"	"再加工系统"
 // alphalabs4/efr2.gui
@@ -401,7 +401,7 @@
 // alphalabs4/efr2.gui monorail/stop1.gui
 	"#str_00198"	"放射立场激活"
 // alphalabs4/efr2.gui
-	"#str_00199"	"启动磁力\n消磁"
+	"#str_00199"	"启动磁力场\n放电"
 // alphalabs4/efr_start.gui
 	"#str_00200"	"\n\n\n\nEFR系统启动程序从1号站点开启\n\n全部系统就位\n\n开启EFR处理以授权系统激活"
 // alphalabs4/efr_start.gui
@@ -475,7 +475,7 @@
 // alphalabs4/efr_start.gui
 	"#str_00235"	"EFR启动中"
 // alphalabs4/locker.gui
-	"#str_00236"	"安全是非常重要的\n武器仓的入口一定要锁严"
+	"#str_00236"	"安全性是非常重要的\n武器仓的入口一定要锁严"
 // alphalabs4/locker.gui
 	"#str_00237"	"锁  打开"
 // alphalabs4/locker.gui
@@ -541,8 +541,8 @@
 	"#str_00274"	"电梯通路大厅"
 // cameras/camselect.gui cameras/camselect_le_exis.gui
 	"#str_00275"	"摄像机状态 -离线-"
-	"#str_00276"	"呼叫起重机"
-	"#str_00277"	"传电梯来"
+	"#str_00276"	"呼叫升降梯"
+	"#str_00277"	"传送升降梯"
 // caves/crane.gui
 	"#str_00278"	"旋转极限"
 // caves/crane.gui
@@ -556,13 +556,13 @@
 // caves/crane.gui
 	"#str_00283"	"绞盘错误"
 // caves/door.gui
-	"#str_00284"	"地下1层\n电梯访问\n控制\n位于\n2号站点"
+	"#str_00284"	"地下1层\n升降梯访问\n控制\n位于\n2号站点"
 // caves/door_control.gui
 	"#str_00285"	"门已封闭"
 // caves/door_control.gui
 	"#str_00286"	"货物\n转移"
 // caves/door_control.gui
-	"#str_00287"	"进入货物运输湾"
+	"#str_00287"	"访问货物传送台"
 // caves/door_control.gui
 	"#str_00288"	"门已打开"
 	"#str_00289"	"区域1"
@@ -586,7 +586,7 @@
 // caves/door_open.gui
 	"#str_00299"	"综合\n通路"
 // caves/elevatorcall.gui caves/liftcall.gui
-	"#str_00300"	"呼叫\n电梯"
+	"#str_00300"	"呼叫\n升降梯"
 // doors/elevatorcall.gui caves/elevatormove.gui doors/elevator3floor.gui doors/elevator3floorpda.gui doors/elevatorerror_trigger.gui doors/elevator2floor.gui doors/elevatorcallsub.gui doors/elevatorerror.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/elevatorcallscript.gui doors/elevator_gray.gui
 	"#str_00301"	"2层"
 // doors/elevatorcall.gui caves/elevatormove.gui doors/elevator3floor.gui doors/elevator3floorpda.gui doors/elevatorerror_trigger.gui doors/elevator2floor.gui doors/elevator2floorsub.gui doors/elevatorcallsub.gui doors/elevatorerror.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/elevatorcallscript.gui doors/elevator_gray.gui marscity/elevatorcall.gui
@@ -596,15 +596,15 @@
 // caverns1:界面参数4 comm1:界面参数4 commoutside:界面参数4 delta1:界面参数4 delta3:界面参数4 delta5:界面参数4 mars_city2:电梯.界面参数4 doors/elevatortop_gray.gui doors/elevatortop2.gui caves/elevatormove.gui doors/elevatortop.gui doors/elevatortopsub.gui doors/elevatortop_gray2.gui doors/elevatortop1.gui
 	"#str_00304"	"1层"
 // caves/elevatormove.gui
-	"#str_00305"	"将电梯\n移至\n1层"
+	"#str_00305"	"将升降梯\n移至\n1层"
 // caves/elevatormove.gui
-	"#str_00306"	"将电梯\n移至\n地下1层"
+	"#str_00306"	"将升降梯\n移至\n地下1层"
 // caves/elevatormove.gui doors/elevatortopsub.gui
 	"#str_00307"	"地下1层"
 // caves/elevatormove.gui
-	"#str_00308"	"打开电梯门"
+	"#str_00308"	"打开升降梯门"
 // caves/elevatormove.gui
-	"#str_00309"	"将电梯\n移至\n2层"
+	"#str_00309"	"将升降梯\n移至\n2层"
 // caverns1:界面参数3 comm1:界面参数3 commoutside:界面参数3 delta1:界面参数3 delta3:界面参数3 delta5:界面参数3 mars_city2:电梯.界面参数3 doors/elevatortop_gray.gui doors/elevatortop2.gui caves/elevatormove.gui doors/elevatortop.gui doors/elevatortopsub.gui doors/elevatortop_gray2.gui doors/elevatortop1.gui
 	"#str_00310"	"2层"
 // caves/elevatormove.gui
@@ -639,34 +639,34 @@
 // caves/ladder.gui
 	"#str_00326"	"关闭舱门"
 // caves/ladder2.gui
-	"#str_00327"	"扩展通路楼梯"
-	"#str_00328"	"关闭竖梯"
-	"#str_00329"	"呼叫巨大起重机"
-	"#str_00330"	"电梯功能禁止"
+	"#str_00327"	"展开通道梯"
+	"#str_00328"	"关闭通道梯"
+	"#str_00329"	"呼叫巨大升降梯"
+	"#str_00330"	"升降梯功能已禁用"
 // caves/liftmalfunction.gui
-	"#str_00331"	"电梯使用控制室"
+	"#str_00331"	"升降梯访问控制"
 // caves/liftmalfunction.gui
 	"#str_00332"	"转移\n至洞穴\n下层"
 // caves/liftmalfunction.gui
-	"#str_00333"	"引擎空闲\n货梯刹车连接\n平衡矫正开启"
+	"#str_00333"	"引擎空闲\n升降梯刹车连接\n平衡矫正开启"
 // caves/liftmalfunction.gui
 	"#str_00334"	"发现轨道\n损坏"
 // caves/liftmalfunction.gui
 	"#str_00335"	"下层桥梁\n转移轨道损坏\n\n自动维修\n申请已提交"
 // caves/liftmalfunction.gui
-	"#str_00336"	"锁定\n电梯控制"
+	"#str_00336"	"锁定\n升降梯控制"
 // caves/liftmalfunction.gui
-	"#str_00337"	"这台起重机当前\n由于轨道损坏\n而锁定\n\n请使用替代起重机\n来转移货物"
+	"#str_00337"	"这台升降梯当前\n由于轨道损坏\n而锁定\n\n请使用替代升降梯\n来运输货物"
 // caves/liftmalfunction.gui
-	"#str_00338"	"引擎运转\n货梯刹车解除\n平衡矫正开启"
+	"#str_00338"	"引擎运转\n升降梯刹车解除\n平衡矫正开启"
 // caves/liftmalfunction.gui
 	"#str_00339"	"正在转移\n至洞穴\n下层"
 // caves/liftmalfunction.gui
 	"#str_00340"	"临时\n封锁"
 // caves/map.gui
-	"#str_00341"	"主要传输电梯港"
+	"#str_00341"	"主运输升降梯港"
 // caves/map.gui
-	"#str_00342"	"电梯维护"
+	"#str_00342"	"升降梯维护"
 // caves/map.gui
 	"#str_00343"	"发电机室"
 // caves/map.gui
@@ -680,7 +680,7 @@
 // caves/map.gui
 	"#str_00348"	"维护办公室"
 // caves/map.gui
-	"#str_00349"	"地下1层传送电梯"
+	"#str_00349"	"地下1层运输升降梯"
 // caves/map.gui
 	"#str_00350"	"仓库区1"
 // caves/map.gui
@@ -692,7 +692,7 @@
 // caves/map.gui
 	"#str_00354"	"排列"
 // caves/map.gui
-	"#str_00355"	"坑道 - 二阶段"
+	"#str_00355"	"坑道 - 第2阶段"
 // caves/map.gui
 	"#str_00356"	"警告: 所有轮岗人员"
 // caves/map.gui
@@ -724,10 +724,10 @@
 	"#str_00370"	"信息"
 // templates/copy one click script.gui
 	"#str_00371"	"运行脚本一次"
-	"#str_00372"	"责骂"
+	"#str_00372"	"呼叫下来"
 	"#str_00373"	"此GUI在点击时激活一个脚本命令。设置脚本名为一个键值，键:Gui_Parm6 值:script_name。\n\n颜色设置 - 键:Gui_Parm4\n值: 1 = 红色       2 = 蓝色\n3 = 绿色           4 = Doom绿色\n5 = 黄色           6 = 橙色"
-	"#str_00374"	"多点击脚本"
-	"#str_00375"	"呼叫"
+	"#str_00374"	"多次点击脚本"
+	"#str_00375"	"呼叫上去"
 	"#str_00376"	"上"
 // multiplayer/generator.gui
 	"#str_00377"	"下"
@@ -737,10 +737,10 @@
 	"#str_00381"	"多按钮脚本"
 // templates/copy one click script.gui
 	"#str_00382"	"运行脚本"
-	"#str_00383"	"寄短信"
+	"#str_00383"	"发送消息"
 	"#str_00384"	"此GUI在每次点击时触发一个触发器。\n\n颜色设置 - 键:Gui_Parm4\n值: 1 = 红色       2 = 蓝色\n3 = 绿色           4 = Doom绿色\n5 = 黄色           6 = 橙色"
 	"#str_00385"	"已触发"
-	"#str_00386"	"多点击触发"
+	"#str_00386"	"多次点击触发"
 	"#str_00387"	"位置1"
 	"#str_00388"	"位置2"
 	"#str_00389"	"位置3"
@@ -755,7 +755,7 @@
 // comm1/commterminal.gui mc_underground/invasion6.gui
 	"#str_00397"	"解码中"
 // comm1/commterminal.gui delta1/airsys.gui
-	"#str_00398"	"万恒"
+	"#str_00398"	"完成"
 // comm1/commterminal.gui
 	"#str_00399"	"保存中"
 // comm1/commterminal.gui
@@ -771,7 +771,7 @@
 // comm1/commterminal.gui
 	"#str_00405"	"发送信息:"
 // comm1/commterminal.gui
-	"#str_00406"	"“给星轨舰队的紧急来电”？"
+	"#str_00406"	"“发起紧急呼叫给星轨舰队”？"
 // comm1/commterminal.gui comm1/commterminalbroken.gui
 	"#str_00407"	"插入传送卡"
 // comm1/commterminal.gui comm1/commterminalbroken.gui screens/sat1_1.gui
@@ -785,15 +785,15 @@
 // comm1/commterminal.gui comm1/commterminalbroken.gui
 	"#str_00412"	"无数据 |"
 // comm1/commterminal.gui comm1/commterminalbroken.gui
-	"#str_00413"	"无数据"
+	"#str_00413"	"无数据 "
 // comm1/commterminal.gui
-	"#str_00414"	"中转"
+	"#str_00414"	"转"
 // comm1/commterminal.gui
 	"#str_00415"	"传送"
 // comm1/commterminal.gui
 	"#str_00416"	"传送数"
 // comm1/commterminal.gui
-	"#str_00417"	"传送数据加"
+	"#str_00417"	"传送数据"
 // comm1/commterminal.gui
 	"#str_00418"	"传送数据加"
 // comm1/commterminal.gui
@@ -801,17 +801,17 @@
 // comm1/commterminal.gui
 	"#str_00420"	"传送数据加密\n解"
 // comm1/commterminal.gui
-	"#str_00421"	"传送数据加密\n解密并且"
+	"#str_00421"	"传送数据加密\n解密并"
 // comm1/commterminal.gui
-	"#str_00422"	"传送数据加密\n解密并且组"
+	"#str_00422"	"传送数据加密\n解密并组"
 // comm1/commterminal.gui
-	"#str_00423"	"传送数据加密\n解密并且组合后准"
+	"#str_00423"	"传送数据加密\n解密并组合后准"
 // comm1/commterminal.gui
-	"#str_00424"	"传送数据加密\n解密并且组合后准备"
+	"#str_00424"	"传送数据加密\n解密并组合后准备"
 // comm1/commterminal.gui
-	"#str_00425"	"传送数据加密\n解密并且组合后准备转"
+	"#str_00425"	"传送数据加密\n解密并组合后准备转"
 // comm1/commterminal.gui
-	"#str_00426"	"传送数据加密\n解密并且组合后准备转移"
+	"#str_00426"	"传送数据加密\n解密并组合后准备转移"
 // comm1/commterminal.gui
 	"#str_00427"	"给星轨舰队的紧急来电\n授权199 PAN-CIP KEY IDSPISPOPD\n\n——信息开始——\n请求立即增援\n已接触敌方部队\n主要和次要军事部队损失\n平民伤亡扩大\n研究技术已泄漏\n请求整个舰队参与行动\n标准人员地面推进\n无需轨道轰炸\n接战地点德尔塔，剩余小队等候集结\n——传输结束——"
 // comm1/commterminal.gui marscity/comm2.gui erebus1/station3.gui
@@ -901,20 +901,20 @@
 // comm1/commterminalbroken.gui
 	"#str_00470"	"无法找处理卡片"
 // comm1/commterminalbroken.gui
-	"#str_00471"	"主要接入站"
+	"#str_00471"	"主访问站"
 // comm1/commvid.gui delta1/vidscreen.gui
-	"#str_00472"	"视频通信接入站"
+	"#str_00472"	"视频通信访问站"
 // comm1/commvid.gui comm1/securitylock.gui transfer/exit_comm1.gui movies/triggeron.gui marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
 	"#str_00473"	"通信"
 // comm1/commvid.gui delta1/vidscreen.gui
 	"#str_00474"	"连接空闲"
 // comm1/commvid.gui commoutside/airlock_liftcall.gui multiplayer/fragchamber_console.gui delta1/vidscreen.gui le_exis1/airlock_liftcall.gui
 	"#str_00475"	"待机"
-	"#str_00476"	"来电"
+	"#str_00476"	"呼入"
 // comm1/commvid.gui delta1/vidscreen.gui
 	"#str_00477"	"连接已建立"
 // comm1/dishvid.gui
-	"#str_00478"	"压缩碟3-5"
+	"#str_00478"	"通信盘3-5"
 // comm1/dishvid.gui delta2/teleporter1.gui delta2/teleporter3.gui erebus1/station2.gui erebus3/artifact.gui
 	"#str_00479"	"激活"
 // controlpanels/epd1.gui comm1/dishvid.gui commoutside/thermal1.gui screens/sat1_1.gui delta2/teleporter4.gui delta2b/artifact_analyzer.gui erebus1/station12.gui erebus1/station14.gui erebus1/station9.gui pda/pda_npc.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui pda/tablet_npc.gui mc_underground/invasion1.gui mc_underground/invasion2.gui
@@ -977,7 +977,7 @@
 	"#str_00510"	"矩绳\n彷问"
 	"#str_00511"	"拒纶\n仿门"
 // comm1/securitylock.gui
-	"#str_00512"	"主大厅门控制室"
+	"#str_00512"	"主大厅门控制"
 // comm1/securitylock.gui le_underground/security_lockdown.gui mc_underground/security.gui
 	"#str_00513"	"安全终端1"
 // comm1/securitylock.gui commoutside/co_unlock.gui controlpanels/securitylock.gui enpro/bridge_open.gui le_underground/security_lockdown.gui mc_underground/security.gui phobos2/p2_secliftcontrol.gui
@@ -987,55 +987,55 @@
 // comm1/securitylock.gui
 	"#str_00516"	"单轨铁路通道"
 // comm1/sentrybot.gui
-	"#str_00517"	"哨兵单位167-A\n\n能量系统 - 离线\n武器系统 - 离线\n追踪系统 - 离线"
+	"#str_00517"	"哨兵单位167-A\n\n能量系统 - 离线\n武器系统 - 离线\n跟踪系统 - 离线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00518"	"电力系统\n离线"
+	"#str_00518"	"能量系统\n离线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00519"	"电力系统\n"
+	"#str_00519"	"能量系统\n"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00520"	"电力系统\n在"
+	"#str_00520"	"能量系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00521"	"电力系统\n在"
+	"#str_00521"	"能量系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00522"	"电力系统\n在"
+	"#str_00522"	"能量系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00523"	"电力系统\n在线"
+	"#str_00523"	"能量系统\n上线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00524"	"电力系统\n在线"
+	"#str_00524"	"能量系统\n上线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00525"	"电力系统\n在线"
+	"#str_00525"	"能量系统\n上线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
 	"#str_00526"	"跟踪系统\n离线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
 	"#str_00527"	"跟踪系统\n"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00528"	"跟踪系统\n离"
+	"#str_00528"	"跟踪系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00529"	"跟踪系统\n在"
+	"#str_00529"	"跟踪系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00530"	"跟踪系统\n在"
+	"#str_00530"	"跟踪系统\n上"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00531"	"跟踪系统\n在线"
+	"#str_00531"	"跟踪系统\n上线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00532"	"跟踪系统\n在线"
+	"#str_00532"	"跟踪系统\n上线"
 // comm1/sentrybot.gui delta2b/conveyor_system.gui
-	"#str_00533"	"跟踪系统\n在线"
+	"#str_00533"	"跟踪系统\n上线"
 // comm1/sentrybot.gui
 	"#str_00534"	"武器系统\n离线"
 // comm1/sentrybot.gui
 	"#str_00535"	"武器系统\n"
 // comm1/sentrybot.gui
-	"#str_00536"	"武器系统\n失"
+	"#str_00536"	"武器系统\n上"
 // comm1/sentrybot.gui
-	"#str_00537"	"武器系统\n启"
+	"#str_00537"	"武器系统\n上"
 // comm1/sentrybot.gui
-	"#str_00538"	"武器系统\n启"
+	"#str_00538"	"武器系统\n上"
 // comm1/sentrybot.gui
-	"#str_00539"	"武器系统\n启"
+	"#str_00539"	"武器系统\n上线"
 // comm1/sentrybot.gui
-	"#str_00540"	"武器系统\n启动"
+	"#str_00540"	"武器系统\n上线"
 // comm1/sentrybot.gui
-	"#str_00541"	"武器系统\n启动"
+	"#str_00541"	"武器系统\n上线"
 // comm1/sentrybot.gui
 	"#str_00542"	"哨兵部署中心"
 // comm1/sentrybot.gui controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui controlpanels/bridgecontrol.gui delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui erebus5/erebus5_mcneil.gui
@@ -1045,11 +1045,11 @@
 // comm1/sentrybot.gui
 	"#str_00545"	"启动哨卫"
 // doors/liftcall.gui commoutside/airlock_liftcall.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
-	"#str_00546"	"呼叫起重机"
+	"#str_00546"	"呼叫升降梯"
 // commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
 	"#str_00547"	"气闸室登入"
 // doors/liftcall.gui doors/liftmove.gui alphalabs3/liftcall.gui doors/liftmoveerror.gui commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui controlpanels/mover.gui doors/liftmovewide.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui phobos2/p2_securitylift.gui doors/liftmove_opendoor.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
-	"#str_00548"	"电梯"
+	"#str_00548"	"升降梯"
 // doors/liftcall.gui commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
 	"#str_00549"	"呼叫驻地"
 // commoutside/airlock_liftcall_broken.gui
@@ -1063,41 +1063,41 @@
 // commoutside/airlock_liftmove.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
 	"#str_00554"	"货物"
 // commoutside/airlock_liftmove.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
-	"#str_00555"	"电梯闭锁"
+	"#str_00555"	"升降梯已锁定"
 // doors/liftmove.gui commoutside/airlock_liftmove.gui doors/liftmovewide.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui doors/liftmove_opendoor.gui
 	"#str_00556"	"移动至上层"
 // doors/liftmove.gui commoutside/airlock_liftmove.gui doors/liftmovewide.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui doors/liftmove_opendoor.gui
-	"#str_00557"	"升起电梯"
+	"#str_00557"	"升起升降梯"
 // commoutside/airlock_liftmove.gui controlpanels/airlock_inner.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui controlpanels/airlock_inner_error.gui
 	"#str_00558"	"正在加压"
 // commoutside/co_callstation.gui
 	"#str_00559"	"1号中转站"
 // commoutside/co_callstation.gui
-	"#str_00560"	"移动电梯\n至1号站点"
+	"#str_00560"	"移动升降梯\n至1号站点"
 // commoutside/co_callstation.gui
 	"#str_00561"	"2号中转站"
 // commoutside/co_callstation.gui
-	"#str_00562"	"移动电梯\n至2号站点"
+	"#str_00562"	"移动升降梯\n至2号站点"
 // commoutside/co_callstation.gui
 	"#str_00563"	"中转站3"
 // commoutside/co_callstation.gui
-	"#str_00564"	"移动电梯\n至3号站点"
+	"#str_00564"	"移动升降梯\n至3号站点"
 // commoutside/co_callstation.gui
-	"#str_00565"	"电梯空闲"
+	"#str_00565"	"升降梯空闲"
 // commoutside/co_callstation.gui
-	"#str_00566"	"坏指令"
+	"#str_00566"	"错误命令"
 // commoutside/co_callstation.gui
-	"#str_00567"	"登入锁定"
+	"#str_00567"	"访问已锁定"
 // commoutside/co_callstation.gui
-	"#str_00568"	"电梯使用中"
+	"#str_00568"	"升降梯使用中"
 // commoutside/co_callstation.gui
-	"#str_00569"	"呼叫起重机\n至当前\n站点"
+	"#str_00569"	"呼叫升降梯\n至当前\n站点"
 // commoutside/co_callstation.gui
-	"#str_00570"	"电梯传送站3"
+	"#str_00570"	"升降梯传送站3"
 // commoutside/co_callstation.gui
 	"#str_00571"	"当前没有转移"
 // commoutside/co_callstation.gui
-	"#str_00572"	"中转电梯\n已经移动"
+	"#str_00572"	"运输升降梯\n已经移动"
 // commoutside/co_callstation.gui
 	"#str_00573"	"维护站 PDA\n需要许可证"
 // commoutside/co_callstation.gui
@@ -1133,7 +1133,7 @@
 	"#str_00591"	"安全协议"
 // doors/elevator2floor.gui doors/elevator_gray.gui
 	"#str_00592"	"当前位于2层"
-	"#str_00593"	"转移平台\n转移电梯\n通信建筑入口"
+	"#str_00593"	"转移平台\n运输升降梯\n通信建筑入口"
 	"#str_00594"	"电梯接入错误"
 // doors/elevator2floor.gui doors/elevator_gray.gui
 	"#str_00595"	"移动到2层"
@@ -1349,9 +1349,9 @@
 	"#str_00718"	"阿尔法实验室"
 	"#str_00719"	"  关闭"
 	"#str_00720"	"  安全锁"
-	"#str_00721"	"  仅限进入"
-	"#str_00722"	"进入区域"
-	"#str_00723"	"批处理"
+	"#str_00721"	"  专用通道"
+	"#str_00722"	"区域访问"
+	"#str_00723"	"批量处理"
 	"#str_00724"	"服务器库状态"
 	"#str_00725"	"管理员控制"
 // controlpanels/hydropower.gui
@@ -1361,8 +1361,8 @@
 	"#str_00729"	"安全"
 	"#str_00730"	"电流"
 	"#str_00731"	"未完成"
-	"#str_00732"	"机房A"
-	"#str_00733"	"机房B"
+	"#str_00732"	"A库"
+	"#str_00733"	"B库"
 	"#str_00734"	"-激活-"
 	"#str_00735"	"-锁定-"
 	"#str_00736"	"中央处理\n办公室\n服务器机房\n仓库"
@@ -1373,7 +1373,7 @@
 // controlpanels/efc.gui enpro/efc.gui
 	"#str_00739"	"重启系统"
 // controlpanels/efc.gui
-	"#str_00740"	"替换EXT.CAN."
+	"#str_00740"	"替换分解罐"
 // controlpanels/efc.gui enpro/efc.gui
 	"#str_00741"	"关闭"
 // controlpanels/efc.gui enpro/efc.gui
@@ -1387,7 +1387,7 @@
 // controlpanels/efc.gui enpro/efc.gui
 	"#str_00746"	"UACOS已经高亮必要的活动图标 > 按下选择开始"
 // controlpanels/efc.gui
-	"#str_00747"	"替换分解容器"
+	"#str_00747"	"替换分解罐"
 // controlpanels/epd1.gui
 	"#str_00748"	"系统版本20.1\n全部状态\n正常\n所有站点\n上线"
 // controlpanels/epd1.gui delta2b/artifact_analyzer.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui
@@ -1425,7 +1425,7 @@
 // controlpanels/epd1.gui
 	"#str_00765"	"系统版本20.1\n全部状态\n正常\n所有站点\n上线]["
 // controlpanels/epd2b.gui
-	"#str_00766"	"发现输入管道流"
+	"#str_00766"	"检测到进料管损伤"
 // controlpanels/epd2b.gui
 	"#str_00767"	"释放歧管轴承"
 // controlpanels/epd2b.gui
@@ -1522,25 +1522,25 @@
 // controlpanels/mover.gui
 	"#str_00815"	"控制"
 // controlpanels/mover.gui
-	"#str_00816"	"移动电梯向前"
+	"#str_00816"	"向前移动升降梯"
 // controlpanels/mover.gui
-	"#str_00817"	"货物转移电梯"
+	"#str_00817"	"货物运输升降梯"
 // controlpanels/mover.gui
-	"#str_00818"	"向左旋转电梯"
+	"#str_00818"	"向左旋转升降梯"
 // controlpanels/mover.gui
-	"#str_00819"	"向右旋转电梯"
+	"#str_00819"	"向右旋转升降梯"
 // controlpanels/mover.gui
-	"#str_00820"	"移动电梯向后"
+	"#str_00820"	"向后移动升降梯"
 // controlpanels/mover.gui
-	"#str_00821"	"移动电梯向上"
+	"#str_00821"	"向上移动升降梯"
 // controlpanels/mover.gui
-	"#str_00822"	"移动电梯向下"
+	"#str_00822"	"向下移动升降梯"
 // controlpanels/mover.gui
 	"#str_00823"	"移动至站点1 - 载入中"
 // controlpanels/mover.gui
-	"#str_00824"	"移动至2号站点 - 控制室"
+	"#str_00824"	"移动至2号站点 - 控制"
 // controlpanels/mover.gui
-	"#str_00825"	"移动至3号站点 - 电梯出口"
+	"#str_00825"	"移动至3号站点 - 升降梯出口"
 // controlpanels/mover.gui
 	"#str_00826"	"移动至站点1"
 // controlpanels/mover.gui
@@ -1616,13 +1616,13 @@
 // controlpanels/pump1.gui
 	"#str_00862"	"原料上次     净化时间02:05 mlt"
 	"#str_00863"	"主线性能量注射 -- 12.392 TeV"
-	"#str_00864"	"整串长度 —— 23.1厘米"
-	"#str_00865"	"能量扩散——0.943%"
-	"#str_00866"	"横向发射度(Ex) -- 1203 nm rad"
-	"#str_00867"	"横向发射度(Ey) -- 5 < (Ey) 13 nm rad"
+	"#str_00864"	"整串长度 -- 23.1毫米"
+	"#str_00865"	"能量扩散 -- 0.943%"
+	"#str_00866"	"发射度(Ex) -- 1203 nm rad"
+	"#str_00867"	"发射度(Ey) -- 5 < (Ey) 13 nm rad"
 	"#str_00868"	"湿润环状出口能量 -- 8.728 TeV"
 	"#str_00869"	"整串长度 -- 8.728 TeV"
-	"#str_00870"	"能量扩散 -- 0.0032 %"
+	"#str_00870"	"能量扩散 -- 0.0032%"
 	"#str_00871"	"横向发射度(Ex) -- 913 nm rad"
 	"#str_00872"	"横向发射度(Ex) -- 3 < (Ey) 11 nm rad"
 	"#str_00873"	"正在读取"
@@ -1630,7 +1630,7 @@
 	"#str_00875"	"系统温度"
 	"#str_00876"	"诊断"
 	"#str_00877"	"系统状态"
-	"#str_00878"	"系统         维护"
+	"#str_00878"	"系统           维护"
 	"#str_00879"	"状态"
 	"#str_00880"	"碰撞器                                     总览"
 	"#str_00881"	"散热槽2损坏"
@@ -1645,7 +1645,7 @@
 // commoutside/co_unlock.gui controlpanels/securitylock.gui
 	"#str_00889"	"安全门控制点"
 // commoutside/co_unlock.gui controlpanels/securitylock.gui erebus4/e4_bridge_release.gui phobos2/p2_secliftcontrol.gui
-	"#str_00890"	"德尔塔实验室保安门"
+	"#str_00890"	"德尔塔实验室安全门"
 // commoutside/co_unlock.gui controlpanels/securitylock.gui enpro/bridge_open.gui erebus4/e4_bridge_release.gui phobos2/p2_secliftcontrol.gui
 	"#str_00891"	"尝试进行安防封锁时遇到错误"
 // commoutside/co_unlock.gui controlpanels/securitylock.gui
@@ -1655,7 +1655,7 @@
 	"#str_00895"	"必须重置实验室计算机并上传数据才能继续"
 	"#str_00896"	"打开通风管"
 // controlpanels/storage.gui delta2b/teleporter_backdoor.gui
-	"#str_00897"	"补充仓库地区"
+	"#str_00897"	"补充仓库区"
 // doors/admin_pda_door.gui doors/pda_door.gui controlpanels/storage.gui erebus2/e2_pda_ladder.gui doors/pda_door_trigger.gui
 	"#str_00898"	"进入确认"
 // controlpanels/storage.gui delta2b/teleporter_backdoor.gui
@@ -1687,13 +1687,13 @@
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00912"	"在激活DCL处理前请等待2小时。"
 // controlpanels/vent.gui
-	"#str_00913"	"给控制室通风"
+	"#str_00913"	"给抑制房间通风"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00914"	"激活DCL处理"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00915"	"连接器排气口"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00916"	"输入速率: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 0"
+	"#str_00916"	"额定输入: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 0"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00917"	"排气模式"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui _common/def/ammo.def
@@ -1715,59 +1715,59 @@
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 	"#str_00926"	"NFGC"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00927"	"输入速率: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
+	"#str_00927"	"额定输入: 0米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00928"	"输入速率: 0米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
+	"#str_00928"	"额定输入: 0米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00929"	"输入速率: 0米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
+	"#str_00929"	"额定输入: 0米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00930"	"输入速率: 3米\n右侧提升: 2英尺\n左侧移动: 1英尺\n活动歧管: 1"
+	"#str_00930"	"额定输入: 3米\n右侧提升: 2英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00931"	"输入速率: 5米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
+	"#str_00931"	"额定输入: 5米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00932"	"输入速率: 8米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
+	"#str_00932"	"额定输入: 8米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00933"	"输入速率: 10米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00933"	"额定输入: 10米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00934"	"输入速率: 12米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00934"	"额定输入: 12米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00935"	"输入速率: 15米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00935"	"额定输入: 15米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00936"	"输入速率: 19米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00936"	"额定输入: 19米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00937"	"输入速率: 20米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
+	"#str_00937"	"额定输入: 20米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00938"	"输入速率: 21米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
+	"#str_00938"	"额定输入: 21米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00939"	"输入速率: 22米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00939"	"额定输入: 22米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00940"	"输入速率: 23米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00940"	"额定输入: 23米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00941"	"输入速率: 24米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00941"	"额定输入: 24米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00942"	"输入速率: 25米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
+	"#str_00942"	"额定输入: 25米\n右侧提升: 2英尺\n左侧移动: 4英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00943"	"痕量"
+	"#str_00943"	"追踪等级"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00944"	"名义上的"
+	"#str_00944"	"标称"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00945"	"输入速率: 19米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
+	"#str_00945"	"额定输入: 19米\n右侧提升: 2英尺\n左侧移动: 3英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00946"	"输入速率: 12米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
+	"#str_00946"	"额定输入: 12米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00947"	"输入速率: 8米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
+	"#str_00947"	"额定输入: 8米\n右侧提升: 2英尺\n左侧移动: 2英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00948"	"输入速率: 7米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
+	"#str_00948"	"额定输入: 7米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00949"	"输入速率: 5米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
+	"#str_00949"	"额定输入: 5米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00950"	"输入速率: 4米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
+	"#str_00950"	"额定输入: 4米\n右侧提升: 1英尺\n左侧移动: 1英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00951"	"输入速率: 3米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
+	"#str_00951"	"额定输入: 3米\n右侧提升: 1英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00952"	"输入速率: 2米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
+	"#str_00952"	"额定输入: 2米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 // erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
-	"#str_00953"	"输入速率: 1米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
+	"#str_00953"	"额定输入: 1米\n右侧提升: 0英尺\n左侧移动: 0英尺\n活动歧管: 1"
 	"#str_00954"	"安全监控"
 	"#str_00955"	"回放索引1:02:"
 	"#str_00956"	"回放索引1:03:"
@@ -1794,8 +1794,8 @@
 	"#str_00972"	"抓取"
 	"#str_00973"	"主起重机控制"
 	"#str_00974"	"停止起重机"
-	"#str_00975"	"只有名义上的功能"
-	"#str_00976"	"名义上的功能"
+	"#str_00975"	"仅限标称功能"
+	"#str_00976"	"标称功能"
 	"#str_00977"	"备用电源"
 	"#str_00978"	"主反应堆离线\n\n需要手动重启才能恢复电力"
 	"#str_00979"	"主要功能上线"
@@ -1803,7 +1803,7 @@
 	"#str_00980"	"系统正常"
 	"#str_00981"	"主要电力"
 	"#str_00982"	"主要功能启动\n\n所有系统正常运转"
-	"#str_00983"	"锁站"
+	"#str_00983"	"锁定站点"
 	"#str_00984"	"重新开始"
 	"#str_00985"	"动力专题"
 	"#str_00986"	"系统停止"
@@ -1831,21 +1831,21 @@
 	"#str_01008"	"德尔塔1 - 主吊车通路封锁。\n德尔塔2 - 安保中心封锁，检测到灭火剂泄漏。"
 	"#str_01009"	"初始化数据连接"
 	"#str_01010"	"此GUI只触发一个触发器一次，然后删除此触发器按钮，以便无法再次触发。\n\n颜色设置 - 键:Gui_Parm4\n值: 1 = 红色       2 = 蓝色\n3 = 绿色           4 = Doom绿色\n5 = 黄色           6 = 橙色"
-	"#str_01011"	"数据连接器初始化完毕"
+	"#str_01011"	"数据连接器已初始化"
 	"#str_01012"	"数据连接器错误"
 	"#str_01013"	"运行脚本1"
 	"#str_01014"	"运行脚本2"
 	"#str_01015"	"运行脚本5"
 // delta1/power_trigger.gui
 	"#str_01016"	"初始化电力"
-	"#str_01017"	"电力已启动"
-	"#str_01018"	"PDA安全进入错误"
+	"#str_01017"	"电力已初始化"
+	"#str_01018"	"PDA安全访问错误"
 // delta1/whiteboard.gui
 	"#str_01019"	"新安全节点"
 // delta1/whiteboard.gui
-	"#str_01020"	"每个周三"
+	"#str_01020"	"每周四"
 // delta1/whiteboard.gui
-	"#str_01021"	"LAB A 信息板"
+	"#str_01021"	"实验室A信息板"
 // delta1/whiteboard.gui
 	"#str_01022"	"-政策更改通知-\n我们的安全密码现在每周更新一次。最近德尔塔的工作人员\n擅改CPU时间并进行了多起未经许可的实验。\n\n记住: 没有MG许可，任何任务更改都是未经授权的。请不要泄露安全密码。"
 // delta1/whiteboard.gui
@@ -1935,19 +1935,19 @@
 	"#str_01087"	"区域22"
 	"#str_01088"	"传送器3"
 // delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_01089"	"净化舱"
+	"#str_01089"	"净化房间"
 // delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_01090"	"循环净化交换序列以进入密闭的区域。"
+	"#str_01090"	"循环净化交换序列以访问密闭区域。"
 // delta3/decon.gui delta3/decon_malfunction.gui
 	"#str_01091"	"净化系统已封闭"
 // delta3/decon_malfunction.gui
-	"#str_01092"	"净化舱系统初始化完毕"
+	"#str_01092"	"净化房间系统已初始化"
 // delta3/decon.gui
-	"#str_01093"	"让对象进入室内进行化学消毒"
+	"#str_01093"	"让对象进入房间进行化学净化"
 // delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_01094"	"密室在拆除后重置"
+	"#str_01094"	"房间在净化后重置"
 // delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_01095"	"切换密室"
+	"#str_01095"	"切换房间"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
 	"#str_01096"	"区域地图"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -1993,15 +1993,15 @@
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
 	"#str_01117"	"扫描已初始化\n正在搜寻可用的目标平台"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
-	"#str_01118"	"扫描位置 1456,7891"
+	"#str_01118"	"扫描搜寻 1456,7891"
 // delta3/telecontrol1.gui
-	"#str_01119"	"扫描位置 1412,8239"
+	"#str_01119"	"扫描搜寻 1412,8239"
 // delta3/telecontrol1.gui
-	"#str_01120"	"扫描位置 1361,9187"
+	"#str_01120"	"扫描搜寻 1361,9187"
 // delta3/telecontrol1.gui
-	"#str_01121"	"扫描位置 2198,8672"
+	"#str_01121"	"扫描搜寻 2198,8672"
 // delta3/telecontrol1.gui
-	"#str_01122"	"扫描位置 2036,8173"
+	"#str_01122"	"扫描搜寻 2036,8173"
 // delta3/telecontrol1.gui
 	"#str_01123"	"2个平台输入到选择网格"
 // delta3/telecontrol1.gui
@@ -2057,15 +2057,15 @@
 // delta3/telecontrol2.gui
 	"#str_01149"	"定位站2"
 // delta3/telecontrol2.gui
-	"#str_01150"	"扫描位置 3421,1291"
+	"#str_01150"	"扫描搜寻 3421,1291"
 // delta3/telecontrol2.gui
-	"#str_01151"	"扫描位置 3465,1339"
+	"#str_01151"	"扫描搜寻 3465,1339"
 // delta3/telecontrol2.gui
-	"#str_01152"	"扫描位置 3382,1487"
+	"#str_01152"	"扫描搜寻 3382,1487"
 // delta3/telecontrol2.gui
-	"#str_01153"	"扫描位置 4146,1572"
+	"#str_01153"	"扫描搜寻 4146,1572"
 // delta3/telecontrol2.gui
-	"#str_01154"	"扫描位置 4029,1673"
+	"#str_01154"	"扫描搜寻 4029,1673"
 // delta3/telecontrol2.gui
 	"#str_01155"	"3个平台输入到选择网格"
 // delta3/telecontrol2.gui
@@ -2220,16 +2220,16 @@
 // doors/elevatorcall.gui doors/liftcall.gui doors/elevatorcallsub.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/liftcallscript.gui doors/elevatorcallscript.gui doors/uac_door_error.gui phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 	"#str_01242"	"电梯拒绝访问\n\n系统\n故障"
 // doors/elevatorcall.gui doors/liftcall.gui doors/elevatorcallsub.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/liftcallscript.gui doors/elevatorcallscript.gui doors/uac_door_error.gui phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
-	"#str_01243"	"电梯关闭\n接受维护\n\n使用楼梯或轮换货梯"
+	"#str_01243"	"升降梯关闭\n接受维护\n\n使用楼梯或轮换货梯"
 // doors/elevatorcall.gui doors/liftcall.gui doors/elevatorerror_trigger.gui doors/elevatorcallsub.gui doors/elevatorerror.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/liftcallscript.gui doors/elevatorcallscript.gui doors/uac_door_error.gui phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 	"#str_01244"	"电量过低\n\n电梯服务已暂停"
-	"#str_01245"	"为封闭式电梯用elevator2floor.gui更换此GUI，并为开放式电梯用liftmove.gui"
+	"#str_01245"	"为封闭式电梯用elevator2floor.gui更换此GUI，并为开放式升降梯用liftmove.gui"
 // caverns1:界面参数4 doors/elevatortop_gray.gui doors/elevatortop.gui doors/elevatortop_gray2.gui
 	"#str_01246"	"3层"
 // doors/elevatortop_gray.gui doors/elevatortop.gui doors/elevatortopsub.gui doors/elevatortop_gray2.gui controlpanels/powerswitch_useonce.gui xian/monorail/monorail.gui phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
 	"#str_01247"	"正在转移"
 // doors/exit_outer.gui delta2/teleporter5.gui erebus1/station5.gui
-	"#str_01248"	"离开"
+	"#str_01248"	"出口"
 // doors/liftcall.gui doors/liftcallscript.gui phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 	"#str_01249"	"上层"
 // doors/liftcall.gui doors/liftcallscript.gui
@@ -2239,7 +2239,7 @@
 // doors/liftmove.gui doors/liftmoveerror.gui doors/liftmovewide.gui doors/liftmove_opendoor.gui
 	"#str_01252"	"货物/人员"
 // doors/liftmove.gui doors/liftmoveerror.gui doors/liftmovewide.gui doors/liftmove_opendoor.gui
-	"#str_01253"	"电梯下降"
+	"#str_01253"	"降下升降梯"
 // doors/liftmove.gui doors/liftmoveerror.gui doors/liftmovewide.gui doors/liftmove_opendoor.gui
 	"#str_01254"	"移动至下层"
 // screens/cpu_three.gui screens/cpu_top2.gui screens/malfunction6.gui screens/malfunction6cracked2.gui screens/malfunction6cracked.gui doors/liftmoveerror.gui screens/malfunction3.gui screens/malfunction4.gui screens/malfunction5.gui screens/cpu_uacoffline.gui delta1/datalink.gui delta2/teleporter1.gui erebus3/artifact.gui erebus5/viewer_broken.gui recycle1/floodpump1.gui recycle2/pump1b.gui
@@ -2262,13 +2262,13 @@
 	"#str_01266"	"棠现通首"
 // doors/uac_general.gui doors/uac_general_alt.gui doors/uac_general_click.gui marscity/uac_general_click.gui
 	"#str_01267"	"裳视桶道"
-	"#str_01268"	"大家伙"
+	"#str_01268"	"重要物品"
 // enpro/bridge_open.gui
-	"#str_01269"	"密室1通道"
+	"#str_01269"	"房间1通道"
 // enpro/bridge_open.gui
-	"#str_01270"	"已接触舰桥钳具"
+	"#str_01270"	"舰桥钳具已占用"
 // enpro/bridge_open.gui
-	"#str_01271"	"放开桥梁"
+	"#str_01271"	"放出桥梁"
 // enpro/cam.gui
 	"#str_01272"	"安全入口"
 // enpro/cam.gui
@@ -2295,17 +2295,17 @@
 	"#str_01286"	"等离子过滤器1号罐激活"
 	"#str_01287"	"过滤器2和3需要替换"
 	"#str_01288"	"过滤器遗失"
-	"#str_01289"	"中转间"
+	"#str_01289"	"转移电池"
 	"#str_01290"	"等离子分配器"
 	"#str_01291"	"CDIE4U-1B166 M&4"
 	"#str_01292"	"地狱等待着你"
 	"#str_01293"	"死亡-HB9Z0 1&4I"
-	"#str_01294"	"等离子电荷"
+	"#str_01294"	"等离子充电"
 	"#str_01295"	"等离子系统离线"
 	"#str_01296"	"弹药站"
-	"#str_01297"	"M-7A等离子来复枪"
+	"#str_01297"	"M-7A等离子步枪"
 // enpro/rod_replace.gui
-	"#str_01298"	"当前临时"
+	"#str_01298"	"当前温度"
 	"#str_01299"	"596 F / 311 C"
 // enpro/rod_replace.gui
 	"#str_01300"	"反应堆核心冷却监控器"
@@ -2381,7 +2381,7 @@
 	"#str_01335"	"检测到多处压力泄露。正在改变7号和16号输送阀路线，即将隔离该区域。"
 // enpro/steam_off.gui
 	"#str_01336"	"开始评估路线程序"
-	"#str_01337"	"维护站小组 - 指挥塔"
+	"#str_01337"	"维护组 - 指挥塔"
 // delta2/report.gui
 	"#str_01338"	"附属简报"
 // delta2/report.gui
@@ -2393,9 +2393,9 @@
 // delta2/report.gui
 	"#str_01342"	"关闭\n\n第1页\n第2页\n第3页\n\n图表"
 // delta2/report.gui
-	"#str_01343"	"登入日志"
+	"#str_01343"	"访问日志"
 // delta2/report.gui
-	"#str_01344"	"登入日志文本"
+	"#str_01344"	"访问日志文本"
 // cranegame/crane_control.gui marscity/comm1mp.gui delta2/report.gui delta2/report2.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/cargo.gui marscity/kellyrequest.gui marscity/comm3.gui phobos2/mcneil_touchscreen.gui
 	"#str_01345"	"关闭"
 // delta2/report.gui
@@ -2405,7 +2405,7 @@
 // delta2/report2.gui
 	"#str_01348"	"当前用户: 布拉斯基，B."
 	"#str_01349"	"系统修理工程师"
-	"#str_01350"	"维护站日志"
+	"#str_01350"	"维护日志"
 	"#str_01351"	"通信许可"
 	"#str_01352"	"用户文件"
 // delta2/report.gui
@@ -2419,9 +2419,9 @@
 	"#str_01360"	"区域信息"
 	"#str_01361"	"展开来查看地图和设施详细信息"
 	"#str_01362"	"当前位置 - 用户界面库"
-	"#str_01363"	"UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。\n\n想要使用它，首先注销值班技术员的账号，然后让技术员设定所需的界面值。如果你不确定需要哪个界面，向技术员索要库列表。\n\n想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，图形用户界面会自动配置。"
+	"#str_01363"	"UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。\n\n如需操作，请与值班技术人员在面板上签字，并让技术人员设置所需的接口值。如果您不确定需要哪个接口，请向技术人员索取库列表。\n\n想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"
 	"#str_01364"	"德尔塔实验室 - 区域1"
-	"#str_01365"	"德尔塔1 实验室"
+	"#str_01365"	"德尔塔1实验室"
 	"#str_01366"	"办公室目录"
 	"#str_01367"	"萨尔维斯博士                      卢夫博士                     塔凯中校                       杜格利夫博士                         D.杰克逊                           B.柯特利"
 	"#str_01368"	"仓库进入权限"
@@ -2436,22 +2436,22 @@
 	"#str_01377"	"正在进入"
 	"#str_01378"	"机枪"
 	"#str_01379"	"面板"
-	"#str_01380"	"防泄控制室"
+	"#str_01380"	"抑制控制"
 // recycling2:物品目标.标题 recycling2:物品目标完成.标题
 	"#str_01381"	"防泄舱"
 	"#str_01382"	"仓库区B"
 	"#str_01383"	"中央连接点"
 	"#str_01384"	"工具大厅"
-	"#str_01385"	"通风口控制室"
+	"#str_01385"	"通风口控制"
 	"#str_01386"	"当前目标"
 	"#str_01387"	"镜头对准当前位置"
 // delta2/teleporter5.gui erebus1/station5.gui marscity/schematic.gui
 	"#str_01388"	"正在登入"
 	"#str_01389"	"读取PDA错误"
-	"#str_01390"	"系统版本20.1\nUAC军事通]["
-	"#str_01391"	"S}{"
-	"#str_01392"	"系]["
-	"#str_01393"	"系统]["
+	"#str_01390"	"系统版本20.1\nUAC军事通讯"
+	"#str_01391"	"系]["
+	"#str_01392"	"系统]["
+	"#str_01393"	"系统版]["
 	"#str_01394"	"系统版本]["
 	"#str_01395"	"系统版本]["
 	"#str_01396"	"系统版本20]["
@@ -2466,11 +2466,11 @@
 	"#str_01405"	"系统版本20.1\nUAC军事]["
 	"#str_01406"	"系统版本20.1\nUAC军事]["
 	"#str_01407"	"系统版本20.1\nUAC军事]["
-	"#str_01408"	"系统版本20.1\nUAC军事通"
+	"#str_01408"	"系统版本20.1\nUAC军事通]["
 	"#str_01409"	"系统版本20.1\nUAC军事通]["
 	"#str_01410"	"系统版本20.1\nUAC军事通]["
-	"#str_01411"	"系统版本20.1\nUAC军事通]["
-	"#str_01412"	"电邮"
+	"#str_01411"	"系统版本20.1\nUAC军事通讯]["
+	"#str_01412"	"邮件"
 	"#str_01413"	"视频"
 	"#str_01414"	"库存"
 	"#str_01415"	"物品"
@@ -2489,7 +2489,7 @@
 	"#str_01427"	"容量 - 12发\n弹药 - 手枪弹"
 	"#str_01428"	"UAC-S98霰弹枪"
 	"#str_01429"	"容量 - 4发\n弹药 - 霰弹"
-	"#str_01430"	"UAC -A45MG"
+	"#str_01430"	"UAC-A45机枪"
 	"#str_01431"	"容量 - 60发\n弹药 - 标准弹"
 	"#str_01432"	"安全权限 （红）"
 	"#str_01433"	"允许进入所有红色等级安全许可区域"
@@ -2501,17 +2501,17 @@
 	"#str_01438"	"用户ID   "
 	"#str_01439"	"视频碟片   "
 	"#str_01440"	"视频碟片"
-	"#str_01441"	"电邮"
-	"#str_01442"	"电邮"
+	"#str_01441"	"邮件   "
+	"#str_01442"	"邮件"
 	"#str_01443"	"用户I.D."
 	"#str_01444"	"用户I.D. "
 	"#str_01445"	"视频碟片"
 	"#str_01446"	"语言留言"
 	"#str_01447"	"语言留言"
-	"#str_01448"	"电邮"
+	"#str_01448"	"邮件 "
 	"#str_01449"	"名字 : "
 	"#str_01450"	"I.D. :"
-	"#str_01451"	"发布 :"
+	"#str_01451"	"岗位 :"
 	"#str_01452"	"安全许可"
 	"#str_01453"	"已下载数据"
 	"#str_01454"	"武器列表"
@@ -2535,7 +2535,7 @@
 	"#str_01471"	"PDA 数据"
 	"#str_01472"	"视频碟片"
 	"#str_01473"	"音频会议"
-	"#str_01474"	"电邮收件箱"
+	"#str_01474"	"邮件收件箱"
 	"#str_01475"	"手枪\n霰弹枪\n机枪\n链枪\n手雷\n等离子枪\n火箭发射器\nBFG\n电锯\n照明弹\n灵魂魔方"
 // _common/def/maps.def
 	"#str_01476"	"管理设施是公司在火星上的象征。位于上层办公室里面的联合航天的管理人员负责全部的本地及行星间的管理事务。这个设施里面还拥有数据库以及一个全球网络接入站点。"
@@ -2581,7 +2581,7 @@
 	"#str_01499"	"杀戮时刻"
 	"#str_01500"	"记录:\n-添加的音频通道\n黄色和蓝色路线添加了细节\n-强化壁架后有新的下落点（平台折叠的时候打开）\n决斗和死亡竞赛里放置物品和脚本撰写"
 	"#str_01501"	"熄灯"
-	"#str_01502"	"记录:\n- 额外音频通道\n- 添加了3种游戏模式的脚本\n- 为死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新的布局（移除了厨房，狂战士走廊和小隔间通道，加快了游戏节奏）\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
+	"#str_01502"	"记录:\n- 额外音频通道\n- 添加了3种游戏类型的脚本\n- 为死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新的布局（移除了厨房，狂战士走廊和小隔间通道，加快了游戏节奏）\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
 	"#str_01503"	"检测到火灾\n\n电梯拒绝访问"
 // _common/def/maps.def
 	"#str_01504"	"火星城第下层是火星上最初建造的多功能设施之一。其中包含了库房、环境系统、本地化能源生产、通讯阵列以及基础的研究系统，这个古老的设施对火星城的正常运转至关重要。"
@@ -2598,7 +2598,7 @@
 	"#str_01512"	"边缘2"
 	"#str_01513"	"记录:\n- 向之前的Edges致敬。\n- 用传送器快速获得强化道具\n\n改动记录:\n- 添加了音频通道\n- 传送器西边的房间和照明开关相连\n- 地图东边工业区有更多细节\n- 把各种灯和相应的env_swinglights作了链接\n- 给telecolon模型添加了传送器效果\n- 上面南部走廊添加了跳落点，可以跳到下面的洞穴里。\n- 在通往西部电脑实验室的走廊上添加了更多细节"
 	"#str_01514"	"关闭桥梁"
-	"#str_01515"	"打开桥"
+	"#str_01515"	"打开桥梁"
 // mc_underground/crane.gui
 	"#str_01516"	"远程吊臂控制"
 // mc_underground/crane.gui mc_underground/crane2.gui
@@ -2619,13 +2619,13 @@
 // mc_underground/crane.gui mc_underground/crane2.gui
 	"#str_01526"	"侧电机1-通过\n侧电机2-通过"
 // mc_underground/crane.gui mc_underground/crane2.gui
-	"#str_01527"	"侧电机2-通过\n电梯电机"
+	"#str_01527"	"侧电机2-通过\n升降梯电机"
 // mc_underground/crane.gui mc_underground/crane2.gui
-	"#str_01528"	"侧电机2-通过\n电梯电机-服务中"
+	"#str_01528"	"侧电机2-通过\n升降梯电机-服务中"
 // mc_underground/crane.gui mc_underground/crane2.gui
-	"#str_01529"	"电梯电机-服务中\n传动轴"
+	"#str_01529"	"升降梯电机-服务中\n传动轴"
 // mc_underground/crane.gui mc_underground/crane2.gui
-	"#str_01530"	"电梯电机-服务中\n传动轴-通过"
+	"#str_01530"	"升降梯电机-服务中\n传动轴-通过"
 // mc_underground/crane.gui mc_underground/crane2.gui
 	"#str_01531"	"驱动轴-通过\n基地安装"
 // mc_underground/crane.gui mc_underground/crane2.gui
@@ -2635,7 +2635,7 @@
 // mc_underground/crane.gui mc_underground/crane2.gui
 	"#str_01534"	"基地安装-通过\n平台安装-通过"
 // mc_underground/crane.gui mc_underground/crane2.gui
-	"#str_01535"	"警告\n\n电梯马达失效\n\n警告"
+	"#str_01535"	"警告\n\n升降梯马达失效\n\n警告"
 // mc_underground/safety_bridge3.gui mc_underground/machine1.gui mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
 	"#str_01536"	"等离子过滤系统"
 // screens/scan5a.gui screens/scan1.gui screens/scan2.gui screens/scan5.gui screens/scan2a.gui screens/scan3.gui screens/scan5b2.gui screens/scan2dirt.gui delta2/teleporter3.gui delta2/teleporter6.gui screens/scan5b.gui erebus1/station2.gui erebus1/station6.gui mc_underground/safety_bridge1a.gui mc_underground/safety_bridge3.gui mc_underground/machine1.gui mc_underground/safety_bridge1b.gui mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
@@ -2647,7 +2647,7 @@
 // mc_underground/safety_bridge3.gui mc_underground/machine1.gui mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
 	"#str_01540"	"过滤器2就位"
 // delta2b/artifact_analyzer.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui
-	"#str_01541"	"系统版本20.1\n全部状态\n正常\n所有\n站点\n上线]["
+	"#str_01541"	"系统版本20.1\n全部状态\n正常\n所有\n站点\n上线"
 // delta2b/artifact_analyzer.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui
 	"#str_01542"	"系统版本20.1\n全部状态\n正常\n所有\n站]["
 // delta2b/artifact_analyzer.gui test/mmap3.gui recycle2/temp_two.gui mc_underground/machine1.gui
@@ -2855,15 +2855,15 @@
 // mc_underground/safety_bridge1b.gui
 	"#str_01644"	"重启控制臂"
 // mc_underground/safety_bridge2.gui mc_underground/safety_bridge4.gui
-	"#str_01645"	"输出监视器"
+	"#str_01645"	"输出监测"
 // mc_underground/safety_bridge3.gui
-	"#str_01646"	"输入监视器"
+	"#str_01646"	"输入监测"
 // le_underground/security_lockdown.gui mc_underground/security.gui
-	"#str_01647"	"主入口控制室"
+	"#str_01647"	"主入口控制"
 // mc_underground/security.gui
-	"#str_01648"	"安全记录点"
+	"#str_01648"	"安全检查点"
 // mc_underground/security.gui
-	"#str_01649"	"火星城地下层通道"
+	"#str_01649"	"火星城地下通道"
 // mc_underground/security.gui
 	"#str_01650"	"入口锁通路"
 // mc_underground/security.gui
@@ -2905,9 +2905,9 @@
 // xian/monorail/enable.gui
 	"#str_01669"	"关闭\n武器\n塔楼"
 // xian/monorail/monorail.gui
-	"#str_01670"	"启动索道"
+	"#str_01670"	"启动单轨铁路"
 // erebus6/erebus6_monorail.gui xian/monorail/monorail.gui
-	"#str_01671"	"单轨铁路控制室"
+	"#str_01671"	"单轨铁路控制"
 	"#str_01672"	"医疗站活动"
 	"#str_01673"	"\n\n已启动"
 	"#str_01674"	"弹药分配器"
@@ -2921,16 +2921,16 @@
 	"#str_01681"	"点击"
 // cranegame/crane_control.gui doors/elevator2floor.gui doors/elevator2floorsub.gui marscity/shutters.gui
 	"#str_01682"	"打开"
-	"#str_01683"	"军械"
+	"#str_01683"	"军械库"
 	"#str_01684"	"已关闭"
 // marscity/shutters.gui
 	"#str_01685"	"已打开"
 	"#str_01686"	"正在关门"
 	"#str_01687"	"正在关闭"
 	"#str_01688"	"选择启动"
-	"#str_01689"	"为密室供电"
+	"#str_01689"	"为房间供电"
 // multiplayer/fragchamber_console.gui
-	"#str_01690"	"密室\n打开"
+	"#str_01690"	"房间\n打开"
 // multiplayer/generator.gui
 	"#str_01691"	"关闭"
 // multiplayer/generator.gui
@@ -2941,23 +2941,23 @@
 	"#str_01694"	"请等待"
 // multiplayer/generator.gui
 	"#str_01695"	"正在重启"
-	"#str_01696"	"湾门"
-	"#str_01697"	"密室1"
-	"#str_01698"	"密室2"
+	"#str_01696"	"舱门"
+	"#str_01697"	"房间1"
+	"#str_01698"	"房间2"
 	"#str_01699"	"已选择目的地"
 	"#str_01700"	"选择终点"
 // multiplayer/lightswitch_parm.gui
 	"#str_01701"	"点击转动"
 // multiplayer/lightswitch_parm.gui
-	"#str_01702"	"灯光-关"
+	"#str_01702"	"灯光:关"
 // multiplayer/lightswitch_parm.gui
-	"#str_01703"	"灯光-开"
+	"#str_01703"	"灯光:开"
 	"#str_01704"	"正在处理，请稍后。"
 	"#str_01705"	"待命。"
-	"#str_01706"	"强化道具产生器"
+	"#str_01706"	"能量提升分配器"
 	"#str_01707"	"狂暴"
 	"#str_01708"	"无敌"
-	"#str_01709"	"巨型球"
+	"#str_01709"	"超级球"
 	"#str_01710"	"隐形"
 	"#str_01711"	"你现在不能点击"
 	"#str_01712"	"*** 临时素材 - 需要新的 ***"
@@ -3023,13 +3023,13 @@
 // screens/cpu_three.gui screens/malfunction3.gui screens/malfunction4.gui
 	"#str_01747"	"系统\n故障"
 // screens/cpu_uac.gui erebus1/station1.gui
-	"#str_01748"	"M-IPN 卫星转播 - 信号已同步"
+	"#str_01748"	"M-IPN卫星转播 - 信号已同步"
 // screens/cpu_uac.gui screens/cpu_uacoffline.gui erebus1/station1.gui
 	"#str_01749"	"联合航天公司"
 // screens/cpu_uac.gui erebus1/station1.gui
 	"#str_01750"	"一路走向美好未来"
 // screens/cpu_uacoffline.gui
-	"#str_01751"	"M-IPN 卫星转播 - 信号同步失败"
+	"#str_01751"	"M-IPN卫星转播 - 信号同步失败"
 // screens/cpu_uacoffline.gui
 	"#str_01752"	"卫星转播离线"
 // screens/laptop.gui
@@ -3137,12 +3137,12 @@
 	"#str_01804"	"波动"
 // erebus5/erebus5_mcneil.gui
 	"#str_01805"	"收到视频传入"
-	"#str_01806"	"临时"
-	"#str_01807"	"   临时"
-	"#str_01808"	"      时"
-	"#str_01809"	"         时"
-	"#str_01810"	"临"
-	"#str_01811"	"临时"
+	"#str_01806"	"温度"
+	"#str_01807"	"  温度"
+	"#str_01808"	"      度"
+	"#str_01809"	"         度"
+	"#str_01810"	"温"
+	"#str_01811"	"温度"
 // marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
 	"#str_01812"	"视频界面"
 	"#str_01813"	"71 S 271 E"
@@ -3292,15 +3292,15 @@
 	"#str_01953"	"主要通风管1号关闭"
 	"#str_01954"	"备用通风管1号打开"
 	"#str_01955"	"关闭扫描仪"
-	"#str_01956"	"气闸室1号"
-	"#str_01957"	"气闸室2号"
-	"#str_01958"	"气闸室3号"
-	"#str_01959"	"气闸室4号"
-	"#str_01960"	"气闸室5号"
-	"#str_01961"	"气闸室6号"
-	"#str_01962"	"气闸室7号"
-	"#str_01963"	"气闸室8号"
-	"#str_01964"	"气闸\n已经\n关闭"
+	"#str_01956"	"气闸1号"
+	"#str_01957"	"气闸2号"
+	"#str_01958"	"气闸3号"
+	"#str_01959"	"气闸4号"
+	"#str_01960"	"气闸5号"
+	"#str_01961"	"气闸6号"
+	"#str_01962"	"气闸7号"
+	"#str_01963"	"气闸8号"
+	"#str_01964"	"气闸\n已经\n锁定"
 	"#str_01965"	"气闸\n已经\n解锁"
 	"#str_01966"	"启动\n封锁的\n许可\n无效"
 	"#str_01967"	"循环通风系统"
@@ -3343,7 +3343,7 @@
 	"#str_02002"	"走廊"
 	"#str_02003"	"玩家"
 	"#str_02004"	"左"
-	"#str_02005"	"右边"
+	"#str_02005"	"右"
 	"#str_02006"	"上"
 	"#str_02007"	"下"
 	"#str_02008"	"上层大厅"
@@ -3363,7 +3363,7 @@
 // _common/def/weapon_bfg.def
 	"#str_02022"	"BFG-9000"
 // _common/def/weapon_soulcube.def
-	"#str_02023"	"灵魂立方体"
+	"#str_02023"	"灵魂魔方"
 	"#str_02024"	"手电筒"
 	"#str_02025"	"新目标"
 	"#str_02026"	"目标完成"
@@ -3448,8 +3448,8 @@
 	"#str_02103"	"右移"
 	"#str_02104"	"跳跃"
 	"#str_02105"	"下蹲"
-	"#str_02106"	"向左转"
-	"#str_02107"	"向右转"
+	"#str_02106"	"左转"
+	"#str_02107"	"右转"
 	"#str_02108"	"平移"
 	"#str_02109"	"冲刺"
 	"#str_02110"	"火箭"
@@ -3478,7 +3478,7 @@
 	"#str_02133"	"显示血迹"
 	"#str_02134"	"武器自动装填"
 	"#str_02135"	"武器自动切换"
-	"#str_02136"	"显示界面"
+	"#str_02136"	"显示HUD"
 	"#str_02137"	"显示枪械模型"
 	"#str_02138"	"反转鼠标"
 	"#str_02139"	"平滑鼠标"
@@ -3503,8 +3503,8 @@
 	"#str_02158"	"音频设置"
 	"#str_02159"	"声音质量"
 	"#str_02160"	"扬声器调整"
-	"#str_02161"	"相反频道"
-	"#str_02162"	"实时声学"
+	"#str_02161"	"反转声道"
+	"#str_02162"	"实时音质"
 	"#str_02163"	"音量"
 	"#str_02164"	"控制器"
 	"#str_02165"	"关闭玩家控制"
@@ -3718,17 +3718,17 @@
 	"#str_02335"	"已成功重置默认系统选项"
 	"#str_02336"	"已取消重置默认系统选项"
 	"#str_02337"	"你确定要退出Doom 3吗？"
-	"#str_02338"	"点击滚出吧，你个基佬。"
-	"#str_02339"	"就是我"
-	"#str_02340"	"不可能"
+	"#str_02338"	"点击滚出吧，你个娘娘腔。"
+	"#str_02339"	"我就是"
+	"#str_02340"	"做梦"
 	"#str_02341"	"小鬼藏在你的衣柜里"
 	"#str_02342"	"关闭选项组件"
 	"#str_02343"	"退出当前游戏"
-	"#str_02344"	"退出当前游戏"
-	"#str_02345"	"退出当前游"
-	"#str_02346"	"退出当前"
-	"#str_02347"	"关闭读取游戏组件"
-	"#str_02348"	"载入储存的游戏"
+	"#str_02344"	"退出当前游"
+	"#str_02345"	"退出当前"
+	"#str_02346"	"退出当"
+	"#str_02347"	"关闭读取游戏章节"
+	"#str_02348"	"载入存档"
 	"#str_02349"	"选择难度和开始新游戏"
 	"#str_02350"	"火"
 	"#str_02351"	"火星"
@@ -3747,11 +3747,11 @@
 	"#str_02364"	"孤胆英豪，杀掉挡路的所有东西。"
 	"#str_02365"	"以噩梦模式开始游戏"
 	"#str_02366"	"文件名"
-	"#str_02367"	"跳跃至标记"
+	"#str_02367"	"跳至标记"
 	"#str_02368"	"玩家档案"
 	"#str_02369"	"加入游戏"
 	"#str_02370"	"idnet"
-	"#str_02371"	"起初服务器"
+	"#str_02371"	"启动服务器"
 	"#str_02372"	"玩家名:"
 	"#str_02373"	"玩家皮肤:"
 	"#str_02374"	"地图名"
@@ -3766,14 +3766,14 @@
 	"#str_02383"	"浏览游戏"
 	"#str_02384"	"服务器/预热"
 	"#str_02385"	"任务报告"
-	"#str_02386"	"IdNetGameQuery Frame\n选择地图，游戏类型，玩家数量，服务器主机"
+	"#str_02386"	"IdNetGameQuery设计\n选择地图，游戏类型，玩家数量，服务器主机"
 	"#str_02387"	"寻找游戏"
-	"#str_02388"	"IdNetGameBrowse Frame\n游戏不断更新 - 点击关注"
+	"#str_02388"	"IdNetGameBrowse设计\n游戏不断更新 - 点击关注"
 	"#str_02389"	"类型"
 	"#str_02390"	"玩家数"
 	"#str_02391"	"投票服务器"
 	"#str_02392"	"排名"
-	"#str_02393"	"IdNetPlay Frame\n此画面显示了可进行的游戏\n玩家的聊天界面。\n比分和统计数据"
+	"#str_02393"	"IdNetPlay设计\n此画面显示了可进行的游戏\n玩家的聊天界面。\n比分和统计数据"
 	"#str_02394"	"游戏地图:"
 	"#str_02395"	"小队伤害:"
 	"#str_02396"	"玩家人数:"
@@ -3793,15 +3793,15 @@
 	"#str_02410"	"居中视角:"
 	"#str_02411"	"缩放视野:"
 	"#str_02412"	"自由观察:"
-	"#str_02413"	"总是运行 (MP):"
+	"#str_02413"	"始终奔跑(MP):"
 	"#str_02414"	"前进:"
 	"#str_02415"	"后退:"
 	"#str_02416"	"左移:"
 	"#str_02417"	"右移:"
 	"#str_02418"	"跳跃:"
 	"#str_02419"	"下蹲:"
-	"#str_02420"	"向左转:"
-	"#str_02421"	"向右转:"
+	"#str_02420"	"左转:"
+	"#str_02421"	"右转:"
 	"#str_02422"	"平移:"
 	"#str_02423"	"冲刺:"
 	"#str_02424"	"攻击:"
@@ -3836,10 +3836,10 @@
 	"#str_02453"	"投票赞成:"
 	"#str_02454"	"投票反对:"
 	"#str_02455"	"暴力"
-	"#str_02456"	"显示血液泼溅"
-	"#str_02457"	"显示界面"
+	"#str_02456"	"显示血迹"
+	"#str_02457"	"显示HUD"
 	"#str_02458"	"声音设置"
-	"#str_02459"	"实时房间声学"
+	"#str_02459"	"实时室内音质"
 	"#str_02460"	"应用音效更改"
 	"#str_02461"	"推荐品质"
 	"#str_02462"	"安全模式"
@@ -3848,10 +3848,10 @@
 	"#str_02465"	"你确定要退出吗？"
 	"#str_02466"	"是"
 	"#str_02467"	"否"
-	"#str_02468"	"濒死"
+	"#str_02468"	"慢慢死去"
 	"#str_02469"	"地狱在等你"
-	"#str_02470"	"正在燃烧"
-	"#str_02471"	"无魂"
+	"#str_02470"	"燃烧"
+	"#str_02471"	"怨灵"
 	"#str_02472"	"击杀"
 	"#str_02473"	"当前在玩"
 	"#str_02474"	"没有下载地图"
@@ -3868,10 +3868,10 @@
 // _common/def/weapon_rocketlauncher.def
 	"#str_02480"	"火箭发射器"
 // _common/def/weapon_chainsaw.def
-	"#str_02481"	"肢解"
+	"#str_02481"	"电锯"
 // _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 	"#str_02482"	"手电筒"
-	"#str_02483"	"最后生存者最大生命"
+	"#str_02483"	"最后一人最大生命"
 	"#str_02484"	"新投票"
 	"#str_02485"	"无投票"
 	"#str_02486"	"已在投票"
@@ -3879,7 +3879,7 @@
 	"#str_02488"	"无观察者"
 	"#str_02489"	"新时间限制"
 	"#str_02490"	"新杀敌数上限:"
-	"#str_02491"	"新的最后生存者最大生命:"
+	"#str_02491"	"新的最后一人最大生命:"
 	"#str_02492"	"新游戏类型:"
 	"#str_02493"	"踢出玩家:"
 	"#str_02494"	"选择地图:"
@@ -3900,7 +3900,7 @@
 	"#str_02509"	"请等待……"
 	"#str_02510"	"中止"
 // pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
-	"#str_02511"	"生物学ID"
+	"#str_02511"	"生物ID"
 	"#str_02512"	"ID 匹配"
 // pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 	"#str_02513"	"名称"
@@ -3917,10 +3917,10 @@
 	"#str_02520"	"已下载视频磁盘"
 	"#str_02521"	"用户音频日志"
 	"#str_02522"	"来自"
-	"#str_02523"	"实验体"
+	"#str_02523"	"主题"
 	"#str_02524"	"BFG 9000"
 // _common/def/weapon_soulcube.def
-	"#str_02525"	"灵魂立方体"
+	"#str_02525"	"灵魂魔方"
 	"#str_02526"	"当前没有目标"
 	"#str_02527"	"PDA文件"
 	"#str_02528"	"个人数据助手"
@@ -3933,7 +3933,7 @@
 // _common/def/weapon_shotgun.def
 	"#str_02534"	"霰弹枪在近距离内能造成巨大伤害，但是较大的扩散范围限制了其在长距离上的效力。"
 // _common/def/weapon_machinegun.def
-	"#str_02535"	"MG-88实施者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。"
+	"#str_02535"	"MG-88执行者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。"
 // _common/def/weapon_chaingun.def
 	"#str_02536"	"机关炮那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。"
 // _common/def/weapon_handgrenade.def
@@ -4033,18 +4033,18 @@
 	"#str_02623"	"注:"
 	"#str_02624"	"阴影测试"
 	"#str_02625"	"缓慢旋转"
-	"#str_02626"	"快速转身！"
-	"#str_02627"	"儿童轮换"
-	"#str_02628"	"子系1"
-	"#str_02629"	"子系2"
-	"#str_02630"	"子系旋转"
+	"#str_02626"	"快速旋转！"
+	"#str_02627"	"子旋转"
+	"#str_02628"	"子1"
+	"#str_02629"	"子2"
+	"#str_02630"	"子旋转"
 	"#str_02631"	"sin剪切"
 	"#str_02632"	"xy剪切"
 	"#str_02633"	"列表"
 	"#str_02634"	"标题"
-	"#str_02635"	"视"
+	"#str_02635"	"参看"
 	"#str_02636"	"下一动画"
-	"#str_02637"	"前一动画"
+	"#str_02637"	"上一动画"
 	"#str_02638"	"玩家名:"
 	"#str_02639"	"重新扫描"
 	"#str_02640"	"因特网地址:"
@@ -4100,11 +4100,11 @@
 	"#str_02670"	"map_alphalabs3::crane_left"
 	"#str_02671"	"Coolant_Maintenance_key"
 // alphalabs4:界面参数1
-	"#str_02672"	"密室"
-	"#str_02673"	"记述中"
+	"#str_02672"	"房间"
+	"#str_02673"	"统计"
 	"#str_02674"	"EFR系统"
 // alphalabs4:界面参数1
-	"#str_02675"	"密室反应堆"
+	"#str_02675"	"房间反应堆"
 	"#str_02676"	"找到找到钥匙卡"
 // comm1:界面参数4
 	"#str_02677"	"维护"
@@ -4152,10 +4152,10 @@
 // commoutside:PDA物品.名
 	"#str_02700"	"维护入口"
 // commoutside:界面参数1
-	"#str_02701"	"离开货梯区域"
+	"#str_02701"	"离开升降梯区域"
 // comm1:地点.名 le_underground:界面参数2 le_underground:界面参数1 le_underground2:界面参数2 le_underground2:界面参数1 le_underground2:地点.名 mc_underground:界面参数2 mc_underground:界面参数1
 	"#str_02702"	"安防办公室"
-	"#str_02703"	"电梯区域"
+	"#str_02703"	"升降梯区域"
 // commoutside:界面参数4
 	"#str_02704"	"气闸站24"
 // commoutside:界面参数7 commoutside:PDA物品.名
@@ -4191,7 +4191,7 @@
 	"#str_02726"	"你找到了一个数据连接器！"
 	"#str_02727"	"反应堆上线！"
 // delta1:电梯.界面参数3 delta1:界面参数3 delta1:界面参数1 delta1:地点.名 delta5:电梯.界面参数3 delta5:界面参数3 delta5:界面参数1
-	"#str_02728"	"德尔塔官员"
+	"#str_02728"	"德尔塔管理层"
 	"#str_02729"	"控制者汤姆·威利斯"
 // delta1:界面参数1
 	"#str_02730"	"德尔塔反应堆"
@@ -4272,7 +4272,7 @@
 	"#str_02773"	"安全-生化实验室"
 // delta2a:界面参数2
 	"#str_02774"	"德尔塔实验室3区"
-	"#str_02775"	"科研区 - 沟渠"
+	"#str_02775"	"科研区 - 犬舍"
 // delta2a:界面参数1
 	"#str_02776"	"研究 - 0010"
 // delta2a:界面参数2
@@ -4320,7 +4320,7 @@
 	"#str_02807"	"map_delta3::decon_cycle_door1"
 	"#str_02808"	"map_delta3::decon_cycle_door5"
 // delta3:界面参数1 delta3:地点.名 delta3:地点.位置
-	"#str_02809"	"密室1通道"
+	"#str_02809"	"房间1通道"
 	"#str_02810"	"map_delta3::teleport1_machine_ready"
 	"#str_02811"	"map_delta3::teleport1_destination1"
 	"#str_02812"	"map_delta3::teleport1_destination2"
@@ -4338,7 +4338,7 @@
 	"#str_02824"	"map_delta3::teleport1_control_up"
 	"#str_02825"	"map_delta3::teleport3_control_up"
 // delta3:界面参数1 delta3:地点.名
-	"#str_02826"	"密室2通道"
+	"#str_02826"	"房间2通道"
 // delta5:PDA物品.名 delta5:PDA物品.界面参数6 delta5:界面参数7
 	"#str_02827"	"斯旺的PDA"
 // delta5:界面参数3
@@ -4436,7 +4436,7 @@
 // monorail:界面参数6
 	"#str_02885"	"map_monorail::deactivate_turret"
 	"#str_02886"	"被淹没的房间水已被抽完"
-	"#str_02887"	"无泄漏泵关闭"
+	"#str_02887"	"泄漏泵关闭"
 	"#str_02888"	"找到控制器关闭泄露泵"
 	"#str_02889"	"水淹"
 	"#str_02890"	"通往单轨站的出口开启"
@@ -4515,7 +4515,7 @@
 // alphalabs1:物品目标.内容
 	"#str_02932"	"找到通往阿尔法实验室2层的员工电梯。"
 // alphalabs1:界面参数1
-	"#str_02933"	"video/hydrocon"
+	"#str_02933"	"视频/氢聚变"
 // alphalabs2:物品目标.内容
 	"#str_02934"	"朝工程站前进然后找到阿尔法实验室3区的入口。"
 // alphalabs2:物品目标.标题
@@ -4548,7 +4548,7 @@
 // caverns1:物品目标完成.标题
 	"#str_02949"	"安全权限允许"
 // caverns1:物品目标.内容
-	"#str_02950"	"激活服务电梯来到达洞穴下层。"
+	"#str_02950"	"激活服务升降梯来到达洞穴下层。"
 // caverns1:移除物品名 caverns1:钥匙卡物品名 caverns1:中继触发.需求 caverns1:界面参数7
 	"#str_02951"	"洞穴通道"
 // caverns1:界面参数7
@@ -4570,9 +4570,9 @@
 // comm1:物品目标完成.物品名
 	"#str_02960"	"item_objective_5"
 // commoutside:物品目标完成.标题 commoutside:物品目标.标题
-	"#str_02961"	"服务电梯"
+	"#str_02961"	"服务升降梯"
 // commoutside:物品目标.内容
-	"#str_02962"	"使用服务电梯前往上层控制室来解锁维护区的门"
+	"#str_02962"	"使用服务升降梯前往上层控制室来解锁维护区的门"
 // commoutside:界面参数1
 	"#str_02963"	"电力规划/控制"
 // commoutside:空气罐物品名 mc_underground:空气罐物品名 recycling1:空气罐物品名
@@ -4710,7 +4710,7 @@
 	"#str_03031"	"sound/VO/video/video_soulcube.roq"
 	"#str_03032"	"安防供给"
 // delta2b:界面参数1
-	"#str_03033"	"电梯许可"
+	"#str_03033"	"升降梯访问"
 // delta2b:界面参数4 delta2b:界面参数1 delta2b:地点.名
 	"#str_03034"	"3层入口"
 // delta2b:界面参数1
@@ -4739,7 +4739,7 @@
 // mars_city1:界面参数1 mars_city1:地点.名 mars_city2:界面参数1 mars_city2:地点.名
 	"#str_03047"	"卫生间"
 // mars_city1:界面参数1 mars_city2:门.界面参数4
-	"#str_03048"	"安全行动"
+	"#str_03048"	"安全运维"
 // mars_city1:界面参数4 mars_city2:界面参数4
 	"#str_03049"	"服务通道"
 // le_underground:界面参数3 mars_city1:界面参数3 mars_city2:界面参数3 mc_underground:界面参数3 marscity/elevatorcall.gui transfer/enter_mars_city2.gui transfer/exit_mc_underground.gui _common/def/maps.def
@@ -4928,7 +4928,7 @@
 // caves/liftcall.gui
 	"#str_03152"	"呼叫货梯"
 // caves/liftcall.gui
-	"#str_03153"	"电梯访问离线"
+	"#str_03153"	"升降梯访问离线"
 // caves/liftcall.gui
 	"#str_03154"	"命令\n已经\n执行"
 // caves/liftlock.gui multiplayer/powerup_dispenser.gui
@@ -4940,11 +4940,11 @@
 // caves/liftlock.gui
 	"#str_03158"	"在不使用时，总是保持货梯锁定"
 // caves/liftlock.gui
-	"#str_03159"	"电梯将在一小时后重新上锁"
+	"#str_03159"	"升降梯将在一小时后重新上锁"
 // caves/liftlock.gui
 	"#str_03160"	"解锁货物电梯控制"
 // caves/liftlock.gui
-	"#str_03161"	"电梯控制室入口上线"
+	"#str_03161"	"升降梯控制通道上线"
 // caves/liftmalfunction.gui
 	"#str_03162"	"正在转移至洞穴上层"
 // comm1/commterminal.gui
@@ -4974,7 +4974,7 @@
 // commoutside/co_unlock.gui
 	"#str_03175"	"安全中心01"
 // commoutside/co_unlock.gui
-	"#str_03176"	"电梯区域出口"
+	"#str_03176"	"升降梯区域出口"
 // commoutside/co_unlock.gui transfer/exit_commoutside.gui transfer/exit_mc_underground.gui
 	"#str_03177"	"通信转移"
 // doors/aco_door.gui commoutside/co_unlock.gui controlpanels/securitylock.gui doors/aco_door_green.gui doors/aco_door_open.gui doors/aco_door_open_click.gui
@@ -5030,7 +5030,7 @@
 // cranegame/crane_control.gui
 	"#str_03203"	"上\n下"
 // cranegame/crane_control.gui
-	"#str_03204"	"侧控制室"
+	"#str_03204"	"侧控制"
 // delta1/airsys.gui
 	"#str_03205"	"电网通路"
 // delta1/airsys.gui
@@ -5116,9 +5116,9 @@
 // delta1/map.gui
 	"#str_03246"	"楼梯"
 // delta1/map.gui
-	"#str_03247"	"授权"
+	"#str_03247"	"管理层"
 // delta1/map.gui
-	"#str_03248"	"授权文档"
+	"#str_03248"	"管理层档案"
 // delta1/map.gui
 	"#str_03249"	"系统控制"
 // delta1/map.gui
@@ -5358,11 +5358,11 @@
 // delta2b/conveyor_system.gui
 	"#str_03368"	"运输线\n启用"
 // delta2b/conveyor_system.gui
-	"#str_03369"	"密室调度站"
+	"#str_03369"	"房间调度站"
 // delta2b/conveyor_system.gui
 	"#str_03370"	"运输系统"
 // delta2b/conveyor_system.gui
-	"#str_03371"	"密室处理启用"
+	"#str_03371"	"房间处理启用"
 // delta2b/conveyor_system.gui
 	"#str_03372"	"激活传达器"
 // delta2b/demon1.gui
@@ -5472,7 +5472,7 @@
 // delta3/decon.gui
 	"#str_03425"	"净化舱流程初始化完毕"
 // delta3/decon_malfunction.gui
-	"#str_03426"	"密室故障"
+	"#str_03426"	"房间故障"
 // delta3/decon_malfunction.gui
 	"#str_03427"	"净化舱门控制错误"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -6296,7 +6296,7 @@
 // mc_underground/invasion6.gui
 	"#str_03854"	"错误 错误\n错误 错误"
 // mc_underground/resetcrane.gui
-	"#str_03855"	"电梯机动故障\n\n警告"
+	"#str_03855"	"升降梯机动故障\n\n警告"
 // mc_underground/security.gui
 	"#str_03856"	"点击开锁"
 // monorail/lower_klaxxon.gui
@@ -6516,7 +6516,7 @@
 // recycle2/outerdoor_locked.gui
 	"#str_03964"	"检测到高毒素等级\n\n区域封锁"
 // transfer/outerdoor_open_multiclick.gui transfer/outerdoor_open.gui transfer/outerdoor_open_noclick.gui transfer/outerdoor_locked_multiclick.gui transfer/outerdoor_locked.gui recycle2/outerdoor_locked.gui
-	"#str_03965"	"中转台访问"
+	"#str_03965"	"传送台通道"
 // transfer/outerdoor_open_multiclick.gui transfer/outerdoor_open.gui transfer/outerdoor_open_noclick.gui transfer/outerdoor_locked_multiclick.gui transfer/outerdoor_locked.gui recycle2/outerdoor_locked.gui
 	"#str_03966"	"打开\n舱\n门"
 // recycle2/pump1b.gui
@@ -6615,7 +6615,7 @@
 // transfer/exit_alphalabs3.gui transfer/enter_alphalabs4.gui
 	"#str_04014"	"阿尔法实验室4"
 // transfer/exit_caverns1.gui transfer/enter_caverns1.gui transfer/exit_caverns2.gui transfer/enter_caverns2.gui transfer/enter_hellhole.gui transfer/exit_site3.gui
-	"#str_04015"	"转移电梯"
+	"#str_04015"	"运输升降梯"
 // transfer/enter_caverns1.gui transfer/exit_site3.gui
 	"#str_04016"	"洞穴1"
 // transfer/exit_caverns1.gui transfer/enter_caverns2.gui
@@ -6688,8 +6688,8 @@
 	"#str_04050"	"艺术总监"
 	"#str_04051"	"新电子邮件"
 	"#str_04052"	"联合航天公司(UAC)是现存"
-	"#str_04053"	"最大的企业实体"
-	"#str_04054"	"最初专注于武器和防御合同"
+	"#str_04053"	"最大的企业集团"
+	"#str_04054"	"最初专注于武器和防御合约"
 	"#str_04055"	"新的业务已拓展至:"
 	"#str_04056"	"太空探索"
 	"#str_04057"	"以及其它科学领域"
@@ -6802,11 +6802,11 @@
 	"#str_04164"	"选择一个\n视频文件"
 	"#str_04165"	"  停止"
 	"#str_04166"	"  开始游戏"
-	"#str_04167"	"近期音频日志持有人: "
+	"#str_04167"	"近期音频日志: "
 	"#str_04168"	"档案里没有音频记录"
 	"#str_04169"	"当前任务目标"
 	"#str_04170"	" 当前任务目标"
-	"#str_04171"	"电邮收件箱: "
+	"#str_04171"	"邮件收件箱: "
 	"#str_04172"	"任务目标"
 	"#str_04173"	"用户数据   "
 	"#str_04174"	"UAC陆战队员"
@@ -7062,7 +7062,7 @@
 // alphalabs1:地点.位置
 	"#str_04388"	"原子稳定中枢"
 // alphalabs2:地点.名
-	"#str_04389"	"低层MFS控制室"
+	"#str_04389"	"低层MFS控制"
 // alphalabs2:地点.名
 	"#str_04390"	"冷却流控制"
 // alphalabs2:地点.名
@@ -7102,7 +7102,7 @@
 // alphalabs3:地点.名
 	"#str_04408"	"访问存储与恩普罗电站设施"
 // alphalabs3:地点.名
-	"#str_04409"	"高危物质电梯"
+	"#str_04409"	"高危物质升降梯"
 // alphalabs3:地点.名
 	"#str_04410"	"重水排放口"
 // alphalabs3:地点.名
@@ -7118,7 +7118,7 @@
 // alphalabs4:地点.名
 	"#str_04416"	"反应堆控制室"
 // alphalabs4:地点.名
-	"#str_04417"	"反应堆室电梯"
+	"#str_04417"	"反应堆室升降梯"
 // alphalabs4:地点.名
 	"#str_04418"	"反应堆连接点2"
 // alphalabs4:地点.名
@@ -7176,7 +7176,7 @@
 // caverns1:地点.名
 	"#str_04445"	"B1下层连接点2"
 // caverns1:地点.名
-	"#str_04446"	"B2 材料运输电梯"
+	"#str_04446"	"B2 材料运输升降梯"
 // caverns1:地点.名
 	"#str_04447"	"B1下层连接点1"
 // caverns1:地点.名
@@ -7192,7 +7192,7 @@
 // caverns1:地点.名
 	"#str_04453"	"住宅区1A"
 // caverns1:地点.名
-	"#str_04454"	"重物传送梯1"
+	"#str_04454"	"重物运输升降梯1"
 // caverns1:地点.名
 	"#str_04455"	"1号基地连接点1"
 // caverns1:地点.名 caverns1:地点.位置
@@ -7204,19 +7204,19 @@
 // caverns1:地点.名
 	"#str_04459"	"1号基地连接点3"
 // caverns1:地点.名
-	"#str_04460"	"主传输电梯井"
+	"#str_04460"	"主运输升降梯井"
 // caverns1:地点.名
-	"#str_04461"	"重物电梯控制"
+	"#str_04461"	"重物升降梯控制"
 // caverns1:地点.名
 	"#str_04462"	"人员输送站"
 // caverns1:地点.位置
 	"#str_04463"	"人员输送站"
 // caverns2:地点.名
-	"#str_04464"	"密室连接点1"
+	"#str_04464"	"房间连接点1"
 // caverns2:地点.名
 	"#str_04465"	"悬浮室地点"
 // caverns2:地点.名
-	"#str_04466"	"坑道传输货梯"
+	"#str_04466"	"坑道运输升降梯"
 // caverns2:地点.名
 	"#str_04467"	"主挖掘场"
 // caverns2:地点.名
@@ -7228,9 +7228,9 @@
 // caverns2:地点.名
 	"#str_04471"	"繁星之间"
 // caverns2:地点.名
-	"#str_04472"	"密室连接点2"
+	"#str_04472"	"房间连接点2"
 // caverns2:地点.名
-	"#str_04473"	"密室连接点3"
+	"#str_04473"	"房间连接点3"
 // caverns2:地点.名
 	"#str_04474"	"画廊"
 // comm1:地点.名 comm1:地点.位置
@@ -7370,7 +7370,7 @@
 // delta1:地点.名
 	"#str_04542"	"德尔塔入口"
 // delta1:地点.名
-	"#str_04543"	"德尔塔传输提"
+	"#str_04543"	"德尔塔传送台"
 // delta1:地点.名
 	"#str_04544"	"德尔塔实验室主电梯"
 // delta1:地点.名
@@ -7398,11 +7398,11 @@
 // delta1:地点.名
 	"#str_04556"	"德尔塔反应堆工程处"
 // delta1:地点.名 delta5:地点.名
-	"#str_04557"	"德尔塔官员走廊1"
+	"#str_04557"	"德尔塔管理层走廊1"
 // delta1:地点.名 delta5:地点.名
 	"#str_04558"	"德尔塔服务电梯"
 // delta1:地点.名
-	"#str_04559"	"德尔塔官员档案馆"
+	"#str_04559"	"德尔塔管理层档案馆"
 // delta2a:地点.名
 	"#str_04560"	"电梯大厅"
 // delta2a:地点.名
@@ -7464,7 +7464,7 @@
 // delta2b:地点.名
 	"#str_04589"	"分析控制"
 // delta2b:地点.名
-	"#str_04590"	"补给电梯第2层"
+	"#str_04590"	"补给升降梯第2层"
 // delta2b:地点.名
 	"#str_04591"	"传送观察"
 // delta2b:地点.名
@@ -7484,17 +7484,17 @@
 // delta2b:地点.名
 	"#str_04599"	"物种研究实验室"
 // delta2b:地点.名
-	"#str_04600"	"科研区控制室"
+	"#str_04600"	"科研区控制"
 // delta2b:地点.名
 	"#str_04601"	"淤积室"
 // delta2b:地点.名
 	"#str_04602"	"通风管道"
 // delta2b:地点.名
-	"#str_04603"	"补给电梯第1层"
+	"#str_04603"	"补给升降梯第1层"
 // delta2b:地点.名
-	"#str_04604"	"补给电梯通道第1层"
+	"#str_04604"	"补给升降梯通道第1层"
 // delta2b:地点.名
-	"#str_04605"	"补给电梯通道第2层"
+	"#str_04605"	"补给升降梯通道第2层"
 // delta2b:地点.名
 	"#str_04606"	"上层办公室走廊"
 // delta2b:地点.名
@@ -7508,11 +7508,11 @@
 // delta2b:地点.名
 	"#str_04611"	"淤积转移控制"
 // delta2b:地点.名
-	"#str_04612"	"电梯通道1层"
+	"#str_04612"	"升降梯通道1层"
 // delta2b:地点.名
-	"#str_04613"	"科研区控制室走廊"
+	"#str_04613"	"科研区控制走廊"
 // delta2b:地点.名
-	"#str_04614"	"电梯2层"
+	"#str_04614"	"升降梯2层"
 // delta2b:地点.名
 	"#str_04615"	"分析走廊"
 // delta2b:地点.名
@@ -7526,9 +7526,9 @@
 // delta2b:地点.名
 	"#str_04620"	"服务区007"
 // delta2b:地点.名
-	"#str_04621"	"电梯许可2层"
+	"#str_04621"	"升降梯通道2层"
 // delta2b:地点.名
-	"#str_04622"	"电梯1层"
+	"#str_04622"	"升降梯1层"
 // delta3:地点.名
 	"#str_04623"	"安全站1"
 // delta3:地点.名
@@ -7536,7 +7536,7 @@
 // delta3:地点.名
 	"#str_04625"	"低层终端办公室"
 // delta3:地点.名
-	"#str_04626"	"密室1终点 - 下层"
+	"#str_04626"	"房间1终点 - 下层"
 // delta3:地点.名
 	"#str_04627"	"3层研究所"
 // delta3:地点.名
@@ -7546,7 +7546,7 @@
 // delta3:地点.名
 	"#str_04630"	"净化舱1-上层"
 // delta3:地点.名
-	"#str_04631"	"密室1仓库"
+	"#str_04631"	"房间1仓库"
 // delta3:地点.名
 	"#str_04632"	"上层终端办公室"
 // delta3:地点.名 mars_city2:地点.名
@@ -7554,11 +7554,11 @@
 // delta3:地点.名
 	"#str_04634"	"终端处理"
 // delta3:地点.名
-	"#str_04635"	"密室2终点"
+	"#str_04635"	"房间2终点"
 // delta3:地点.名
 	"#str_04636"	"安全中心2"
 // delta3:地点.名
-	"#str_04637"	"密室2仓库"
+	"#str_04637"	"房间2仓库"
 // delta3:地点.名
 	"#str_04638"	"传送站2"
 // delta3:地点.名
@@ -7572,9 +7572,9 @@
 // delta3:地点.名
 	"#str_04643"	"HST观察"
 // delta3:地点.名
-	"#str_04644"	"密室3控制通道"
+	"#str_04644"	"房间3控制通道"
 // delta3:地点.名
-	"#str_04645"	"密室3控制"
+	"#str_04645"	"房间3控制"
 // delta3:地点.名
 	"#str_04646"	"净化舱3"
 // delta3:地点.名
@@ -7590,21 +7590,21 @@
 // delta3:地点.名
 	"#str_04652"	"终端办公室储存"
 // delta3:地点.名
-	"#str_04653"	"密室2控制"
+	"#str_04653"	"房间2控制"
 // delta3:地点.名
-	"#str_04654"	"密室1控制"
+	"#str_04654"	"房间1控制"
 // delta3:地点.名
 	"#str_04655"	"3层入口"
 // delta3:地点.名
 	"#str_04656"	"低层储物室"
 // delta3:地点.名
-	"#str_04657"	"密室1终点 - 上层"
+	"#str_04657"	"房间1终点 - 上层"
 // delta3:地点.名
 	"#str_04658"	"T2平台1"
 // delta3:地点.名
-	"#str_04659"	"密室3通道"
+	"#str_04659"	"房间3通道"
 // delta3:地点.名
-	"#str_04660"	"密室3终点"
+	"#str_04660"	"房间3终点"
 // delta3:地点.名
 	"#str_04661"	"T1楼梯井"
 // delta4:地点.名
@@ -7648,9 +7648,9 @@
 // enpro:地点.名
 	"#str_04681"	"维护1"
 // enpro:地点.名
-	"#str_04682"	"密室1上层"
+	"#str_04682"	"房间1上层"
 // enpro:地点.名
-	"#str_04683"	"密室2"
+	"#str_04683"	"房间2"
 // enpro:地点.名
 	"#str_04684"	"控制室2"
 // enpro:地点.名
@@ -7672,9 +7672,9 @@
 // enpro:地点.名 le_enpro1:地点.名
 	"#str_04693"	"气闸E-1"
 // enpro:地点.名
-	"#str_04694"	"转移区"
+	"#str_04694"	"传送台"
 // enpro:地点.名
-	"#str_04695"	"密室1下层"
+	"#str_04695"	"房间1下层"
 // enpro:地点.名
 	"#str_04696"	"电力核心通行大厅"
 // enpro:地点.名
@@ -7682,7 +7682,7 @@
 // hell1:地点.名
 	"#str_04698"	"未知"
 // hellhole:地点.名
-	"#str_04699"	"英雄密室"
+	"#str_04699"	"英雄房间"
 // hellhole:地点.名
 	"#str_04700"	"地下4层发掘地"
 // hellhole:地点.名
@@ -7722,7 +7722,7 @@
 // mars_city2:地点.名
 	"#str_04718"	"ACO通道连接点"
 // mars_city2:地点.名
-	"#str_04719"	"ACO电梯连接点"
+	"#str_04719"	"ACO升降梯连接点"
 // mars_city2:地点.名
 	"#str_04720"	"操作站"
 // mars_city2:地点.名
@@ -7885,7 +7885,7 @@
 // recycling2:地点.名
 	"#str_04800"	"下层访问"
 // recycling2:地点.名
-	"#str_04801"	"低层电梯区域"
+	"#str_04801"	"低层升降梯区域"
 // recycling2:地点.名
 	"#str_04802"	"泵站1b 柜子"
 // site3:地点.名
@@ -7935,7 +7935,7 @@
 // d3dm1:地点.名
 	"#str_04825"	"传送回复"
 // d3dm1:地点.名
-	"#str_04826"	"密室走廊"
+	"#str_04826"	"房间走廊"
 // d3dm1:地点.名
 	"#str_04827"	"CS连接点"
 	"#str_04828"	"运行DOOM 3的超高画质模式需要超过500MB的显存。不建议你在这个模式中运行，你确定要继续吗？"
@@ -7957,7 +7957,7 @@
 	"#str_04837"	"更新"
 	"#str_04838"	"检查游戏更新"
 	"#str_04839"	"DOOM 3已是最新，无需再更新。"
-	"#str_04840"	"坏挑战。\n"
+	"#str_04840"	"邪恶挑战。\n"
 	"#str_04841"	"服务器使用协议%d.%d\n"
 	"#str_04842"	"数据与服务器数据不同步。\n"
 	"#str_04843"	"此服务器只接受局域网用户。\n"
@@ -7984,7 +7984,7 @@
 // admin:地点.位置
 	"#str_06671"	"全球网络中断"
 // admin:地点.位置 delta3:地点.位置 delta5:地点.位置 le_underground:地点.位置
-	"#str_06672"	"转移区"
+	"#str_06672"	"传送台"
 // comm1:地点.位置
 	"#str_06673"	"通讯通道连接点"
 // comm1:地点.位置
@@ -8000,9 +8000,9 @@
 // comm1:地点.位置
 	"#str_06679"	"通讯维护电梯"
 // comm1:地点.位置
-	"#str_06680"	"通讯工程处货梯1"
+	"#str_06680"	"通讯工程处升降梯1"
 // comm1:地点.位置
-	"#str_06681"	"通讯工程处货梯2"
+	"#str_06681"	"通讯工程处升降梯2"
 // comm1:地点.位置
 	"#str_06682"	"通讯系统"
 // comm1:地点.位置
@@ -8010,13 +8010,13 @@
 // cpuboss:地点.位置
 	"#str_06684"	"士官的车库"
 // delta1:地点.位置 delta5:地点.位置
-	"#str_06685"	"德尔塔官员大厅"
+	"#str_06685"	"德尔塔管理层大厅"
 // delta1:地点.位置 delta5:地点.位置
-	"#str_06686"	"电梯通道和储藏室"
+	"#str_06686"	"升降梯通道和储藏室"
 // delta1:地点.位置 delta5:地点.位置
-	"#str_06687"	"德尔塔官员系统"
+	"#str_06687"	"德尔塔管理层系统"
 // delta1:地点.位置 delta5:地点.位置
-	"#str_06688"	"德尔塔官员连接点"
+	"#str_06688"	"德尔塔管理层连接点"
 // delta3:地点.位置
 	"#str_06689"	"正在处理下层"
 // delta3:地点.位置
@@ -8066,7 +8066,7 @@
 // d3dm3:地点.位置
 	"#str_06712"	"冷却仓"
 // d3dm3:地点.位置
-	"#str_06713"	"主电梯"
+	"#str_06713"	"主升降梯"
 // d3dm4:地点.位置
 	"#str_06714"	"工程处连接点"
 // d3dm4:地点.位置
@@ -8078,9 +8078,9 @@
 // d3dm4:地点.位置
 	"#str_06718"	"气流控制连接点B"
 // d3dm4:地点.位置
-	"#str_06719"	"电梯区域1层"
+	"#str_06719"	"升降梯区域1层"
 // d3dm4:地点.位置
-	"#str_06720"	"电梯区域2层"
+	"#str_06720"	"升降梯区域2层"
 // d3dm4:地点.位置
 	"#str_06721"	"泵站"
 // d3dm4:地点.位置
@@ -8168,7 +8168,7 @@
 // hell1:目标标题
 	"#str_06769"	"找到灵魂魔方并逃出地狱。"
 // hellhole:目标标题
-	"#str_06770"	"摧毁地狱之洞！"
+	"#str_06770"	"摧毁地狱洞穴！"
 // mars_city1:目标标题
 	"#str_06771"	"寻找失踪的科学家"
 // mars_city1:目标标题
@@ -8198,7 +8198,7 @@
 	"#str_07007"	"旁观中 - 全部死亡"
 	"#str_07008"	"跟随: %s"
 // _common/def/ammo.def
-	"#str_07009"	"炮弹"
+	"#str_07009"	"霰弹"
 // _common/def/ammo.def
 	"#str_07010"	"子弹"
 // _common/def/ammo.def
@@ -8210,9 +8210,9 @@
 // _common/def/ammo.def
 	"#str_07014"	"灵魂"
 // _common/def/ammo.def
-	"#str_07015"	"BFG 弹夹"
+	"#str_07015"	"BFG电池"
 // _common/def/ammo.def
-	"#str_07016"	"夹子"
+	"#str_07016"	"弹夹"
 // _common/def/ammo.def
 	"#str_07017"	"弹药腰带"
 	"#str_07018"	"Tab"
@@ -8497,19 +8497,19 @@
 // d3ctf2:地点.名
 	"#str_11205"	"蓝色高端"
 // d3ctf2:地点.名
-	"#str_11206"	"蓝色电梯"
+	"#str_11206"	"蓝色升降梯"
 // d3ctf2:地点.名
 	"#str_11207"	"蓝色窗口"
 // d3ctf2:地点.名
 	"#str_11208"	"蓝色基地"
 // d3ctf2:地点.名
-	"#str_11209"	"蓝色扭曲"
+	"#str_11209"	"蓝色弯道"
 // d3ctf2:地点.名
 	"#str_11210"	"红色基地"
 // d3ctf2:地点.名
 	"#str_11211"	"红色死亡"
 // d3ctf2:地点.名
-	"#str_11212"	"红色电梯"
+	"#str_11212"	"红色升降梯"
 // d3ctf2:地点.名
 	"#str_11213"	"红色低处"
 // d3ctf2:地点.名
@@ -8517,13 +8517,13 @@
 // d3ctf2:地点.名
 	"#str_11215"	"红色闪烁"
 // d3ctf2:地点.名
-	"#str_11216"	"红色扭曲"
+	"#str_11216"	"红色弯道"
 // d3ctf2:地点.名
 	"#str_11217"	"红色泵走道"
 // d3ctf2:地点.名
 	"#str_11218"	"蓝色泵走道"
 	"#str_11219"	"红色泵低处"
-	"#str_11220"	"蓝色水泵压力不足"
+	"#str_11220"	"蓝色泵低处"
 // d3ctf2:地点.名
 	"#str_11221"	"红色窗口"
 // d3ctf2:地点.名
@@ -8545,25 +8545,25 @@
 // d3ctf3:地点.名
 	"#str_11304"	"红色安全站"
 // d3ctf3:地点.名
-	"#str_11305"	"蓝色升降梯"
+	"#str_11305"	"蓝色电梯"
 // d3ctf3:地点.名
-	"#str_11306"	"红色升降梯"
+	"#str_11306"	"红色电梯"
 // d3ctf3:地点.名
 	"#str_11307"	"蓝色护窗板控制"
 // d3ctf3:地点.名
 	"#str_11308"	"红色护窗板控制"
 // d3ctf3:地点.名
-	"#str_11309"	"蓝色服务电梯"
+	"#str_11309"	"蓝色服务升降梯"
 // d3ctf3:地点.名
-	"#str_11310"	"红色服务电梯"
+	"#str_11310"	"红色服务升降梯"
 // d3ctf3:地点.名
 	"#str_11311"	"蓝色服务走廊"
 // d3ctf3:地点.名
 	"#str_11312"	"红色服务走廊"
 // d3ctf3:地点.名
-	"#str_11313"	"蓝色电力分配"
+	"#str_11313"	"蓝色配电室"
 // d3ctf3:地点.名
-	"#str_11314"	"红色电力分配"
+	"#str_11314"	"红色配电室"
 // d3ctf3:地点.名
 	"#str_11315"	"蓝色区域走廊"
 // d3ctf3:地点.名
@@ -8573,7 +8573,7 @@
 // d3ctf3:地点.名
 	"#str_11318"	"红色上层门厅"
 // d3ctf3:地点.名
-	"#str_11319"	"为发电机室供电"
+	"#str_11319"	"大功率发电室"
 // d3ctf4:地点.名
 	"#str_11401"	"五区"
 // d3ctf4:地点.名
@@ -8589,7 +8589,7 @@
 // d3ctf4:地点.名
 	"#str_11407"	"蓝色下层发电室"
 // d3ctf4:地点.名
-	"#str_11408"	"蓝色下层升降梯通道"
+	"#str_11408"	"蓝色下层电梯通道"
 // d3ctf4:地点.名
 	"#str_11409"	"红色上层入口"
 // d3ctf4:地点.名
@@ -8603,7 +8603,7 @@
 // d3ctf4:地点.名
 	"#str_11414"	"红色下层发电机室"
 // d3ctf4:地点.名
-	"#str_11415"	"红色下层升降梯通道"
+	"#str_11415"	"红色下层电梯通道"
 // d3ctf1:地点.名
 	"#str_11501"	"中央核心"
 // d3ctf1:地点.名
@@ -8623,14 +8623,14 @@
 // _common/def/d3ctf2.def
 	"#str_11601"	"泵站"
 // _common/def/d3ctf3.def
-	"#str_11602"	"为实验室供电"
+	"#str_11602"	"大功率实验室"
 // _common/def/d3ctf4.def
 	"#str_11603"	"生化安全总部"
 	"#str_11604"	"%s^0 已经离开游戏。"
 // d3dm5:地点.名
-	"#str_11605"	"终端检查"
+	"#str_11605"	"终端俯瞰台"
 // d3dm5:地点.名
-	"#str_11606"	"发电厂规章"
+	"#str_11606"	"发电站制度"
 // d3dm5:地点.名
 	"#str_11607"	"发电机室"
 // d3dm5:地点.名
@@ -8663,23 +8663,23 @@
 	"#str_00100018"	"坑道二"
 	"#str_00100019"	"医疗服务器机房"
 // erebus3:物品目标.标题 erebus3:物品目标完成.标题 erebus3:地点.名 erebus3:界面参数1
-	"#str_00100020"	"遗物存储"
+	"#str_00100020"	"遗物存储区"
 // erebus3:地点.界面参数1 erebus3:地点.位置
-	"#str_00100021"	"遗物存储控制"
+	"#str_00100021"	"遗物存储区控制"
 	"#str_00100022"	"正在取回"
 // erebus3/vent_storage.gui erebus3/vent_storage2.gui
-	"#str_00100023"	"遗物存储"
+	"#str_00100023"	"遗物存储区"
 // erebus3/vent_storage.gui
-	"#str_00100024"	"给遗物\n储藏室通风"
-	"#str_00100025"	"主储藏室"
+	"#str_00100024"	"遗物存储区\n出口"
+	"#str_00100025"	"主存储区"
 	"#str_00100026"	"机库"
 // erebus6:物品目标完成.标题 erebus6:物品目标.标题 erebus6:地点.位置 erebus6:界面参数1
 	"#str_00100027"	"货物运输机"
 // erebus6/erebus6_monorail.gui
 	"#str_00100028"	"启动启动顺序"
-	"#str_00100029"	"D3XPDM1 - EXCAVATION"
-	"#str_00100030"	"D3XPDM2 - HELL'S PLAYGROUND"
-	"#str_00100031"	"D3XPDM3 - MEATHOLE"
+	"#str_00100029"	"D3XPDM1 - 挖掘点"
+	"#str_00100030"	"D3XPDM2 - 地狱游乐场"
+	"#str_00100031"	"D3XPDM3 - 肉洞"
 	"#str_00100032"	"D3XPDM4 - MALDM2"
 	"#str_00100033"	"德尔塔实验室 - 未知"
 // _common/def/maps.def
@@ -8719,7 +8719,7 @@
 // _common/def/maps.def
 	"#str_00100053"	"分子研究"
 // _common/def/maps.def
-	"#str_00100054"	"挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在福布斯实验室内完成。"
+	"#str_00100054"	"挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在火卫一实验室内完成。"
 	"#str_00100055"	"火卫一实验室 - 第3区"
 // _common/def/maps.def
 	"#str_00100056"	"主反应堆"
@@ -8744,7 +8744,7 @@
 // phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
 	"#str_00100066"	"空中轨道车控制"
 // transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/exit_erebus4.gui
-	"#str_00100067"	"中转电梯"
+	"#str_00100067"	"运输升降梯"
 // erebus2:界面参数3 transfer/enter_erebus3.gui _common/def/maps.def
 	"#str_00100068"	"厄瑞玻斯实验室"
 // transfer/enter_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/enter_erebus5.gui transfer/enter_erebus6.gui transfer/enter_phobos1.gui transfer/enter_phobos2.gui transfer/enter_phobos3.gui transfer/enter_phobos4.gui
@@ -8754,7 +8754,7 @@
 // erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui _common/def/maps.def
 	"#str_00100071"	"厄瑞玻斯研究"
 // transfer/exit_erebus3.gui transfer/enter_erebus5.gui transfer/exit_erebus5.gui transfer/enter_erebus6.gui transfer/exit_phobos1.gui transfer/enter_phobos2.gui transfer/exit_phobos2.gui transfer/enter_phobos3.gui transfer/exit_phobos3.gui transfer/enter_phobos4.gui
-	"#str_00100072"	"中转台"
+	"#str_00100072"	"传送台"
 	"#str_00100073"	"厄瑞玻斯综合设施"
 // transfer/exit_erebus5.gui transfer/enter_erebus6.gui _common/def/maps.def
 	"#str_00100074"	"厄瑞玻斯站"
@@ -8856,9 +8856,9 @@
 	"#str_00100152"	"设备正在运行。"
 	"#str_00100153"	"能量电池站"
 	"#str_00100154"	"增加"
-	"#str_00100155"	"剩"
+	"#str_00100155"	"剩余"
 	"#str_00100156"	"正在移除能量块……"
-	"#str_00100157"	"万恒"
+	"#str_00100157"	"完成"
 	"#str_00100158"	"设备已关闭"
 	"#str_00100159"	"防止能量电池……"
 	"#str_00100160"	"能量电池不够"
@@ -8967,7 +8967,7 @@
 	"#str_00100225"	"什么什么什么的"
 	"#str_00100226"	"厄瑞玻斯二号遗迹"
 	"#str_00100227"	"逃离厄瑞玻斯综合设施"
-	"#str_00100228"	"控制室入口"
+	"#str_00100228"	"控制通道"
 // erebus3:PDA物品.名
 	"#str_00100229"	"档案"
 // erebus5:界面参数1 phobos2:界面参数3 phobos2:界面参数1
@@ -9021,7 +9021,7 @@
 	"#str_00100258"	"环境支持"
 	"#str_00100259"	"背包"
 // erebus5:地点.位置 phobos1:地点.位置 phobos2:地点.位置 phobos3:地点.位置 phobos4:地点.位置
-	"#str_00100260"	"转移区"
+	"#str_00100260"	"传送台"
 // phobos1:界面参数3 phobos1:电梯.界面参数3 phobos3:电梯.界面参数3 phobos4:界面参数3
 	"#str_00100261"	"2层"
 // phobos1:界面参数4 phobos1:电梯.界面参数4 phobos3:电梯.界面参数4 phobos4:界面参数4
@@ -9105,9 +9105,9 @@
 // deltax:地点.名
 	"#str_00100308"	"传送站3"
 // deltax:地点.名
-	"#str_00100309"	"密室3通道"
+	"#str_00100309"	"房间3通道"
 // deltax:地点.名
-	"#str_00100310"	"密室3终点"
+	"#str_00100310"	"房间3终点"
 	"#str_00100311"	"info_location_1"
 	"#str_00100312"	"info_location_2"
 	"#str_00100313"	"info_location_3"
@@ -9134,23 +9134,23 @@
 // deltax:地点.名
 	"#str_00100326"	"物种研究实验室"
 // deltax:地点.名 phobos2:界面参数1
-	"#str_00100327"	"科研区控制室"
+	"#str_00100327"	"科研区控制"
 // deltax:地点.名
 	"#str_00100328"	"淤积室"
 // deltax:地点.名
 	"#str_00100329"	"上层办公室走廊"
 // deltax:地点.名
-	"#str_00100330"	"电梯通道1层"
+	"#str_00100330"	"升降梯通道1层"
 // deltax:地点.名
-	"#str_00100331"	"科研区控制室走廊"
-	"#str_00100332"	"电梯2层"
+	"#str_00100331"	"科研区控制走廊"
+	"#str_00100332"	"升降梯2层"
 // deltax:地点.名
 	"#str_00100333"	"分析走廊"
 // deltax:地点.名
 	"#str_00100334"	"技术主管办公室"
-	"#str_00100335"	"电梯通道2层"
+	"#str_00100335"	"升降梯通道2层"
 // deltax:地点.名
-	"#str_00100336"	"电梯1层"
+	"#str_00100336"	"升降梯1层"
 	"#str_00100337"	"封印"
 // erebus2:PDA物品.名 erebus2:界面参数7
 	"#str_00100338"	"站点一"
@@ -9160,13 +9160,13 @@
 	"#str_00100340"	"音频日志 - 挖掘只会"
 // erebus2:目标提示
 	"#str_00100341"	"NPC 2-1"
-	"#str_00100342"	"为电梯供电"
+	"#str_00100342"	"为升降梯供电"
 // erebus2:地点.位置
 	"#str_00100343"	"低层储物室"
 // erebus2:地点.位置 erebus5:地点.位置
 	"#str_00100344"	"电梯间"
 // erebus2:地点.位置
-	"#str_00100345"	"坑道控制室"
+	"#str_00100345"	"坑道控制"
 // erebus1:地点.位置 erebus2:地点.名
 	"#str_00100346"	"中央掘探"
 	"#str_00100347"	"进入走廊"
@@ -9260,7 +9260,7 @@
 // erebus5:地点.位置 erebus6:地点.位置 phobos3:电梯.界面参数3 phobos3:界面参数3
 	"#str_00100397"	"气闸"
 	"#str_00100398"	"脱下环境服的情景。"
-	"#str_00100399"	"电影5-1"
+	"#str_00100399"	"慢镜头5-1"
 	"#str_00100400"	"E5云"
 	"#str_00100401"	"在这里穿上环境工作服"
 // erebus5:物品目标完成.内容 erebus5:物品目标.内容
@@ -9477,10 +9477,10 @@
 	"#str_00100519"	"维护入口"
 	"#str_00100520"	"正在接受维护"
 	"#str_00100521"	"火卫一货物A2"
-	"#str_00100522"	"电梯控制室"
-	"#str_00100523"	"电梯不能超载\n限重12吨\n限装4件"
+	"#str_00100522"	"电梯控制"
+	"#str_00100523"	"升降梯不能超载\n限重12吨\n限装4件"
 // erebus2/e2_cavelift2.gui
-	"#str_00100524"	"呼叫电梯"
+	"#str_00100524"	"呼叫升降梯"
 // erebus2/e2_pda_ladder.gui erebus2/e2_pda_ladder_green.gui
 	"#str_00100525"	"坑道楼梯"
 	"#str_00100526"	"碎片处理中"
@@ -9522,15 +9522,15 @@
 	"#str_00100549"	"离线"
 	"#str_00100550"	"关闭中"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100551"	"安全电梯控制点"
+	"#str_00100551"	"安全升降梯控制点"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100552"	"启动电梯"
+	"#str_00100552"	"启动升降梯"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100553"	"电梯启动"
+	"#str_00100553"	"升降梯启动"
 // phobos2/p2_securitylift.gui
 	"#str_00100554"	"安全"
 // phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
-	"#str_00100555"	"电梯控制室"
+	"#str_00100555"	"升降梯控制"
 // phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui phobos/reactor_bridgecontrol2.gui
 	"#str_00100556"	"激活"
 	"#str_00100557"	"已激活主泵系统"
@@ -9615,15 +9615,15 @@
 	"#str_00100603"	"德尔塔综合设施时火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。"
 	"#str_00100604"	"应用视频和音频设置更改"
 	"#str_00100605"	"不惜一切代价到达地狱传送器！"
-	"#str_00100606"	"为电梯找到能源来前往地表。"
+	"#str_00100606"	"为升降梯找到能源来前往地表。"
 	"#str_00100607"	"你需要一些电池来将遗物储藏室里面的气体滤除。"
 // erebus3:物品目标.内容 erebus3:物品目标完成.内容
 	"#str_00100608"	"这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储存室。"
 // erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
-	"#str_00100609"	"原始生物"
-	"#str_00100610"	"找到1块电池来启动通往通风系统的电梯"
+	"#str_00100609"	"“源体”"
+	"#str_00100610"	"找到1块电池来启动通往通风系统的升降梯"
 // erebus4:物品目标.标题 erebus4:物品目标完成.标题
-	"#str_00100611"	"为电梯供电"
+	"#str_00100611"	"为升降梯供电"
 	"#str_00100612"	"找到1块电池来开启挖掘机"
 	"#str_00100613"	"开启挖掘机"
 	"#str_00100614"	"取得环境服并沿着废物处理通道前往地表的气候站。"
@@ -9650,25 +9650,25 @@
 	"#str_00100631"	"急速"
 	"#str_00100632"	"AM3视频"
 	"#str_00100633"	"启动挖掘机"
-	"#str_00100634"	"找到2块电池来启动通往通风系统的电梯"
+	"#str_00100634"	"找到2块电池来启动通往通风系统的升降梯"
 	"#str_00100635"	"部署视频"
 // erebus1:地点.位置 d3xpdm1:地点.位置
 	"#str_00100636"	"坑道大厅"
 // erebus1:地点.位置
-	"#str_00100637"	"电梯仓库"
+	"#str_00100637"	"升降梯仓库"
 // erebus1:地点.位置
 	"#str_00100638"	"隧道入口"
 // erebus3:地点.位置
-	"#str_00100639"	"坑道传输货梯"
+	"#str_00100639"	"坑道运输升降梯"
 // erebus3:地点.位置 d3xpdm1:地点.位置
-	"#str_00100640"	"悬浮室地点伽马"
+	"#str_00100640"	"伽玛悬浮点"
 // erebus3:地点.位置
-	"#str_00100641"	"密室连接点1"
+	"#str_00100641"	"房间连接点1"
 // erebus3:地点.位置
 	"#str_00100642"	"试验场"
 // erebus3:地点.位置
-	"#str_00100643"	"密室连接点2"
-	"#str_00100644"	"找到2块电池来启动通往通风系统的电梯"
+	"#str_00100643"	"房间连接点2"
+	"#str_00100644"	"找到2块电池来启动通往通风系统的升降梯"
 // erebus5:物品目标完成.内容 erebus5:物品目标.内容
 	"#str_00100645"	"取得环境服并沿着废物处理通道前往地表的货物站。"
 // phobos1:目标标题 phobos2:目标标题
@@ -9817,11 +9817,11 @@
 	"#str_00100723"	"遗物可以用人类的灵魂充能"
 	"#str_00100724"	"找到1快电池来开启运输电梯并让它到达本层"
 // erebus2:物品目标完成.标题 erebus2:物品目标.标题
-	"#str_00100725"	"呼叫主升降机"
+	"#str_00100725"	"呼叫主电梯"
 	"#str_00100726"	"找到两个能量电池启动遗物储存滤毒系统"
-	"#str_00100727"	"找到一个能量电池启动电梯通往洞穴中心换乘站"
+	"#str_00100727"	"找到一个能量电池启动升降梯通往洞穴中心换乘站"
 // erebus4:物品目标完成.标题 erebus4:物品目标.标题
-	"#str_00100728"	"启动挖掘站点电梯"
+	"#str_00100728"	"启动挖掘站点升降梯"
 	"#str_00100729"	"在维修通道里面找到哨兵机器人"
 // phobos/reactor_bridgecontrol.gui phobos/reactor_bridgecontrol2.gui
 	"#str_00100730"	"反应堆桥"
@@ -9962,7 +9962,7 @@
 	"#str_00100806"	"设法用实验传送器到达德尔塔实验室"
 // deltax:物品目标完成.标题 deltax:物品目标.标题
 	"#str_00100807"	"德尔塔传送器"
-	"#str_00100808"	"使用德尔塔传送器来到达地狱的海岸"
+	"#str_00100808"	"使用德尔塔传送器来到达地狱岸边"
 // deltax:目标标题
 	"#str_00100809"	"前往地狱"
 	"#str_00100810"	"发电机"
@@ -10003,9 +10003,9 @@
 	"#str_00100835"	"主洞穴"
 	"#str_00100840"	"泵站02是火星上现存最古老的机器系统之一。最初暴露于火星元素，人员损失导致了这里的关闭。"
 // erebus2/e2_cavelift2.gui
-	"#str_00100841"	"厄瑞玻斯电梯"
+	"#str_00100841"	"厄瑞玻斯升降梯"
 // erebus2/e2_cavelift2.gui
-	"#str_00100842"	"电梯控制室"
+	"#str_00100842"	"升降梯控制"
 // erebus2/e2_cavelift2.gui
 	"#str_00100843"	"插入能量电池"
 // erebus3/artifact.gui
@@ -10030,19 +10030,19 @@
 	"#str_00100854"	"UAC的研究基地在一次秘密的研究实验当中发生了灾难性的机械故障，致使整个设施完全毁坏。只有一人幸存下来。"
 	"#str_00100855"	"一个轨道探测器记录了一条未知信号，这条信号是由废弃的火星1号综合设施发来的。"
 	"#str_00100856"	"UAC宣布了其火星研究项目的变更事项。伊丽莎白·麦克内尔博士被选出领导主评估团队。"
-	"#str_00100857"	"否"
-	"#str_00100858"	"1"
-	"#str_00100859"	"11"
-	"#str_00100860"	"11月"
-	"#str_00100861"	"11月1"
-	"#str_00100862"	"11月15"
-	"#str_00100863"	"11月15日"
-	"#str_00100864"	"11月15日 "
-	"#str_00100865"	"11月15日 -"
-	"#str_00100866"	"11月15日 - "
-	"#str_00100867"	"11月15日 - 2"
-	"#str_00100868"	"11月15日 - 21"
-	"#str_00100869"	"11月15日 - 214"
+	"#str_00100857"	"1"
+	"#str_00100858"	"11"
+	"#str_00100859"	"11月"
+	"#str_00100860"	"11月1"
+	"#str_00100861"	"11月15"
+	"#str_00100862"	"11月15日"
+	"#str_00100863"	"11月15日 "
+	"#str_00100864"	"11月15日 -"
+	"#str_00100865"	"11月15日 - "
+	"#str_00100866"	"11月15日 - 2"
+	"#str_00100867"	"11月15日 - 21"
+	"#str_00100868"	"11月15日 - 214"
+	"#str_00100869"	"11月15日 - 2145"
 	"#str_00100870"	"11月15日 - 2145年"
 	"#str_00100871"	"11月15日 - "
 	"#str_00100872"	"5"
@@ -10072,8 +10072,8 @@
 	"#str_00100894"	"使用1快电池来开启运输电梯并让它到达本层"
 // erebus3:PDA物品.名
 	"#str_00100895"	"克雷恩的PDA"
-	"#str_00100896"	"找到一个能量电池启动电梯通往洞穴中心"
-	"#str_00100897"	"找到一个能量电池启动电梯通往洞穴换乘站"
+	"#str_00100896"	"找到一个能量电池启动升降梯通往洞穴中心"
+	"#str_00100897"	"找到一个能量电池启动升降梯通往洞穴换乘站"
 // erebus4:地点.位置 erebus4:界面参数1
 	"#str_00100898"	"坑道传输站"
 // _common/def/d3xp-items.def
@@ -10260,11 +10260,11 @@
 // d3xpdm2:地点.位置
 	"#str_00101011"	"分水岭"
 // d3xpdm2:地点.位置
-	"#str_00101012"	"密室通道"
+	"#str_00101012"	"房间通道"
 // d3xpdm2:地点.位置
 	"#str_00101013"	"乌姆劳特矿井"
 // d3xpdm2:地点.位置
-	"#str_00101014"	"乌姆劳特密室"
+	"#str_00101014"	"乌姆劳特房间"
 // d3xpdm3:地点.位置
 	"#str_00101015"	"房间1"
 // d3xpdm3:地点.位置
@@ -10308,15 +10308,15 @@
 // d3xpdm3:地点.位置
 	"#str_00101035"	"大厅5"
 // deltax:物品目标完成.内容 deltax:物品目标.内容
-	"#str_00101036"	"使用德尔塔传送器来到达地狱的海岸。"
+	"#str_00101036"	"使用德尔塔传送器来到达地狱岸边。"
 // erebus2:物品目标完成.内容 erebus2:物品目标.内容
 	"#str_00101037"	"使用1快电池来开启运输电梯然后让它到达本层。"
 // erebus3:物品目标.内容 erebus3:物品目标完成.内容
 	"#str_00101038"	"找到两个能量电池启动遗物储存过滤系统然后激活它。"
 // erebus4:物品目标完成.内容 erebus4:物品目标.内容
-	"#str_00101039"	"找到一个能量电池启动电梯通往洞穴换乘站"
+	"#str_00101039"	"找到一个能量电池启动升降梯通往洞穴换乘站"
 // erebus4:物品目标.内容 erebus4:物品目标完成.内容
-	"#str_00101040"	"找到2块电池来启动通往通风系统的电梯。"
+	"#str_00101040"	"找到2块电池来启动通往通风系统的升降梯。"
 // erebus6:物品目标完成.内容 erebus6:物品目标.内容
 	"#str_00101041"	"跟随哨兵机器人前往货运区。"
 // erebus6:物品目标完成.内容 erebus6:物品目标.内容
@@ -10376,7 +10376,7 @@
 // le_exis1:界面参数2
 	"#str_00200015"	"科学团队D3"
 // le_exis1:界面参数3
-	"#str_00200016"	"艾克西斯官员"
+	"#str_00200016"	"艾克西斯管理层"
 // le_underground2:mover功能.界面参数3 le_underground2:界面参数3
 	"#str_00200017"	"艾克西斯实验室通路"
 // le_underground2:mover功能.界面参数4 le_underground2:界面参数4
@@ -10406,7 +10406,7 @@
 // transfer/exit_le_underground.gui
 	"#str_00200030"	"改变楼层"
 // transfer/exit_le_underground.gui
-	"#str_00200031"	"中转电梯"
+	"#str_00200031"	"运输升降梯"
 // le_enpro1:PDA物品.名 le_enpro1:界面参数7
 	"#str_00200032"	"罗伯特·罗德斯"
 // le_enpro1:界面参数4
@@ -10436,15 +10436,15 @@
 // le_underground:物品目标.内容 le_underground2:物品目标.内容
 	"#str_00200047"	"穿过地下层的服务到达艾克西斯实验室。"
 // le_underground2:物品目标完成.标题 le_underground2:物品目标.标题
-	"#str_00200048"	"恢复服务电梯的电力"
+	"#str_00200048"	"恢复服务升降梯的电力"
 // le_underground2:物品目标.内容
 	"#str_00200049"	"从中转控制区获取电源模块"
 // le_underground2:物品目标.内容
-	"#str_00200050"	"使用电池来恢复主服务电梯的电力。"
+	"#str_00200050"	"使用电池来恢复主服务升降梯的电力。"
 // le_underground2:物品目标.标题
-	"#str_00200051"	"乘坐服务电梯前往艾克西斯实验室"
+	"#str_00200051"	"乘坐服务升降梯前往艾克西斯实验室"
 // le_underground2:物品目标.内容
-	"#str_00200052"	"使用主服务电梯到达艾克西斯实验室。"
+	"#str_00200052"	"使用主服务升降梯到达艾克西斯实验室。"
 // le_enpro2:界面参数2 le_enpro2:界面参数7 le_enpro2:PDA物品.名
 	"#str_00200053"	"克里斯·瓦尔加斯"
 // le_enpro2:PDA物品.名
@@ -10456,7 +10456,7 @@
 // transfer/exit_le_underground1.gui
 	"#str_00200057"	"地下1层"
 // transfer/exit_le_underground1.gui transfer/enter_le_underrgound2.gui
-	"#str_00200058"	"中转台"
+	"#str_00200058"	"传送台"
 // transfer/exit_le_underground1.gui
 	"#str_00200059"	"中转目的地"
 // transfer/enter_le_underrgound2.gui
@@ -10527,7 +10527,7 @@
 // le_enpro1:物品目标.标题 le_enpro1:物品目标完成.标题
 	"#str_00200094"	"恢复电力"
 // le_enpro1:物品目标.内容
-	"#str_00200095"	"重置电梯电力开关"
+	"#str_00200095"	"重置升降梯电力开关"
 // le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
 	"#str_00200096"	"辅助能源核心"
 // le_enpro2:物品目标.内容
@@ -10535,7 +10535,7 @@
 // le_enpro2:物品目标完成.标题 le_enpro2:物品目标.标题
 	"#str_00200098"	"准备好核心"
 // le_enpro2:物品目标.内容
-	"#str_00200099"	"使用IPL也就是“抓握枪”对着非工作魔方释放等离子例子为附属核心做好准备。"
+	"#str_00200099"	"使用IPL也就是“抓取者枪”将等离子粒子直接射入没有工作的原始管道。"
 // le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
 	"#str_00200100"	"转换功率"
 // le_enpro2:物品目标.内容
@@ -10559,7 +10559,7 @@
 // le_enpro2:地点.位置
 	"#str_00200110"	"辅助核心下层房间"
 // le_enpro2:地点.位置
-	"#str_00200111"	"服务电梯"
+	"#str_00200111"	"服务升降梯"
 // le_enpro2:地点.位置
 	"#str_00200112"	"低层服务厅"
 // le_enpro2:地点.位置
@@ -10577,10 +10577,10 @@
 // le_enpro2:地点.位置
 	"#str_00200119"	"维护控制室"
 // le_enpro2:地点.位置
-	"#str_00200120"	"核心服务货梯"
+	"#str_00200120"	"核心服务升降梯"
 // le_underground:地点.位置
-	"#str_00200121"	"转移控制"
-	"#str_00200122"	"转移监管"
+	"#str_00200121"	"传送控制"
+	"#str_00200122"	"传送俯瞰"
 // le_underground:地点.位置
 	"#str_00200123"	"服务访问"
 // le_underground:地点.位置
@@ -10626,11 +10626,11 @@
 // le_underground2:地点.位置
 	"#str_00200144"	"地下层走廊SL-2"
 // le_underground2:地点.位置
-	"#str_00200145"	"中央冷却剂交换"
+	"#str_00200145"	"中央冷却剂输送"
 // le_underground2:地点.位置
 	"#str_00200146"	"设备仓库"
 // le_underground2:地点.位置
-	"#str_00200147"	"主服务电梯"
+	"#str_00200147"	"主服务升降梯"
 // le_underground2:地点.位置
 	"#str_00200148"	"地下层走廊SL-3"
 // le_underground2:地点.位置
@@ -10818,7 +10818,7 @@
 	"#str_admin_dorweiler_email_1_email_date"	"2145-11-12"
 	"#str_admin_dorweiler_email_1_email_from"	"伊森·彼得森"
 	"#str_admin_dorweiler_email_1_email_subject"	"橱柜中的军备"
-	"#str_admin_dorweiler_email_1_email_text"	"阿兰，\n继续我们之前的对话，我在你所在区域的储物柜里存了一些子弹和护甲。门上的密码是586。我不清楚到底发生了什么事，但小心行事是没错的。希望我们永远都不要用上这些东西。\n\n如果有其它消息我会继续给你发电邮的。\n伊森"
+	"#str_admin_dorweiler_email_1_email_text"	"阿兰，\n继续我们之前的对话，我在你所在区域的储物柜里存了一些子弹和护甲。门上的密码是586。我不清楚到底发生了什么事，但小心行事是没错的。希望我们永远都不要用上这些东西。\n\n如果有其它消息我会继续给你发邮件的。\n伊森"
 	"#str_admin_dorweiler_email_1_email_to"	"阿兰·多维勒"
 	"#str_admin_dorweiler_email_2_email_date"	"2145-11-14"
 	"#str_admin_dorweiler_email_2_email_from"	"伊森·彼得森"
@@ -10844,7 +10844,7 @@
 	"#str_admin_moses_email_2_email_date"	"2145-11-07"
 	"#str_admin_moses_email_2_email_from"	"吉姆·鲍伊尔"
 	"#str_admin_moses_email_2_email_subject"	"储存柜"
-	"#str_admin_moses_email_2_email_text"	"摩西先生，\n\n我们最近收到了火星搭档发给你的储物锁柜，你想要把它放在哪里？\n\n谢谢，\n吉姆·鲍伊尔\n货运局"
+	"#str_admin_moses_email_2_email_text"	"摩西先生，\n\n我们最近收到了火星搭档发给你的储物锁柜，你想要把它放在哪里？\n\n谢谢，\n吉姆·鲍伊尔\n运输管理层"
 	"#str_admin_moses_email_2_email_to"	"乔纳森·摩西"
 	"#str_admin_moses_email_3_email_date"	"2145-11-08"
 	"#str_admin_moses_email_3_email_from"	"吉姆·鲍伊尔"
@@ -10866,7 +10866,7 @@
 	"#str_admin_simons_email_1_email_to"	"保罗·西蒙斯"
 	"#str_admin_simons_email_2_email_date"	"2145-11-13"
 	"#str_admin_simons_email_2_email_from"	"罗素·韦德"
-	"#str_admin_simons_email_2_email_subject"	"垃圾电邮"
+	"#str_admin_simons_email_2_email_subject"	"垃圾邮件"
 	"#str_admin_simons_email_2_email_text"	"保罗——\n垃圾邮件越来越多。最差的公司是火星搭档——不敢相信给我发来了这么多垃圾。我不知道他们怎么弄到我的电子邮件地址的。你能不能想办法让他们别发了？我一早上都在删垃圾邮件。\n\n谢谢，\n罗斯"
 	"#str_admin_simons_email_2_email_to"	"保罗·西蒙斯"
 	"#str_admin_simons_pda_fullname"	"保罗·M.西蒙斯"
@@ -10885,7 +10885,7 @@
 	"#str_alphalabs1_berger_email_2_email_date"	"2145-11-10"
 	"#str_alphalabs1_berger_email_2_email_from"	"UAC维护"
 	"#str_alphalabs1_berger_email_2_email_subject"	"EPD收集舱状态"
-	"#str_alphalabs1_berger_email_2_email_text"	"凯尔·伯格博士，\n\n维护团队刚清理完EPD收集舱。所有生物物质已经从该区域清除。深度扫描也确认达到你要求的洁净区域。14种锥筒和5个盘子也已经归位。请一定要到维护处来，因为我们需要你签署一些申请表格。\n\n谢谢，\nUAC维护处"
+	"#str_alphalabs1_berger_email_2_email_text"	"凯尔·伯格博士，\n\n维护组刚清理完EPD收集舱。所有生物物质已经从该区域清除。深度扫描也确认达到你要求的洁净区域。14种锥筒和5个盘子也已经归位。请一定要到维护处来，因为我们需要你签署一些申请表格。\n\n谢谢，\nUAC维护处"
 	"#str_alphalabs1_berger_email_2_email_to"	"凯尔·伯格"
 	"#str_alphalabs1_berger_pda_fullname"	"凯尔·C.伯格"
 	"#str_alphalabs1_berger_pda_id"	"7861-84"
@@ -10948,7 +10948,7 @@
 	"#str_alphalabs2_chin_email_2_email_date"	"2145-10-12"
 	"#str_alphalabs2_chin_email_2_email_from"	"沃尔特·康纳斯"
 	"#str_alphalabs2_chin_email_2_email_subject"	"8面骰子"
-	"#str_alphalabs2_chin_email_2_email_text"	"亲爱的陈，\n\n我写信来是想说说关于你从我这借走的《八面死亡》。如果你不准备邀请我加入游戏，那我想你该把《八面死亡》换给我了。已经两星期了，我非常生气。\n\n沃尔特·康纳斯"
+	"#str_alphalabs2_chin_email_2_email_text"	"亲爱的陈，\n\n我写信来是想说说关于你从我这借走的《八面骰子》。如果你不准备邀请我加入游戏，那我想你该把《八面骰子》换给我了。已经两星期了，我非常生气。\n\n沃尔特·康纳斯"
 	"#str_alphalabs2_chin_email_2_email_to"	"安德鲁·陈"
 	"#str_alphalabs2_chin_email_3_email_date"	"2145-11-08"
 	"#str_alphalabs2_chin_email_3_email_from"	"埃里克·里夫斯"
@@ -11076,7 +11076,7 @@
 	"#str_alphalabs3_poota_pda_title"	"废料管理"
 	"#str_alphalabs4_kaczynski_email_1_email_date"	"2145-11-1"
 	"#str_alphalabs4_kaczynski_email_1_email_from"	"戴维·卡特"
-	"#str_alphalabs4_kaczynski_email_1_email_subject"	"密室刻度"
+	"#str_alphalabs4_kaczynski_email_1_email_subject"	"房间刻度"
 	"#str_alphalabs4_kaczynski_email_1_email_text"	"卡钦斯基博士，\n\n我按照您的要求检查了舱室校准情况，起初发现一切都在可接受的范围内。不过，当我离开舱室时，却开始听到一种低沉的沙沙声，似乎是从主耦合器发出的。但当我弯腰仔细查看时，声音就停止了。每次我离开舱室时都会这样。您或许想亲自调查一下此事，因为我似乎无法确定声音的来源。至于其它方面，一切似乎都没问题。所有图表的读数都在2.4或更高，所以我预计不会有其它问题。\n\n戴维·卡特\n"
 	"#str_alphalabs4_kaczynski_email_1_email_to"	"拉里·卡钦斯基"
 	"#str_alphalabs4_kaczynski_email_2_email_date"	"2145-11-9"
@@ -11120,7 +11120,7 @@
 	"#str_caverns1_cody_audio_1_audio_info"	"制作者: 罗伯特·科迪\n日期: 2145-10-18\n允许修改: 否\n存入档案: 否"
 	"#str_caverns1_cody_audio_1_audio_name"	"洞穴内的危险状况"
 	"#str_caverns1_cody_email_1_email_date"	"2145-10-07"
-	"#str_caverns1_cody_email_1_email_from"	"维护控制室"
+	"#str_caverns1_cody_email_1_email_from"	"维护控制"
 	"#str_caverns1_cody_email_1_email_subject"	"发电机需要维修"
 	"#str_caverns1_cody_email_1_email_text"	"科迪先生，\n\n在洞穴中工作的几个小组成员报告说在最近的地震活动过后，发电机至少出现过12次故障。请召集你的队伍，去找维护管理部获取详细报告。必须尽快让那些发电机运作起来。\n\n谢谢，\n维护控制中心"
 	"#str_caverns1_cody_email_1_email_to"	"罗伯特·科迪"
@@ -11179,9 +11179,9 @@
 	"#str_comm1_wolfe_email_1_email_text"	"亲爱的雷达爱好者，\n\n你现在有了一个一生一次的，成为太阳系雷达科技最令人兴奋的项目的一部分的机会。请利用这次机会来节省我们20%的通常费用。\n\n如果你觉得心动，请立即回复。\n\n火星搭档——给你省钱！！"
 	"#str_comm1_wolfe_email_1_email_to"	"本·乌尔夫"
 	"#str_comm1_wolfe_email_2_email_date"	"2145-11-12"
-	"#str_comm1_wolfe_email_2_email_from"	"保安权力"
+	"#str_comm1_wolfe_email_2_email_from"	"安全管理层"
 	"#str_comm1_wolfe_email_2_email_subject"	"回复: 请求安保通行"
-	"#str_comm1_wolfe_email_2_email_text"	"您对通信安全访问的请求已获批准。现在，工作人员可以进入二级安全区域。通信柜密码是246。\n\n----原始邮件----\n发送日期: 2145-11-11\n收件人: 安全管理局\n\n本人特此正式请求进入通信设施的保密区域。作为一名军官，我认为这是必要的。\n\n诚挚地，\n本·沃尔夫"
+	"#str_comm1_wolfe_email_2_email_text"	"您对通信安全访问的请求已获批准。现在，工作人员可以进入二级安全区域。通信柜密码是246。\n\n----原始邮件----\n发送日期: 2145-11-11\n收件人: 安全管理层\n\n本人特此正式请求进入通信设施的保密区域。作为一名军官，我认为这是必要的。\n\n诚挚地，\n本·沃尔夫"
 	"#str_comm1_wolfe_email_2_email_to"	"本·乌尔夫"
 	"#str_comm1_wolfe_pda_fullname"	"本·B.乌尔夫"
 	"#str_comm1_wolfe_pda_id"	"9866-53"
@@ -11197,9 +11197,9 @@
 	"#str_commoutside_holiday_email_1_email_text"	"嘿，詹姆斯，\n这些电锯我们怎么处理？我们最近刚刚接收了两批额外的我们正好需要的医疗装备。我不敢相信有人把这些东西误运过来了。我真想不出还有什么装备比电锯在火星上更没用了！？！反正你得帮我把这些操蛋玩意儿处理掉。\n\n谢谢，\n-RR"
 	"#str_commoutside_holiday_email_1_email_to"	"詹姆斯·霍利戴"
 	"#str_commoutside_holiday_email_2_email_date"	"2145-11-15"
-	"#str_commoutside_holiday_email_2_email_from"	"运输管理局"
+	"#str_commoutside_holiday_email_2_email_from"	"运输管理层"
 	"#str_commoutside_holiday_email_2_email_subject"	"需要站点1"
-	"#str_commoutside_holiday_email_2_email_text"	"UAC终止了1号站点的所有研究。其中包括麦克内尔计划。对有用设备的运输和储存的安排应该立刻进行。\n\n-运输局"
+	"#str_commoutside_holiday_email_2_email_text"	"UAC终止了1号站点的所有研究。其中包括麦克内尔计划。对有用设备的运输和储存的安排应该立刻进行。\n\n-运输管理层"
 	"#str_commoutside_holiday_email_2_email_to"	"詹姆斯·霍利戴"
 	"#str_commoutside_holiday_pda_fullname"	"詹姆斯·A·霍利戴"
 	"#str_commoutside_holiday_pda_id"	"7085-64"
@@ -11211,8 +11211,8 @@
 	"#str_commoutside_ridge_audio_1_audio_name"	"非安全驾驶"
 	"#str_commoutside_ridge_email_1_email_date"	"2145-11-14"
 	"#str_commoutside_ridge_email_1_email_from"	"UAC管理层"
-	"#str_commoutside_ridge_email_1_email_subject"	"维护电梯进入限制"
-	"#str_commoutside_ridge_email_1_email_text"	"罗恩，\n\n从这点开始我们需要你去加强维修电梯的进出限制。有好几台这样的电梯可以给没权限的保修人员用来进入他们不能进的地方。请去落实这些事情，\n\n诚挚地，\nUAC管理处"
+	"#str_commoutside_ridge_email_1_email_subject"	"维护升降梯访问限制"
+	"#str_commoutside_ridge_email_1_email_text"	"罗恩，\n\n从这点开始我们需要你去加强维修升降梯的进出限制。有好几台这样的升降梯可以给没权限的保修人员用来进入他们不能进的地方。请去落实这些事情，\n\n诚挚地，\nUAC管理层"
 	"#str_commoutside_ridge_email_1_email_to"	"罗恩·里奇"
 	"#str_commoutside_ridge_email_2_email_date"	"2145-11-14"
 	"#str_commoutside_ridge_email_2_email_from"	"詹姆斯·霍利戴"
@@ -11314,7 +11314,7 @@
 	"#str_default_pda_security"	""
 	"#str_default_pda_title"	"标题"
 	"#str_delta1_mora_email_1_email_date"	"2145-11-14"
-	"#str_delta1_mora_email_1_email_from"	"德尔塔官员"
+	"#str_delta1_mora_email_1_email_from"	"德尔塔管理层"
 	"#str_delta1_mora_email_1_email_subject"	"反应堆安全"
 	"#str_delta1_mora_email_1_email_text"	"莫拉先生，\n你的投诉已经提交给了中央局，从现在开始他们会处理你的案例。\n\n----原始邮件----\n发送日期: 2145-11-9\n收件人: 德尔塔官员\n作为反应堆上层区维护部的负责工程师，我认为有必要让你们知悉一下当前存在的安全问题。如果我们在反应堆工作时要想从上层区获取读数数据，就极有可能发生事故。我建议使用遥控传感器来获取这些读数，在反应堆工作期间关闭上层区。\n\n诚挚地，\n布莱恩·莫拉"
 	"#str_delta1_mora_email_1_email_to"	"布莱恩·莫拉"
@@ -11403,7 +11403,7 @@
 	"#str_delta2a_wilson_pda_security"	""
 	"#str_delta2a_wilson_pda_title"	"医疗技术人员"
 	"#str_delta2b_bullman_audio_1_audio_info"	"来自: 拉里·布曼\n日期: 2145-10-19\n打开并更改: 是\n入档: 是"
-	"#str_delta2b_bullman_audio_1_audio_name"	"用灵魂立方体做武器"
+	"#str_delta2b_bullman_audio_1_audio_name"	"用灵魂魔方做武器"
 	"#str_delta2b_bullman_email_1_email_date"	"2145-10-20"
 	"#str_delta2b_bullman_email_1_email_from"	"马尔科姆·贝特鲁格"
 	"#str_delta2b_bullman_email_1_email_subject"	"回复: 灵魂魔方作为武器"
@@ -11412,7 +11412,7 @@
 	"#str_delta2b_bullman_email_2_email_date"	"2145-10-22"
 	"#str_delta2b_bullman_email_2_email_from"	"martianbuddy.com"
 	"#str_delta2b_bullman_email_2_email_subject"	"你或许能够成为赢家！"
-	"#str_delta2b_bullman_email_2_email_text"	"布曼博士，\n希望你能找到这封电邮。我通过伪装这封电邮隐藏了我的真实名字和地址。他可能在读你的信。\n\n你的老板（我不会提到他的名字）远比你能想象的要更加危险。我认为他在利用你，篡改你的成果。\n\n我相信你的发现是正确的，而他也知道这一点。他不想让UAC知道你的发现，而是自己利用这些物体。我还不知道为什么，但我会找出来的。\n\n尽可能地拖延他。别让他得到那个物体！\n\n"
+	"#str_delta2b_bullman_email_2_email_text"	"布曼博士，\n希望你能找到这封邮件。我通过伪装这封邮件隐藏了我的真实名字和地址。他可能在读你的信。\n\n你的老板（我不会提到他的名字）远比你能想象的要更加危险。我认为他在利用你，篡改你的成果。\n\n我相信你的发现是正确的，而他也知道这一点。他不想让UAC知道你的发现，而是自己利用这些物体。我还不知道为什么，但我会找出来的。\n\n尽可能地拖延他。别让他得到那个物体！\n\n"
 	"#str_delta2b_bullman_email_2_email_to"	"拉里·布曼"
 	"#str_delta2b_bullman_email_3_email_date"	"2145-11-01"
 	"#str_delta2b_bullman_email_3_email_from"	"人力资源部协调员"
@@ -11964,8 +11964,8 @@
 	"#str_erebus3_kharkov_audio_1_audio_name"	"猎人启示录"
 	"#str_erebus3_kharkov_email_1_email_date"	"2147-3-13"
 	"#str_erebus3_kharkov_email_1_email_from"	"mail.admin@elNET"
-	"#str_erebus3_kharkov_email_1_email_subject"	"无法送达: 来自火星的电邮"
-	"#str_erebus3_kharkov_email_1_email_text"	"你的信息未送达部分或全部选定的收件人。\n\n    主题: 来自火星的电邮\n    发送日期: 2147-3-13\n\n无法找到下列收件人:\n\n    'k.kharkov@kpjNET'\n      550 k.kharkov@kpjNET 无法递送\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 凯瑟琳·哈尔科夫 (k.kharkov@kpjNET)\nKathrine,\n但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在麦克内尔博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了斯托克一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。\n\n我得回去工作了。也许我多加班一点他们能够让我提前回去。\n\n我们很快会见面的。\n\n-VK"
+	"#str_erebus3_kharkov_email_1_email_subject"	"无法送达: 来自火星的邮件"
+	"#str_erebus3_kharkov_email_1_email_text"	"你的信息未送达部分或全部选定的收件人。\n\n    主题: 来自火星的邮件\n    发送日期: 2147-3-13\n\n无法找到下列收件人:\n\n    'k.kharkov@kpjNET'\n      550 k.kharkov@kpjNET 无法递送\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 凯瑟琳·哈尔科夫 (k.kharkov@kpjNET)\nKathrine,\n但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在麦克内尔博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了斯托克一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。\n\n我得回去工作了。也许我多加班一点他们能够让我提前回去。\n\n我们很快会见面的。\n\n-VK"
 	"#str_erebus3_kharkov_email_1_email_to"	"维克多·哈尔科夫"
 	"#str_erebus3_kharkov_email_2_email_date"	"2147-3-14"
 	"#str_erebus3_kharkov_email_2_email_from"	"维克多·哈尔科夫"
@@ -12153,128 +12153,128 @@
 	"#str_id_1_email_date"	"2145-11-16"
 	"#str_id_1_email_from"	"阿德里安·卡马克"
 	"#str_id_1_email_subject"	"感谢"
-	"#str_id_1_email_text"	"阿德里安·卡马克\n艺术家，共有人"
-	"#str_id_1_email_to"	"Doom播放器"
+	"#str_id_1_email_text"	"阿德里安·卡马克\n艺术家，公司所有人"
+	"#str_id_1_email_to"	"Doom玩家"
 	"#str_id_2_email_date"	"2145-11-16"
 	"#str_id_2_email_from"	"约翰·卡马克"
 	"#str_id_2_email_subject"	"谢谢"
-	"#str_id_2_email_text"	"谢谢。\n约翰·卡马克\n程序员，共有人"
-	"#str_id_2_email_to"	"Doom播放器"
+	"#str_id_2_email_text"	"谢谢。\n约翰·卡马克\n程序员，公司所有人"
+	"#str_id_2_email_to"	"Doom玩家"
 	"#str_id_3_email_date"	"2145-11-16"
 	"#str_id_3_email_from"	"凯文·克劳德"
 	"#str_id_3_email_subject"	"谢谢"
-	"#str_id_3_email_text"	"我想要感谢我们的粉丝能够游玩《Doom 3》。\n凯文·克劳德\n艺术家，共有人"
-	"#str_id_3_email_to"	"Doom播放器"
+	"#str_id_3_email_text"	"我想要感谢我们的粉丝能够游玩《Doom 3》。\n凯文·克劳德\n艺术家，公司所有人"
+	"#str_id_3_email_to"	"Doom玩家"
 	"#str_id_4_email_date"	"2145-11-16"
 	"#str_id_4_email_from"	"陶德·霍伦斯黑德"
 	"#str_id_4_email_subject"	"搞定了，宝贝！"
-	"#str_id_4_email_text"	"哇。我们终于完成了！\n\n我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她无论多晚我回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。\n\n感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。\n\n当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！\n\n陶德·霍伦斯黑德\n首席执行官，共有人"
-	"#str_id_4_email_to"	"Doom播放器"
+	"#str_id_4_email_text"	"哇。我们终于完成了！\n\n我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她无论多晚我回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。\n\n感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。\n\n当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！\n\n陶德·霍伦斯黑德\n首席执行官，公司所有人"
+	"#str_id_4_email_to"	"Doom玩家"
 	"#str_id_5_email_date"	"2145-11-16"
 	"#str_id_5_email_from"	"蒂姆·威利茨"
 	"#str_id_5_email_subject"	"多谢大家！！"
-	"#str_id_5_email_text"	"我想感谢所有《Doom 3》的玩家。制作这个游戏真是一段美好的时光。\n\n我也想特别感谢一下我的妻子斯蒂芬妮和我的孩子理查德，还有德斯蒂尼在关键时刻陪伴了我很长时间。\n\n蒂姆·威利茨\n首席设计师，共有人"
-	"#str_id_5_email_to"	"Doom播放器"
+	"#str_id_5_email_text"	"我想感谢所有《Doom 3》的玩家。制作这个游戏真是一段美好的时光。\n\n我也想特别感谢一下我的妻子斯蒂芬妮和我的孩子理查德，还有德斯蒂尼在关键时刻陪伴了我很长时间。\n\n蒂姆·威利茨\n首席设计师，公司所有人"
+	"#str_id_5_email_to"	"Doom玩家"
 	"#str_id_6_email_date"	"2145-11-16"
 	"#str_id_6_email_from"	"克里斯蒂安·安特科"
 	"#str_id_6_email_subject"	"特别感谢"
-	"#str_id_6_email_text"	"格罗里亚: “感谢你能忍受我们这种长时间的工作。”\n\n我的家人: “感谢你多年来的爱心和支持让我在这里定居”\n\n在“丹麦人之路”的布莱恩·霍金斯和整个团队: “多谢你尽心尽力协助支持我们”\n\nid的所有者们: “多谢你多年来持续的支持和指导”\n\n"
-	"#str_id_6_email_to"	"Doom播放器"
+	"#str_id_6_email_text"	"格罗里亚: “感谢你能忍受我们这种长时间的工作。”\n\n我的家人: “感谢你多年来的爱心和支持让我在这里定居”\n\n在“丹麦人之路”的布莱恩·霍金斯和整个团队: “多谢你尽心尽力协助支持我们”\n\nid的所有者们: “感谢你多年来持续的支持和指导”\n\n"
+	"#str_id_6_email_to"	"Doom玩家"
 	"#str_id_7_email_date"	"2145-11-16"
 	"#str_id_7_email_from"	"蒂莫泰·贝塞"
 	"#str_id_7_email_subject"	"多谢啦……"
 	"#str_id_7_email_text"	"感谢我最好的妻子克里斯汀能够多年来一直忍受我\n感谢我的父母——妈妈，你玩儿了那么远读到我的话了吗？？\n感谢我的朋友帮助我摆脱电脑上瘾。\n还有一个给#qeradiant regulars的巨大的BELH！\n\n感谢各地的Id粉丝……尤其是Mac/Linux玩家和欧洲的玩家。\n\n这真是一场狂野之旅……我期望未来能够更好。\n\nTTimo\n巴黎，法国。"
-	"#str_id_7_email_to"	"Doom播放器"
+	"#str_id_7_email_to"	"Doom玩家"
 	"#str_id_8_email_date"	"2145-11-16"
 	"#str_id_8_email_from"	"马尔·布莱克韦尔"
 	"#str_id_8_email_subject"	"搞定！喔！"
 	"#str_id_8_email_text"	"我们终于完成了，来到这里路途十分艰辛，而且我要说，在一款游戏上花费4年时间实在够长！\n为了开发这样一款游戏，在这样有限的团队编制下，实在能够体现id中每个人的才能和努力。我要感谢所有id的人，和他们共事的日子十分有趣而且有意义。我还要感谢我的妻子艾琳和我的女儿玛丽，在我离开家这么久的时间内没有给我带来太多麻烦。最后，我要感谢粉丝们。你们大伙成就了这个游戏的50%。我们为此付出了许多也希望你们会享受游玩的过程！\n\n马尔·布莱克韦尔\n设计师"
-	"#str_id_8_email_to"	"Doom播放器"
+	"#str_id_8_email_to"	"Doom玩家"
 	"#str_id_9_email_date"	"2145-11-16"
 	"#str_id_9_email_from"	"安迪·张"
 	"#str_id_9_email_subject"	"尘土"
 	"#str_id_9_email_text"	"玩家，\n\n很好，游戏通关了。你坚持不懈，水平很高，不然就是找到了作弊代码。不管怎么说，感谢你玩了这么久。实际上，我觉得应该给你点奖励，告诉你艺术团队的一些秘密。\n\n肯尼斯·斯科特: 浏览日本书店网页的速度比大多数日本人都快。\n塞尼卡·梅娜德: 如果餐馆员工穿橙色莱卡热裤，就不会进去吃饭。\n弗雷德·尼尔森: 能背诵他制作的动画电影的台词。\n帕特·达菲: 曾受电影明星的邀请去旅馆房间里见面，但没去。\n帕特里克·托马斯: 笑了就停不下。\n詹姆斯·豪斯卡: 被闪电击中好几次都没死。\n埃里克·韦伯: 曾对女孩说自己喜欢一首很糟的歌，想打动女孩。\n阿德里安·卡马克: 喜欢汤，但不喜欢饼干。\n凯文·克劳德: 只吃搅拌机里的东西。\n\n感谢我的家人、朋友、还有你。\n\n完毕，\n安迪·张\n梅斯基特，德州，美国，地球"
-	"#str_id_9_email_to"	"Doom播放器"
+	"#str_id_9_email_to"	"Doom玩家"
 	"#str_id_10_email_date"	"2145-11-16"
 	"#str_id_10_email_from"	"吉姆·道斯"
 	"#str_id_10_email_subject"	"感谢"
 	"#str_id_10_email_text"	"你好！希望你玩游戏玩得高兴。\n\n我要感谢id的创立者创造了这么好的一个工作环境，所有在id工作的人在他们的领域都很有建树，当我在游戏上面忙着工作的时候我的家人也给我很多支持，特别是我妈妈，她去年因为癌症去世了。\n\n我们在德尔塔实验室再见！\n\n吉姆"
-	"#str_id_10_email_to"	"Doom播放器"
+	"#str_id_10_email_to"	"Doom玩家"
 	"#str_id_11_email_date"	"2145-11-16"
 	"#str_id_11_email_from"	"帕特·达菲"
 	"#str_id_11_email_subject"	"我看到你找到了砖块……"
 	"#str_id_11_email_text"	"希望你喜欢我们精心在《Doom 3》里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。\n\n还要谢谢我的妻子克里斯丁娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)\n\n享受接下来的游戏吧！\n\n帕特·D"
-	"#str_id_11_email_to"	"Doom播放器"
+	"#str_id_11_email_to"	"Doom玩家"
 	"#str_id_12_email_date"	"2145-11-16"
 	"#str_id_12_email_from"	"罗伯特·达菲"
 	"#str_id_12_email_subject"	"火星搭档点康姆"
 	"#str_id_12_email_text"	"谢谢朋友们和家人的支持。\n我希望所有人都能像我们享受制作过程一样享受这个游戏。\n特别感谢奥斯汀和卡梅伦 :-)\n\n在年度游戏调查时请记得《超级涡轮火鸡拳3》。\n罗伯特……"
-	"#str_id_12_email_to"	"Doom播放器"
+	"#str_id_12_email_to"	"Doom玩家"
 	"#str_id_13_email_date"	"2145-11-16"
 	"#str_id_13_email_from"	"马特·胡珀"
 	"#str_id_13_email_subject"	"谢谢"
 	"#str_id_13_email_text"	"感谢我的妻子谭雅，还有我的孩子们加布里埃尔、阿伦和阿里尔。\n\n马特·胡珀\n设计师"
-	"#str_id_13_email_to"	"Doom播放器"
+	"#str_id_13_email_to"	"Doom玩家"
 	"#str_id_14_email_date"	"2145-11-16"
 	"#str_id_14_email_from"	"詹姆斯·豪斯卡"
 	"#str_id_14_email_subject"	"感谢"
 	"#str_id_14_email_text"	"我要感谢我的妻子在非常困难的时刻，对我的爱和支持。\n\n詹姆斯·豪斯卡\n动画师"
-	"#str_id_14_email_to"	"Doom播放器"
+	"#str_id_14_email_to"	"Doom玩家"
 	"#str_id_15_email_date"	"2145-11-16"
 	"#str_id_15_email_from"	"唐娜·杰克逊"
 	"#str_id_15_email_subject"	"多谢大家"
 	"#str_id_15_email_text"	"至我们所有的支持者，\n多谢你们最佳的支持，我总是享受在可能的时候能和你们见面。\n\n唐娜·杰克逊\nid妈咪"
-	"#str_id_15_email_to"	"Doom播放器"
+	"#str_id_15_email_to"	"Doom玩家"
 	"#str_id_16_email_date"	"2145-11-16"
 	"#str_id_16_email_from"	"杰瑞·基恩"
 	"#str_id_16_email_subject"	"多谢了！"
-	"#str_id_16_email_text"	"你花费了宝贵的时间终于来到了这里，战士！……=)\n\n首先最重要的是，诚挚地感谢你进行《Doom 3》的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。\n*******\n万分感谢id的所有者——让我能够成为他们大家庭的一员。能和一些游戏产业里面最富有天分的人一起工作真的是非常大的荣幸。\n*******\n最后，但同样重要的是，感谢我的妻子——缇娜。感谢多年来你的耐心，感谢你的爱和理解，你真的是最好的。\n*******\n\n好了，乱七八糟的话就到这里了，现在回到你的目标上来吧——封印那个通往地狱的海洋。哦，对了，记住，要活着回来，不要受伤——通话结束！\n\nJ.基恩\n设计师"
-	"#str_id_16_email_to"	"Doom播放器"
+	"#str_id_16_email_text"	"你花费了宝贵的时间终于来到了这里，战士！……=)\n\n首先最重要的是，诚挚地感谢你进行《Doom 3》的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。\n*******\n万分感谢id的所有者——让我能够成为他们大家庭的一员。能和一些游戏产业里面最富有天分的人一起工作真的是非常大的荣幸。\n*******\n最后，但同样重要的是，感谢我的妻子——缇娜。感谢多年来你的耐心，感谢你的爱和理解，你真的是最好的。\n*******\n\n好了，乱七八糟的话就到这里了，现在回到你的目标上来吧——封印那个地狱洞穴，战士！哦，对了，记住，要活着回来，不要受伤——通话结束！\n\nJ.基恩\n设计师"
+	"#str_id_16_email_to"	"Doom玩家"
 	"#str_id_17_email_date"	"2145-11-16"
 	"#str_id_17_email_from"	"塞尼卡·梅娜德"
 	"#str_id_17_email_subject"	"谢谢"
 	"#str_id_17_email_text"	"塞尼卡·梅娜德\n艺术家"
-	"#str_id_17_email_to"	"Doom播放器"
+	"#str_id_17_email_to"	"Doom玩家"
 	"#str_id_18_email_date"	"2145-11-16"
 	"#str_id_18_email_from"	"弗雷德里克·尼尔森"
 	"#str_id_18_email_subject"	"感谢"
 	"#str_id_18_email_text"	"哇，如果你读到这个的话你真的沉迷游戏了。希望你真的很喜欢它……转过身去……赶快。=) \n\n我想要对我的家人说声谢谢: 拉尔斯，英格加德，索菲，克里斯，安德鲁，安内利，汤姆，丹尼斯，TJ。\n还有所有我在瑞典的朋友和家人。\n我想念你们……\n\n至SMR: ……\n\n帝国(III): 感谢所有的深夜鏖战……很有趣……希望我的枪法没有退步。不许使用轨道炮！太简单了……\n\n至我的同事: 我们拥有一个惊人的团队，你们应该为我们所成就的感到骄傲……感谢你们让我一直保持着那个笑脸……=)\n\n至id的所有者: 你们在这里建立了一个令人惊讶的世界……以学到了许多顶级的游戏设计的知识……\n\n当然还要感谢屏幕前这为玩家: 感谢你们所有的支持，以及在我们连夜赶工汉化时，你们把F5刷爆了的耐心。\n\n感谢……\n\n弗雷德里克"
-	"#str_id_18_email_to"	"Doom播放器"
+	"#str_id_18_email_to"	"Doom玩家"
 	"#str_id_19_email_date"	"2145-11-16"
 	"#str_id_19_email_from"	"史蒂夫·莱斯科"
 	"#str_id_19_email_subject"	"谢谢"
 	"#str_id_19_email_text"	"史蒂夫·莱斯科\n设计师"
-	"#str_id_19_email_to"	"Doom播放器"
+	"#str_id_19_email_to"	"Doom玩家"
 	"#str_id_20_email_date"	"2145-11-16"
 	"#str_id_20_email_from"	"肯尼斯·斯科特"
 	"#str_id_20_email_subject"	"Mixom(米克森).co.jp订单已发货"
 	"#str_id_20_email_text"	"感谢所有的弟兄们制作了这样一款超级大作，我还要感谢有你们的陪伴。看到游戏上架我骄傲极了，我希望和你们一起制作更多的游戏。:)\n\n-肯尼斯\n\n附言 - 我爱你宝贝！"
-	"#str_id_20_email_to"	"Doom播放器"
+	"#str_id_20_email_to"	"Doom玩家"
 	"#str_id_21_email_date"	"2145-11-16"
 	"#str_id_21_email_from"	"马蒂·斯特拉顿"
 	"#str_id_21_email_subject"	"可疑的垃圾邮件: ╋分感讠射"
 	"#str_id_21_email_text"	"游戏玩到现在，我确信你一定爱上了《DOOM 3》(或者你很享受跑遍地图不开枪来寻找这个秘密)。作为游戏制作组的一员我很荣幸。即使是在研发4年以后的今天，我还是很敬畏那些细节、复杂性、和创造性为一体组成的这个游戏的点点滴滴。\n\n送给我妻子简，还有我的孩子，安迪和亚历克莎——感谢你们的一切——你们的支持无可非议。你们仨是最伟大的！还有，送给我其他的家人，32年来的感谢、尊敬、和肯定。\n\n享受接下来的游戏吧。我们QuakeCon再见。\n\n发送！\n马蒂"
-	"#str_id_21_email_to"	"Doom播放器"
+	"#str_id_21_email_to"	"Doom玩家"
 	"#str_id_22_email_date"	"2145-11-16"
 	"#str_id_22_email_from"	"帕特里克·托马斯"
 	"#str_id_22_email_subject"	"感谢"
 	"#str_id_22_email_text"	"帕特里克·托马斯\n艺术家"
-	"#str_id_22_email_to"	"Doom播放器"
+	"#str_id_22_email_to"	"Doom玩家"
 	"#str_id_23_email_date"	"2145-11-16"
 	"#str_id_23_email_from"	"JMP·范·瓦韦伦"
 	"#str_id_23_email_subject"	"你找到DOOM 3所隐藏的MrE了吗？"
 	"#str_id_23_email_text"	"我要感谢自己以及那个我深爱的双胞胎兄弟，虽然很不幸地他在娘胎中就被分解掉了。\n\nMrElusive，\n程序员"
-	"#str_id_23_email_to"	"Doom播放器"
+	"#str_id_23_email_to"	"Doom玩家"
 	"#str_id_24_email_date"	"2145-11-16"
 	"#str_id_24_email_from"	"埃里克·韦伯"
 	"#str_id_24_email_subject"	"特别感谢"
 	"#str_id_24_email_text"	"感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。\n\n最重要的，我要感谢我的“煮饭婆”艾米！我为了那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好的女友而感谢你！\n\n-埃里克"
-	"#str_id_24_email_to"	"Doom播放器"
+	"#str_id_24_email_to"	"Doom玩家"
 	"#str_id_25_email_date"	"2145-11-16"
 	"#str_id_25_email_from"	"布莱恩·哈里斯"
 	"#str_id_25_email_subject"	"再来？"
 	"#str_id_25_email_text"	"对于我出色的妻子卡门在无数个深夜和周末对我长久以来的支持感到无比的感谢！\n\n- 布莱恩"
-	"#str_id_25_email_to"	"Doom播放器"
+	"#str_id_25_email_to"	"Doom玩家"
 	"#str_imp27email_email_date"	"2145-11-15"
 	"#str_imp27email_email_from"	"研究档案"
 	"#str_imp27email_email_subject"	"物种27 - 幼魔(部分)"
@@ -12532,7 +12532,7 @@
 	"#str_marscity2_stanton_email_3_email_date"	"2145-11-14"
 	"#str_marscity2_stanton_email_3_email_from"	"邓肯·马修斯"
 	"#str_marscity2_stanton_email_3_email_subject"	"转发: 现在暂别"
-	"#str_marscity2_stanton_email_3_email_text"	"知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字是阿兰。\n\n你会和他出去喝一杯吗？我是不会的……但如果他付账而且有其他人在场的话，可能会很有趣。\n\n----原始邮件----\n发送日期: 2145-11-14\n收件人: 邓肯·马修斯\n\n如果你收到了这封电邮，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。\n\n我会十分想念你们的。我确信在这里建立的友谊会伴我一生，我也将和你们保持联络。一旦我有了新地址之后我将立即告诉你们。\n\n我希望你明晚能到火星城厨房来一起喝一杯。我的摆渡船将于11-16离开，而我十分想和你们再见一面。\n\n雷·格哈特"
+	"#str_marscity2_stanton_email_3_email_text"	"知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字是阿兰。\n\n你会和他出去喝一杯吗？我是不会的……但如果他付账而且有其他人在场的话，可能会很有趣。\n\n----原始邮件----\n发送日期: 2145-11-14\n收件人: 邓肯·马修斯\n\n如果你收到了这封邮件，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。\n\n我会十分想念你们的。我确信在这里建立的友谊会伴我一生，我也将和你们保持联络。一旦我有了新地址之后我将立即告诉你们。\n\n我希望你明晚能到火星城厨房来一起喝一杯。我的摆渡船将于11-16离开，而我十分想和你们再见一面。\n\n雷·格哈特"
 	"#str_marscity2_stanton_email_3_email_to"	"马库斯·斯坦顿"
 	"#str_marscity2_stanton_pda_fullname"	"马库斯·C.斯坦顿"
 	"#str_marscity2_stanton_pda_id"	"5912-24"
@@ -13022,7 +13022,7 @@
 	"#str_site3_davis_email_3_email_date"	"2145-11-10"
 	"#str_site3_davis_email_3_email_from"	"皮尔斯·罗杰斯"
 	"#str_site3_davis_email_3_email_subject"	"石碑是关键"
-	"#str_site3_davis_email_3_email_text"	"理查德，\n\n谢谢你对这里工作的辛勤付出与支持。我把你得到的资料和我的编析到一起，取得了一些令人吃惊的新发现。我相信你对那块板子的研究可以解开灵魂立方体，古物，还有我们之间的神秘关系。\n\n我现在正发信去执行部门要求得到更多的经费。\n\n我隐隐的觉得，如果我们不快点找到答案……不，还是不说比较好。我会尽快告诉你经费的消息。\n\n皮尔斯"
+	"#str_site3_davis_email_3_email_text"	"理查德，\n\n谢谢你对这里工作的辛勤付出与支持。我把你得到的资料和我的编析到一起，取得了一些令人吃惊的新发现。我相信你对那块板子的研究可以解开灵魂魔方，古物，还有我们之间的神秘关系。\n\n我现在正发信去执行部门要求得到更多的经费。\n\n我隐隐的觉得，如果我们不快点找到答案……不，还是不说比较好。我会尽快告诉你经费的消息。\n\n皮尔斯"
 	"#str_site3_davis_email_3_email_to"	"理查德·戴维斯"
 	"#str_site3_davis_pda_fullname"	"理查德·S.戴维斯，博士"
 	"#str_site3_davis_pda_id"	"5181-98"
@@ -13045,7 +13045,7 @@
 	"#str_site3_rogers_email_3_email_date"	"2145-11-15"
 	"#str_site3_rogers_email_3_email_from"	"服务器: 邮递失败"
 	"#str_site3_rogers_email_3_email_subject"	"灵魂魔方就是答案"
-	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂立方体对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
+	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
 	"#str_site3_rogers_email_3_email_to"	"皮尔斯·罗杰斯"
 	"#str_site3_rogers_pda_fullname"	"皮尔斯·M.罗杰斯，博士"
 	"#str_site3_rogers_pda_id"	"5304-29"
@@ -13081,7 +13081,7 @@
 	"#str_swf_action_zoom"	"缩放"
 	"#str_swf_aim_assist"	"辅助瞄准"
 	"#str_swf_assign"	"分配"
-	"#str_swf_binding_desc"	"自定义键盘木鼠标绑定"
+	"#str_swf_binding_desc"	"自定义键盘与鼠标绑定"
 	"#str_swf_build"	"建造"
 	"#str_swf_campaign"	"战役"
 	"#str_swf_campaign_desc"	"继续战役或重新开始"
@@ -13089,12 +13089,12 @@
 	"#str_swf_check_for_invites"	"检查邀请"
 	"#str_swf_click"	"[点击]"
 	"#str_swf_config_360_0"	"默认配置"
-	"#str_swf_config_360_1"	"交流机"
+	"#str_swf_config_360_1"	"替换"
 	"#str_swf_config_desc"	"自定义控制器配置"
 	"#str_swf_config_ps3_0"	"默认配置"
-	"#str_swf_config_ps3_1"	"交流机1"
-	"#str_swf_config_ps3_2"	"交流机2"
-	"#str_swf_config_ps3_3"	"交流机3"
+	"#str_swf_config_ps3_1"	"替换1"
+	"#str_swf_config_ps3_2"	"替换2"
+	"#str_swf_config_ps3_3"	"替换3"
 	"#str_swf_continue"	"继续"
 	"#str_swf_continue_desc"	"从你的上次保存地点继续"
 	"#str_swf_continue_game"	"继续游戏"
@@ -13201,7 +13201,7 @@
 	"#str_swf_settings"	"设置"
 	"#str_swf_soulcube_artifact"	"灵魂魔方/神器"
 	"#str_swf_start_match"	"开始比赛"
-	"#str_swf_stereo_deghost"	"反代撰"
+	"#str_swf_stereo_deghost"	"消除鬼影"
 	"#str_swf_stereo_eye_swap"	"交换眼睛"
 	"#str_swf_stereo_seperation"	"视角偏移"
 	"#str_swf_stereoscopic_rendering"	"3D视角"
@@ -13269,7 +13269,7 @@
 	"#str_loadtip_13"	"在大多数的关卡中都能找到墙上的生命站。"
 	"#str_loadtip_14"	"小型的敌人可以用抓钩抓起。抓起然后扔出去可直接杀死他们。"
 	"#str_loadtip_15"	"灵魂魔方能够瞬间杀死目标。它还可以回复玩家的生命值。"
-	"#str_loadtip_16"	"体型小的敌人很弱，但是也很难击中。使用扩散型武器例如机枪可在短时间将它们消灭。"
+	"#str_loadtip_16"	"体型小的敌人很弱，但是也很难击中。使用高射速武器例如机枪可在短时间将它们消灭。"
 	"#str_loadtip_17"	"炸药桶可以当做强大的武器。当敌人靠近的时候射击炸药桶。"
 	"#str_loadtip_18"	"PDA里有武器仓库安全密码和其它有用的提示。一定要浏览一下所有的电子邮件和音频记录。"
 	"#str_loadtip_19"	"一些boss敌人对一般攻击免疫。观察它们的攻击方式以找出它们的弱点。"
@@ -13283,8 +13283,8 @@
 	"#str_3d_angle_title"	"优化视角"
 	"#str_3d_angle_desc"	"依次闭上一只眼睛然后观察下面的图标。调整你的视角让各只眼睛所看到的东西与另一只眼睛尽可能不同。"
 	"#str_insufficient_storage_not_saved"	"没有足够的储存空间。你的进度将不会被保存。"
-	"#str_dlg_newer_incompatible_savegame"	"这个存盘文件来自该游戏更新的版本因此无法读取。"
-	"#str_dlg_game_restart_required"	"有些更改需要重启游戏才能生效。"
+	"#str_dlg_newer_incompatible_savegame"	"该存档来自游戏的新版本，因此无法读取。"
+	"#str_dlg_game_restart_required"	"有些更改需要重启游戏以生效。"
 	"#str_swf_change_game"	"更改游戏"
 	"#str_swf_framerate"	"帧率"
 	"#str_swf_key_assignment"	"键位分配"
@@ -13292,7 +13292,7 @@
 	"#str_swf_stereo_side_by_side"	"双眼并排"
 	"#str_swf_stereo_top_and_bottom"	"上面和下面"
 	"#str_swf_stereo_side_by_side_full"	"双眼并排完整分辨率"
-	"#str_swf_stereo_interlaced"	"交错"
+	"#str_swf_stereo_interlaced"	"隔行扫描"
 	"#str_swf_stereo_quad"	"四倍缓冲"
 	"#str_swf_motionblur"	"动态模糊"
 	"#str_swf_smart"	"智能"

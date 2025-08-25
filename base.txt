@@ -542,8 +542,8 @@ RUNNING CAN BE FATAL"""
 ACTIVE - - PROCEED
 WITH CAUTION"""
 """EPD光束仍
-激活——处理
-需谨慎"""
+在运作——
+处理需谨慎"""
 
 > #str_00081
 ; alphalabs1/opengate.gui
@@ -2543,11 +2543,11 @@ CAMERA STATUS -OFFLINE-
 
 > #str_00276
 Call Lift
-呼叫电梯
+呼叫升降梯
 
 > #str_00277
 Send Lift
-传送电梯
+传送升降梯
 
 > #str_00278
 ; caves/crane.gui
@@ -2587,7 +2587,7 @@ CONTROLS
 LOCATED
 AT STATION 2"""
 """地下1层
-电梯访问
+升降梯访问
 控制
 位于
 2号站点"""
@@ -2607,7 +2607,7 @@ TRANSFER"""
 > #str_00287
 ; caves/door_control.gui
 ACCESS CARGO TRANSFER BAY
-进入货物运输湾
+访问货物传送台
 
 > #str_00288
 ; caves/door_control.gui
@@ -2732,7 +2732,7 @@ ACCESS"""
 """CALL
 LIFT"""
 """呼叫
-电梯"""
+升降梯"""
 
 > #str_00301
 ; doors/elevatorcall.gui caves/elevatormove.gui doors/elevator3floor.gui doors/elevator3floorpda.gui doors/elevatorerror_trigger.gui doors/elevator2floor.gui doors/elevatorcallsub.gui doors/elevatorerror.gui doors/elevatorcall_trigger.gui doors/elevatorcall2.gui doors/elevatorcallscript.gui doors/elevator_gray.gui
@@ -2759,7 +2759,7 @@ Level 1
 """Transfer
 Lift to
 Level 1"""
-"""将电梯
+"""将升降梯
 移至
 1层"""
 
@@ -2768,7 +2768,7 @@ Level 1"""
 """Transfer
 Lift to
 Sublevel 1"""
-"""将电梯
+"""将升降梯
 移至
 地下1层"""
 
@@ -2780,14 +2780,14 @@ Sublevel 1
 > #str_00308
 ; caves/elevatormove.gui
 OPEN LIFT DOOR
-打开电梯门
+打开升降梯门
 
 > #str_00309
 ; caves/elevatormove.gui
 """Transfer
 Lift to
 Level 2"""
-"""将电梯
+"""将升降梯
 移至
 2层"""
 
@@ -2898,16 +2898,16 @@ CLOSE ACCESS LADDER
 
 > #str_00329
 CALL UP THE BIG GIANT LIFT
-呼叫巨大电梯
+呼叫巨大升降梯
 
 > #str_00330
 LIFT FUNCTION DISABLED
-电梯功能已禁用
+升降梯功能已禁用
 
 > #str_00331
 ; caves/liftmalfunction.gui
 LIFT ACCESS CONTROL
-电梯访问控制
+升降梯访问控制
 
 > #str_00332
 ; caves/liftmalfunction.gui
@@ -2924,7 +2924,7 @@ LOWER LEVEL"""
 Lift brakes engaged
 Balance correction on"""
 """引擎空闲
-货梯刹车连接
+升降梯刹车连接
 平衡矫正开启"""
 
 > #str_00334
@@ -2952,7 +2952,7 @@ request submitted"""
 """LOCKING DOWN
 LIFT CONTROL"""
 """锁定
-电梯控制"""
+升降梯控制"""
 
 > #str_00337
 ; caves/liftmalfunction.gui
@@ -2962,12 +2962,12 @@ damage
 
 Please use alternate
 transfer lift"""
-"""这台电梯当前
+"""这台升降梯当前
 由于轨道损坏
 而锁定
 
-请使用替代电梯
-来转移货物"""
+请使用替代升降梯
+来运输货物"""
 
 > #str_00338
 ; caves/liftmalfunction.gui
@@ -2975,7 +2975,7 @@ transfer lift"""
 Lift brakes disengaged
 Balance correction on"""
 """引擎运转
-货梯刹车解除
+升降梯刹车解除
 平衡矫正开启"""
 
 > #str_00339
@@ -2997,12 +2997,12 @@ LOCKDOWN"""
 > #str_00341
 ; caves/map.gui
 Primary Transfer lift dock
-主要传输电梯港
+主运输升降梯港
 
 > #str_00342
 ; caves/map.gui
 Lift maintenance
-电梯维护
+升降梯维护
 
 > #str_00343
 ; caves/map.gui
@@ -3037,7 +3037,7 @@ Maintenance office
 > #str_00349
 ; caves/map.gui
 Sublevel 1 transfer lift
-地下1层传送电梯
+地下1层运输升降梯
 
 > #str_00350
 ; caves/map.gui
@@ -4323,7 +4323,7 @@ ACTIVATE SENTRY
 > #str_00546
 ; doors/liftcall.gui commoutside/airlock_liftcall.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
 CALL LIFT
-呼叫电梯
+呼叫升降梯
 
 > #str_00547
 ; commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
@@ -4333,7 +4333,7 @@ AIRLOCK ACCESS
 > #str_00548
 ; doors/liftcall.gui doors/liftmove.gui alphalabs3/liftcall.gui doors/liftmoveerror.gui commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui controlpanels/mover.gui doors/liftmovewide.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui phobos2/p2_securitylift.gui doors/liftmove_opendoor.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 LIFT
-电梯
+升降梯
 
 > #str_00549
 ; doors/liftcall.gui commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
@@ -4368,7 +4368,7 @@ CARGO
 > #str_00555
 ; commoutside/airlock_liftmove.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
 LIFT LOCKED
-电梯闭锁
+升降梯已锁定
 
 > #str_00556
 ; doors/liftmove.gui commoutside/airlock_liftmove.gui doors/liftmovewide.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui doors/liftmove_opendoor.gui
@@ -4378,7 +4378,7 @@ MOVING TO UPPER LEVEL
 > #str_00557
 ; doors/liftmove.gui commoutside/airlock_liftmove.gui doors/liftmovewide.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui doors/liftmove_opendoor.gui
 RAISE LIFT
-升起电梯
+升起升降梯
 
 > #str_00558
 ; commoutside/airlock_liftmove.gui controlpanels/airlock_inner.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui controlpanels/airlock_inner_error.gui
@@ -4394,7 +4394,7 @@ TRANSFER STATION 1
 ; commoutside/co_callstation.gui
 """MOVING LIFT
 TO STATION 1"""
-"""移动电梯
+"""移动升降梯
 至1号站点"""
 
 > #str_00561
@@ -4406,7 +4406,7 @@ TRANSFER STATION 2
 ; commoutside/co_callstation.gui
 """MOVING LIFT
 TO STATION 2"""
-"""移动电梯
+"""移动升降梯
 至2号站点"""
 
 > #str_00563
@@ -4418,13 +4418,13 @@ TRANSFER STATION 3
 ; commoutside/co_callstation.gui
 """MOVING LIFT
 TO STATION 3"""
-"""移动电梯
+"""移动升降梯
 至3号站点"""
 
 > #str_00565
 ; commoutside/co_callstation.gui
 LIFT IDLE
-电梯空闲
+升降梯空闲
 
 > #str_00566
 ; commoutside/co_callstation.gui
@@ -4439,21 +4439,21 @@ ACCESS LOCKED
 > #str_00568
 ; commoutside/co_callstation.gui
 LIFT IN USE
-电梯使用中
+升降梯使用中
 
 > #str_00569
 ; commoutside/co_callstation.gui
 """CALL LIFT
 TO CURRENT
 STATION"""
-"""呼叫电梯
+"""呼叫升降梯
 至当前
 站点"""
 
 > #str_00570
 ; commoutside/co_callstation.gui
 LIFT TRANSFER STATION 3
-电梯传送站3
+升降梯传送站3
 
 > #str_00571
 ; commoutside/co_callstation.gui
@@ -4464,7 +4464,7 @@ NO CURRENT TRANSFERS
 ; commoutside/co_callstation.gui
 """TRANSFER LIFT
 ALREADY MOVED"""
-"""中转电梯
+"""运输升降梯
 已经移动"""
 
 > #str_00573
@@ -4583,7 +4583,7 @@ Currently on Level 2
 Transfer Lift
 Communications Access"""
 """转移平台
-转移电梯
+运输升降梯
 通信建筑入口"""
 
 > #str_00594
@@ -6002,37 +6002,37 @@ CONTROL
 > #str_00816
 ; controlpanels/mover.gui
 MOVE LIFT FORWARD
-移动电梯向前
+向前移动升降梯
 
 > #str_00817
 ; controlpanels/mover.gui
 CARGO TRANSFER LIFT
-货物转移电梯
+货物运输升降梯
 
 > #str_00818
 ; controlpanels/mover.gui
 ROTATE LIFT LEFT
-向左旋转电梯
+向左旋转升降梯
 
 > #str_00819
 ; controlpanels/mover.gui
 ROTATE LIFT RIGHT
-向右旋转电梯
+向右旋转升降梯
 
 > #str_00820
 ; controlpanels/mover.gui
 MOVE LIFT BACK
-移动电梯向后
+向后移动升降梯
 
 > #str_00821
 ; controlpanels/mover.gui
 MOVE LIFT UP
-移动电梯向上
+向上移动升降梯
 
 > #str_00822
 ; controlpanels/mover.gui
 MOVE LIFT DOWN
-移动电梯向下
+向下移动升降梯
 
 > #str_00823
 ; controlpanels/mover.gui
@@ -6047,7 +6047,7 @@ MOVE TO STATION 2 - CONTROL
 > #str_00825
 ; controlpanels/mover.gui
 MOVE TO STATION 3 - LIFT EXIT
-移动至3号站点 - 电梯出口
+移动至3号站点 - 升降梯出口
 
 > #str_00826
 ; controlpanels/mover.gui
@@ -8466,7 +8466,7 @@ MALFUNCTION"""
 FOR MAINTENANCE
 
 USE STAIRS OR ALTERNATE LIFT"""
-"""电梯关闭
+"""升降梯关闭
 接受维护
 
 使用楼梯或轮换货梯"""
@@ -8482,7 +8482,7 @@ ELEVATOR SERVICE SUSPENDED"""
 
 > #str_01245
 Replace this gui with elevator2floor.gui for enclosed elevators, and liftmove.gui for open lifts
-为封闭式电梯用elevator2floor.gui更换此GUI，并为开放式电梯用liftmove.gui
+为封闭式电梯用elevator2floor.gui更换此GUI，并为开放式升降梯用liftmove.gui
 
 > #str_01246
 ; caverns1:界面参数4 doors/elevatortop_gray.gui doors/elevatortop.gui doors/elevatortop_gray2.gui
@@ -8522,7 +8522,7 @@ CARGO/STAFF
 > #str_01253
 ; doors/liftmove.gui doors/liftmoveerror.gui doors/liftmovewide.gui doors/liftmove_opendoor.gui
 LOWER LIFT
-电梯下降
+降下升降梯
 
 > #str_01254
 ; doors/liftmove.gui doors/liftmoveerror.gui doors/liftmovewide.gui doors/liftmove_opendoor.gui
@@ -10022,27 +10022,27 @@ Lateral Motor 2-PASS"""
 """Lateral Motor 2-PASS
 Lift Motor"""
 """侧电机2-通过
-电梯电机"""
+升降梯电机"""
 
 > #str_01528
 ; mc_underground/crane.gui mc_underground/crane2.gui
 """Lateral Motor 2-PASS
 Lift Motor-SERVICE"""
 """侧电机2-通过
-电梯电机-服务中"""
+升降梯电机-服务中"""
 
 > #str_01529
 ; mc_underground/crane.gui mc_underground/crane2.gui
 """Lift Motor-SERVICE
 Drive Shaft"""
-"""电梯电机-服务中
+"""升降梯电机-服务中
 传动轴"""
 
 > #str_01530
 ; mc_underground/crane.gui mc_underground/crane2.gui
 """Lift Motor-SERVICE
 Drive Shaft-PASS"""
-"""电梯电机-服务中
+"""升降梯电机-服务中
 传动轴-通过"""
 
 > #str_01531
@@ -10082,7 +10082,7 @@ LIFT MOTOR FAILURE
 WARNING"""
 """警告
 
-电梯马达失效
+升降梯马达失效
 
 警告"""
 
@@ -11521,7 +11521,7 @@ RESTARTING
 
 > #str_01696
 BAY DOORS
-湾门
+舱门
 
 > #str_01697
 Chamber 1
@@ -13552,11 +13552,11 @@ Crouch
 
 > #str_02106
 Turn Left
-向左转
+左转
 
 > #str_02107
 Turn Right
-向右转
+右转
 
 > #str_02108
 Strafe
@@ -14522,15 +14522,15 @@ Are you sure you want to exit Doom 3?
 
 > #str_02338
 Click to chicken out, you pansy.
-点击滚出吧，你个基佬。
+点击滚出吧，你个娘娘腔。
 
 > #str_02339
 THAT'S ME
-就是我
+我就是
 
 > #str_02340
 NO WAY
-不可能
+做梦
 
 > #str_02341
 Imps are hiding in your closet
@@ -14546,23 +14546,23 @@ QUIT CURRENT GAM
 
 > #str_02344
 QUIT CURRENT GA
-退出当前游戏
+退出当前游
 
 > #str_02345
 QUIT CURRENT G
-退出当前游
+退出当前
 
 > #str_02346
 QUIT CURRENT 
-退出当前
+退出当
 
 > #str_02347
 Close load game section
-关闭读取游戏组件
+关闭读取游戏章节
 
 > #str_02348
 Load a saved game
-载入储存的游戏
+载入存档
 
 > #str_02349
 Select Difficulty and start a new game
@@ -14638,7 +14638,7 @@ Filename
 
 > #str_02367
 JUMP TO MARKER
-跳跃至标记
+跳至标记
 
 > #str_02368
 player profile
@@ -14654,7 +14654,7 @@ idnet
 
 > #str_02371
 start server
-起初服务器
+启动服务器
 
 > #str_02372
 Player Name:
@@ -14715,7 +14715,7 @@ Debriefing
 > #str_02386
 """IdNetGameQuery Frame
 Select map, gametype, number of players, server hosting"""
-"""IdNetGameQuery Frame
+"""IdNetGameQuery设计
 选择地图，游戏类型，玩家数量，服务器主机"""
 
 > #str_02387
@@ -14725,7 +14725,7 @@ Search Game
 > #str_02388
 """IdNetGameBrowse Frame
 Continuous update of games - click to focus"""
-"""IdNetGameBrowse Frame
+"""IdNetGameBrowse设计
 游戏不断更新 - 点击关注"""
 
 > #str_02389
@@ -14749,7 +14749,7 @@ Rank
 This screen displayed post game
 Chat window with the players.
 scores and stats"""
-"""IdNetPlay Frame
+"""IdNetPlay设计
 此画面显示了可进行的游戏
 玩家的聊天界面。
 比分和统计数据"""
@@ -14832,7 +14832,7 @@ Free Look:
 
 > #str_02413
 Always Run (MP):
-总是奔跑(MP):
+始终奔跑(MP):
 
 > #str_02414
 Forward:
@@ -14860,11 +14860,11 @@ Crouch:
 
 > #str_02420
 Turn Left:
-向左转:
+左转:
 
 > #str_02421
 Turn Right:
-向右转:
+右转:
 
 > #str_02422
 Strafe:
@@ -15004,11 +15004,11 @@ Violence
 
 > #str_02456
 Show Blood Splatters
-显示血液泼溅
+显示血迹
 
 > #str_02457
 Show Hud
-显示界面
+显示HUD
 
 > #str_02458
 Sound Settings
@@ -15016,7 +15016,7 @@ Sound Settings
 
 > #str_02459
 Realtime Room Acoustics
-实时房间声学
+实时室内音质
 
 > #str_02460
 Apply Sound Changes
@@ -15094,7 +15094,7 @@ no
 
 > #str_02468
 slowly dying
-濒死
+慢慢死去
 
 > #str_02469
 hellawaits
@@ -15102,11 +15102,11 @@ hellawaits
 
 > #str_02470
 burning
-正在燃烧
+燃烧
 
 > #str_02471
 souless
-无魂
+怨灵
 
 > #str_02472
 kill
@@ -15162,7 +15162,7 @@ FLASHLIGHT
 
 > #str_02483
 Last Man Max Lives
-最后生存者最大生命
+最后一人最大生命
 
 > #str_02484
 New Vote
@@ -15194,7 +15194,7 @@ New Frag Limit:
 
 > #str_02491
 New Last Man Max Lives:
-新的最后生存者最大生命:
+新的最后一人最大生命:
 
 > #str_02492
 New Game Type:
@@ -15275,7 +15275,7 @@ Abort
 > #str_02511
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 biometric id
-生物学ID
+生物ID
 
 > #str_02512
 ID MATCH
@@ -15328,7 +15328,7 @@ From
 
 > #str_02523
 Subject
-实验体
+主题
 
 > #str_02524
 BFG 9000
@@ -15380,7 +15380,7 @@ The shotgun deals considerable damage at close range, however the wide spread li
 > #str_02535
 ; _common/def/weapon_machinegun.def
 The MG-88 Enforcer delivers a high rate of fire and dependable accuracy when fired in short bursts. Standard Marine Infantry issue.
-MG-88实施者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。
+MG-88执行者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。
 
 > #str_02536
 ; _common/def/weapon_chaingun.def
@@ -15785,23 +15785,23 @@ Slow Rotated
 
 > #str_02626
 Fast Rotate!
-快速转身！
+快速旋转！
 
 > #str_02627
 Child Rotate
-儿童轮换
+子旋转
 
 > #str_02628
 child1
-子系1
+子1
 
 > #str_02629
 child2
-子系2
+子2
 
 > #str_02630
 child rotate
-子系旋转
+子旋转
 
 > #str_02631
 sin shear
@@ -15821,7 +15821,7 @@ Title
 
 > #str_02635
 Vid
-视
+参看
 
 > #str_02636
 Next Anim
@@ -15829,7 +15829,7 @@ Next Anim
 
 > #str_02637
 Prev Anim
-前一动画
+上一动画
 
 > #str_02638
 Player name:
@@ -15994,7 +15994,7 @@ CHAMBER
 
 > #str_02673
 ACCOUNTING
-记述中
+统计
 
 > #str_02674
 EFR SYSTEMS
@@ -16129,7 +16129,7 @@ Maintenance Access
 > #str_02701
 ; commoutside:界面参数1
 EXIT LIFT AREA
-离开货梯区域
+离开升降梯区域
 
 > #str_02702
 ; comm1:地点.名 le_underground:界面参数2 le_underground:界面参数1 le_underground2:界面参数2 le_underground2:界面参数1 le_underground2:地点.名 mc_underground:界面参数2 mc_underground:界面参数1
@@ -16138,7 +16138,7 @@ Security Office
 
 > #str_02703
 LIFT AREA
-电梯区域
+升降梯区域
 
 > #str_02704
 ; commoutside:界面参数4
@@ -16249,7 +16249,7 @@ Reactor Online!
 > #str_02728
 ; delta1:电梯.界面参数3 delta1:界面参数3 delta1:界面参数1 delta1:地点.名 delta5:电梯.界面参数3 delta5:界面参数3 delta5:界面参数1
 Delta Authority
-德尔塔官员
+德尔塔管理层
 
 > #str_02729
 Controller Tom Willis
@@ -16471,7 +16471,7 @@ Delta Labs Sector 3
 
 > #str_02775
 Research - Kennels
-科研区 - 沟渠
+科研区 - 犬舍
 
 > #str_02776
 ; delta2a:界面参数1
@@ -16971,7 +16971,7 @@ flooded room drained
 
 > #str_02887
 leaking pump off
-无泄漏泵关闭
+泄漏泵关闭
 
 > #str_02888
 find control to turn off leaking pump
@@ -17188,7 +17188,7 @@ Find the personnel elevator that leads to Alpha Labs Level 2.
 > #str_02933
 ; alphalabs1:界面参数1
 video/hydrocon
-video/hydrocon
+视频/氢聚变
 
 > #str_02934
 ; alphalabs2:物品目标.内容
@@ -17272,7 +17272,7 @@ Security Access Granted.
 > #str_02950
 ; caverns1:物品目标.内容
 Activate the Service Lift to reach the lower levels of the Caverns.
-激活服务电梯来到达洞穴下层。
+激活服务升降梯来到达洞穴下层。
 
 > #str_02951
 ; caverns1:移除物品名 caverns1:钥匙卡物品名 caverns1:中继触发.需求 caverns1:界面参数7
@@ -17327,12 +17327,12 @@ item_objective_5
 > #str_02961
 ; commoutside:物品目标完成.标题 commoutside:物品目标.标题
 Service Lift
-服务电梯
+服务升降梯
 
 > #str_02962
 ; commoutside:物品目标.内容
 Use the service lift to reach the upper control room in order to unlock the maintenance area doors
-使用服务电梯前往上层控制室来解锁维护区的门
+使用服务升降梯前往上层控制室来解锁维护区的门
 
 > #str_02963
 ; commoutside:界面参数1
@@ -17683,7 +17683,7 @@ Security Supplies
 > #str_03033
 ; delta2b:界面参数1
 Lift Access
-电梯许可
+升降梯访问
 
 > #str_03034
 ; delta2b:界面参数4 delta2b:界面参数1 delta2b:地点.名
@@ -17757,7 +17757,7 @@ Restroom
 > #str_03048
 ; mars_city1:界面参数1 mars_city2:门.界面参数4
 Sec Ops
-安全行动
+安全运维
 
 > #str_03049
 ; mars_city1:界面参数4 mars_city2:界面参数4
@@ -18337,7 +18337,7 @@ CALL CARGO LIFT
 > #str_03153
 ; caves/liftcall.gui
 LIFT ACCESS OFFLINE
-电梯访问离线
+升降梯访问离线
 
 > #str_03154
 ; caves/liftcall.gui
@@ -18371,7 +18371,7 @@ Always keep cargo lift locked when not in use
 > #str_03159
 ; caves/liftlock.gui
 Lift will automatically relock in one hour
-电梯将在一小时后重新上锁
+升降梯将在一小时后重新上锁
 
 > #str_03160
 ; caves/liftlock.gui
@@ -18381,7 +18381,7 @@ UNLOCK CARGO LIFT CONTROLS
 > #str_03161
 ; caves/liftlock.gui
 LIFT CONTROL ACCESS ONLINE
-电梯控制通道上线
+升降梯控制通道上线
 
 > #str_03162
 ; caves/liftmalfunction.gui
@@ -18468,7 +18468,7 @@ SECURITY STATION 01
 > #str_03176
 ; commoutside/co_unlock.gui
 LIFT AREA EXIT
-电梯区域出口
+升降梯区域出口
 
 > #str_03177
 ; commoutside/co_unlock.gui transfer/exit_commoutside.gui transfer/exit_mc_underground.gui
@@ -18855,12 +18855,12 @@ STAIRS
 > #str_03247
 ; delta1/map.gui
 AUTHORITY
-授权
+管理层
 
 > #str_03248
 ; delta1/map.gui
 AUTHORITY ARCHIVES
-授权文档
+管理层档案
 
 > #str_03249
 ; delta1/map.gui
@@ -22687,7 +22687,7 @@ ERROR ERROR"""
 """LIFT MOTOR FAILURE
 
 WARNING"""
-"""电梯机动故障
+"""升降梯机动故障
 
 警告"""
 
@@ -23331,7 +23331,7 @@ AREA SEALED"""
 > #str_03965
 ; transfer/outerdoor_open_multiclick.gui transfer/outerdoor_open.gui transfer/outerdoor_open_noclick.gui transfer/outerdoor_locked_multiclick.gui transfer/outerdoor_locked.gui recycle2/outerdoor_locked.gui
 TRANSFER BAY ACCESS
-中转台访问
+传送台通道
 
 > #str_03966
 ; transfer/outerdoor_open_multiclick.gui transfer/outerdoor_open.gui transfer/outerdoor_open_noclick.gui transfer/outerdoor_locked_multiclick.gui transfer/outerdoor_locked.gui recycle2/outerdoor_locked.gui
@@ -23618,7 +23618,7 @@ Alpha Labs 4
 > #str_04015
 ; transfer/exit_caverns1.gui transfer/enter_caverns1.gui transfer/exit_caverns2.gui transfer/enter_caverns2.gui transfer/enter_hellhole.gui transfer/exit_site3.gui
 TRANSFER LIFT
-转移电梯
+运输升降梯
 
 > #str_04016
 ; transfer/enter_caverns1.gui transfer/exit_site3.gui
@@ -23811,11 +23811,11 @@ The Union Aerospace Corporation is the largest
 
 > #str_04053
 corporate entity in existence
-最大的企业实体
+最大的企业集团
 
 > #str_04054
 Originally focused on weapon and defense
-最初专注于武器和防御合同
+最初专注于武器和防御合约
 
 > #str_04055
 contracts, new ventures have expanded into:
@@ -24271,7 +24271,7 @@ VIDEO FILE"""
 
 > #str_04167
 Recent Audio Logs by 
-近期音频日志持有人: 
+近期音频日志: 
 
 > #str_04168
 No audio logs on file
@@ -25386,7 +25386,7 @@ Storage and Enpro Facility Access
 > #str_04409
 ; alphalabs3:地点.名
 Hazardous  Materials Lift
-高危物质电梯
+高危物质升降梯
 
 > #str_04410
 ; alphalabs3:地点.名
@@ -25426,7 +25426,7 @@ Reactor Control room
 > #str_04417
 ; alphalabs4:地点.名
 Reactor Room Lift
-反应堆室电梯
+反应堆室升降梯
 
 > #str_04418
 ; alphalabs4:地点.名
@@ -25571,7 +25571,7 @@ B1下层连接点2
 > #str_04446
 ; caverns1:地点.名
 B2 Material Transfer Lift
-B2 材料运输电梯
+B2 材料运输升降梯
 
 > #str_04447
 ; caverns1:地点.名
@@ -25611,7 +25611,7 @@ Living Quarters 1A
 > #str_04454
 ; caverns1:地点.名
 Heavy Transfer Lift 1
-重物传送梯1
+重物运输升降梯1
 
 > #str_04455
 ; caverns1:地点.名
@@ -25641,12 +25641,12 @@ Base1 Junction 3
 > #str_04460
 ; caverns1:地点.名
 Main Transfer Lift Shaft
-主传输电梯井
+主运输升降梯井
 
 > #str_04461
 ; caverns1:地点.名
 Heavy Lift Control
-重物电梯控制
+重物升降梯控制
 
 > #str_04462
 ; caverns1:地点.名
@@ -25671,7 +25671,7 @@ Levitation Site
 > #str_04466
 ; caverns2:地点.名
 Excavation Transfer Lift
-坑道传输货梯
+坑道运输升降梯
 
 > #str_04467
 ; caverns2:地点.名
@@ -26056,7 +26056,7 @@ Delta Entryway
 > #str_04543
 ; delta1:地点.名
 Delta Transfer Bay
-德尔塔传输提
+德尔塔传送台
 
 > #str_04544
 ; delta1:地点.名
@@ -26126,7 +26126,7 @@ Delta Reactor Engineering
 > #str_04557
 ; delta1:地点.名 delta5:地点.名
 Delta Authority Hallway1
-德尔塔官员走廊1
+德尔塔管理层走廊1
 
 > #str_04558
 ; delta1:地点.名 delta5:地点.名
@@ -26136,7 +26136,7 @@ Delta Service Elevator
 > #str_04559
 ; delta1:地点.名
 Delta Authority Archives
-德尔塔官员档案馆
+德尔塔管理层档案馆
 
 > #str_04560
 ; delta2a:地点.名
@@ -26291,7 +26291,7 @@ Analysis Control
 > #str_04590
 ; delta2b:地点.名
 Supply Lift floor 2
-补给电梯第2层
+补给升降梯第2层
 
 > #str_04591
 ; delta2b:地点.名
@@ -26356,17 +26356,17 @@ Ventilation Duct
 > #str_04603
 ; delta2b:地点.名
 Supply Lift floor 1
-补给电梯第1层
+补给升降梯第1层
 
 > #str_04604
 ; delta2b:地点.名
 Supply Lift Access floor 1
-补给电梯通道第1层
+补给升降梯通道第1层
 
 > #str_04605
 ; delta2b:地点.名
 Supply Lift Access floor 2
-补给电梯通道第2层
+补给升降梯通道第2层
 
 > #str_04606
 ; delta2b:地点.名
@@ -26401,7 +26401,7 @@ Stasis Transfer Control
 > #str_04612
 ; delta2b:地点.名
 Lift Access floor1
-电梯通道1层
+升降梯通道1层
 
 > #str_04613
 ; delta2b:地点.名
@@ -26411,7 +26411,7 @@ Research Control Corridor
 > #str_04614
 ; delta2b:地点.名
 Lift floor2
-电梯2层
+升降梯2层
 
 > #str_04615
 ; delta2b:地点.名
@@ -26446,12 +26446,12 @@ Service Area 007
 > #str_04621
 ; delta2b:地点.名
 Lift Access floor2
-电梯许可2层
+升降梯通道2层
 
 > #str_04622
 ; delta2b:地点.名
 Lift floor1
-电梯1层
+升降梯1层
 
 > #str_04623
 ; delta3:地点.名
@@ -26811,7 +26811,7 @@ Airlock E-1
 > #str_04694
 ; enpro:地点.名
 Transfer Bay
-转移区
+传送台
 
 > #str_04695
 ; enpro:地点.名
@@ -26936,7 +26936,7 @@ ACO通道连接点
 > #str_04719
 ; mars_city2:地点.名
 ACO Lift Junction
-ACO电梯连接点
+ACO升降梯连接点
 
 > #str_04720
 ; mars_city2:地点.名
@@ -27345,7 +27345,7 @@ Lower Levels Access
 > #str_04801
 ; recycling2:地点.名
 Lower Lift Area
-低层电梯区域
+低层升降梯区域
 
 > #str_04802
 ; recycling2:地点.名
@@ -27535,7 +27535,7 @@ DOOM 3已是最新，无需再更新。
 > #str_04840
 """Bad challenge.
 """
-"""坏挑战。
+"""邪恶挑战。
 """
 
 > #str_04841
@@ -27642,7 +27642,7 @@ Global Network Terminal
 > #str_06672
 ; admin:地点.位置 delta3:地点.位置 delta5:地点.位置 le_underground:地点.位置
 Transfer Bay
-转移区
+传送台
 
 > #str_06673
 ; comm1:地点.位置
@@ -27682,12 +27682,12 @@ Comm Maintenance Elevator
 > #str_06680
 ; comm1:地点.位置
 Comm Engineering Lift 1
-通讯工程处货梯1
+通讯工程处升降梯1
 
 > #str_06681
 ; comm1:地点.位置
 Comm Engineering Lift 2
-通讯工程处货梯2
+通讯工程处升降梯2
 
 > #str_06682
 ; comm1:地点.位置
@@ -27707,22 +27707,22 @@ Sarge's Garage
 > #str_06685
 ; delta1:地点.位置 delta5:地点.位置
 Delta Authority Lobby
-德尔塔官员大厅
+德尔塔管理层大厅
 
 > #str_06686
 ; delta1:地点.位置 delta5:地点.位置
 Lift Access and Storage
-电梯通道和储藏室
+升降梯通道和储藏室
 
 > #str_06687
 ; delta1:地点.位置 delta5:地点.位置
 Delta Authority Systems
-德尔塔官员系统
+德尔塔管理层系统
 
 > #str_06688
 ; delta1:地点.位置 delta5:地点.位置
 Delta Authority Junction
-德尔塔官员连接点
+德尔塔管理层连接点
 
 > #str_06689
 ; delta3:地点.位置
@@ -27847,7 +27847,7 @@ Coolant Storage
 > #str_06713
 ; d3dm3:地点.位置
 Main Lift
-主电梯
+主升降梯
 
 > #str_06714
 ; d3dm4:地点.位置
@@ -27877,12 +27877,12 @@ Flow Control Junction B
 > #str_06719
 ; d3dm4:地点.位置
 Lift Area Level 1
-电梯区域1层
+升降梯区域1层
 
 > #str_06720
 ; d3dm4:地点.位置
 Lift Area Level 2
-电梯区域2层
+升降梯区域2层
 
 > #str_06721
 ; d3dm4:地点.位置
@@ -28136,7 +28136,7 @@ Find the Soul Cube and escape Hell.
 > #str_06770
 ; hellhole:目标标题
 Destroy the Hell Hole!
-摧毁地狱之洞！
+摧毁地狱洞穴！
 
 > #str_06771
 ; mars_city1:目标标题
@@ -28226,7 +28226,7 @@ Following: %s
 > #str_07009
 ; _common/def/ammo.def
 Shells
-炮弹
+霰弹
 
 > #str_07010
 ; _common/def/ammo.def
@@ -28256,12 +28256,12 @@ Souls
 > #str_07015
 ; _common/def/ammo.def
 BFG Cell
-BFG 弹夹
+BFG电池
 
 > #str_07016
 ; _common/def/ammo.def
 Clip
-夹子
+弹夹
 
 > #str_07017
 ; _common/def/ammo.def
@@ -29325,7 +29325,7 @@ Blue High Side
 > #str_11206
 ; d3ctf2:地点.名
 Blue Lift
-蓝色电梯
+蓝色升降梯
 
 > #str_11207
 ; d3ctf2:地点.名
@@ -29340,7 +29340,7 @@ Blue Base
 > #str_11209
 ; d3ctf2:地点.名
 Blue Twist
-蓝色扭曲
+蓝色弯道
 
 > #str_11210
 ; d3ctf2:地点.名
@@ -29355,7 +29355,7 @@ Red Death
 > #str_11212
 ; d3ctf2:地点.名
 Red Lift
-红色电梯
+红色升降梯
 
 > #str_11213
 ; d3ctf2:地点.名
@@ -29375,7 +29375,7 @@ Red Blinky
 > #str_11216
 ; d3ctf2:地点.名
 Red Twist
-红色扭曲
+红色弯道
 
 > #str_11217
 ; d3ctf2:地点.名
@@ -29393,7 +29393,7 @@ Red Pump low
 
 > #str_11220
 Blue Pump low
-蓝色水泵压力不足
+蓝色泵低处
 
 > #str_11221
 ; d3ctf2:地点.名
@@ -29448,12 +29448,12 @@ Red Security Station
 > #str_11305
 ; d3ctf3:地点.名
 Blue Elevator
-蓝色升降梯
+蓝色电梯
 
 > #str_11306
 ; d3ctf3:地点.名
 Red Elevator
-红色升降梯
+红色电梯
 
 > #str_11307
 ; d3ctf3:地点.名
@@ -29468,12 +29468,12 @@ Red Shutter Control
 > #str_11309
 ; d3ctf3:地点.名
 Blue Service Lift
-蓝色服务电梯
+蓝色服务升降梯
 
 > #str_11310
 ; d3ctf3:地点.名
 Red Service Lift
-红色服务电梯
+红色服务升降梯
 
 > #str_11311
 ; d3ctf3:地点.名
@@ -29488,12 +29488,12 @@ Red Service Hallway
 > #str_11313
 ; d3ctf3:地点.名
 Blue Power Distribution
-蓝色电力分配
+蓝色配电室
 
 > #str_11314
 ; d3ctf3:地点.名
 Red Power Distribution
-红色电力分配
+红色配电室
 
 > #str_11315
 ; d3ctf3:地点.名
@@ -29518,7 +29518,7 @@ Red Upper Foyer
 > #str_11319
 ; d3ctf3:地点.名
 Power-Up Generator Room
-为发电机室供电
+大功率发电室
 
 > #str_11401
 ; d3ctf4:地点.名
@@ -29558,7 +29558,7 @@ Blue Lower Generator Room
 > #str_11408
 ; d3ctf4:地点.名
 Blue Lower Elevator Access
-蓝色下层升降梯通道
+蓝色下层电梯通道
 
 > #str_11409
 ; d3ctf4:地点.名
@@ -29593,7 +29593,7 @@ Red Lower Generator Room
 > #str_11415
 ; d3ctf4:地点.名
 Red Lower Elevator Access
-红色下层升降梯通道
+红色下层电梯通道
 
 > #str_11501
 ; d3ctf1:地点.名
@@ -29643,7 +29643,7 @@ PumpStation
 > #str_11602
 ; _common/def/d3ctf3.def
 Power-Up Lab
-为实验室供电
+大功率实验室
 
 > #str_11603
 ; _common/def/d3ctf4.def
@@ -29657,12 +29657,12 @@ BioSec HQ
 > #str_11605
 ; d3dm5:地点.名
 Terminal Overlook
-终端检查
+终端俯瞰台
 
 > #str_11606
 ; d3dm5:地点.名
 Powerplant Regulation
-发电厂规章
+发电站制度
 
 > #str_11607
 ; d3dm5:地点.名
@@ -29873,12 +29873,12 @@ Medical Server Room
 > #str_00100020
 ; erebus3:物品目标.标题 erebus3:物品目标完成.标题 erebus3:地点.名 erebus3:界面参数1
 Artifact Storage
-遗物存储
+遗物存储区
 
 > #str_00100021
 ; erebus3:地点.界面参数1 erebus3:地点.位置
 Artifact Storage Control
-遗物存储控制
+遗物存储区控制
 
 > #str_00100022
 Receiving
@@ -29887,18 +29887,18 @@ Receiving
 > #str_00100023
 ; erebus3/vent_storage.gui erebus3/vent_storage2.gui
 ARTIFACT STORAGE
-遗物存储
+遗物存储区
 
 > #str_00100024
 ; erebus3/vent_storage.gui
 """VENT ARTIFACT
 STORAGE"""
-"""给遗物
-储藏室通风"""
+"""遗物存储区
+出口"""
 
 > #str_00100025
 Main Storage
-主储藏室
+主存储区
 
 > #str_00100026
 Hangar
@@ -29916,15 +29916,15 @@ INITIATE STARTUP SEQUENCE
 
 > #str_00100029
 D3XPDM1 - EXCAVATION
-D3XPDM1 - EXCAVATION
+D3XPDM1 - 挖掘点
 
 > #str_00100030
 D3XPDM2 - HELL'S PLAYGROUND
-D3XPDM2 - HELL'S PLAYGROUND
+D3XPDM2 - 地狱游乐场
 
 > #str_00100031
 D3XPDM3 - MEATHOLE
-D3XPDM3 - MEATHOLE
+D3XPDM3 - 肉洞
 
 > #str_00100032
 D3XPDM4 - MALDM2
@@ -30033,7 +30033,7 @@ Molecular Research
 > #str_00100054
 ; _common/def/maps.def
 Power requirements for Site 1 are enormous and are generated in Sector 3 by an extremely efficient Plasma Reactor. This revolutionary technology was developed by UAC scientists within the Phobos Labs.
-挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在福布斯实验室内完成。
+挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在火卫一实验室内完成。
 
 > #str_00100055
 PHOBOS LABS - SECTOR 3
@@ -30097,7 +30097,7 @@ SKYTRAM CONTROL
 > #str_00100067
 ; transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/exit_erebus4.gui
 TRANSFER LIFT
-中转电梯
+运输升降梯
 
 > #str_00100068
 ; erebus2:界面参数3 transfer/enter_erebus3.gui _common/def/maps.def
@@ -30122,7 +30122,7 @@ Erebus Research
 > #str_00100072
 ; transfer/exit_erebus3.gui transfer/enter_erebus5.gui transfer/exit_erebus5.gui transfer/enter_erebus6.gui transfer/exit_phobos1.gui transfer/enter_phobos2.gui transfer/exit_phobos2.gui transfer/enter_phobos3.gui transfer/exit_phobos3.gui transfer/enter_phobos4.gui
 TRANSFER BAY
-中转台
+传送台
 
 > #str_00100073
 Erebus Complex
@@ -30953,7 +30953,7 @@ Backpack
 > #str_00100260
 ; erebus5:地点.位置 phobos1:地点.位置 phobos2:地点.位置 phobos3:地点.位置 phobos4:地点.位置
 Transfer Bay
-转移区
+传送台
 
 > #str_00100261
 ; phobos1:界面参数3 phobos1:电梯.界面参数3 phobos3:电梯.界面参数3 phobos4:界面参数3
@@ -31282,7 +31282,7 @@ Upper Office Corridor
 > #str_00100330
 ; deltax:地点.名
 Lift Access floor1
-电梯通道1层
+升降梯通道1层
 
 > #str_00100331
 ; deltax:地点.名
@@ -31291,7 +31291,7 @@ Research Control Corridor
 
 > #str_00100332
 Lift floor2
-电梯2层
+升降梯2层
 
 > #str_00100333
 ; deltax:地点.名
@@ -31305,12 +31305,12 @@ Technical Director Office
 
 > #str_00100335
 Lift Access floor2
-电梯通道2层
+升降梯通道2层
 
 > #str_00100336
 ; deltax:地点.名
 Lift floor1
-电梯1层
+升降梯1层
 
 > #str_00100337
 The Seal
@@ -31338,7 +31338,7 @@ NPC 2-1
 
 > #str_00100342
 Power the Lift
-为电梯供电
+为升降梯供电
 
 > #str_00100343
 ; erebus2:地点.位置
@@ -31609,7 +31609,7 @@ Take off enviro suit cinematic.
 
 > #str_00100399
 Cinematic 5-1
-电影5-1
+慢镜头5-1
 
 > #str_00100400
 E5 Cloud
@@ -32201,14 +32201,14 @@ Elevator Control
 """DO NOT OVERLOAD LIFT
 12 TON LIMIT
 4 OCCUPANT LIMIT"""
-"""电梯不能超载
+"""升降梯不能超载
 限重12吨
 限装4件"""
 
 > #str_00100524
 ; erebus2/e2_cavelift2.gui
 CALL LIFT
-呼叫电梯
+呼叫升降梯
 
 > #str_00100525
 ; erebus2/e2_pda_ladder.gui erebus2/e2_pda_ladder_green.gui
@@ -32335,17 +32335,17 @@ SHUTTING DOWN
 > #str_00100551
 ; phobos2/p2_secliftcontrol.gui
 SECURITY LIFT CONTROL
-安全电梯控制点
+安全升降梯控制点
 
 > #str_00100552
 ; phobos2/p2_secliftcontrol.gui
 ACTIVATE LIFT
-启动电梯
+启动升降梯
 
 > #str_00100553
 ; phobos2/p2_secliftcontrol.gui
 LIFT ACTIVATED
-电梯启动
+升降梯启动
 
 > #str_00100554
 ; phobos2/p2_securitylift.gui
@@ -32355,7 +32355,7 @@ SECURITY
 > #str_00100555
 ; phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 LIFT CONTROL
-电梯控制
+升降梯控制
 
 > #str_00100556
 ; phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui phobos/reactor_bridgecontrol2.gui
@@ -32593,7 +32593,7 @@ Make your way to the Hell Teleporter at all costs!
 
 > #str_00100606
 Find power for the lift in order to gain access to the surface.
-为电梯找到能源来前往地表。
+为升降梯找到能源来前往地表。
 
 > #str_00100607
 You're going to need a couple of Power Cells in order to filter out the gas within Artifact Storage.
@@ -32607,16 +32607,16 @@ Inside this facility is a tablet that Dr. McNeil needs to further her study. Mak
 > #str_00100609
 ; erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
 The Primitive
-原始生物
+“源体”
 
 > #str_00100610
 Find a power cell to activate the lift that leads into the ventialation system
-找到1块电池来启动通往通风系统的电梯
+找到1块电池来启动通往通风系统的升降梯
 
 > #str_00100611
 ; erebus4:物品目标.标题 erebus4:物品目标完成.标题
 Power the lift
-为电梯供电
+为升降梯供电
 
 > #str_00100612
 Find a power cell to start the excavation machine
@@ -32712,7 +32712,7 @@ Start excavation machine
 
 > #str_00100634
 Find 2 power cells to activate the lift that leads into the ventialation system
-找到2块电池来启动通往通风系统的电梯
+找到2块电池来启动通往通风系统的升降梯
 
 > #str_00100635
 Deployment Video
@@ -32726,7 +32726,7 @@ Excavation Hall
 > #str_00100637
 ; erebus1:地点.位置
 Lift Depot
-电梯仓库
+升降梯仓库
 
 > #str_00100638
 ; erebus1:地点.位置
@@ -32736,12 +32736,12 @@ Tunnel Access
 > #str_00100639
 ; erebus3:地点.位置
 Excavation Transfer Lift
-坑道传输货梯
+坑道运输升降梯
 
 > #str_00100640
 ; erebus3:地点.位置 d3xpdm1:地点.位置
 Levitation Site Gamma
-悬浮室地点伽马
+伽玛悬浮点
 
 > #str_00100641
 ; erebus3:地点.位置
@@ -32760,7 +32760,7 @@ Chamber Junction 2
 
 > #str_00100644
 Find 2 power cells to activate the lift that leads into the ventilation system
-找到2块电池来启动通往通风系统的电梯
+找到2块电池来启动通往通风系统的升降梯
 
 > #str_00100645
 ; erebus5:物品目标完成.内容 erebus5:物品目标.内容
@@ -33152,7 +33152,7 @@ Find a power cell to start the transfer elevator and call it to this level
 > #str_00100725
 ; erebus2:物品目标完成.标题 erebus2:物品目标.标题
 Call Main Elevator
-呼叫主升降机
+呼叫主电梯
 
 > #str_00100726
 Locate two power cells to enable the Artifact Storage toxin filter system
@@ -33160,12 +33160,12 @@ Locate two power cells to enable the Artifact Storage toxin filter system
 
 > #str_00100727
 Locate a power cell to start the lift in Excavation Central Transfer
-找到一个能量电池启动电梯通往洞穴中心换乘站
+找到一个能量电池启动升降梯通往洞穴中心换乘站
 
 > #str_00100728
 ; erebus4:物品目标完成.标题 erebus4:物品目标.标题
 Start Dig Site Lift
-启动挖掘站点电梯
+启动挖掘站点升降梯
 
 > #str_00100729
 Find the Sentry Bot in the maintenance tunnels
@@ -33642,7 +33642,7 @@ Delta Teleporter
 
 > #str_00100808
 Use the Delta Teleporter in order to reach the shores of Hell
-使用德尔塔传送器来到达地狱的海岸
+使用德尔塔传送器来到达地狱岸边
 
 > #str_00100809
 ; deltax:目标标题
@@ -33770,12 +33770,12 @@ Pump Station 02 is one of the oldest surviving mechanical systems on Mars. Origi
 > #str_00100841
 ; erebus2/e2_cavelift2.gui
 EREBUS LIFT
-厄瑞玻斯电梯
+厄瑞玻斯升降梯
 
 > #str_00100842
 ; erebus2/e2_cavelift2.gui
 Lift Control
-电梯控制
+升降梯控制
 
 > #str_00100843
 ; erebus2/e2_cavelift2.gui
@@ -33845,55 +33845,55 @@ UAC宣布了其火星研究项目的变更事项。伊丽莎白·麦克内尔博
 
 > #str_00100857
 NO
-否
+1
 
 > #str_00100858
 NOV
-1
+11
 
 > #str_00100859
 NOVE
-11
+11月
 
 > #str_00100860
 NOVEM
-11月
+11月1
 
 > #str_00100861
 NOVEMB
-11月1
+11月15
 
 > #str_00100862
 NOVEMBE
-11月15
+11月15日
 
 > #str_00100863
 NOVEMBER
-11月15日
+11月15日 
 
 > #str_00100864
 NOVEMBER 1
-11月15日 
+11月15日 -
 
 > #str_00100865
 NOVEMBER 15
-11月15日 -
+11月15日 - 
 
 > #str_00100866
 NOVEMBER 15 -
-11月15日 - 
+11月15日 - 2
 
 > #str_00100867
 NOVEMBER 15 - 2
-11月15日 - 2
+11月15日 - 21
 
 > #str_00100868
 NOVEMBER 15 - 21
-11月15日 - 21
+11月15日 - 214
 
 > #str_00100869
 NOVEMBER 15 - 214
-11月15日 - 214
+11月15日 - 2145
 
 > #str_00100870
 NOVEMBER 15 - 2145
@@ -34004,11 +34004,11 @@ Crane's PDA
 
 > #str_00100896
 Locate a power cell to start the lift in Excavation Central
-找到一个能量电池启动电梯通往洞穴中心
+找到一个能量电池启动升降梯通往洞穴中心
 
 > #str_00100897
 Locate a power cell to start the lift in Excavation Transfer
-找到一个能量电池启动电梯通往洞穴换乘站
+找到一个能量电池启动升降梯通往洞穴换乘站
 
 > #str_00100898
 ; erebus4:地点.位置 erebus4:界面参数1
@@ -34665,7 +34665,7 @@ Hall5
 > #str_00101036
 ; deltax:物品目标完成.内容 deltax:物品目标.内容
 Use the Delta Teleporter in order to reach the shores of Hell.
-使用德尔塔传送器来到达地狱的海岸。
+使用德尔塔传送器来到达地狱岸边。
 
 > #str_00101037
 ; erebus2:物品目标完成.内容 erebus2:物品目标.内容
@@ -34680,12 +34680,12 @@ Locate two power cells to enable the Artifact Storage filtration system and acti
 > #str_00101039
 ; erebus4:物品目标完成.内容 erebus4:物品目标.内容
 Locate a power cell to start the lift in Excavation Transfer.
-找到一个能量电池启动电梯通往洞穴换乘站
+找到一个能量电池启动升降梯通往洞穴换乘站
 
 > #str_00101040
 ; erebus4:物品目标.内容 erebus4:物品目标完成.内容
 Find 2 power cells to activate the lift that leads into the ventilation system.
-找到2块电池来启动通往通风系统的电梯。
+找到2块电池来启动通往通风系统的升降梯。
 
 > #str_00101041
 ; erebus6:物品目标完成.内容 erebus6:物品目标.内容
@@ -34847,7 +34847,7 @@ Science Team D3
 > #str_00200016
 ; le_exis1:界面参数3
 Exis Authority
-艾克西斯官员
+艾克西斯管理层
 
 > #str_00200017
 ; le_underground2:mover功能.界面参数3 le_underground2:界面参数3
@@ -34922,7 +34922,7 @@ CHANGE FLOORS
 > #str_00200031
 ; transfer/exit_le_underground.gui
 TRANSFER LIFT
-中转电梯
+运输升降梯
 
 > #str_00200032
 ; le_enpro1:PDA物品.名 le_enpro1:界面参数7
@@ -35003,7 +35003,7 @@ Traverse service sub-levels to reach Exis Labs.
 > #str_00200048
 ; le_underground2:物品目标完成.标题 le_underground2:物品目标.标题
 Restore Power to Service Lift
-恢复服务电梯的电力
+恢复服务升降梯的电力
 
 > #str_00200049
 ; le_underground2:物品目标.内容
@@ -35013,17 +35013,17 @@ Acquire power cell from Transfer Control area.
 > #str_00200050
 ; le_underground2:物品目标.内容
 Use power cell to restore power to main service lift.
-使用电池来恢复主服务电梯的电力。
+使用电池来恢复主服务升降梯的电力。
 
 > #str_00200051
 ; le_underground2:物品目标.标题
 Take Service Lift to Exis Labs
-乘坐服务电梯前往艾克西斯实验室
+乘坐服务升降梯前往艾克西斯实验室
 
 > #str_00200052
 ; le_underground2:物品目标.内容
 Use main service lift to reach Exis Labs.
-使用主服务电梯到达艾克西斯实验室。
+使用主服务升降梯到达艾克西斯实验室。
 
 > #str_00200053
 ; le_enpro2:界面参数2 le_enpro2:界面参数7 le_enpro2:PDA物品.名
@@ -35053,7 +35053,7 @@ SUB-LEVEL 1
 > #str_00200058
 ; transfer/exit_le_underground1.gui transfer/enter_le_underrgound2.gui
 TRANSFER BAY
-中转台
+传送台
 
 > #str_00200059
 ; transfer/exit_le_underground1.gui
@@ -35247,7 +35247,7 @@ Restore Power
 > #str_00200095
 ; le_enpro1:物品目标.内容
 Reset the lift power switch
-重置电梯电力开关
+重置升降梯电力开关
 
 > #str_00200096
 ; le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
@@ -35267,7 +35267,7 @@ Prime The Core
 > #str_00200099
 ; le_enpro2:物品目标.内容
 Prime the Auxiliary Core by using the IPL a.k.a. 'grabber gun' to release a plasma particle directly into the non-working primer tube
-使用IPL也就是“抓握枪”对着非工作魔方释放等离子例子为附属核心做好准备。
+使用IPL也就是“抓取者枪”将等离子粒子直接射入没有工作的原始管道。
 
 > #str_00200100
 ; le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
@@ -35327,7 +35327,7 @@ Aux Core Lower Chamber
 > #str_00200111
 ; le_enpro2:地点.位置
 Service Lift
-服务电梯
+服务升降梯
 
 > #str_00200112
 ; le_enpro2:地点.位置
@@ -35372,16 +35372,16 @@ Maint Control Room
 > #str_00200120
 ; le_enpro2:地点.位置
 Core Service Lift
-核心服务货梯
+核心服务升降梯
 
 > #str_00200121
 ; le_underground:地点.位置
 Transfer Control
-转移控制
+传送控制
 
 > #str_00200122
 Transfer Overlook
-转移监管
+传送俯瞰
 
 > #str_00200123
 ; le_underground:地点.位置
@@ -35496,7 +35496,7 @@ Sub-Level Corridor SL-2
 > #str_00200145
 ; le_underground2:地点.位置
 Central Coolant Transfer
-中央冷却剂交换
+中央冷却剂输送
 
 > #str_00200146
 ; le_underground2:地点.位置
@@ -35506,7 +35506,7 @@ Equipment Storage
 > #str_00200147
 ; le_underground2:地点.位置
 Main Service Lift
-主服务电梯
+主服务升降梯
 
 > #str_00200148
 ; le_underground2:地点.位置
@@ -36244,7 +36244,7 @@ Shipping Authority"""
 
 谢谢，
 吉姆·鲍伊尔
-货运局"""
+运输管理层"""
 
 > #str_admin_moses_email_2_email_to
 Jonathan Moses
@@ -36810,7 +36810,7 @@ I am writing in regard to the 8 sided die you borrowed from me.  If you are not 
 Walter Connors"""
 """亲爱的陈，
 
-我写信来是想说说关于你从我这借走的《八面死亡》。如果你不准备邀请我加入游戏，那我想你该把《八面死亡》换给我了。已经两星期了，我非常生气。
+我写信来是想说说关于你从我这借走的《八面骰子》。如果你不准备邀请我加入游戏，那我想你该把《八面骰子》换给我了。已经两星期了，我非常生气。
 
 沃尔特·康纳斯"""
 
@@ -38144,7 +38144,7 @@ Ben Wolfe
 
 > #str_comm1_wolfe_email_2_email_from
 Security Authority
-保安权力
+安全管理层
 
 > #str_comm1_wolfe_email_2_email_subject
 RE: Request Security Access
@@ -38165,7 +38165,7 @@ Ben Wolfe"""
 
 ----原始邮件----
 发送日期: 2145-11-11
-收件人: 安全管理局
+收件人: 安全管理层
 
 本人特此正式请求进入通信设施的保密区域。作为一名军官，我认为这是必要的。
 
@@ -38248,7 +38248,7 @@ James Holiday
 
 > #str_commoutside_holiday_email_2_email_from
 Shipping Authority
-运输管理局
+运输管理层
 
 > #str_commoutside_holiday_email_2_email_subject
 Site 1 needs
@@ -38260,7 +38260,7 @@ Site 1 needs
 -Shipping Authority"""
 """UAC终止了1号站点的所有研究。其中包括麦克内尔计划。对有用设备的运输和储存的安排应该立刻进行。
 
--运输局"""
+-运输管理层"""
 
 > #str_commoutside_holiday_email_2_email_to
 James Holiday
@@ -38314,7 +38314,7 @@ UAC管理层
 
 > #str_commoutside_ridge_email_1_email_subject
 Maintenance Lift Access Restrictions
-维护电梯进入限制
+维护升降梯访问限制
 
 > #str_commoutside_ridge_email_1_email_text
 """Ron,
@@ -38325,10 +38325,10 @@ Sincerely,
 UAC Authority"""
 """罗恩，
 
-从这点开始我们需要你去加强维修电梯的进出限制。有好几台这样的电梯可以给没权限的保修人员用来进入他们不能进的地方。请去落实这些事情，
+从这点开始我们需要你去加强维修升降梯的进出限制。有好几台这样的升降梯可以给没权限的保修人员用来进入他们不能进的地方。请去落实这些事情，
 
 诚挚地，
-UAC管理处"""
+UAC管理层"""
 
 > #str_commoutside_ridge_email_1_email_to
 Ron Ridge
@@ -38908,7 +38908,7 @@ Title
 
 > #str_delta1_mora_email_1_email_from
 Delta Authority
-德尔塔官员
+德尔塔管理层
 
 > #str_delta1_mora_email_1_email_subject
 Reactor Safety
@@ -43643,11 +43643,11 @@ Thanks
 """Adrian Carmack
 Artist, Co-Owner"""
 """阿德里安·卡马克
-艺术家，共有人"""
+艺术家，公司所有人"""
 
 > #str_id_1_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_2_email_date
 11-16-2145
@@ -43667,11 +43667,11 @@ John Carmack
 Programmer, Co-Owner"""
 """谢谢。
 约翰·卡马克
-程序员，共有人"""
+程序员，公司所有人"""
 
 > #str_id_2_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_3_email_date
 11-16-2145
@@ -43691,11 +43691,11 @@ Kevin Cloud
 Artist, Co-Owner"""
 """我想要感谢我们的粉丝能够游玩《Doom 3》。
 凯文·克劳德
-艺术家，共有人"""
+艺术家，公司所有人"""
 
 > #str_id_3_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_4_email_date
 11-16-2145
@@ -43729,11 +43729,11 @@ CEO, Co-Owner"""
 当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！
 
 陶德·霍伦斯黑德
-首席执行官，共有人"""
+首席执行官，公司所有人"""
 
 > #str_id_4_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_5_email_date
 11-16-2145
@@ -43759,11 +43759,11 @@ Lead Designer, Co-Owner"""
 我也想特别感谢一下我的妻子斯蒂芬妮和我的孩子理查德，还有德斯蒂尼在关键时刻陪伴了我很长时间。
 
 蒂姆·威利茨
-首席设计师，共有人"""
+首席设计师，公司所有人"""
 
 > #str_id_5_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_6_email_date
 11-16-2145
@@ -43793,13 +43793,13 @@ The Owners at id : 'Thank you for your continued support and guidance throughout
 
 在“丹麦人之路”的布莱恩·霍金斯和整个团队: “多谢你尽心尽力协助支持我们”
 
-id的所有者们: “多谢你多年来持续的支持和指导”
+id的所有者们: “感谢你多年来持续的支持和指导”
 
 """
 
 > #str_id_6_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_7_email_date
 11-16-2145
@@ -43839,7 +43839,7 @@ TTimo
 
 > #str_id_7_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_8_email_date
 11-16-2145
@@ -43867,7 +43867,7 @@ Designer"""
 
 > #str_id_8_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_9_email_date
 11-16-2145
@@ -43923,7 +43923,7 @@ Mesquite, TX, USA, Earth"""
 
 > #str_id_9_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_10_email_date
 11-16-2145
@@ -43955,7 +43955,7 @@ Jim"""
 
 > #str_id_10_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_11_email_date
 11-16-2145
@@ -43987,7 +43987,7 @@ patd"""
 
 > #str_id_11_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_12_email_date
 11-16-2145
@@ -44017,7 +44017,7 @@ robert..."""
 
 > #str_id_12_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_13_email_date
 11-16-2145
@@ -44043,7 +44043,7 @@ Designer"""
 
 > #str_id_13_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_14_email_date
 11-16-2145
@@ -44069,7 +44069,7 @@ Animator"""
 
 > #str_id_14_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_15_email_date
 11-16-2145
@@ -44097,7 +44097,7 @@ id妈咪"""
 
 > #str_id_15_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_16_email_date
 11-16-2145
@@ -44134,14 +44134,14 @@ Designer"""
 最后，但同样重要的是，感谢我的妻子——缇娜。感谢多年来你的耐心，感谢你的爱和理解，你真的是最好的。
 *******
 
-好了，乱七八糟的话就到这里了，现在回到你的目标上来吧——封印那个通往地狱的海洋。哦，对了，记住，要活着回来，不要受伤——通话结束！
+好了，乱七八糟的话就到这里了，现在回到你的目标上来吧——封印那个地狱洞穴，战士！哦，对了，记住，要活着回来，不要受伤——通话结束！
 
 J.基恩
 设计师"""
 
 > #str_id_16_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_17_email_date
 11-16-2145
@@ -44163,7 +44163,7 @@ Artist"""
 
 > #str_id_17_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_18_email_date
 11-16-2145
@@ -44219,7 +44219,7 @@ Fredrik"""
 
 > #str_id_18_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_19_email_date
 11-16-2145
@@ -44241,7 +44241,7 @@ Designer"""
 
 > #str_id_19_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_20_email_date
 11-16-2145
@@ -44269,7 +44269,7 @@ ps - I love you Peach!"""
 
 > #str_id_20_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_21_email_date
 11-16-2145
@@ -44303,7 +44303,7 @@ Marty"""
 
 > #str_id_21_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_22_email_date
 11-16-2145
@@ -44325,7 +44325,7 @@ Artist"""
 
 > #str_id_22_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_23_email_date
 11-16-2145
@@ -44351,7 +44351,7 @@ MrElusive，
 
 > #str_id_23_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_24_email_date
 11-16-2145
@@ -44379,7 +44379,7 @@ Most of all, I have to thank my 'bagel-chick' Emmy! Thank you for all those nigh
 
 > #str_id_24_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_id_25_email_date
 11-16-2145
@@ -44403,7 +44403,7 @@ Again?
 
 > #str_id_25_email_to
 Doom Player
-Doom播放器
+Doom玩家
 
 > #str_imp27email_email_date
 11-15-2145
@@ -49263,7 +49263,7 @@ ASSIGN
 
 > #str_swf_binding_desc
 Customize keyboard and mouse bindings
-自定义键盘木鼠标绑定
+自定义键盘与鼠标绑定
 
 > #str_swf_build
 BUILD
@@ -49295,7 +49295,7 @@ Default Config
 
 > #str_swf_config_360_1
 Alternate
-交流机
+替换
 
 > #str_swf_config_desc
 Customize Controller Configuration
@@ -49307,15 +49307,15 @@ Default Config
 
 > #str_swf_config_ps3_1
 Alternate 1
-交流机1
+替换1
 
 > #str_swf_config_ps3_2
 Alternate 2
-交流机2
+替换2
 
 > #str_swf_config_ps3_3
 Alternate 3
-交流机3
+替换3
 
 > #str_swf_continue
 CONTINUE
@@ -49749,7 +49749,7 @@ Start Match
 
 > #str_swf_stereo_deghost
 De-Ghosting
-反代撰
+消除鬼影
 
 > #str_swf_stereo_eye_swap
 Swap Eyes
@@ -50047,7 +50047,7 @@ The Soulcube kills its target instantly.  It also restores the player’s health
 
 > #str_loadtip_16
 Smaller enemies are weak, but harder to hit. Use spread weapons like the Machine Gun to take them out quickly.
-体型小的敌人很弱，但是也很难击中。使用扩散型武器例如机枪可在短时间将它们消灭。
+体型小的敌人很弱，但是也很难击中。使用高射速武器例如机枪可在短时间将它们消灭。
 
 > #str_loadtip_17
 Explosive barrels make great weapons.  Fire at them when enemies are nearby.
@@ -50103,11 +50103,11 @@ There is insufficient storage available.  Your progress will not be saved.
 
 > #str_dlg_newer_incompatible_savegame
 This save is from a newer version of the game and cannot be loaded.
-这个存盘文件来自该游戏更新的版本因此无法读取。
+该存档来自游戏的新版本，因此无法读取。
 
 > #str_dlg_game_restart_required
 Some changes will not take effect until you restart the game.
-有些更改需要重启游戏才能生效。
+有些更改需要重启游戏以生效。
 
 > #str_swf_change_game
 CHANGE GAME
@@ -50139,7 +50139,7 @@ Side by Side Full
 
 > #str_swf_stereo_interlaced
 Interlaced
-交错
+隔行扫描
 
 > #str_swf_stereo_quad
 Quad Buffer
