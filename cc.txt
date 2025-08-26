@@ -36,7 +36,7 @@ Campbell: OK, plan B.
 
 > #cc_admin_00000000010
 E. Webb: Don't stop buddy, there's nothing you can do for me. They're all gone... (coughs blood) surprised us; they just came out of nowhere.
-E.韦伯：别停下，伙计，你帮不了我什么了。他们都完了……(咳血)他们突袭了我们；他们就像凭空出现一样。
+E.韦伯：别停下，伙计，你帮不了我什么了。他们都完了……(咳血)突袭了我们；就像凭空出现一样。
 
 > #cc_admin_00000000011
 E. Webb: There are still a few squads operating... (coughs) but they're all cut off from each other. Try to find them.
@@ -48,7 +48,7 @@ E.韦伯：啊啊啊……(剧烈咳嗽，最后一口气从身体里呼出)。
 
 > #cc_admin_00000000013
 Sgt. Kelly: Marine, Bravo Team reports that there is some sort of undentified growth taking over parts of the base.
-凯利士官：陆战队员，布拉沃小队报告说，基地部分区域正在被某种不明增生物占据。
+凯利士官：陆战队员，B小队报告说，基地部分区域正在被某种不明增生物占据。
 
 > #cc_admin_00000000019
 I don't know what it is but it can't be good. Stay sharp.
@@ -56,7 +56,7 @@ I don't know what it is but it can't be good. Stay sharp.
 
 > #cc_admin_00000000014
 Swann: It isn`t working, I tried everything! The computers aren't responding, I can't get root access to the systems.
-斯旺：没用，我什么都试过了！电脑没反应，我无法获得系统的根权限。
+斯旺：没用的，我什么都试过了！电脑没反应，我无法获得系统的最高权限。
 
 > #cc_admin_00000000020
 We can't do it here, we'll have to access the system somewhere else.
@@ -224,7 +224,7 @@ G.克雷特曼：我打算试着让这东西稳定下来。等我控制住它，
 
 > #cc_alphalabs1_00000000029
 Marine, I've received a report that you haven't reached Bravo Team yet. You need to pick up the pace. We can't wait for them.
-陆战队员，我收到报告说你还没和布拉沃小队会合。你需要加快速度。我们不能等他们。
+陆战队员，我收到报告说你还没和B小队会合。你需要加快速度。我们不能等他们。
 
 > #cc_alphalabs1_00000000038
 Reaching the communication facility quickly is imperative.
@@ -336,7 +336,7 @@ Let's go!
 
 > #cc_alphalabs2_00000000026
 Sgt. Kelly: Marine, Bravo team reports that they have located your position but are unable to move to your current location,
-凯利士官：陆战队员，布拉沃小队报告说他们已经定位了你的位置，但无法移动到你当前的位置，
+凯利士官：陆战队员，B小队报告说他们已经定位了你的位置，但无法移动到你当前的位置，
 
 > #cc_alphalabs2_00000000028
 head through engineering and try to link up with them in Sector 3.
@@ -352,7 +352,7 @@ Female Computer: Toxic gases cleared, waste disposal area now safe for entry.
 
 > #cc_alphalabs3_00000000003
 Sgt. Kelly: Marine, you gotta pick up the pace. We got more men down. Bravo team is barely holding their own.
-凯利士官：陆战队员，你得加快速度。我们又有人倒下了。布拉沃小队快撑不住了。
+凯利士官：陆战队员，你得加快速度。我们又有人倒下了。B小队快撑不住了。
 
 > #cc_alphalabs3_00000000004
 Hey, you... can you help me? I'm trapped in here.
@@ -424,7 +424,7 @@ Sgt. Kelly (RADIO STATIC): Marine, I was able to locate your position, core comm
 
 > #cc_alphalabs4_00000000005
 Massive service disruptions throughout the entire base. I don't know how long I'll be able to track you. Bravo Team has just entered the Enpro plant.
-整个基地都出现了大规模服务中断。我不知道还能追踪你多久。布拉沃小队刚刚进入能源生产厂。
+整个基地都出现了大规模服务中断。我不知道还能追踪你多久。B小队刚刚进入能源生产厂。
 
 > #cc_alphalabs4_00000000006
 Pick up the pace, you aren't far behind.
@@ -768,7 +768,7 @@ Sgt. Kelly: Marine, get your ass to the communications facility as quickly as po
 
 > #cc_cpu_00000000001
 Campbell: Sarge, find him, gotta find him. My gun, he's got my gun. (He gurgles, and groans his last breath)
-坎贝尔：中士，找到他，一定要找到他。我的枪，他拿了我的枪。(他发出咕噜声，呻吟着咽下最后一口气)
+坎贝尔：士官，找到他，一定要找到他。我的枪，他拿了我的枪。(他发出咕噜声，呻吟着咽下最后一口气)
 
 > #cc_cpu_00000000002
 Campbell: Where are you hiding?
@@ -776,51 +776,51 @@ Campbell: Where are you hiding?
 
 > #cc_cpu_00000000003
 Female PA System: Warning. Security bridge in motion.
-女广播系统：警告。安全桥正在移动。
+女性广播系统：警告。安全桥正在移动。
 
 > #cc_cpu_00000000004
 Female PA System: Security clearance accepted.
-女广播系统：安全许可已接受。
+女性广播系统：安全许可已接受。
 
 > #cc_cpu_00000000005
 Female PA System: Security clearance denied.
-女广播系统：安全许可被拒。
+女性广播系统：安全许可被拒。
 
 > #cc_cpu_00000000006
 Female PA System: Select bridge destination.
-女广播系统：请选择桥梁目的地。
+女性广播系统：请选择桥梁目的地。
 
 > #cc_cpu_00000000007
 Sarge: I can smell your fear.
-中士：我能闻到你的恐惧。
+士官：我能闻到你的恐惧。
 
 > #cc_cpu_00000000008
 Sarge: I look into your soul and I see fear.
-中士：我审视你的灵魂，我看到了恐惧。
+士官：我审视你的灵魂，我看到了恐惧。
 
 > #cc_cpu_00000000009
 Sarge: I am waiting for you. Waiting to kill you.
-萨奇：我正在等你。等着杀了你。
+士官：我正在等你。等着杀了你。
 
 > #cc_cpu_00000000010
 Sarge: I killed that pathetic bodyguard. And now I will kill you.
-萨奇：我杀了那个可悲的保镖。现在，我将杀了你。
+士官：我杀了那个可悲的保镖。现在，我将杀了你。
 
 > #cc_cpu_00000000011
 Sinister Voice: Sarge is gonna kill you.
-邪恶之声：萨奇会杀了你。
+邪恶之声：士官会杀了你。
 
 > #cc_cpu_00000000012
 Sinister Voice: Sarge is coming for you.
-邪恶之声：萨奇来找你了。
+邪恶之声：士官来找你了。
 
 > #cc_cpu_00000000013
 Sinister Voice: Sarge is waiting for you.
-邪恶之声：萨奇在等你。
+邪恶之声：士官在等你。
 
 > #cc_cpu_00000000014
 Sinister Voice: Sarge will destroy you.
-邪恶之声：萨奇会摧毁你。
+邪恶之声：士官会摧毁你。
 
 > #cc_cpuboss_00000000001
 (PATRIOTIC FANFARE) Representing the pinnacle of UAC research and design, the BFG 9000 is the most advanced firearm ever designed.
@@ -868,7 +868,7 @@ optimal detonation. For more information, contact the UAC's Advanced Weapons Dep
 
 > #cc_cpuboss_00000000010
 Campbell: Sarge, find him, gotta find him. My gun, he's got my gun. (He gurgles, and groans his last breath)
-坎贝尔：中士，找到他，一定要找到他。我的枪，他拿了我的枪。(他发出咕噜声，呻吟着咽下最后一口气)
+坎贝尔：士官，找到他，一定要找到他。我的枪，他拿了我的枪。(他发出咕噜声，呻吟着咽下最后一口气)
 
 > #cc_cpuboss_00000000011
 Campbell: Where are you hiding?
@@ -876,51 +876,51 @@ Campbell: Where are you hiding?
 
 > #cc_cpuboss_00000000012
 Female PA System: Warning. Security bridge in motion.
-女广播系统：警告。安全桥正在移动。
+女性广播系统：警告。安全桥正在移动。
 
 > #cc_cpuboss_00000000013
 Female PA System: Security clearance accepted.
-女广播系统：安全许可已接受。
+女性广播系统：安全许可已接受。
 
 > #cc_cpuboss_00000000014
 Female PA System: Security clearance denied.
-女广播系统：安全许可被拒。
+女性广播系统：安全许可被拒。
 
 > #cc_cpuboss_00000000015
 Female PA System: Select bridge destination.
-女广播系统：请选择桥梁目的地。
+女性广播系统：请选择桥梁目的地。
 
 > #cc_cpuboss_00000000016
 Sarge: I can smell your fear.
-萨奇：我能闻到你的恐惧。
+士官：我能闻到你的恐惧。
 
 > #cc_cpuboss_00000000017
 Sarge: I look into your soul and I see fear.
-萨奇：我审视你的灵魂，我看到了恐惧。
+士官：我审视你的灵魂，我看到了恐惧。
 
 > #cc_cpuboss_00000000018
 Sarge: I am waiting for you. Waiting to kill you.
-萨奇：我正在等你。等着杀了你。
+士官：我正在等你。等着杀了你。
 
 > #cc_cpuboss_00000000019
 Sarge: I killed that pathetic bodyguard. And now I will kill you.
-萨奇：我杀了那个可悲的保镖。现在，我将杀了你。
+士官：我杀了那个可悲的保镖。现在，我将杀了你。
 
 > #cc_cpuboss_00000000020
 Sinister Voice: Sarge is gonna kill you.
-邪恶之声：萨奇会杀了你。
+邪恶之声：士官会杀了你。
 
 > #cc_cpuboss_00000000021
 Sinister Voice: Sarge is coming for you.
-邪恶之声：萨奇来找你了。
+邪恶之声：士官来找你了。
 
 > #cc_cpuboss_00000000022
 Sinister Voice: Sarge is waiting for you.
-邪恶之声：萨奇在等你。
+邪恶之声：士官在等你。
 
 > #cc_cpuboss_00000000023
 Sinister Voice: Sarge will destroy you.
-邪恶之声：萨奇会摧毁你。
+邪恶之声：士官会摧毁你。
 
 > #cc_cpuboss_00000000024
 Welcome to the mess hall! (Unintelligble screaming)
@@ -1379,7 +1379,7 @@ i'm recording this video log to let someone know what happened and with that kno
 我正在录制这段视频日志，让某人知道发生了什么，并凭借这些知识，防止它再次发生。
 
 > #cc_delta2a_00000000063
-Initially, the teleportation experiments were amazing, we're creating a new science and the prospect of it changing our way of life -
+Initially, the teleportation experiments were amazing, we're creating a new science and the prospect of it changing our way of life - 
 最初，传送实验令人惊叹，我们正在创造一门新科学，它改变我们生活方式的前景——
 
 > #cc_delta2a_00000000117
@@ -1572,11 +1572,11 @@ Systems activated. Teleportation will commence in T-minus 3, 2, 1.
 
 > #cc_delta2a_00000000108
 Halon systems deactivated.
-哈龙系统已停用。
+灭火系统已停用。
 
 > #cc_delta2a_00000000109
 Warning: Halon system is active. Access denied.
-警告：哈龙系统正在运行。访问被拒。
+警告：灭火系统正在运行。访问被拒。
 
 > #cc_delta2b_00000000001
 Dr. Michaels: Ah! You surprised me. I'm glad to see you.
@@ -1812,11 +1812,11 @@ Dr. Michaels: You should get out of here! Get some help and tell them i'm still 
 
 > #cc_delta2b_00000000044
 Voice: Hello? Is anyone there? Hello?
-声音：你好？有人吗？你好？
+声音：喂？有人吗？喂？
 
 > #cc_delta2b_00000000045
 Voice: Hello?
-声音：你好？
+声音：喂？
 
 > #cc_delta2b_00000000046
 Voice: Is someone up there?
@@ -2092,7 +2092,7 @@ Swann: Still alive? (coughs) Looks like you might be (coughs) on your own.
 
 > #cc_delta5_00000000002
 Sarge is gone. They've got to him. I don't know how long he's been working against us.
-萨奇不见了。他们抓住了他。我不知道他背叛我们多久了。
+士官不见了。他们抓住了他。我不知道他背叛我们多久了。
 
 > #cc_delta5_00000000003
 He's no longer human. Campbell went after him. He's got to be stopped. (pained coughs)
@@ -2296,31 +2296,31 @@ GROUND RUMBLES, ROCKS TUMBLE, LAVA CRACKLES AND POPS
 
 > #cc_enemies_00000000039
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000040
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000041
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000042
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000043
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000044
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000045
 (Z-SEC MOAN)
-(Z-SEC呻吟)
+(僵尸保安呻吟)
 
 > #cc_enemies_00000000046
 (QUICK PAIN)
@@ -2724,7 +2724,7 @@ Campbell: No, sir.
 
 > #cc_enpro_00000000002
 Female Computer: Warning, coolant rod two offline.
-女性电脑语音：警告，2号冷却棒离线。
+女性电脑语音：警告，二号冷却棒离线。
 
 > #cc_enpro_00000000003
 Female Computer: Attention, all personnel evacuate the facility.
@@ -2776,7 +2776,7 @@ Female Computer: Main reactor operation temperature exceeding safe levels.
 
 > #cc_enpro_00000000015
 Bravo Team, entry's secure. Move in and take positions.
-布拉沃小队，入口已安全。进入并就位。
+B小队，入口已安全。进入并就位。
 
 > #cc_enpro_00000000016
 Hallway's clear.
@@ -2848,7 +2848,7 @@ We can't stay here (coughs) isn't safe... we better move. Wha?...
 
 > #cc_enpro_00000000033
 Sgt. Kelly: Marine, Bravo team is down. Their operational status is unknown. They were carrying the military transmission card.
-凯利士官：陆战队员，布拉沃小队已失联。他们的行动状态不明。他们携带着军用传输卡。
+凯利士官：陆战队员，B小队已失联。他们的行动状态不明。他们携带着军用传输卡。
 
 > #cc_enpro_00000000038
 It's vital that you retrieve that card as it contains encoded data needed to send a distress signal to the fleet.
@@ -2879,7 +2879,7 @@ I can't believe someone's alive there. You must help me. Time is critical.
 我不敢相信那里还有人活着。你必须帮助我。时间紧迫。
 
 > #cc_enpro1_00000000002
-My name is Richard, Dr. Richard Meyers, and I believe I'm the last one alive from my team.
+My name is Richard, Dr. Richard Meyers, and I believe I'm the last one alive from my team. 
 我叫理查德，理查德·迈耶斯博士，我相信我是我们团队中唯一幸存的人。
 
 > #cc_enpro1_00000000012
@@ -2908,7 +2908,7 @@ I've done everything I can here, but I don't have enough power to activate the t
 
 > #cc_enpro1_00000000006
 The engineers were working with me to redirect auxiliary power from Enpro straight to Exis Labs.
-工程师们当时正和我一起将恩普罗的辅助电源直接重定向到埃克西斯实验室。
+工程师们当时正和我一起将恩普罗的辅助电源直接重定向到艾克西斯实验室。
 
 > #cc_enpro1_00000000007
 But now, looks like you're the only one that can help. I'll upload the array instructions to the SSD at your console.
@@ -2924,15 +2924,15 @@ There's very little time. Please hurry.
 
 > #cc_enpro1_00000000009
 Hello? Is anyone there?
-你好？有人吗？
+喂？有人吗？
 
 > #cc_enpro1_00000000010
 This is station Exis. Does anyone read me?
-这里是埃克西斯站。有人能听到我吗？
+这里是艾克西斯站。有人能听到我吗？
 
 > #cc_enpro1_00000000011
 Come in, this is station Exis.
-请回答，这里是埃克西斯站。
+请回答，这里是艾克西斯站。
 
 > #cc_enpro2_00000000001
 Please, insert SSD-drive.
@@ -2984,7 +2984,7 @@ Head to the terminal in the lower level. Hurry. We don't have a lot of time.
 
 > #cc_enpro2_00000000009
 Excellent, that's it. Now, I need you here at the Exis Labs. From where you are, head through Mars City's sub-level.
-太好了，就是这样。现在，我需要你到埃克西斯实验室来。从你所在的位置，穿过火星城的地下层。
+太好了，就是这样。现在，我需要你到艾克西斯实验室来。从你所在的位置，穿过火星城的地下层。
 
 > #cc_enpro2_00000000014
 It's the fastest way. Move quickly. I'll explain more when you get here.
@@ -3204,7 +3204,7 @@ Get the hell away from me!
 
 > #cc_erebus2_00000000012
 Marine...Hello...Marine? Come in, marine.
-陆战队员……你好……陆战队员？请回答，陆战队员。
+陆战队员……喂……陆战队员？请回答，陆战队员。
 
 > #cc_erebus2_00000000013
 Signal strength is back to broadcast level. Listen carefully: this isn't the first time we're facing this but i need more information.
@@ -3236,15 +3236,15 @@ Dr. Cloud just contacted me, and he may be able to help.
 
 > #cc_erebus3_00000000002
 He has the recently discovered tablet ready for translation, but is missing an important section known as the Primitive. It's a type of cipher key.
-他已经准备好翻译最近发现的石碑，但缺少一个被称为“原始符文”的重要部分。它是一种密码钥匙。
+他已经准备好翻译最近发现的石碑，但缺少一个被称为“源体”的重要部分。它是一种密码钥匙。
 
 > #cc_erebus3_00000000003
 We found the Primitive years ago but didn't understand how to use it until now.
-我们多年前就发现了原始符文，但直到现在才明白如何使用它。
+我们多年前就发现了“源体”，但直到现在才明白如何使用它。
 
 > #cc_erebus3_00000000020
 We must get the Primitive from Artifact Storage, and take it to Dr. Cloud in the Erebus Labs.
-我们必须从神器储藏室取回原始符文，并将其带到厄瑞玻斯实验室的克劳德博士那里。
+我们必须从神器储藏室取回“源体”，并将其带到厄瑞玻斯实验室的克劳德博士那里。
 
 > #cc_erebus3_00000000004
 That tablet may be the key to understanding some of this. McNeil out.
@@ -3320,7 +3320,7 @@ You're going to need to find two power cells to get that lift working. From up h
 
 > #cc_erebus4_00000000003
 Hello? Is someone there?
-你好？有人吗？
+喂？有人吗？
 
 > #cc_erebus4_00000000004
 Please, get me outta here! I can't open the door! It is jammed. Huh? Ah! Get back, dammit! Stop! No! Ah!
@@ -3368,7 +3368,7 @@ Frankly, I don't know if our systems can handle too many more of these power sur
 
 > #cc_erebus5_00000000016
 We're working with old equipment here. If I don't have the Primitive soon, it'll be too late.
-我们这里用的是旧设备。如果我不能尽快拿到原始符文，就太晚了。
+我们这里用的是旧设备。如果我不能尽快拿到“源体”，就太晚了。
 
 > #cc_erebus5_00000000007
 See? Told you he'd make it.
@@ -3376,7 +3376,7 @@ See? Told you he'd make it.
 
 > #cc_erebus5_00000000008
 Oh, speak of the devil.... Your Marine has the Primitive.
-哦，说曹操曹操到……你的陆战队员拿到了原始符文。
+哦，说恶魔恶魔到……你的陆战队员拿到了“源体”。
 
 > #cc_erebus5_00000000009
 Let's get the computer started on the translation.
@@ -3432,11 +3432,11 @@ Hey! You! Over here!
 
 > #cc_exis1_00000000001
 Welcome to the Exis Labs, where the future is now.
-欢迎来到埃克西斯实验室，未来就在这里。
+欢迎来到艾克西斯实验室，未来就在这里。
 
 > #cc_exis1_00000000002
 Exis Labs is changing the way the future is shaping.
-埃克西斯实验室正在改变未来的形成方式。
+艾克西斯实验室正在改变未来的形成方式。
 
 > #cc_exis1_00000000003
 Oh, thank God. You made it here. I didn't know if you could with all those things out there. Look, we don't have much time.
@@ -3848,11 +3848,11 @@ Transference wave! Oh no! I've lost control of the modulation!
 
 > #cc_hellpost_00000000011
 Sierra One, Darkstar, lowering to surface.
-塞拉一号，暗星，正在降落到地表。
+塞拉一号，暗星号，正在降落到地表。
 
 > #cc_hellpost_00000000012
 Darkstar confirmed, we have visual, moving to pick up.
-暗星确认，我们已目视确认，正在前往接应。
+暗星号确认，我们已目视确认，正在前往接应。
 
 > #cc_hellpost_00000000013
 Nice work, Marine.
@@ -3884,23 +3884,23 @@ Male robot: Incoming transport detected
 
 > #cc_mars_city1_00000000002
 Darkstar: Mars Approach, Darkstar with you, zero seven zero, sixty-three, passing through three eight thousand.
-暗星：火星进近，暗星呼叫，070，63，正在通过38000高度。
+暗星号：火星进近，暗星号呼叫，070，63，正在通过38000高度。
 
 > #cc_mars_city1_00000000003
 S.L. Medley: Roger Darkstar, descend to two thousand, set speed, contact ground on two six nine seven two.
-S.L.梅德利：收到，暗星，下降到2000，设定速度，在26972频率联系地面。
+S.L.梅德利：收到，暗星号，下降到2000，设定速度，在26972频率联系地面。
 
 > #cc_mars_city1_00000000004
 Darkstar: Roger that, Tower.
-暗星：收到，塔台。
+暗星号：收到，塔台。
 
 > #cc_mars_city1_00000000005
 Darkstar: Tower, Darkstar on final.
-暗星：塔台，暗星正在最终进近。
+暗星号：塔台，暗星号正在最终进近。
 
 > #cc_mars_city1_00000000006
 S.L. Medley: We've got you Darkstar, you are set for lockdown. Welcome back!
-S.L.梅德利：我们已锁定你，暗星，你已准备好封锁。欢迎回来！
+S.L.梅德利：我们已锁定你，暗星号，你已准备好封锁。欢迎回来！
 
 > #cc_mars_city1_00000000007
 (CORPORATE INTRO MUSIC)
@@ -4464,7 +4464,7 @@ M.马拉克：我们失去一个，又来一个。
 
 > #cc_mars_city1_00000000135
 K. Miller: No shit. I wonder who they're gonna move to Bravo Team now?
-K.米勒：可不是嘛。我不知道他们现在会把谁调到布拉沃小队？
+K.米勒：可不是嘛。我不知道他们现在会把谁调到B小队？
 
 > #cc_mars_city1_00000000136
 M. Marak: Who knows? I just hope they don't take anyone from my squad. I hate pulling double-shifts.
@@ -4756,7 +4756,7 @@ I'm setting up a command post here; I can monitor status reports of the entire b
 
 > #cc_mars_city2_00000000006
 It is your mission to link up with Bravo Team and get that transmission sent.
-你的任务是与布拉沃小队会合，并发送那份传输。
+你的任务是与B小队会合，并发送那份传输。
 
 > #cc_mars_city2_00000000026
 Head towards Alpha Labs, it's the fastest way to find them, I'll update your PDA security clearance from here.
@@ -4784,11 +4784,11 @@ Roy: (GROWL) (SLASHING) Greg what happend where are you?
 
 > #cc_mars_city2_00000000012
 Female PA System: The UAC is here to help you, psychological services are free and confidential.
-女声广播系统：UAC在此为您提供帮助，心理服务免费且保密。
+女性广播系统：UAC在此为您提供帮助，心理服务免费且保密。
 
 > #cc_mars_city2_00000000013
 Female PA System: Connection Established.
-连接已建立。
+女性广播系统：连接已建立。
 
 > #cc_mars_city2_00000000014
 Hey, you! – Up here, quickly.
@@ -4828,7 +4828,7 @@ I am unable to reach Mars City from my current position, move to Marine HQ to re
 
 > #cc_mars_city2_00000000022
 Marine, you gotta get to Bravo team quickly. They need all the firepower they can get. Sending that transmission is critical to our survival.
-陆战队员，你必须尽快赶到布拉沃小队。他们需要所有能得到的火力。发送那份传输对我们的生存至关重要。
+陆战队员，你必须尽快赶到B小队。他们需要所有能得到的火力。发送那份传输对我们的生存至关重要。
 
 > #cc_mars_city2_00000000023
 Specialist Wilson, this is Sergeant Kelly. Stay sharp, son. Move to your last known RP and fortify your position. We'll find ya.
@@ -4976,7 +4976,7 @@ Scotty: Oh, God No! No! Jesus Christ! No!! (screams...dies)
 
 > #cc_mc_underground_00000000034
 Todd (patronizing): Can you maintenance guys not keep any of these machines running?
-托德(居高临下地)：你们这些维修工就不能让这些机器正常运转吗？
+陶德(居高临下地)：你们这些维修工就不能让这些机器正常运转吗？
 
 > #cc_mc_underground_00000000035
 Eric (obedient): Yes, sir, it's just that the science team demands a lot out of these things.
@@ -4984,7 +4984,7 @@ Eric (obedient): Yes, sir, it's just that the science team demands a lot out of 
 
 > #cc_mc_underground_00000000036
 Todd: Enough excuses, just do your job and get the science team what they need..
-托德：别找借口了，做好你的工作，给科学团队他们需要的东西……
+陶德：别找借口了，做好你的工作，给科学团队他们需要的东西……
 
 > #cc_mc_underground_00000000037
 Eric: Well, I'm doing everything, but I can't explain some of the things that have been happening to the systems... (Perplexed). It's weird.
@@ -4992,7 +4992,7 @@ Eric: Well, I'm doing everything, but I can't explain some of the things that ha
 
 > #cc_mc_underground_00000000038
 Todd: Just get it done.
-托德：快搞定它。
+陶德：快搞定它。
 
 > #cc_mc_underground_00000000039
 I. Sinclair (surprised): Geeez! Do you make a habit of sneaking up on people?
@@ -5072,7 +5072,7 @@ Sgt. Kelly (radio): Squad leaders give SIT reps. Over
 
 > #cc_mc_underground_00000000054
 Bravo Team: Command HQ this is Bravo Team. We've got 1 marine down 2 wounded.
-布拉沃小队：指挥部总部，这里是布拉沃小队。我们有一名陆战队员阵亡，两名受伤。
+B小队：指挥部总部，这里是B小队。我们有一名陆战队员阵亡，两名受伤。
 
 > #cc_mc_underground_00000000055
 Fire Team 4: Command HQ this is Fire Team 4, we are pinned down in Alpha Labs...
@@ -5108,7 +5108,7 @@ Radio: Massive structural damage in Sector 2. Come in. Wha?...AHUGHHH!
 
 > #cc_mc_underground_00000000062
 Female PA System: Warning, filtration arm in motion.  Bridge extension in seven seconds.
-女声广播系统：警告，过滤臂正在移动。桥梁延伸倒计时七秒。
+女性广播系统：警告，过滤臂正在移动。桥梁延伸倒计时七秒。
 
 > #cc_mc_underground_00000000063
 Scientist: No, no, I don't wanna die!!
@@ -5180,7 +5180,7 @@ If you don't have a clear path back to HQ, stock up on ammo, establish a strong 
 
 > #cc_mc_underground_00000000078
 Radio: Command HQ this is Bravo Team. We've got one man down and several wounded, we are incoming and need medical on station stat!
-无线电：指挥部总部，这里是布拉沃小队。我们有一人阵亡，数人受伤，我们正在赶来，需要立即就位医疗支援！
+无线电：指挥部总部，这里是B小队。我们有一人阵亡，数人受伤，我们正在赶来，需要立即就位医疗支援！
 
 > #cc_mc_underground_00000000079
 Radio: Command HQ this is Fire Team 2. The monorail track is destroyed, unable to secure safe transportation back to base. Over.
@@ -5412,7 +5412,7 @@ Announcer: Engineering - Please report to site 2 access ramp. Airlock malfunctio
 
 > #cc_monorail_00000000037
 Computer: Airlock security over-ride enabled.
-电脑：气闸安全覆盖已启用。
+电脑：气闸安全覆写已启用。
 
 > #cc_monorail_00000000038
 Announcer: Now leaving Site 2. Next Stop, Delta Complex.
@@ -5615,7 +5615,7 @@ It was almost like, uh, something was talking to him, and, uh, he backed right i
 几乎就像，呃，有什么东西在和他说话，然后，呃，他直接退进了粒子束。
 
 > #cc_pda_00000000027
-It was not a pretty sight, as it took off the backside of his head. He lived a few minutes, although
+It was not a pretty sight, as it took off the backside of his head. He lived a few minutes, although 
 那景象可不怎么好看，他的后脑勺被削掉了。他活了几分钟，尽管
 
 > #cc_pda_00000000428
@@ -5668,7 +5668,7 @@ Just... remember me in the end of the year reports, as... I'm…certain... I... 
 
 > #cc_pda_00000000034
 A. Chin: Audio report regarding the disrespectful treatment of new research staff. September 14th, 2145.
-A.钦：关于新研究人员受到不尊重待遇的音频报告。2145年9月14日。
+A.陈：关于新研究人员受到不尊重待遇的音频报告。2145年9月14日。
 
 > #cc_pda_00000000035
 As you know, I have gone to considerable effort to recruit my staff researchers for Alpha Labs.
@@ -5700,7 +5700,7 @@ I must insist that we be allowed to keep our personal lives private, and be left
 
 > #cc_pda_00000000403
 If there is some kind of security threat, I suggest that UAC Security look more deeply into its own staff. This is Andrew Chin. End.
-如果存在某种安全威胁，我建议UAC安保部门更深入地调查其自身员工。这里是安德鲁·钦。结束。
+如果存在某种安全威胁，我建议UAC安保部门更深入地调查其自身员工。这里是安德鲁·陈。结束。
 
 > #cc_pda_00000000039
 This is the audio log of Plant Manager Henry Nelson, dated October 24th, 2145.
@@ -6199,7 +6199,7 @@ Having to sedate him and drag his drooling body to the isolation rooms really fr
 不得不给他注射镇静剂，然后把他流着口水的身体拖到隔离室，这真的把我吓坏了。我一能申请就申请调职。
 
 > #cc_pda_00000000132
-F. Cinders: As requested, the following is my initial feedback on my first trip through the portal.
+F. Cinders: As requested, the following is my initial feedback on my first trip through the portal. 
 F.辛德斯：应要求，以下是我首次通过传送门的初步反馈。
 
 > #cc_pda_00000000462
@@ -6991,7 +6991,7 @@ Having the lights flicker constantly and losing power for several minutes at a t
 灯光持续闪烁，一次断电几分钟，这让这里的所有人都感到害怕。
 
 > #cc_pda_00000000268
-I'm doing my best to keep people in track, but we're continually short-handed. Someone's reporting in sick almost every day.
+I'm doing my best to keep people in track, but we're continually short-handed. Someone's reporting in sick almost every day. 
 我正在尽力让人们保持正常，但我们持续人手不足。几乎每天都有人请病假。
 
 > #cc_pda_00000000304
@@ -7147,7 +7147,7 @@ It appears to be made of some crystalline material, and even after all this time
 它似乎是由某种晶体材料制成的，即使经过这么长时间，它仍然散发着柔和的光芒。
 
 > #cc_pda_00000000298
-The markings on it were strangely familiar when I first observed it, and after digitizing it and analyzing it,
+The markings on it were strangely familiar when I first observed it, and after digitizing it and analyzing it, 
 当我第一次观察它时，上面的标记异常熟悉，在将其数字化并分析后，
 
 > #cc_pda_00000000515
@@ -7216,7 +7216,7 @@ My hope is, within the next few weeks,
 
 > #cc_pda_00000000320
 we will be able to prime the main array in parallel and have the auxiliary working at sufficient capacity for the folks over at Exis Labs.
-我们能够并行启动主阵列，并让辅助单元以足够的容量为埃克西斯实验室的人员工作。
+我们能够并行启动主阵列，并让辅助单元以足够的容量为艾克西斯实验室的人员工作。
 
 > #cc_pda_00000000522
 And I think that's all I've got for now. Allen Rhodes, signing off.
@@ -7244,7 +7244,7 @@ Regardless, I started hearing screams and gunfire over one of the channels just 
 
 > #cc_pda_00000000324
 Well, we have been trying desperately to get in touch with Meyers over in Exis to see what he knows. Several of my technicians have not reported back yet,
-嗯，我们一直在拼命尝试联系埃克西斯那边的迈耶斯，看看他知道些什么。我的几名技术员还没有回来报告，
+嗯，我们一直在拼命尝试联系艾克西斯那边的迈耶斯，看看他知道些什么。我的几名技术员还没有回来报告，
 
 > #cc_pda_00000000325
 and my senior technician described... described a bloodbath near a coolant transfer zone.
@@ -7312,15 +7312,15 @@ I sent an email off to the guy with the new code. Vargas, signing off.
 
 > #cc_pda_00000000335
 This is Nasser Adil, security chief for the Exis Labs facility. Log entry November 3, 2145.
-我是纳赛尔·阿迪尔，埃克西斯实验室设施的安全主管。日志条目，2145年11月3日。
+我是纳赛尔·阿迪尔，艾克西斯实验室设施的安全主管。日志条目，2145年11月3日。
 
 > #cc_pda_00000000336
 We are seeing an increasing level of random and unexplained violence by Exis staff.
-我们发现埃克西斯员工的随机和无法解释的暴力行为日益增多。
+我们发现艾克西斯员工的随机和无法解释的暴力行为日益增多。
 
 > #cc_pda_00000000337
 The first incident occurred on October 13, 2145, at the Exis surface tunnel.
-第一起事件发生在2145年10月13日，埃克西斯地表隧道。
+第一起事件发生在2145年10月13日，艾克西斯地表隧道。
 
 > #cc_pda_00000000338
 One of the construction workers, Bill Sanders, was offloading a shipment of steel supports when the procurement manager stopped him.
@@ -7380,7 +7380,7 @@ I have just received word from Central Authority that a UAC representative, Coun
 
 > #cc_pda_00000000348
 The... The report states he will be reviewing all sectors of Mars City, including Exis Labs.
-报告称他将审查火星城所有区域，包括埃克西斯实验室。
+报告称他将审查火星城所有区域，包括艾克西斯实验室。
 
 > #cc_pda_00000000535
 I'm not sure that's a good idea in light of the recent events we've had here.
@@ -7388,7 +7388,7 @@ I'm not sure that's a good idea in light of the recent events we've had here.
 
 > #cc_pda_00000000349
 The violent assaults that seem to plague Exis labs have caused the civilian staff to be pretty wary of one another.
-困扰埃克西斯实验室的暴力袭击已导致文职人员彼此之间相当提防。
+困扰艾克西斯实验室的暴力袭击已导致文职人员彼此之间相当提防。
 
 > #cc_pda_00000000350
 And now, to top it  all off, missing weapons. The cabinets in the security checkpoints were fully stocked two days ago, and now half the weapons are gone.
@@ -7408,7 +7408,7 @@ To sum up, this is a bad situation, turning worse every day.
 
 > #cc_pda_00000000353
 My recent request for more manpower in Exes Labs was denied.
-我最近请求在埃克西斯实验室增派人手的请求被拒绝了。
+我最近请求在艾克西斯实验室增派人手的请求被拒绝了。
 
 > #cc_pda_00000000537
 It seems other sectors of Mars City are stretched thin, and the small reserves at the base are already allocated.
@@ -7420,7 +7420,7 @@ I need to have faith in my current attachment of Marines that they will turn thi
 
 > #cc_pda_00000000538
 I'll talk to Central again and see if Counselor Swann can bypass Exis.
-我将再次与中央管理局沟通，看看斯旺顾问能否绕过埃克西斯。
+我将再次与中央管理局沟通，看看斯旺顾问能否绕过艾克西斯。
 
 > #cc_pda_00000000355
 The last thing I want is some staff worker with a sudden episode of dementia murdering a VIP.
@@ -7432,7 +7432,7 @@ I'm having enough problems trying to keep everyone here from killing each other.
 
 > #cc_pda_00000000357
 This is Dmitry Lebedev, supply manager for the Exis Labs facility, entry dated October 6th, 2145.
-我是德米特里·列别杰夫，埃克西斯实验室设施的供应经理，条目日期2145年10月6日。
+我是德米特里·列别杰夫，艾克西斯实验室设施的供应经理，条目日期2145年10月6日。
 
 > #cc_pda_00000000358
 I've received the latest shipment of MK-7 space suits from Earth today.
@@ -7488,7 +7488,7 @@ I've placed the extra packs in the storage cabinet 071 with the access code of 5
 
 > #cc_pda_00000000367
 Travis Folsom, Construction Supervisor for the Exis Labs Facility.
-特拉维斯·福尔瑟姆，埃克西斯实验室设施的施工主管。
+特拉维斯·福尔瑟姆，艾克西斯实验室设施的施工主管。
 
 > #cc_pda_00000000368
 We recently reached substantial completion on the Facilities Engineering sector and began work on the Environmental Systems sector early.
@@ -7544,11 +7544,11 @@ That'll show the stupid architect. Folsom out!
 
 > #cc_pda_00000000377
 This is Bernice Tooley, Operations Coordinator stationed in Exis Labs.
-我是伯尼斯·图利，驻扎在埃克西斯实验室的运营协调员。
+我是伯尼斯·图利，驻扎在艾克西斯实验室的运营协调员。
 
 > #cc_pda_00000000378
 I would like to file my third formal complaint to Central Authority about the problems with the work environment here in Exis.
-我谨向中央管理局提交我的第三份正式投诉，关于埃克西斯这里工作环境的问题。
+我谨向中央管理局提交我的第三份正式投诉，关于艾克西斯这里工作环境的问题。
 
 > #cc_pda_00000000379
 It has become increasingly difficult to be productive while construction is going on throughout the facility.
@@ -7632,7 +7632,7 @@ I think I, uh, what was that? Oh my god.... No... Noooooo
 
 > #cc_phobos1_00000000001
 Hello, Marine? If you're hearing this, listen to me.
-你好，陆战队员？如果你听到这个，请听我说。
+喂，陆战队员？如果你听到这个，请听我说。
 
 > #cc_phobos1_00000000012
 You must get the artifact to Delta Labs by using the Phobos experimental teleporter near your position.
@@ -7643,7 +7643,7 @@ I have the information from Dr. Cloud, and the only way to end this is to bring 
 我从克劳德博士那里得到了信息，结束这一切的唯一方法就是启动那个传送器并转移到德尔塔。
 
 > #cc_phobos1_00000000003
-The artifact can be destroyed by taking it over to...
+The artifact can be destroyed by taking it over to... 
 神器可以通过把它带到……
 
 > #cc_phobos1_00000000004
@@ -8568,11 +8568,11 @@ P.罗杰斯：我留在这里继续我的研究。
 
 > #cc_site3_00000000019
 Female PA System: Caverns entrance, unlocked.
-女播报员：洞窟入口，已解锁。
+女性广播系统：洞窟入口，已解锁。
 
 > #cc_site3_00000000020
 Female PA System: Freight loader, returning to station.
-女播报员：货运装载机，正在返回站点。
+女性广播系统：货运装载机，正在返回站点。
 
 > #cc_videos_00000000001
 For generations humankind has lived under the looming specter of slowly dwindling natural resources.
@@ -9647,7 +9647,7 @@ Powered by proprietary UAC MagSiel antimatter canisters, the AM3 allows for safe
 AM3由联合航空航天公司专有的磁盾反物质燃料罐供电，即使在最恶劣的环境中也能安全运输。
 
 > #cc_videos_00000000203
-Boasting zero waste emissions, thanks to the most advanced gamma ray radiation shields,
+Boasting zero waste emissions, thanks to the most advanced gamma ray radiation shields, 
 得益于最先进的伽马射线辐射屏蔽，AM3拥有零废弃物排放，
 
 > #cc_videos_00000000204
@@ -9744,7 +9744,7 @@ Thank you for your attention and enjoy your stay on Mars.
 
 > #cc_videos_00000000220
 My name is Dr. Richard Meyers, and I'm a research specialist stationed at Exis Labs.
-我叫理查德·迈耶斯博士，是埃克西斯实验室的一名研究专家。
+我叫理查德·迈耶斯博士，是艾克西斯实验室的一名研究专家。
 
 > #cc_videos_00000000221
 I don't know who will be hearing this, but I wanted to alert someone of the disaster at Mars City.
@@ -9828,11 +9828,11 @@ We could only teleport small equipment with the Delta 4 teleporter, and this con
 
 > #cc_videos_00000000236
 Soon after the success of Project Apollo, plans were drawn and work executed on a new facility, Exis Labs.
-在“阿波罗计划”成功后不久，便制定了计划并开始建设一个新设施——埃克西斯实验室。
+在“阿波罗计划”成功后不久，便制定了计划并开始建设一个新设施——艾克西斯实验室。
 
 > #cc_videos_00000000237
 At Exis Labs, the goal was to create a large teleporter, similar in scale to the one at Erebus.
-在埃克西斯实验室，目标是建造一个大型传送器，其规模与厄瑞玻斯那个相似。
+在艾克西斯实验室，目标是建造一个大型传送器，其规模与厄瑞玻斯那个相似。
 
 > #cc_videos_00000000238
 It would be powerful enough to transport large equipment, even dropships, and eventually shorten interstellar travel.
@@ -9844,7 +9844,7 @@ Betruger was so impatient on seeing results from this research, he had the engin
 
 > #cc_videos_00000000240
 We had expedition teams set up a teleporter outpost in the other dimension to link up with Exis.
-我们让探险队在另一个维度建立了一个传送前哨，以便与埃克西斯连接。
+我们让探险队在另一个维度建立了一个传送前哨，以便与艾克西斯连接。
 
 > #cc_videos_00000000327
 It was at this time I began investigating the strange stories I heard over at Delta Labs.
@@ -9880,7 +9880,7 @@ By the time I realized his plan, Betruger had started the invasion.
 
 > #cc_videos_00000000245
 Since the Exis teleporter hadn't reached sufficient functionality, I assumed Betruger decided to launch the demon invasion on Mars without it.
-由于埃克西斯传送器尚未达到足够的功能，我猜贝特鲁格决定在没有它的情况下在火星上发动恶魔入侵。
+由于艾克西斯传送器尚未达到足够的功能，我猜贝特鲁格决定在没有它的情况下在火星上发动恶魔入侵。
 
 > #cc_videos_00000000246
 However, the Hell outpost teleporter is operationally ready, and it's only a matter of time before Betruger decides to use it.
@@ -9888,7 +9888,7 @@ However, the Hell outpost teleporter is operationally ready, and it's only a mat
 
 > #cc_videos_00000000247
 I'm going to try to reach Chief Engineer Rhodes in the Enpro facility to divert enough power to Exis,
-我将尝试联系恩普罗设施的总工程师罗兹，以将足够的电力转移到埃克西斯，
+我将尝试联系恩普罗设施的总工程师罗兹，以将足够的电力转移到艾克西斯，
 
 > #cc_videos_00000000330
 and with a little luck, create a big enough power surge to destroy it from here.
@@ -10424,39 +10424,39 @@ SOULCUBE: Use us!
 
 > #cc_weapons_00000000131
 (CHAINGUN RISES)
-(加特林机枪升起)
+(转轮机枪升起)
 
 > #cc_weapons_00000000132
 (CHAINGUN WINDS UP)
-(加特林机枪预热)
+(转轮机枪预热)
 
 > #cc_weapons_00000000133
 (CHAINGUN WINDS DOWN)
-(加特林机枪降速)
+(转轮机枪降速)
 
 > #cc_weapons_00000000134
 (CHAINGUN FIRES)
-(加特林机枪射击)
+(转轮机枪射击)
 
 > #cc_weapons_00000000135
 (CHAINGUN FIRES)
-(加特林机枪射击)
+(转轮机枪射击)
 
 > #cc_weapons_00000000136
 (CHAINGUN FIRES)
-(加特林机枪射击)
+(转轮机枪射击)
 
 > #cc_weapons_00000000137
 (CHAINGUN FIRES)
-(加特林机枪射击)
+(转轮机枪射击)
 
 > #cc_weapons_00000000138
 (CHAINGUN CLICKS)
-(加特林机枪咔哒声)
+(转轮机枪咔哒声)
 
 > #cc_weapons_00000000139
 (CHAINGUN RELOADS)
-(加特林机枪重新装弹)
+(转轮机枪重新装弹)
 
 > #cc_weapons_00000000140
 (ROCKET EXPLODES)
@@ -10480,15 +10480,15 @@ SOULCUBE: Use us!
 
 > #cc_weapons_00000000145
 (CHAINGUN WINDS UP)
-(加特林机枪预热)
+(转轮机枪预热)
 
 > #cc_weapons_00000000146
 (CHAINGUN FIRES)
-(加特林机枪射击)
+(转轮机枪射击)
 
 > #cc_weapons_00000000147
 (CHAINGUN WINDS DOWN)
-(加特林机枪降速)
+(转轮机枪降速)
 
 > #cc_weapons_00000000148
 (AIR WHOOSHING)

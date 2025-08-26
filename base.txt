@@ -42423,7 +42423,7 @@ Urgent attention is required!
 
 出现安全漏洞: 遗物储藏室
 大约时间:     2147-3-15, 上午8:27
-传递自:       维克多·哈尔科夫
+传递自:       维克托·哈尔科夫
 
 这是通过security@EC.net发送的自动生成的消息。
 
@@ -43076,7 +43076,7 @@ Sean Gibson
 
 > #str_erebus5_gibson_email_3_email_from
 Victor Kharkov
-维克多·哈尔科夫
+维克托·哈尔科夫
 
 > #str_erebus5_gibson_email_3_email_subject
 Mail Problems?
@@ -47681,7 +47681,7 @@ Lab Technician
 
 > #str_phobos2_edens_email_1_email_from
 Victor Kharkov
-维克多·哈尔科夫
+维克托·哈尔科夫
 
 > #str_phobos2_edens_email_1_email_subject
 Poker game this Friday!
@@ -47983,7 +47983,7 @@ James Owens
 
 > #str_phobos2_owens_email_2_email_from
 Victor Kharkov
-维克多·哈尔科夫
+维克托·哈尔科夫
 
 > #str_phobos2_owens_email_2_email_subject
 Poker game this Friday!
