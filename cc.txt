@@ -948,7 +948,7 @@ On your knees, soldier!
 
 > #cc_cpuboss_00000000030
 Assholes and elbows!
-屁股和手肘！(意为：快点干活，趴下快动)
+屁股和手肘(快点干活，趴下快动)！
 
 > #cc_delta1_00000000001
 Sgt. Kelley (strangely subdued): Marine... this is Kelley. If you're watching this, you're tougher than I thought...
@@ -968,7 +968,7 @@ It's not far from your position. We'll meet there.
 
 > #cc_delta1_00000000004
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔行动主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_delta1_00000000005
 Assignment of engineers to the lower Delta Labs has become almost impossible.
@@ -996,7 +996,7 @@ They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling th
 
 > #cc_delta1_00000000010
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔行动主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_delta1_00000000011
 Disciplinary Action Report 40C-A, responding to Mars City administration request.
@@ -1068,7 +1068,7 @@ Announcer: System down.
 
 > #cc_delta1_00000000028
 Announcer (distorted): Warning - R-r-reactor corecorecore OfFliNe. f-f-fOLlow safety procedure o-oRange.
-播报员(失真)：警告——反…反…反应堆核心核心核心离线。请…请…请遵循橙色安全规程。
+播报员(失真)：警告——反……反……反应堆核心核心核心离线。请……请……请遵循橙色安全规程。
 
 > #cc_delta1_00000000029
 Terminal: Video linkup requested.
@@ -3868,11 +3868,11 @@ I'm detecting a faint signal from your location. I can track you from here. Hurr
 
 > #cc_le_underground_00000000001
 Warning. Local security lockdown is in effect. Service sub-level access is restricted.
-警告。本地安全封锁已生效。服务次级区域访问受限。
+警告。本地安全封锁已生效。服务下层区域访问受限。
 
 > #cc_le_underground_00000000002
 Security lockdown has been canceled. Sub-level access for authorized personnel permitted.
-安全封锁已取消。授权人员可访问次级区域。
+安全封锁已取消。授权人员可访问下层区域。
 
 > #cc_le_underground2_00000000001
 Marine, I'm picking up a lot of movement heading your direction. There should be a Sentry Bot station nearby, if you need assistance.
@@ -3888,7 +3888,7 @@ Darkstar: Mars Approach, Darkstar with you, zero seven zero, sixty-three, passin
 
 > #cc_mars_city1_00000000003
 S.L. Medley: Roger Darkstar, descend to two thousand, set speed, contact ground on two six nine seven two.
-S.L.梅德利：收到，暗星号，下降到2000，设定速度，在26972频率联系地面。
+S.L.梅德利：收到，暗星号，下降到2000，设定速度，在26972频道联系地面。
 
 > #cc_mars_city1_00000000004
 Darkstar: Roger that, Tower.
@@ -3900,7 +3900,7 @@ Darkstar: Tower, Darkstar on final.
 
 > #cc_mars_city1_00000000006
 S.L. Medley: We've got you Darkstar, you are set for lockdown. Welcome back!
-S.L.梅德利：我们已锁定你，暗星号，你已准备好封锁。欢迎回来！
+S.L.梅德利：我们看到你了，暗星号，你已准备好进行锁定。欢迎回来！
 
 > #cc_mars_city1_00000000007
 (CORPORATE INTRO MUSIC)
@@ -4112,7 +4112,7 @@ and that high costs of mounting a rescue operation have led to the UAC's refusal
 
 > #cc_mars_city1_00000000052
 In IPN's business news, Mixom corporation has filed suit against rival company Moxim,
-在IPN的商业新闻方面，米克松公司已对竞争对手莫克西姆公司提起诉讼，
+在IPN的商业新闻方面，米克森公司已对竞争对手莫克西姆公司提起诉讼，
 
 > #cc_mars_city1_00000000209
 claiming the company infringed on several pressure-sealed patents utilized in planetary bases.
@@ -4120,7 +4120,7 @@ claiming the company infringed on several pressure-sealed patents utilized in pl
 
 > #cc_mars_city1_00000000053
 Moxim lawyers have threatened a countersuit, saying that Mixom creates inferior parts based on original Moxim designs.
-莫克西姆的律师威胁要提起反诉，称米克松公司基于莫克西姆的原始设计制造劣质零件。
+莫克西姆的律师威胁要提起反诉，称米克松公司基于米克森的原始设计制造劣质零件。
 
 > #cc_mars_city1_00000000054
 Senate majority leaders this morning approved a nearly 80.2 trillion dollar spending plan.
@@ -4336,7 +4336,7 @@ H.费纳：你最好快点，你看起来有重要的事情要做。
 
 > #cc_mars_city1_00000000106
 H. Feiner: The last marine that kept the Sergeant waiting was permanently assigned to guard duty at the solid waste facility. You better move!
-H.费纳：上一个让军士长久等的陆战队员被永久调去固体废物处理设施站岗了。你最好快点！
+H.费纳：上一个让士官久等的陆战队员被永久调去固体废物处理设施站岗了。你最好快点！
 
 > #cc_mars_city1_00000000107
 H. Feiner: Sergeant Kelly doesn't like to be kept waiting, you better move along.
@@ -4564,15 +4564,15 @@ S.霍姆斯：你需要尽快向凯利士官报到。他在指挥部总部。
 
 > #cc_mars_city1_00000000160
 S. Holmes: Don't waste anymore time, go see the sarge.
-S.霍姆斯：别再浪费时间了，快去见军士长。
+S.霍姆斯：别再浪费时间了，快去见士官。
 
 > #cc_mars_city1_00000000161
 S. Holmes: Sarge is gonna have your ass if you don't get to Command HQ pronto.
-S.霍姆斯：如果你不立刻赶到指挥部总部，军士长会让你吃不了兜着走。
+S.霍姆斯：如果你不立刻赶到指挥部总部，士官会让你吃不了兜着走。
 
 > #cc_mars_city1_00000000162
 S. Holmes: If you're late reporting in, sarge will have you patrolling outside for a week.
-S.霍姆斯：如果你迟到报到，军士长会让你在外面巡逻一周。
+S.霍姆斯：如果你迟到报到，士官会让你在外面巡逻一周。
 
 > #cc_mars_city1_00000000163
 Don't you have a mission to do?
@@ -4580,7 +4580,7 @@ Don't you have a mission to do?
 
 > #cc_mars_city1_00000000164
 You screw up you that mission and Sarge'll have your ass
-你要是搞砸了那任务，军士长会让你吃不了兜着走。
+你要是搞砸了那任务，士官会让你吃不了兜着走。
 
 > #cc_mars_city1_00000000165
 Doctor: Hold him down.
@@ -4628,7 +4628,7 @@ K.李-克里尔：嘿，这是个棘手的活儿。我不能被打扰。
 
 > #cc_mars_city1_00000000176
 K. Lee-Creel: If you need something, go talk to sarge.
-K.李-克里尔：如果你需要什么，去和军士长说。
+K.李-克里尔：如果你需要什么，去和士官说。
 
 > #cc_mars_city1_00000000177
 V. King: Yes sir.
@@ -4640,7 +4640,7 @@ V.金：你不是有命令要执行吗？
 
 > #cc_mars_city1_00000000179
 V. King: I'm too busy to talk now.
-V.金：我现在太忙了，不能说话。
+V.金：我现在太忙了，没空说话。
 
 > #cc_mars_city1_00000000180
 V. King: Got lots of work here. Sorry.
@@ -4688,11 +4688,11 @@ Sgt. Kelly: Are you deaf, marine? When I say move out, you better move.
 
 > #cc_mars_city1_00000000191
 S. L. Medley: Didn't you hear sarge? He gave you a mission. Move out, marine.
-S.L.梅德利：你没听到军士长的话吗？他给了你一个任务。出发，陆战队员。
+S.L.梅德利：你没听到士官的话吗？他给了你一个任务。出发，陆战队员。
 
 > #cc_mars_city1_00000000192
 S. L. Medley: Sarge will have your ass if you stand here wasting my time.
-S.L.梅德利：如果你站在这里浪费我的时间，军士长会让你吃不了兜着走。
+S.L.梅德利：如果你站在这里浪费我的时间，士官会让你吃不了兜着走。
 
 > #cc_mars_city1_00000000193
 S. L. Medley: I got better things to do than talk to you, marine.
@@ -4824,7 +4824,7 @@ All remaining marine units this is Sergeant Kelly,
 
 > #cc_mars_city2_00000000027
 I am unable to reach Mars City from my current position, move to Marine HQ to regroup and await further orders.
-我目前无法抵达火星城，前往陆战队总部重新集结并等待进一步命令。
+我目前无法抵达火星城，前往陆战队总部重新集结并等待下一步命令。
 
 > #cc_mars_city2_00000000022
 Marine, you gotta get to Bravo team quickly. They need all the firepower they can get. Sending that transmission is critical to our survival.
@@ -6028,7 +6028,7 @@ I will make another report once I've personally investigated the suspect office 
 
 > #cc_pda_00000000092
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营总监，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_pda_00000000093
 Assignment of engineers to the lower Delta Labs has become almost impossible.
@@ -6056,7 +6056,7 @@ They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling th
 
 > #cc_pda_00000000098
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营总监，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_pda_00000000099
 Disciplinary Action Report 40C-A, responding to Mars City administration request.
@@ -6700,7 +6700,7 @@ I'm sure it's just a matter of time before they find me again. I'm convinced the
 
 > #cc_pda_00000000218
 I... I can see them in the shadows sometime... W-why do they taunt me? I'm not sure how much longer I... I-I... I can... I'm shooting at shadows here.
-我……我有时能在阴影中看到他们……他…他们为什么要嘲弄我？我不确定我还能……我…我……我还能坚持多久……我在这里对着影子开枪。
+我……我有时能在阴影中看到他们……他……他们为什么要嘲弄我？我不确定我还能……我……我……我还能坚持多久……我在这里对着影子开枪。
 
 > #cc_pda_00000000219
 And every moment, I feel them creeping closer toward me... Oh God... Oh God, we should never have—
@@ -7504,7 +7504,7 @@ Last week, I reviewed the construction documents and found another item where we
 
 > #cc_pda_00000000371
 My glass subcontractor mentioned the Moxim pressure seals for the exterior windows can be replaced with much cheaper Mixom seals.
-我的玻璃分包商提到，外部窗户的莫西姆压力密封件可以用便宜得多的米克森密封件替换。
+我的玻璃分包商提到，外部窗户的莫克西姆压力密封件可以用便宜得多的米克森密封件替换。
 
 > #cc_pda_00000000372
 I submitted the alternative material selection to the base architect for review.
@@ -7704,7 +7704,7 @@ If you find this, then it probably...
 
 > #cc_phobos2_00000000005
 Sensors are showing the pumping station offline. That's one down. Now, shut down auxiliary power to the research complex.
-传感器显示抽水站离线。一个已关闭。现在，关闭研究综合体的辅助电力。
+传感器显示泵站离线。一个已关闭。现在，关闭研究综合体的辅助电力。
 
 > #cc_phobos2_00000000006
 Auxiliary power is down. Rerouting.
@@ -7724,7 +7724,7 @@ There are four core systems that must be shut down before I can reroute the powe
 
 > #cc_phobos2_00000000009
 Take this. You'll need it to get to the pumping station. Now go!
-拿着这个。你需要它才能到达抽水站。现在去！
+拿着这个。你需要它才能到达泵站。现在去！
 
 > #cc_phobos2_00000000010
 God, it's good to see you.
@@ -7808,7 +7808,7 @@ It's almost like the entire complex is phasing in and out of some kind of electr
 
 > #cc_phobos3_00000000007
 Shutdown in T-minus 10...9...8...7...6...5...4...3...2...1.
-关机倒计时10...9...8...7...6...5...4...3...2...1。
+关机倒计时10……9……8……7……6……5……4……3……2……1。
 
 > #cc_phobos3_00000000008
 Shutdown Sequence Complete.
@@ -8096,7 +8096,7 @@ The air pressure rises
 
 > #cc_recycling1_00000000026
 Computer: Pump station shut down
-电脑：抽水站已关闭
+电脑：泵站关闭
 
 > #cc_recycling1_00000000027
 Warning: Flow control system failure. Toxins identified. Execute cleanup procedure.
@@ -8164,7 +8164,7 @@ Malevolent chuckle
 
 > #cc_recycling2_00000000015
 Computer: Attention - Initiating pump station 1B.
-电脑：注意——正在启动1B号抽水站。
+电脑：注意——正在启动1B号泵站。
 
 > #cc_recycling2_00000000016
 Announcer: Warning - Air filtration system offline. Toxicity level increasing.
@@ -9252,7 +9252,7 @@ Critics of the massive corporation say the Europa's signal is undeniably origina
 
 > #cc_videos_00000000127
 In IPN's business news, Mixom corporation has filed suit against rival company Moxim, claiming the company infringed on several pressure-sealed patents utilized in planetary bases.
-在IPN的商业新闻中，米克松公司已对竞争对手莫克西姆公司提起诉讼，声称该公司侵犯了其在行星基地中使用的多项压力密封专利。
+在IPN的商业新闻中，米克森公司已对竞争对手莫克西姆公司提起诉讼，声称该公司侵犯了其在行星基地中使用的多项压力密封专利。
 
 > #cc_videos_00000000294
 """"""
@@ -9260,7 +9260,7 @@ In IPN's business news, Mixom corporation has filed suit against rival company M
 
 > #cc_videos_00000000128
 Moxim lawyers have threatened a countersuit, saying that Mixom creates inferior parts based on original Moxim designs.
-莫克西姆公司的律师威胁要提起反诉，称米克松公司基于莫克西姆公司的原始设计制造劣质零件。
+莫克西姆公司的律师威胁要提起反诉，称米克森公司基于莫克西姆公司的原始设计制造劣质零件。
 
 > #cc_videos_00000000129
 Senate majority leaders this morning approved a nearly 80.2 trillion dollar spending plan.

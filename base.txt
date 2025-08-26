@@ -39138,7 +39138,7 @@ Delta Labs, Level 1
 
 > #str_delta1_price_pda_title
 Operational Director
-生产主管
+运营主管
 
 > #str_delta2_medical_video_info
 """Creator: Peter Raleigh
