@@ -47,6 +47,13 @@ CC Script Format:
 	name audiolog_commoutside_ridge_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 9500 "#cc_pda_00000000448"
+}
+
+{
+	name audiolog_commoutside_ridge_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 15000 "#cc_pda_00000000075"
 }
 
@@ -72,6 +79,13 @@ CC Script Format:
 }
 
 {
+	name audiolog_commoutside_ridge_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 38000 "#cc_pda_00000000449"
+}
+
+{
 	name audiolog_commoutside_holiday_1
 	color [200, 200, 200, 255]
 	priority 1
@@ -83,6 +97,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 6000 "#cc_pda_00000000078"
+}
+
+{
+	name audiolog_commoutside_holiday_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 11000 "#cc_pda_00000000450"
 }
 
 {

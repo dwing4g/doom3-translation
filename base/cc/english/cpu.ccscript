@@ -131,6 +131,13 @@ CC Script Format:
 	name audiolog_cpu_bates_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 11000 "#cc_pda_00000000451"
+}
+
+{
+	name audiolog_cpu_bates_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 15000 "#cc_pda_00000000082"
 }
 
@@ -138,7 +145,21 @@ CC Script Format:
 	name audiolog_cpu_bates_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 21800 "#cc_pda_00000000452"
+}
+
+{
+	name audiolog_cpu_bates_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 27000 "#cc_pda_00000000083"
+}
+
+{
+	name audiolog_cpu_bates_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32000 "#cc_pda_00000000453"
 }
 
 {
@@ -159,6 +180,13 @@ CC Script Format:
 	name audiolog_cpu_haskell_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12000 "#cc_pda_00000000454"
+}
+
+{
+	name audiolog_cpu_haskell_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 20000 "#cc_pda_00000000086"
 }
 
@@ -167,6 +195,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 28000 "#cc_pda_00000000087"
+}
+
+{
+	name audiolog_cpu_haskell_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 33800 "#cc_pda_00000000455"
 }
 
 {
@@ -187,6 +222,13 @@ CC Script Format:
 	name audiolog_cpu_bates_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 15000 "#cc_pda_00000000456"
+}
+
+{
+	name audiolog_cpu_bates_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 21000 "#cc_pda_00000000090"
 }
 
@@ -194,5 +236,19 @@ CC Script Format:
 	name audiolog_cpu_bates_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 27800 "#cc_pda_00000000457"
+}
+
+{
+	name audiolog_cpu_bates_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 32000 "#cc_pda_00000000091"
+}
+
+{
+	name audiolog_cpu_bates_2
+	color [200, 200, 200, 255]
+	priority 1
+	caption 39000 "#cc_pda_00000000458"
 }

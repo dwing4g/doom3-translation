@@ -138,6 +138,13 @@ CC Script Format:
 	name video_uacwelcome
 	color [200, 200, 200, 255]
 	priority 2
+	caption 60000 "#cc_mars_city1_00000000203"
+}
+
+{
+	name video_uacwelcome
+	color [200, 200, 200, 255]
+	priority 2
 	caption 66000 "#cc_mars_city1_00000000019"
 }
 
@@ -187,6 +194,13 @@ CC Script Format:
 	name video_marine_sops
 	color [200, 200, 200, 255]
 	priority 2
+	caption 27500 "#cc_mars_city1_00000000214"
+}
+
+{
+	name video_marine_sops
+	color [200, 200, 200, 255]
+	priority 2
 	caption 33000 "#cc_mars_city1_00000000026"
 }
 
@@ -201,7 +215,21 @@ CC Script Format:
 	name video_marine_sops
 	color [200, 200, 200, 255]
 	priority 2
+	caption 47500 "#cc_mars_city1_00000000204"
+}
+
+{
+	name video_marine_sops
+	color [200, 200, 200, 255]
+	priority 2
 	caption 57000 "#cc_mars_city1_00000000028"
+}
+
+{
+	name video_marine_sops
+	color [200, 200, 200, 255]
+	priority 2
+	caption 62000 "#cc_mars_city1_00000000205"
 }
 
 {
@@ -313,6 +341,13 @@ CC Script Format:
 	name video_ipn_news
 	color [200, 200, 200, 255]
 	priority 1
+	caption 30000 "#cc_mars_city1_00000000206"
+}
+
+{
+	name video_ipn_news
+	color [200, 200, 200, 255]
+	priority 1
 	caption 34000 "#cc_mars_city1_00000000044"
 }
 
@@ -362,6 +397,13 @@ CC Script Format:
 	name video_ipn_news
 	color [200, 200, 200, 255]
 	priority 1
+	caption 92000 "#cc_mars_city1_00000000207"
+}
+
+{
+	name video_ipn_news
+	color [200, 200, 200, 255]
+	priority 1
 	caption 99000 "#cc_mars_city1_00000000051"
 }
 
@@ -369,7 +411,21 @@ CC Script Format:
 	name video_ipn_news
 	color [200, 200, 200, 255]
 	priority 1
+	caption 106000 "#cc_mars_city1_00000000208"
+}
+
+{
+	name video_ipn_news
+	color [200, 200, 200, 255]
+	priority 1
 	caption 112000 "#cc_mars_city1_00000000052"
+}
+
+{
+	name video_ipn_news
+	color [200, 200, 200, 255]
+	priority 1
+	caption 119000 "#cc_mars_city1_00000000209"
 }
 
 {
@@ -821,6 +877,13 @@ CC Script Format:
 }
 
 {
+	name marscity_speech_bertruger2
+	color [255, 160, 160, 255]
+	priority 0
+	caption 6000 "#cc_mars_city1_00000000211"
+}
+
+{
 	name marscity_speech_swann3
 	color [170, 170, 255, 255]
 	priority 0
@@ -835,10 +898,24 @@ CC Script Format:
 }
 
 {
+	name marscity_speech_bertruger3
+	color [255, 160, 160, 255]
+	priority 0
+	caption 4500 "#cc_mars_city1_00000000212"
+}
+
+{
 	name marscity_speech_swann4
 	color [170, 170, 255, 255]
 	priority 0
 	caption 0 "#cc_mars_city1_00000000118"
+}
+
+{
+	name marscity_speech_swann4
+	color [170, 170, 255, 255]
+	priority 0
+	caption 4000 "#cc_mars_city1_00000000213"
 }
 
 {
@@ -1433,7 +1510,14 @@ CC Script Format:
 	name video_plasmagun
 	color [200, 200, 200, 255]
 	priority 1
-	caption 0 "#cc_videos_00000000145"
+	caption 0 "#cc_videos_00000000331"
+}
+
+{
+	name video_plasmagun
+	color [200, 200, 200, 255]
+	priority 1
+	caption 4000 "#cc_videos_00000000145"
 }
 
 {
@@ -1447,7 +1531,21 @@ CC Script Format:
 	name video_plasmagun
 	color [200, 200, 200, 255]
 	priority 1
+	caption 17000 "#cc_videos_00000000298"
+}
+
+{
+	name video_plasmagun
+	color [200, 200, 200, 255]
+	priority 1
 	caption 24000 "#cc_videos_00000000147"
+}
+
+{
+	name video_plasmagun
+	color [200, 200, 200, 255]
+	priority 1
+	caption 30000 "#cc_videos_00000000299"
 }
 
 {

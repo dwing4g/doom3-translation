@@ -100,10 +100,24 @@ CC Script Format:
 }
 
 {
+	name admin_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
+	caption 6000 "#cc_admin_00000000019"
+}
+
+{
 	name admin_swann_it_isnt_working
 	color [170, 170, 255, 255]
 	priority 0
 	caption 0 "#cc_admin_00000000014"
+}
+
+{
+	name admin_swann_it_isnt_working
+	color [170, 170, 255, 255]
+	priority 0
+	caption 6500 "#cc_admin_00000000020"
 }
 
 {
@@ -159,7 +173,21 @@ CC Script Format:
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
+	caption 26900 "#cc_videos_00000000256"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
 	caption 30000 "#cc_videos_00000000004"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 40500 "#cc_videos_00000000257"
 }
 
 {
@@ -173,7 +201,21 @@ CC Script Format:
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
+	caption 52000 "#cc_videos_00000000258"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
 	caption 55000 "#cc_videos_00000000006"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 62000 "#cc_videos_00000000259"
 }
 
 {
@@ -208,6 +250,13 @@ CC Script Format:
 	name video_alphalabs_intro
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12500 "#cc_videos_00000000268"
+}
+
+{
+	name video_alphalabs_intro
+	color [200, 200, 200, 255]
+	priority 1
 	caption 21000 "#cc_videos_00000000027"
 }
 
@@ -223,6 +272,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 38000 "#cc_videos_00000000028"
+}
+
+{
+	name video_alphalabs_intro
+	color [200, 200, 200, 255]
+	priority 1
+	caption 45500 "#cc_videos_00000000269"
 }
 
 {
@@ -264,6 +320,13 @@ CC Script Format:
 	name audiolog_admin_banks_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 21000 "#cc_pda_00000000418"
+}
+
+{
+	name audiolog_admin_banks_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 24000 "#cc_pda_00000000004"
 }
 
@@ -272,6 +335,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 31000 "#cc_pda_00000000005"
+}
+
+{
+	name audiolog_admin_banks_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 40500 "#cc_pda_00000000419"
 }
 
 {
@@ -313,6 +383,13 @@ CC Script Format:
 	name audiolog_admin_banks_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 29000 "#cc_pda_00000000420"
+}
+
+{
+	name audiolog_admin_banks_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 35000 "#cc_pda_00000000011"
 }
 
@@ -334,6 +411,13 @@ CC Script Format:
 	name audiolog_admin_simons_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 7000 "#cc_pda_00000000421"
+}
+
+{
+	name audiolog_admin_simons_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 12000 "#cc_pda_00000000397"
 }
 
@@ -348,9 +432,22 @@ CC Script Format:
 	name audiolog_admin_simons_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 21000 "#cc_pda_00000000422"
+}
+
+{
+	name audiolog_admin_simons_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 28000 "#cc_pda_00000000015"
 }
 
+{
+	name audiolog_admin_simons_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 34000 "#cc_pda_00000000423"
+}
 {
 	name audiolog_admin_simons_1
 	color [200, 200, 200, 255]

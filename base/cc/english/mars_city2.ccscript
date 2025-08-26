@@ -54,6 +54,13 @@ CC Script Format:
 	name sound/VO/mars_city2/sarge_mission_brief
 	color [160, 255, 160, 255]
 	priority 0
+	caption 22000 "#cc_mars_city2_00000000026"
+}
+
+{
+	name sound/VO/mars_city2/sarge_mission_brief
+	color [160, 255, 160, 255]
+	priority 0
 	caption 28000 "#cc_mars_city2_00000000007"
 }
 
@@ -149,6 +156,13 @@ CC Script Format:
 }
 
 {
+	name mc2_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
+	caption 3000 "#cc_mars_city2_00000000027"
+}
+
+{
 	name mc2_sarge_radio2
 	color [160, 255, 160, 255]
 	priority 0
@@ -194,7 +208,21 @@ CC Script Format:
 	name audiolog_marscity2_caseon_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 20000 "#cc_pda_00000000490"
+}
+
+{
+	name audiolog_marscity2_caseon_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 28000 "#cc_pda_00000000223"
+}
+
+{
+	name audiolog_marscity2_caseon_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 37000 "#cc_pda_00000000491"
 }
 
 {
@@ -223,6 +251,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 15000 "#cc_pda_00000000227"
+}
+
+{
+	name audiolog_marscity2_caseon_2
+	color [200, 200, 200, 255]
+	priority 1
+	caption 23000 "#cc_pda_00000000492"
 }
 
 {
@@ -264,7 +299,21 @@ CC Script Format:
 	name audiolog_marscity2_tyson_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 4500 "#cc_pda_00000000496"
+}
+
+{
+	name audiolog_marscity2_tyson_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 10000 "#cc_pda_00000000235"
+}
+
+{
+	name audiolog_marscity2_tyson_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 17000 "#cc_pda_00000000497"
 }
 
 {
@@ -279,6 +328,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 25000 "#cc_pda_00000000237"
+}
+
+{
+	name audiolog_marscity2_tyson_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 31500 "#cc_pda_00000000498"
 }
 
 {
@@ -306,6 +362,13 @@ CC Script Format:
 	name audiolog_marscity2_tyson_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 13200 "#cc_pda_00000000493"
+}
+
+{
+	name audiolog_marscity2_tyson_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 18000 "#cc_pda_00000000232"
 }
 
@@ -313,7 +376,21 @@ CC Script Format:
 	name audiolog_marscity2_tyson_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 23500 "#cc_pda_00000000494"
+}
+
+{
+	name audiolog_marscity2_tyson_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 27000 "#cc_pda_00000000233"
+}
+
+{
+	name audiolog_marscity2_tyson_2
+	color [200, 200, 200, 255]
+	priority 1
+	caption 34500 "#cc_pda_00000000495"
 }
 
 {
@@ -334,7 +411,21 @@ CC Script Format:
 	name audiolog_marscity2_stanton_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 9000 "#cc_pda_00000000499"
+}
+
+{
+	name audiolog_marscity2_stanton_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 14000 "#cc_pda_00000000241"
+}
+
+{
+	name audiolog_marscity2_stanton_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 17500 "#cc_pda_00000000500"
 }
 
 {
@@ -348,7 +439,21 @@ CC Script Format:
 	name audiolog_marscity2_stanton_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 32000 "#cc_pda_00000000501"
+}
+
+{
+	name audiolog_marscity2_stanton_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 39000 "#cc_pda_00000000243"
+}
+
+{
+	name audiolog_marscity2_stanton_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 47200 "#cc_pda_00000000502"
 }
 
 {

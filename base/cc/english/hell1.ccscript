@@ -86,6 +86,13 @@ CC Script Format:
 }
 
 {
+	name sound/vo/hell/soulcube_line1
+	color [200, 200, 200, 255]
+	priority 0
+	caption 12500 "#cc_hell1_00000000019"
+}
+
+{
 	name sound/vo/hell/soulcube_line13
 	color [200, 200, 200, 255]
 	priority 0
@@ -159,7 +166,21 @@ CC Script Format:
 	name audiolog_hell_garlick_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 17000 "#cc_pda_00000000487"
+}
+
+{
+	name audiolog_hell_garlick_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 23000 "#cc_pda_00000000208"
+}
+
+{
+	name audiolog_hell_garlick_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32500 "#cc_pda_00000000488"
 }
 
 {
@@ -174,6 +195,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 47000 "#cc_pda_00000000210"
+}
+
+{
+	name audiolog_hell_garlick_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 55000 "#cc_pda_00000000489"
 }
 
 {

@@ -40,6 +40,14 @@ CC Script Format:
 	name video_bfg
 	color [200, 200, 200, 255]
 	priority 1
+	caption 36200 "#cc_cpuboss_00000000031"
+}
+
+
+{
+	name video_bfg
+	color [200, 200, 200, 255]
+	priority 1
 	caption 39000 "#cc_cpuboss_00000000005"
 }
 
@@ -61,7 +69,14 @@ CC Script Format:
 	name video_bfg
 	color [200, 200, 200, 255]
 	priority 1
-	caption 69000 "#cc_cpuboss_00000000008"
+	caption 60000 "#cc_cpuboss_00000000032"
+}
+
+{
+	name video_bfg
+	color [200, 200, 200, 255]
+	priority 1
+	caption 67500 "#cc_cpuboss_00000000008"
 }
 
 {

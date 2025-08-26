@@ -11,98 +11,119 @@ CC Script Format:
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 0 "#cc_hellhole_00000000001"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
+	caption 4200 "#cc_hellhole_00000000039"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
 	caption 10000 "#cc_hellhole_00000000002"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 16000 "#cc_hellhole_00000000003"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 23000 "#cc_hellhole_00000000004"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 31000 "#cc_hellhole_00000000005"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
+	caption 37000 "#cc_hellhole_00000000040"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
 	caption 42000 "#cc_hellhole_00000000006"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 50000 "#cc_hellhole_00000000007"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 57000 "#cc_hellhole_00000000008"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
+	caption 64500 "#cc_hellhole_00000000041"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
 	caption 68000 "#cc_hellhole_00000000009"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 77000 "#cc_hellhole_00000000010"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 83000 "#cc_hellhole_00000000011"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 90000 "#cc_hellhole_00000000012"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 98000 "#cc_hellhole_00000000013"
 }
 
 {
 	name video_tablets
 	color [200, 200, 200, 255]
-	priority 0
+	priority 1
 	caption 102000 "#cc_hellhole_00000000014"
 }
 

@@ -93,6 +93,13 @@ CC Script Format:
 }
 
 {
+	name e1_dying_marine_grabber
+	color [200, 200, 200, 255]
+	priority 0
+	caption 9000 "#cc_erebus1_00000000040"
+}
+
+{
 	name e1_mchatter_01
 	color [200, 200, 200, 255]
 	priority 0
@@ -341,6 +348,13 @@ CC Script Format:
 	name video_generator
 	color [200, 200, 200, 255]
 	priority 1
+	caption 23000 "#cc_videos_00000000314"
+}
+
+{
+	name video_generator
+	color [200, 200, 200, 255]
+	priority 1
 	caption 30000 "#cc_videos_00000000202"
 }
 
@@ -376,7 +390,21 @@ CC Script Format:
 	name video_deployment
 	color [200, 200, 200, 255]
 	priority 1
+	caption 8000 "#cc_videos_00000000317"
+}
+
+{
+	name video_deployment
+	color [200, 200, 200, 255]
+	priority 1
 	caption 14500 "#cc_videos_00000000215"
+}
+
+{
+	name video_deployment
+	color [200, 200, 200, 255]
+	priority 1
+	caption 20000 "#cc_videos_00000000318"
 }
 
 {
@@ -390,6 +418,13 @@ CC Script Format:
 	name video_deployment
 	color [200, 200, 200, 255]
 	priority 1
+	caption 36000 "#cc_videos_00000000319"
+}
+
+{
+	name video_deployment
+	color [200, 200, 200, 255]
+	priority 1
 	caption 44000 "#cc_videos_00000000217"
 }
 
@@ -397,7 +432,21 @@ CC Script Format:
 	name video_deployment
 	color [200, 200, 200, 255]
 	priority 1
+	caption 50800 "#cc_videos_00000000320"
+}
+
+{
+	name video_deployment
+	color [200, 200, 200, 255]
+	priority 1
 	caption 56000 "#cc_videos_00000000218"
+}
+
+{
+	name video_deployment
+	color [200, 200, 200, 255]
+	priority 1
+	caption 59800 "#cc_videos_00000000321"
 }
 
 {

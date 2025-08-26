@@ -19,6 +19,13 @@ CC Script Format:
 	name sound/VO/delta1/sarge_video1
 	color [160, 255, 160, 255]
 	priority 0
+	caption 6800 "#cc_delta1_00000000037"
+}
+
+{
+	name sound/VO/delta1/sarge_video1
+	color [160, 255, 160, 255]
+	priority 0
 	caption 9000 "#cc_delta1_00000000002"
 }
 
@@ -62,6 +69,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 25000 "#cc_delta1_00000000008"
+}
+
+{
+	name audiolog_delta1_price_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 31500 "#cc_delta1_00000000038"
 }
 
 {

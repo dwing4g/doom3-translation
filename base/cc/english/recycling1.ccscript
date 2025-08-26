@@ -71,7 +71,6 @@ CC Script Format:
 	caption 43600 "#cc_recycling1_00000000029"
 }
 
-
 {
 	name audiolog_recycling1_sadowayj_1
 	color [200, 200, 200, 255]
@@ -118,6 +117,13 @@ CC Script Format:
 	name video_recycling
 	color [200, 200, 200, 255]
 	priority 1
+	caption 29000 "#cc_recycling1_00000000031"
+}
+
+{
+	name video_recycling
+	color [200, 200, 200, 255]
+	priority 1
 	caption 36000 "#cc_recycling1_00000000015"
 }
 
@@ -147,6 +153,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 63000 "#cc_recycling1_00000000019"
+}
+
+{
+	name video_recycling
+	color [200, 200, 200, 255]
+	priority 1
+	caption 67000 "#cc_recycling1_00000000032"
 }
 
 {

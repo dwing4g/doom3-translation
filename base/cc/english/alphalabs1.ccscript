@@ -12,126 +12,182 @@ CC Script Format:
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 0 "#cc_alphalabs1_00000000001"
+	caption 0 "#cc_videos_00000000001"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 8000 "#cc_alphalabs1_00000000002"
+	caption 8000 "#cc_videos_00000000002"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 19000 "#cc_alphalabs1_00000000003"
+	caption 19000 "#cc_videos_00000000003"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 30000 "#cc_alphalabs1_00000000004"
+	caption 26900 "#cc_videos_00000000256"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 43000 "#cc_alphalabs1_00000000005"
+	caption 30000 "#cc_videos_00000000004"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 55000 "#cc_alphalabs1_00000000006"
+	caption 40500 "#cc_videos_00000000257"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 69000 "#cc_alphalabs1_00000000007"
+	caption 43000 "#cc_videos_00000000005"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 79000 "#cc_alphalabs1_00000000008"
+	caption 52000 "#cc_videos_00000000258"
 }
 
 {
 	name sound/VO/video/epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 84000 "#cc_alphalabs1_00000000009"
+	caption 55000 "#cc_videos_00000000006"
+}
+
+{
+	name sound/VO/video/epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 62000 "#cc_videos_00000000259"
+}
+
+{
+	name sound/VO/video/epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 69000 "#cc_videos_00000000007"
+}
+
+{
+	name sound/VO/video/epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 79000 "#cc_videos_00000000008"
+}
+
+{
+	name sound/VO/video/epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 84000 "#cc_videos_00000000009"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 0 "#cc_alphalabs1_00000000001"
+	caption 0 "#cc_videos_00000000001"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 8000 "#cc_alphalabs1_00000000002"
+	caption 8000 "#cc_videos_00000000002"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 19000 "#cc_alphalabs1_00000000003"
+	caption 19000 "#cc_videos_00000000003"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 30000 "#cc_alphalabs1_00000000004"
+	caption 26900 "#cc_videos_00000000256"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 43000 "#cc_alphalabs1_00000000005"
+	caption 30000 "#cc_videos_00000000004"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 55000 "#cc_alphalabs1_00000000006"
+	caption 40500 "#cc_videos_00000000257"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 69000 "#cc_alphalabs1_00000000007"
+	caption 43000 "#cc_videos_00000000005"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 79000 "#cc_alphalabs1_00000000008"
+	caption 52000 "#cc_videos_00000000258"
 }
 
 {
 	name video_epd
 	color [200, 200, 200, 255]
 	priority 1
-	caption 84000 "#cc_alphalabs1_00000000009"
+	caption 55000 "#cc_videos_00000000006"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 62000 "#cc_videos_00000000259"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 69000 "#cc_videos_00000000007"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 79000 "#cc_videos_00000000008"
+}
+
+{
+	name video_epd
+	color [200, 200, 200, 255]
+	priority 1
+	caption 84000 "#cc_videos_00000000009"
 }
 
 {
@@ -173,6 +229,13 @@ CC Script Format:
 	name video_hydrocon
 	color [200, 200, 200, 255]
 	priority 1
+	caption 46000 "#cc_alphalabs1_00000000034"
+}
+
+{
+	name video_hydrocon
+	color [200, 200, 200, 255]
+	priority 1
 	caption 50000 "#cc_alphalabs1_00000000015"
 }
 
@@ -187,7 +250,21 @@ CC Script Format:
 	name video_hydrocon
 	color [200, 200, 200, 255]
 	priority 1
+	caption 65500 "#cc_alphalabs1_00000000035"
+}
+
+{
+	name video_hydrocon
+	color [200, 200, 200, 255]
+	priority 1
 	caption 70000 "#cc_alphalabs1_00000000017"
+}
+
+{
+	name video_hydrocon
+	color [200, 200, 200, 255]
+	priority 1
+	caption 75000 "#cc_alphalabs1_00000000036"
 }
 
 {
@@ -247,6 +324,13 @@ CC Script Format:
 }
 
 {
+	name alphalabs1_labcoat_trigger
+	color [200, 200, 200, 255]
+	priority 0
+	caption 7000 "#cc_alphalabs1_00000000037"
+}
+
+{
 	name alphalabs1_labcoat_trigger2
 	color [200, 200, 200, 255]
 	priority 0
@@ -258,6 +342,13 @@ CC Script Format:
 	color [160, 255, 160, 255]
 	priority 0
 	caption 0 "#cc_alphalabs1_00000000029"
+}
+
+{
+	name alpha1_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
+	caption 7500 "#cc_alphalabs1_00000000038"
 }
 
 {
@@ -285,6 +376,13 @@ CC Script Format:
 	name audiolog_alphalabs1_berger_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 23000 "#cc_pda_00000000427"
+}
+
+{
+	name audiolog_alphalabs1_berger_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 26800 "#cc_pda_00000000399"
 }
 
@@ -293,6 +391,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 33000 "#cc_pda_00000000027"
+}
+
+{
+	name audiolog_alphalabs1_berger_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 40000 "#cc_pda_00000000428"
 }
 
 {
@@ -308,6 +413,14 @@ CC Script Format:
 	priority 1
 	caption 51000 "#cc_pda_00000000028"
 }
+
+{
+	name audiolog_alphalabs1_berger_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 61000 "#cc_pda_00000000429"
+}
+
 
 {
 	name audiolog_alphalabs1_smith_1
@@ -334,7 +447,21 @@ CC Script Format:
 	name audiolog_alphalabs1_smith_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 17500 "#cc_pda_00000000424"
+}
+
+{
+	name audiolog_alphalabs1_smith_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 23000 "#cc_pda_00000000021"
+}
+
+{
+	name audiolog_alphalabs1_smith_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 30500 "#cc_pda_00000000425"
 }
 
 {
@@ -348,7 +475,7 @@ CC Script Format:
 	name audiolog_alphalabs1_smith_1
 	color [200, 200, 200, 255]
 	priority 1
-	caption 40000 "#cc_pda_00000000022"
+	caption 41500 "#cc_pda_00000000022"
 }
 
 {
@@ -362,7 +489,14 @@ CC Script Format:
 	name audiolog_alphalabs1_smith_1
 	color [200, 200, 200, 255]
 	priority 1
-	caption 53000 "#cc_pda_00000000023"
+	caption 50000 "#cc_pda_00000000426"
+}
+
+{
+	name audiolog_alphalabs1_smith_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 54000 "#cc_pda_00000000023"
 }
 
 {
@@ -404,6 +538,13 @@ CC Script Format:
 	name sound/VO/video/hydrocon
 	color [200, 200, 200, 255]
 	priority 1
+	caption 46000 "#cc_alphalabs1_00000000034"
+}
+
+{
+	name sound/VO/video/hydrocon
+	color [200, 200, 200, 255]
+	priority 1
 	caption 50000 "#cc_alphalabs1_00000000015"
 }
 
@@ -418,7 +559,21 @@ CC Script Format:
 	name sound/VO/video/hydrocon
 	color [200, 200, 200, 255]
 	priority 1
+	caption 65500 "#cc_alphalabs1_00000000035"
+}
+
+{
+	name sound/VO/video/hydrocon
+	color [200, 200, 200, 255]
+	priority 1
 	caption 70000 "#cc_alphalabs1_00000000017"
+}
+
+{
+	name sound/VO/video/hydrocon
+	color [200, 200, 200, 255]
+	priority 1
+	caption 75000 "#cc_alphalabs1_00000000036"
 }
 
 {

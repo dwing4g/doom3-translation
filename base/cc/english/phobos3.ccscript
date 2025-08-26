@@ -23,6 +23,13 @@ CC Script Format:
 }
 
 {
+	name p3_mcneil_support
+	color [220, 100, 25, 255]
+	priority 0
+	caption 11000 "#cc_phobos3_00000000010"
+}
+
+{
 	name p3_mcneil_shutdownpt1
 	color [220, 100, 25, 255]
 	priority 0
@@ -37,6 +44,13 @@ CC Script Format:
 }
 
 {
+	name p3_mcneil_shutdownpt1
+	color [220, 100, 25, 255]
+	priority 0
+	caption 9000 "#cc_phobos3_00000000011"
+}
+
+{
 	name p4_mcneil_warning
 	color [220, 100, 25, 255]
 	priority 0
@@ -48,6 +62,13 @@ CC Script Format:
 	color [220, 100, 25, 255]
 	priority 0
 	caption 8500 "#cc_phobos3_00000000006"
+}
+
+{
+	name p4_mcneil_warning
+	color [220, 100, 25, 255]
+	priority 0
+	caption 13000 "#cc_phobos3_00000000012"
 }
 
 {

@@ -19,6 +19,13 @@ CC Script Format:
 	name alpha4_sarge_radio1
 	color [160, 255, 160, 255]
 	priority 0
+	caption 4500 "#cc_alphalabs4_00000000010"
+}
+
+{
+	name alpha4_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
 	caption 10000 "#cc_alphalabs4_00000000002"
 }
 
@@ -82,6 +89,13 @@ CC Script Format:
 	name audiolog_alphalabs3_nelson_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 28000 "#cc_pda_00000000435"
+}
+
+{
+	name audiolog_alphalabs3_nelson_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 33000 "#cc_pda_00000000043"
 }
 
@@ -96,6 +110,13 @@ CC Script Format:
 	name audiolog_alphalabs3_nelson_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 46000 "#cc_pda_00000000436"
+}
+
+{
+	name audiolog_alphalabs3_nelson_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 52000 "#cc_pda_00000000045"
 }
 
@@ -104,6 +125,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 59000 "#cc_pda_00000000046"
+}
+
+{
+	name audiolog_alphalabs3_nelson_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 68000 "#cc_pda_00000000437"
 }
 
 {
@@ -160,6 +188,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 54000 "#cc_pda_00000000054"
+}
+
+{
+	name audiolog_alphalabs3_abrams_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 63000 "#cc_pda_00000000438"
 }
 
 {
@@ -250,7 +285,21 @@ CC Script Format:
 	name video_chaingun
 	color [200, 200, 200, 255]
 	priority 0
+	caption 8000 "#cc_videos_00000000278"
+}
+
+{
+	name video_chaingun
+	color [200, 200, 200, 255]
+	priority 0
 	caption 14000 "#cc_videos_00000000053"
+}
+
+{
+	name video_chaingun
+	color [200, 200, 200, 255]
+	priority 0
+	caption 20500 "#cc_videos_00000000279"
 }
 
 {

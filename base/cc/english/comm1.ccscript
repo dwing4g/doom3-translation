@@ -147,6 +147,12 @@ CC Script Format:
 	priority 0
 	caption 0 "#cc_comm1_00000000020"
 }
+{
+	name sound/VO/comm/sarge_radio18
+	color [160, 255, 160, 255]
+	priority 0
+	caption 4500 "#cc_comm1_00000000025"
+}
 
 {
 	name sound/VO/comm/swann_overhear1
@@ -163,6 +169,13 @@ CC Script Format:
 }
 
 {
+	name sound/vo/comm/swann_vidphone1
+	color [170, 170, 255, 255]
+	priority 0
+	caption 8200 "#cc_comm1_00000000026"
+}
+
+{
 	name sound/vo/comm/swann_vidphone2
 	color [170, 170, 255, 255]
 	priority 0
@@ -170,10 +183,24 @@ CC Script Format:
 }
 
 {
+	name sound/vo/comm/swann_vidphone2
+	color [170, 170, 255, 255]
+	priority 0
+	caption 7000 "#cc_comm1_00000000027"
+}
+
+{
 	name sound/vo/comm/swann_vidphone3
 	color [170, 170, 255, 255]
 	priority 0
 	caption 0 "#cc_comm1_00000000024"
+}
+
+{
+	name sound/vo/comm/swann_vidphone3
+	color [170, 170, 255, 255]
+	priority 0
+	caption 7500 "#cc_comm1_00000000028"
 }
 
 {
@@ -201,7 +228,21 @@ CC Script Format:
 	name audiolog_comm1_blake_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 20500 "#cc_pda_00000000444"
+}
+
+{
+	name audiolog_comm1_blake_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 25000 "#cc_pda_00000000068"
+}
+
+{
+	name audiolog_comm1_blake_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32200 "#cc_pda_00000000445"
 }
 
 {
@@ -230,6 +271,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 7000 "#cc_pda_00000000071"
+}
+
+{
+	name audiolog_comm1_wolfe_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 15500 "#cc_pda_00000000446"
 }
 
 {

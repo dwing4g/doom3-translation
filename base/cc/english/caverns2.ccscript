@@ -42,6 +42,12 @@ CC Script Format:
 	priority 0
 	caption 0 "#cc_caverns2_00000000005"
 }
+{
+	name caverns2_maint1_trig
+	color [200, 200, 200, 255]
+	priority 0
+	caption 5000 "#cc_caverns2_00000000007"
+}
 
 {
 	name sound/VO/caverns2/maint1_whimper1
@@ -61,7 +67,21 @@ CC Script Format:
 	name video_ancient_civ
 	color [200, 200, 200, 255]
 	priority 1
+	caption 4500 "#cc_videos_00000000270"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
 	caption 10000 "#cc_videos_00000000032"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
+	caption 15000 "#cc_videos_00000000271"
 }
 
 {
@@ -103,6 +123,13 @@ CC Script Format:
 	name video_ancient_civ
 	color [200, 200, 200, 255]
 	priority 1
+	caption 57500 "#cc_videos_00000000272"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
 	caption 64000 "#cc_videos_00000000036"
 }
 
@@ -131,7 +158,21 @@ CC Script Format:
 	name video_ancient_civ
 	color [200, 200, 200, 255]
 	priority 1
+	caption 91500 "#cc_videos_00000000273"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
 	caption 99000 "#cc_videos_00000000039"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
+	caption 108000 "#cc_videos_00000000274"
 }
 
 {
@@ -152,6 +193,13 @@ CC Script Format:
 	name video_ancient_civ
 	color [200, 200, 200, 255]
 	priority 1
+	caption 127000 "#cc_videos_00000000275"
+}
+
+{
+	name video_ancient_civ
+	color [200, 200, 200, 255]
+	priority 1
 	caption 132000 "#cc_videos_00000000042"
 }
 
@@ -160,6 +208,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 0 "#cc_hellhole_00000000001"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
+	caption 4200 "#cc_hellhole_00000000039"
 }
 
 {
@@ -194,6 +249,13 @@ CC Script Format:
 	name video_tablets
 	color [200, 200, 200, 255]
 	priority 1
+	caption 37000 "#cc_hellhole_00000000040"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
 	caption 42000 "#cc_hellhole_00000000006"
 }
 
@@ -209,6 +271,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 57000 "#cc_hellhole_00000000008"
+}
+
+{
+	name video_tablets
+	color [200, 200, 200, 255]
+	priority 1
+	caption 64500 "#cc_hellhole_00000000041"
 }
 
 {

@@ -82,6 +82,7 @@ local function escapeCmd(cmd)
 end
 
 local function genCmdHeader()
+	-- -x "http://127.0.0.1:7890"
 	return 'curl "' .. G.url .. '" -X POST -H "Content-Type: application/json"' .. (G.openai_api_key and (' -H "x-goog-api-key: ' .. G.openai_api_key .. '"') or '')
 end
 

@@ -23,6 +23,13 @@ CC Script Format:
 }
 
 {
+	name rchat_meyers_exis_03
+	color [102, 178, 255, 255]
+	priority 0
+	caption 4800 "#cc_exis2_00000000014"
+}
+
+{
 	name sound/VO/exis/computer_exis_03
 	color [200, 200, 200, 255]
 	priority 0
@@ -89,6 +96,13 @@ CC Script Format:
 	name vo/exis/meyers_exis_anim_02
 	color [102, 178, 255, 255]
 	priority 0
+	caption 8000 "#cc_exis2_00000000015"
+}
+
+{
+	name vo/exis/meyers_exis_anim_02
+	color [102, 178, 255, 255]
+	priority 0
 	caption 13000 "#cc_exis2_00000000009"
 }
 
@@ -110,6 +124,13 @@ CC Script Format:
 	name vo/exis/meyers_exis_anim_02
 	color [102, 178, 255, 255]
 	priority 0
+	caption 38800 "#cc_exis2_00000000016"
+}
+
+{
+	name vo/exis/meyers_exis_anim_02
+	color [102, 178, 255, 255]
+	priority 0
 	caption 42000 "#cc_exis2_00000000012"
 }
 
@@ -117,7 +138,21 @@ CC Script Format:
 	name vo/exis/meyers_exis_anim_02
 	color [102, 178, 255, 255]
 	priority 0
+	caption 48800 "#cc_exis2_00000000017"
+}
+
+{
+	name vo/exis/meyers_exis_anim_02
+	color [102, 178, 255, 255]
+	priority 0
 	caption 54100 "#cc_exis2_00000000013"
+}
+
+{
+	name vo/exis/meyers_exis_anim_02
+	color [102, 178, 255, 255]
+	priority 0
+	caption 61800 "#cc_exis2_00000000018"
 }
 
 {
@@ -166,7 +201,21 @@ CC Script Format:
 	name audiolog_folsom_exis_pda_01
 	color [200, 200, 200, 255]
 	priority 1
+	caption 43500 "#cc_pda_00000000543"
+}
+
+{
+	name audiolog_folsom_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
 	caption 50000 "#cc_pda_00000000373"
+}
+
+{
+	name audiolog_folsom_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 56000 "#cc_pda_00000000544"
 }
 
 {
@@ -187,7 +236,21 @@ CC Script Format:
 	name audiolog_folsom_exis_pda_01
 	color [200, 200, 200, 255]
 	priority 1
+	caption 75000 "#cc_pda_00000000545"
+}
+
+{
+	name audiolog_folsom_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
 	caption 81000 "#cc_pda_00000000376"
+}
+
+{
+	name audiolog_folsom_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 88000 "#cc_pda_00000000546"
 }
 
 {
@@ -216,6 +279,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 17500 "#cc_pda_00000000380"
+}
+
+{
+	name audiolog_tooley_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 22500 "#cc_pda_00000000547"
 }
 
 {
@@ -264,6 +334,13 @@ CC Script Format:
 	name audiolog_tooley_exis_pda_01
 	color [200, 200, 200, 255]
 	priority 1
+	caption 65500 "#cc_pda_00000000548"
+}
+
+{
+	name audiolog_tooley_exis_pda_01
+	color [200, 200, 200, 255]
+	priority 1
 	caption 71500 "#cc_pda_00000000387"
 }
 
@@ -299,7 +376,21 @@ CC Script Format:
 	name audiolog_tooley_exis_pda_02
 	color [200, 200, 200, 255]
 	priority 1
+	caption 15300 "#cc_pda_00000000549"
+}
+
+{
+	name audiolog_tooley_exis_pda_02
+	color [200, 200, 200, 255]
+	priority 1
 	caption 19500 "#cc_pda_00000000392"
+}
+
+{
+	name audiolog_tooley_exis_pda_02
+	color [200, 200, 200, 255]
+	priority 1
+	caption 28500 "#cc_pda_00000000550"
 }
 
 {
@@ -327,6 +418,13 @@ CC Script Format:
 	name video_meyers_report
 	color [102, 178, 255, 255]
 	priority 1
+	caption 11500 "#cc_videos_00000000322"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
 	caption 20000 "#cc_videos_00000000222"
 }
 
@@ -341,7 +439,21 @@ CC Script Format:
 	name video_meyers_report
 	color [102, 178, 255, 255]
 	priority 1
+	caption 33500 "#cc_videos_00000000323"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
 	caption 38000 "#cc_videos_00000000224"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
+	caption 42000 "#cc_videos_00000000324"
 }
 
 {
@@ -397,6 +509,13 @@ CC Script Format:
 	name video_meyers_report
 	color [102, 178, 255, 255]
 	priority 1
+	caption 102000 "#cc_videos_00000000325"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
 	caption 107000 "#cc_videos_00000000232"
 }
 
@@ -419,6 +538,13 @@ CC Script Format:
 	color [102, 178, 255, 255]
 	priority 1
 	caption 125500 "#cc_videos_00000000235"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
+	caption 130500 "#cc_videos_00000000326"
 }
 
 {
@@ -460,7 +586,21 @@ CC Script Format:
 	name video_meyers_report
 	color [102, 178, 255, 255]
 	priority 1
+	caption 175500 "#cc_videos_00000000327"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
 	caption 181500 "#cc_videos_00000000241"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
+	caption 189000 "#cc_videos_00000000328"
 }
 
 {
@@ -488,6 +628,13 @@ CC Script Format:
 	name video_meyers_report
 	color [102, 178, 255, 255]
 	priority 1
+	caption 230000 "#cc_videos_00000000329"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
 	caption 235000 "#cc_videos_00000000245"
 }
 
@@ -503,6 +650,13 @@ CC Script Format:
 	color [102, 178, 255, 255]
 	priority 1
 	caption 253000 "#cc_videos_00000000247"
+}
+
+{
+	name video_meyers_report
+	color [102, 178, 255, 255]
+	priority 1
+	caption 259000 "#cc_videos_00000000330"
 }
 
 {

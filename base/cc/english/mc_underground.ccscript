@@ -289,6 +289,13 @@ CC Script Format:
 }
 
 {
+	name ian_mcu_trigger
+	color [200, 200, 200, 255]
+	priority 0
+	caption 4500 "#cc_mc_underground_00000000102"
+}
+
+{
 	name ian_mcu_primary
 	color [200, 200, 200, 255]
 	priority 0
@@ -307,6 +314,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 0
 	caption 0 "#cc_mc_underground_00000000042"
+}
+
+{
+	name mark_mcu_triggered
+	color [200, 200, 200, 255]
+	priority 0
+	caption 6300 "#cc_mc_underground_00000000103"
 }
 
 {
@@ -391,6 +405,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 0
 	caption 0 "#cc_mc_underground_00000000056"
+}
+
+{
+	name sit_rep_marine_03
+	color [200, 200, 200, 255]
+	priority 0
+	caption 3000 "#cc_mc_underground_00000000105"
 }
 
 {
@@ -537,6 +558,13 @@ CC Script Format:
 	name mc_under_sarge_radio10
 	color [160, 255, 160, 255]
 	priority 0
+	caption 4900 "#cc_mc_underground_00000000106"
+}
+
+{
+	name mc_under_sarge_radio10
+	color [160, 255, 160, 255]
+	priority 0
 	caption 10000 "#cc_mc_underground_00000000101"
 }
 
@@ -629,6 +657,13 @@ CC Script Format:
 	name audiolog_mcunderground_baston_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12000 "#cc_pda_00000000505"
+}
+
+{
+	name audiolog_mcunderground_baston_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 16000 "#cc_pda_00000000302"
 }
 
@@ -637,6 +672,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 23000 "#cc_pda_00000000267"
+}
+
+{
+	name audiolog_mcunderground_baston_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 30000 "#cc_pda_00000000506"
 }
 
 {
@@ -713,6 +755,13 @@ CC Script Format:
 	name audiolog_mcunderground_delahue_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 13000 "#cc_pda_00000000503"
+}
+
+{
+	name audiolog_mcunderground_delahue_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 17000 "#cc_pda_00000000257"
 }
 
@@ -720,7 +769,21 @@ CC Script Format:
 	name audiolog_mcunderground_delahue_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 22000 "#cc_pda_00000000553"
+}
+
+{
+	name audiolog_mcunderground_delahue_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 26000 "#cc_pda_00000000258"
+}
+
+{
+	name audiolog_mcunderground_delahue_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32000 "#cc_pda_00000000504"
 }
 
 {

@@ -65,6 +65,13 @@ CC Script Format:
 }
 
 {
+	name p2_mcneil_meeting2
+	color [220, 100, 25, 255]
+	priority 0
+	caption 4000 "#cc_phobos2_00000000021"
+}
+
+{
 	name p2_mcneil_meeting3
 	color [220, 100, 25, 255]
 	priority 0
@@ -83,6 +90,13 @@ CC Script Format:
 	color [220, 100, 25, 255]
 	priority 0
 	caption 0 "#cc_phobos2_00000000011"
+}
+
+{
+	name p2_mcneil_speech_02a
+	color [220, 100, 25, 255]
+	priority 0
+	caption 3000 "#cc_phobos2_00000000012"
 }
 
 {

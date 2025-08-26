@@ -16,6 +16,13 @@ CC Script Format:
 }
 
 {
+	name alpha2_mystery_radio_1
+	color [200, 200, 200, 255]
+	priority 0
+	caption 7500 "#cc_alphalabs2_00000000027"
+}
+
+{
 	name alpha2_mystery_radio_2
 	color [200, 200, 200, 255]
 	priority 0
@@ -184,10 +191,24 @@ CC Script Format:
 }
 
 {
+	name alpha2_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
+	caption 5500 "#cc_alphalabs2_00000000028"
+}
+
+{
 	name sound/VO/video/mfs
 	color [200, 200, 200, 255]
 	priority 1
 	caption 0 "#cc_videos_00000000019"
+}
+
+{
+	name sound/VO/video/mfs
+	color [200, 200, 200, 255]
+	priority 1
+	caption 12500 "#cc_videos_00000000263"
 }
 
 {
@@ -201,6 +222,13 @@ CC Script Format:
 	name sound/VO/video/mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 23500 "#cc_videos_00000000264"
+}
+
+{
+	name sound/VO/video/mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 30000 "#cc_videos_00000000021"
 }
 
@@ -208,7 +236,21 @@ CC Script Format:
 	name sound/VO/video/mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 36000 "#cc_videos_00000000265"
+}
+
+{
+	name sound/VO/video/mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 42000 "#cc_videos_00000000251"
+}
+
+{
+	name sound/VO/video/mfs
+	color [200, 200, 200, 255]
+	priority 1
+	caption 47500 "#cc_videos_00000000266"
 }
 
 {
@@ -229,8 +271,16 @@ CC Script Format:
 	name sound/VO/video/mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 69500 "#cc_videos_00000000267"
+}
+
+{
+	name sound/VO/video/mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 73000 "#cc_videos_00000000024"
 }
+
 
 {
 	name sound/VO/video/mfs
@@ -246,6 +296,14 @@ CC Script Format:
 	caption 0 "#cc_pda_00000000029"
 }
 
+
+{
+	name audiolog_alphalabs2_connors_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 5000 "#cc_pda_00000000430"
+}
+
 {
 	name audiolog_alphalabs2_connors_1
 	color [200, 200, 200, 255]
@@ -258,6 +316,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 15000 "#cc_pda_00000000402"
+}
+
+{
+	name audiolog_alphalabs2_connors_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 19500 "#cc_pda_00000000431"
 }
 
 {
@@ -299,6 +364,13 @@ CC Script Format:
 	name audiolog_alphalabs2_chin_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 13000 "#cc_pda_00000000432"
+}
+
+{
+	name audiolog_alphalabs2_chin_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 19000 "#cc_pda_00000000036"
 }
 
@@ -306,7 +378,21 @@ CC Script Format:
 	name audiolog_alphalabs2_chin_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 25500 "#cc_pda_00000000433"
+}
+
+{
+	name audiolog_alphalabs2_chin_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 30000 "#cc_pda_00000000037"
+}
+
+{
+	name audiolog_alphalabs2_chin_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 33500 "#cc_pda_00000000434"
 }
 
 {
@@ -334,7 +420,21 @@ CC Script Format:
 	name video_mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12500 "#cc_videos_00000000263"
+}
+
+{
+	name video_mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 16000 "#cc_videos_00000000020"
+}
+
+{
+	name video_mfs
+	color [200, 200, 200, 255]
+	priority 1
+	caption 23500 "#cc_videos_00000000264"
 }
 
 {
@@ -348,7 +448,21 @@ CC Script Format:
 	name video_mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 36000 "#cc_videos_00000000265"
+}
+
+{
+	name video_mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 42000 "#cc_videos_00000000251"
+}
+
+{
+	name video_mfs
+	color [200, 200, 200, 255]
+	priority 1
+	caption 47500 "#cc_videos_00000000266"
 }
 
 {
@@ -369,8 +483,16 @@ CC Script Format:
 	name video_mfs
 	color [200, 200, 200, 255]
 	priority 1
+	caption 69500 "#cc_videos_00000000267"
+}
+
+{
+	name video_mfs
+	color [200, 200, 200, 255]
+	priority 1
 	caption 73000 "#cc_videos_00000000024"
 }
+
 
 {
 	name video_mfs

@@ -19,6 +19,13 @@ CC Script Format:
 	name rchat_meyers_hell_exis_05a
 	color [102, 178, 255, 255]
 	priority 0
+	caption 8500 "#cc_hellpost_00000000015"
+}
+
+{
+	name rchat_meyers_hell_exis_05a
+	color [102, 178, 255, 255]
+	priority 0
 	caption 14500 "#cc_hellpost_00000000014"
 }
 
@@ -34,6 +41,13 @@ CC Script Format:
 	color [102, 178, 255, 255]
 	priority 0
 	caption 0 "#cc_hellpost_00000000003"
+}
+
+{
+	name rchat_meyers_hell_exis_01b
+	color [102, 178, 255, 255]
+	priority 0
+	caption 2000 "#cc_hellpost_00000000016"
 }
 
 {

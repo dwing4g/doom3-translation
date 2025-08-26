@@ -19,21 +19,21 @@ CC Script Format:
 	name audiolog_monorail_harding_1
 	color [200, 200, 200, 255]
 	priority 1
-	caption 5000 "#cc_monorail_00000000002"
+	caption 5500 "#cc_monorail_00000000002"
 }
 
 {
 	name audiolog_monorail_harding_1
 	color [200, 200, 200, 255]
 	priority 1
-	caption 12000 "#cc_monorail_00000000003"
+	caption 12500 "#cc_monorail_00000000003"
 }
 
 {
 	name audiolog_monorail_harding_1
 	color [200, 200, 200, 255]
 	priority 1
-	caption 19000 "#cc_monorail_00000000003"
+	caption 19000 "#cc_monorail_00000000048"
 }
 
 {
@@ -41,6 +41,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 26000 "#cc_monorail_00000000004"
+}
+
+{
+	name audiolog_monorail_harding_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 31500 "#cc_monorail_00000000049"
 }
 
 {
@@ -79,10 +86,24 @@ CC Script Format:
 }
 
 {
+	name audiolog_monorail_harding_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 65000 "#cc_monorail_00000000050"
+}
+
+{
 	name monorail_suitguy_trigger
 	color [200, 200, 200, 255]
 	priority 0
 	caption 0 "#cc_monorail_00000000010"
+}
+
+{
+	name monorail_suitguy_trigger
+	color [200, 200, 200, 255]
+	priority 0
+	caption 7000 "#cc_monorail_00000000051"
 }
 
 {
@@ -145,6 +166,13 @@ CC Script Format:
 	name audiolog_monorail_hollies_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12200 "#cc_monorail_00000000052"
+}
+
+{
+	name audiolog_monorail_hollies_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 19000 "#cc_monorail_00000000019"
 }
 
@@ -153,6 +181,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 26000 "#cc_monorail_00000000020"
+}
+
+{
+	name audiolog_monorail_hollies_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 31500 "#cc_monorail_00000000053"
 }
 
 {

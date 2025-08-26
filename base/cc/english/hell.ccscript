@@ -40,5 +40,5 @@ CC Script Format:
 	name hd_bet_returnwhatisours
 	color [255, 160, 160, 255]
 	priority 0
-	caption 0 "#cc_erebus1_00000000037"
+	caption 0 "#cc_erebus1_00000000025"
 }

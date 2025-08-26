@@ -75,6 +75,13 @@ CC Script Format:
 	name sound/VO/video/video_demon_museum
 	color [200, 200, 200, 255]
 	priority 1
+	caption 8000 "#cc_delta2b_00000000056"
+}
+
+{
+	name sound/VO/video/video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
 	caption 13000 "#cc_delta2b_00000000009"
 }
 
@@ -110,7 +117,21 @@ CC Script Format:
 	name sound/VO/video/video_demon_museum
 	color [200, 200, 200, 255]
 	priority 1
+	caption 49000 "#cc_delta2b_00000000057"
+}
+
+{
+	name sound/VO/video/video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
 	caption 54000 "#cc_delta2b_00000000014"
+}
+
+{
+	name sound/VO/video/video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
+	caption 58000 "#cc_delta2b_00000000058"
 }
 
 {
@@ -131,6 +152,13 @@ CC Script Format:
 	name video_demon_museum
 	color [200, 200, 200, 255]
 	priority 1
+	caption 8000 "#cc_delta2b_00000000056"
+}
+
+{
+	name video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
 	caption 13000 "#cc_delta2b_00000000009"
 }
 
@@ -166,7 +194,21 @@ CC Script Format:
 	name video_demon_museum
 	color [200, 200, 200, 255]
 	priority 1
+	caption 49000 "#cc_delta2b_00000000057"
+}
+
+{
+	name video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
 	caption 54000 "#cc_delta2b_00000000014"
+}
+
+{
+	name video_demon_museum
+	color [200, 200, 200, 255]
+	priority 1
+	caption 58000 "#cc_delta2b_00000000058"
 }
 
 {
@@ -194,7 +236,21 @@ CC Script Format:
 	name sound/VO/video/video_soulcube
 	color [200, 200, 200, 255]
 	priority 1
+	caption 22500 "#cc_delta2b_00000000059"
+}
+
+{
+	name sound/VO/video/video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
 	caption 27000 "#cc_delta2b_00000000018"
+}
+
+{
+	name sound/VO/video/video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32000 "#cc_delta2b_00000000060"
 }
 
 {
@@ -208,7 +264,21 @@ CC Script Format:
 	name sound/VO/video/video_soulcube
 	color [200, 200, 200, 255]
 	priority 1
+	caption 43000 "#cc_delta2b_00000000061"
+}
+
+{
+	name sound/VO/video/video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
 	caption 50000 "#cc_delta2b_00000000020"
+}
+
+{
+	name sound/VO/video/video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
+	caption 56800 "#cc_delta2b_00000000062"
 }
 
 {
@@ -257,7 +327,21 @@ CC Script Format:
 	name video_soulcube
 	color [200, 200, 200, 255]
 	priority 1
+	caption 22500 "#cc_delta2b_00000000059"
+}
+
+{
+	name video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
 	caption 27000 "#cc_delta2b_00000000018"
+}
+
+{
+	name video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
+	caption 32000 "#cc_delta2b_00000000060"
 }
 
 {
@@ -271,7 +355,21 @@ CC Script Format:
 	name video_soulcube
 	color [200, 200, 200, 255]
 	priority 1
+	caption 43000 "#cc_delta2b_00000000061"
+}
+
+{
+	name video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
 	caption 50000 "#cc_delta2b_00000000020"
+}
+
+{
+	name video_soulcube
+	color [200, 200, 200, 255]
+	priority 1
+	caption 56800 "#cc_delta2b_00000000062"
 }
 
 {
@@ -313,6 +411,13 @@ CC Script Format:
 	name audiolog_delta2b_bullman_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 12500 "#cc_delta2b_00000000063"
+}
+
+{
+	name audiolog_delta2b_bullman_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 18000 "#cc_delta2b_00000000026"
 }
 
@@ -328,6 +433,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 32000 "#cc_delta2b_00000000053"
+}
+
+{
+	name audiolog_delta2b_bullman_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 37500 "#cc_delta2b_00000000064"
 }
 
 {
@@ -369,6 +481,13 @@ CC Script Format:
 	name audiolog_delta2b_bullman_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 69500 "#cc_delta2b_00000000065"
+}
+
+{
+	name audiolog_delta2b_bullman_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 74000 "#cc_delta2b_00000000032"
 }
 
@@ -376,7 +495,21 @@ CC Script Format:
 	name audiolog_delta2b_bullman_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 79000 "#cc_delta2b_00000000066"
+}
+
+{
+	name audiolog_delta2b_bullman_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 84000 "#cc_delta2b_00000000033"
+}
+
+{
+	name audiolog_delta2b_bullman_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 90000 "#cc_delta2b_00000000067"
 }
 
 {

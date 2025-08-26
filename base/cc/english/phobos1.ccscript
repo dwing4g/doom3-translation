@@ -19,6 +19,13 @@ CC Script Format:
 	name p1_mcneil_phoboswelcomept1
 	color [220, 100, 25, 255]
 	priority 0
+	caption 4000 "#cc_phobos1_00000000012"
+}
+
+{
+	name p1_mcneil_phoboswelcomept1
+	color [220, 100, 25, 255]
+	priority 0
 	caption 10500 "#cc_phobos1_00000000002"
 }
 
@@ -47,6 +54,13 @@ CC Script Format:
 	name audiolog_phobos1_fresko_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 13000 "#cc_phobos1_00000000013"
+}
+
+{
+	name audiolog_phobos1_fresko_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 17500 "#cc_phobos1_00000000006"
 }
 
@@ -62,6 +76,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 34000 "#cc_phobos1_00000000008"
+}
+
+{
+	name audiolog_phobos1_fresko_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 37000 "#cc_phobos1_00000000014"
 }
 
 {

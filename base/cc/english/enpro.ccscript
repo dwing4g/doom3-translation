@@ -247,6 +247,13 @@ CC Script Format:
 }
 
 {
+	name enpro_sarge_radio1
+	color [160, 255, 160, 255]
+	priority 0
+	caption 12500 "#cc_enpro_00000000039"
+}
+
+{
 	name sound/VO/enpro/sarge_radio2
 	color [160, 255, 160, 255]
 	priority 0
@@ -306,6 +313,13 @@ CC Script Format:
 	name audiolog_enpro_raad_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 13200 "#cc_pda_00000000479"
+}
+
+{
+	name audiolog_enpro_raad_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 19000 "#cc_pda_00000000189"
 }
 
@@ -314,6 +328,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 24000 "#cc_pda_00000000404"
+}
+
+{
+	name audiolog_enpro_raad_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 29500 "#cc_pda_00000000480"
 }
 
 {
@@ -334,6 +355,13 @@ CC Script Format:
 	name audiolog_enpro_raad_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 3000 "#cc_pda_00000000481"
+}
+
+{
+	name audiolog_enpro_raad_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 9000 "#cc_pda_00000000192"
 }
 
@@ -341,7 +369,21 @@ CC Script Format:
 	name audiolog_enpro_raad_2
 	color [200, 200, 200, 255]
 	priority 1
+	caption 15000 "#cc_pda_00000000482"
+}
+
+{
+	name audiolog_enpro_raad_2
+	color [200, 200, 200, 255]
+	priority 1
 	caption 22000 "#cc_pda_00000000193"
+}
+
+{
+	name audiolog_enpro_raad_2
+	color [200, 200, 200, 255]
+	priority 1
+	caption 26000 "#cc_pda_00000000483"
 }
 
 {
@@ -366,10 +408,24 @@ CC Script Format:
 }
 
 {
+	name audiolog_enpro_raad_2
+	color [200, 200, 200, 255]
+	priority 1
+	caption 48800 "#cc_pda_00000000484"
+}
+
+{
 	name audiolog_enpro_hammer_1
 	color [200, 200, 200, 255]
 	priority 1
 	caption 0 "#cc_pda_00000000196"
+}
+
+{
+	name audiolog_enpro_hammer_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 2500 "#cc_pda_00000000485"
 }
 
 {
@@ -391,6 +447,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 28000 "#cc_pda_00000000198"
+}
+
+{
+	name audiolog_enpro_hammer_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 34000 "#cc_pda_00000000486"
 }
 
 {

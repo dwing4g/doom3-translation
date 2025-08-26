@@ -36,12 +36,18 @@ CC Script Format:
 	caption 0 "#cc_enpro2_00000000004"
 }
 
-
 {
 	name rchat_meyers_enpro2_01
 	color [102, 178, 255, 255]
 	priority 0
 	caption 0 "#cc_enpro2_00000000005"
+}
+
+{
+	name rchat_meyers_enpro2_01
+	color [102, 178, 255, 255]
+	priority 0
+	caption 4800 "#cc_enpro2_00000000010"
 }
 
 {
@@ -55,7 +61,21 @@ CC Script Format:
 	name rchat_meyers_enpro2_01
 	color [102, 178, 255, 255]
 	priority 0
+	caption 20000 "#cc_enpro2_00000000011"
+}
+
+{
+	name rchat_meyers_enpro2_01
+	color [102, 178, 255, 255]
+	priority 0
 	caption 23500 "#cc_enpro2_00000000007"
+}
+
+{
+	name rchat_meyers_enpro2_01
+	color [102, 178, 255, 255]
+	priority 0
+	caption 32000 "#cc_enpro2_00000000012"
 }
 
 {
@@ -66,10 +86,24 @@ CC Script Format:
 }
 
 {
+	name rchat_meyers_enpro2_02
+	color [102, 178, 255, 255]
+	priority 0
+	caption 7000 "#cc_enpro2_00000000013"
+}
+
+{
 	name rchat_meyers_enpro2_03
 	color [102, 178, 255, 255]
 	priority 0
 	caption 0 "#cc_enpro2_00000000009"
+}
+
+{
+	name rchat_meyers_enpro2_03
+	color [102, 178, 255, 255]
+	priority 0
+	caption 8000 "#cc_enpro2_00000000014"
 }
 
 {
@@ -104,21 +138,42 @@ CC Script Format:
 	name audiolog_vargas_enpro2_pda_01
 	color [200, 200, 200, 255]
 	priority 1
-	caption 34900 "#cc_pda_00000000332"
+	caption 31000 "#cc_pda_00000000529"
 }
 
 {
 	name audiolog_vargas_enpro2_pda_01
 	color [200, 200, 200, 255]
 	priority 1
-	caption 45000 "#cc_pda_00000000333"
+	caption 36500 "#cc_pda_00000000332"
 }
 
 {
 	name audiolog_vargas_enpro2_pda_01
 	color [200, 200, 200, 255]
 	priority 1
-	caption 52700 "#cc_pda_00000000334"
+	caption 44800 "#cc_pda_00000000530"
+}
+
+{
+	name audiolog_vargas_enpro2_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 49000 "#cc_pda_00000000333"
+}
+
+{
+	name audiolog_vargas_enpro2_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 56000 "#cc_pda_00000000334"
+}
+
+{
+	name audiolog_vargas_enpro2_pda_01
+	color [200, 200, 200, 255]
+	priority 1
+	caption 64000 "#cc_pda_00000000531"
 }
 
 {

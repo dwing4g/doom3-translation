@@ -51,6 +51,13 @@ CC Script Format:
 }
 
 {
+	name e5_cloud_triggered1
+	color [200, 200, 200, 255]
+	priority 0
+	caption 3800 "#cc_erebus5_00000000016"
+}
+
+{
 	name e5_mcneil_triggered1
 	color [220, 100, 25, 255]
 	priority 0

@@ -110,6 +110,13 @@ CC Script Format:
 	name sound/VO/video/video_delta2_medical
 	color [200, 200, 200, 255]
 	priority 1
+	caption 30500 "#cc_delta2a_00000000110"
+}
+
+{
+	name sound/VO/video/video_delta2_medical
+	color [200, 200, 200, 255]
+	priority 1
 	caption 34000 "#cc_delta2a_00000000015"
 }
 
@@ -167,6 +174,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 64000 "#cc_delta2a_00000000023"
+}
+
+{
+	name sound/VO/video/video_delta2_medical
+	color [200, 200, 200, 255]
+	priority 1
+	caption 71200 "#cc_delta2a_00000000111"
 }
 
 {
@@ -236,6 +250,13 @@ CC Script Format:
 	name sound/VO/video/video_delta2_medical
 	color [200, 200, 200, 255]
 	priority 1
+	caption 117300 "#cc_delta2a_00000000112"
+}
+
+{
+	name sound/VO/video/video_delta2_medical
+	color [200, 200, 200, 255]
+	priority 1
 	caption 121000 "#cc_delta2a_00000000033"
 }
 
@@ -257,7 +278,21 @@ CC Script Format:
 	name audiolog_delta2a_raleigh_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 14500 "#cc_delta2a_00000000113"
+}
+
+{
+	name audiolog_delta2a_raleigh_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 18000 "#cc_delta2a_00000000036"
+}
+
+{
+	name audiolog_delta2a_raleigh_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 29000 "#cc_delta2a_00000000114"
 }
 
 {
@@ -439,6 +474,13 @@ CC Script Format:
 	name video_ian_report
 	color [200, 200, 200, 255]
 	priority 1
+	caption 14000 "#cc_delta2a_00000000115"
+}
+
+{
+	name video_ian_report
+	color [200, 200, 200, 255]
+	priority 1
 	caption 19000 "#cc_delta2a_00000000062"
 }
 
@@ -446,7 +488,21 @@ CC Script Format:
 	name video_ian_report
 	color [200, 200, 200, 255]
 	priority 1
+	caption 22000 "#cc_delta2a_00000000116"
+}
+
+{
+	name video_ian_report
+	color [200, 200, 200, 255]
+	priority 1
 	caption 30000 "#cc_delta2a_00000000063"
+}
+
+{
+	name video_ian_report
+	color [200, 200, 200, 255]
+	priority 1
+	caption 38000 "#cc_delta2a_00000000117"
 }
 
 {
@@ -523,6 +579,13 @@ CC Script Format:
 	name video_ian_report
 	color [200, 200, 200, 255]
 	priority 1
+	caption 110500 "#cc_delta2a_00000000118"
+}
+
+{
+	name video_ian_report
+	color [200, 200, 200, 255]
+	priority 1
 	caption 117000 "#cc_delta2a_00000000074"
 }
 
@@ -545,6 +608,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 138000 "#cc_delta2a_00000000077"
+}
+
+{
+	name video_ian_report
+	color [200, 200, 200, 255]
+	priority 1
+	caption 147200 "#cc_delta2a_00000000119"
 }
 
 {
@@ -747,6 +817,13 @@ CC Script Format:
 	name audiolog_delta2a_cinders_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 5000 "#cc_pda_00000000462"
+}
+
+{
+	name audiolog_delta2a_cinders_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 10000 "#cc_pda_00000000133"
 }
 
@@ -761,7 +838,21 @@ CC Script Format:
 	name audiolog_delta2a_cinders_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 24500 "#cc_pda_00000000463"
+}
+
+{
+	name audiolog_delta2a_cinders_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 28000 "#cc_pda_00000000134"
+}
+
+{
+	name audiolog_delta2a_cinders_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 34000 "#cc_pda_00000000464"
 }
 
 {
@@ -775,7 +866,21 @@ CC Script Format:
 	name audiolog_delta2a_cinders_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 51000 "#cc_pda_00000000465"
+}
+
+{
+	name audiolog_delta2a_cinders_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 57000 "#cc_pda_00000000136"
+}
+
+{
+	name audiolog_delta2a_cinders_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 63000 "#cc_pda_00000000551"
 }
 
 {

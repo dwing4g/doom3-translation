@@ -37,6 +37,13 @@ CC Script Format:
 }
 
 {
+	name caverns2_maint1_trig
+	color [200, 200, 200, 255]
+	priority 0
+	caption 0 "#cc_caverns1_00000000007"
+}
+
+{
 	name sound/VO/caverns2/maint1_whimper1
 	color [200, 200, 200, 255]
 	priority 0
@@ -68,7 +75,21 @@ CC Script Format:
 	name audiolog_caverns1_cody_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 20500 "#cc_pda_00000000441"
+}
+
+{
+	name audiolog_caverns1_cody_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 26000 "#cc_pda_00000000063"
+}
+
+{
+	name audiolog_caverns1_cody_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 35800 "#cc_pda_00000000442"
 }
 
 {
@@ -83,6 +104,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 44000 "#cc_pda_00000000064"
+}
+
+{
+	name audiolog_caverns1_cody_1
+	color [200, 200, 200, 255]
+	priority 1
+	caption 52000 "#cc_pda_00000000443"
 }
 
 {

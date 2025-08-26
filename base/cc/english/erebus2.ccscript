@@ -40,6 +40,13 @@ CC Script Format:
 	name audiolog_erebus2_tanner_1
 	color [200, 200, 200, 255]
 	priority 1
+	caption 7000 "#cc_erebus2_00000000018"
+}
+
+{
+	name audiolog_erebus2_tanner_1
+	color [200, 200, 200, 255]
+	priority 1
 	caption 13800 "#cc_erebus2_00000000004"
 }
 
@@ -114,6 +121,13 @@ CC Script Format:
 }
 
 {
+	name e2_mcneil_helltimedeathpt2
+	color [220, 100, 25, 255]
+	priority 0
+	caption 6500 "#cc_erebus2_00000000019"
+}
+
+{
 	name bet_welcomedeath
 	color [255, 160, 160, 255]
 	priority 0
@@ -160,6 +174,13 @@ CC Script Format:
 	color [200, 200, 200, 255]
 	priority 1
 	caption 20000 "#cc_videos_00000000208"
+}
+
+{
+	name video_grabber
+	color [200, 200, 200, 255]
+	priority 1
+	caption 24000 "#cc_videos_00000000315"
 }
 
 {
