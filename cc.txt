@@ -5016,7 +5016,7 @@ I.辛克莱：设备似乎受到了某种看不见的东西的影响。
 
 > #cc_mc_underground_00000000042
 M. Ryan: Hey, you're the new guy headed for the old comm center, right? Better hustle up, pal. This passage doesn't go all the way there.
-M.瑞安：嘿，你是去旧通讯中心的新人，对吧？伙计，最好快点。这条通道不能直接通到那里。
+M.莱恩：嘿，你是去旧通讯中心的新人，对吧？伙计，最好快点。这条通道不能直接通到那里。
 
 > #cc_mc_underground_00000000103
 You'll have a quick walk outside to the center's airlock. Eh, don't sweat it. Your suit has plenty of oxygen.
@@ -5024,11 +5024,11 @@ You'll have a quick walk outside to the center's airlock. Eh, don't sweat it. Yo
 
 > #cc_mc_underground_00000000043
 M. Ryan (dominant): Well? What the hell are you waiting for, Marine?!
-M.瑞安(强势地)：怎么？你他妈还在等什么，陆战队员？！
+M.莱恩(强势地)：怎么？你他妈还在等什么，陆战队员？！
 
 > #cc_mc_underground_00000000044
 M. Ryan: Get going.
-M.瑞安：快走。
+M.莱恩：快走。
 
 > #cc_mc_underground_00000000045
 Sgt. Kelly: Marine, this is Sergeant Kelly, you need to double time it down there. Search your assigned area and haul your ass back to Mars City. Out.
@@ -5292,7 +5292,7 @@ to try and troubleshoot a faulty track sensor that’s been causing the door to 
 
 > #cc_monorail_00000000010
 T. Ryan: I was waiting here on the train for my partner. He went to investigate what was going on, but he never came back.
-T.瑞安：我在这里的火车上等我的搭档。他去调查发生了什么事，但他再也没回来。
+T.莱恩：我在这里的火车上等我的搭档。他去调查发生了什么事，但他再也没回来。
 
 > #cc_monorail_00000000051
 And now, I... I don't know where he is!
@@ -5352,7 +5352,7 @@ Dr. Betruger: Torzu... Abiran... Enochas!
 
 > #cc_monorail_00000000022
 Dr. Betruger: Rise... Rise! Quasp'mir i'alopan!
-贝特鲁格博士：起来……起来！夸斯普米尔·伊阿洛潘！
+贝特鲁格博士：起来……起来！Quasp'mir i'alopan(赐予我力量)！
 
 > #cc_monorail_00000000023
 Dr. Betruger: There is no death... for you.
@@ -5364,15 +5364,15 @@ Announcer: Now leaving Environmental reprocessing centre. Next stop, site 2.
 
 > #cc_monorail_00000000025
 T. Ryan (angry): Who are you? What are you doing!
-T.瑞安(愤怒地)：你是谁？你在干什么！
+T.莱恩(愤怒地)：你是谁？你在干什么！
 
 > #cc_monorail_00000000026
 T. Ryan: This doesn't look good at all. I'm staying here!
-T.瑞安：这看起来一点都不好。我就待在这里！
+T.莱恩：这看起来一点都不好。我就待在这里！
 
 > #cc_monorail_00000000027
 T. Ryan (terrified): HOLY SHIT!
-T.瑞安(惊恐地)：搞什么鬼！
+T.莱恩(惊恐地)：搞什么鬼！
 
 > #cc_monorail_00000000028
 I'm staying here. You can go off and get yourself killed.
@@ -5380,23 +5380,23 @@ I'm staying here. You can go off and get yourself killed.
 
 > #cc_monorail_00000000029
 T. Ryan (frightened): Oh My God!
-T.瑞安(受惊地)：我的天！
+T.莱恩(受惊地)：我的天！
 
 > #cc_monorail_00000000030
 T. Ryan: The Delta Complex isn't safe! You're crazy if you're going there!
-T.瑞安：德尔塔综合体不安全！你要去那里简直是疯了！
+T.莱恩：德尔塔综合体不安全！你要去那里简直是疯了！
 
 > #cc_monorail_00000000031
 T. Ryan: Look, I don't think this train is safe either. We don't know what's ahead!
-T.瑞安：听着，我觉得这列火车也不安全。我们不知道前面有什么！
+T.莱恩：听着，我觉得这列火车也不安全。我们不知道前面有什么！
 
 > #cc_monorail_00000000032
 T. Ryan: I'm staying on the train 'til we get to Delta. Then you're on your own!
-T.瑞安：我就待在火车上，直到我们到达德尔塔。然后你就自求多福吧！
+T.莱恩：我就待在火车上，直到我们到达德尔塔。然后你就自求多福吧！
 
 > #cc_monorail_00000000033
 T. Ryan (scared): What the hell are those things?!
-T.瑞安(害怕地)：那些东西到底是什么？！
+T.莱恩(害怕地)：那些东西到底是什么？！
 
 > #cc_monorail_00000000034
 Announcer: Now entering Site 2.

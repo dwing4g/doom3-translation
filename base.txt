@@ -12470,7 +12470,7 @@ quit
 
 > #str_01866
 New Game
-新游戏
+新游戏 (汉化v20250827)
 
 > #str_01867
 Load Game
@@ -50176,4 +50176,178 @@ Merged Threshold
 > #str_swf_joy_gammaLook
 Look Acceleration
 查看加速度
+
+; "npc_name" in maps/*.map
+
+> A. Chang
+A. Chang
+A.张
+
+> Anthony
+Anthony
+安东尼
+
+> C. Rodgers
+C. Rodgers
+C.罗杰斯
+
+> Campbell
+Campbell
+坎贝尔
+
+> D. Morton
+D. Morton
+D.莫顿
+
+> D. Young
+D. Young
+D.杨
+
+> Dr. Betruger
+Dr. Betruger
+贝特鲁格博士
+
+> Dr. Betruger                                                                                                                          001
+Dr. Betruger                                                                                                                          001
+贝特鲁格博士
+
+> Dr. Betruger                                                                                                                          002
+Dr. Betruger                                                                                                                          002
+贝特鲁格博士
+
+> Dr. Michaels
+Dr. Michaels
+迈克尔斯博士
+
+> E. Grafton
+E. Grafton
+E.格拉夫顿
+
+> E. Webb
+E. Webb
+E.韦伯
+
+> G. Kreitman
+G. Kreitman
+G.克雷特曼
+
+> H. Feiner
+H. Feiner
+H.费纳
+
+> I. McCormick
+I. McCormick
+I.麦考密克
+
+> I. Sinclair
+I. Sinclair
+I.辛克莱
+
+> J. Edwards
+J. Edwards
+J.爱德华
+
+> J. Ishii
+J. Ishii
+J.石井
+
+> J. Katayama
+J. Katayama
+J.片山
+
+> J. Kim
+J. Kim
+J.金
+
+> J. Yezback
+J. Yezback
+J.叶兹巴克
+
+> K. Lee-Creel
+K. Lee-Creel
+K.李-克里尔
+
+> K. Miller
+K. Miller
+K.米勒
+
+> K. Tang
+K. Tang
+K.唐
+
+> L. Kaczynski
+L. Kaczynski
+L.卡钦斯基
+
+> M. Caseon
+M. Caseon
+M.凯斯昂
+
+> M. Marak
+M. Marak
+M.马拉克
+
+> M. Ryan
+M. Ryan
+M.莱恩
+
+> P. Rogers
+P. Rogers
+P.罗杰斯
+
+> R. Cooper
+R. Cooper
+R.库珀
+
+> R. Fry
+R. Fry
+R.弗莱
+
+> R. Kasal
+R. Kasal
+R.卡萨尔
+
+> R. Roland
+R. Roland
+R.罗兰
+
+> R. Slang
+R. Slang
+R.斯朗
+
+> Ronn
+Ronn
+罗恩
+
+> S. Holmes
+S. Holmes
+S.霍姆斯
+
+> S. L. Medley
+S. L. Medley
+S.L.梅德利
+
+> S.L. Medley
+S.L. Medley
+S.L.梅德利
+
+> Sergeant Kelly
+Sergeant Kelly
+凯利士官
+
+> T. Brooks
+T. Brooks
+T.布鲁克斯
+
+> T. Ryan
+T. Ryan
+T.莱恩
+
+> T. Washington
+T. Washington
+T.华盛顿
+
+> V. King
+V. King
+V.金
 
