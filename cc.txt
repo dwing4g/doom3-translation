@@ -136,15 +136,15 @@ Safer worlds for everyone. For centuries people on Earth have waged war over two
 
 > #cc_alphalabs1_00000000011
 As part of its ongoing commitment to create safer worlds for everyone the UAC recently unveiled its development of the hydrocon.
-作为其持续致力于为所有人创造更安全世界的一部分，UAC最近公布了其氢聚变(Hydrocon)的开发成果。
+作为其持续致力于为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆(Hydrocon)的开发成果。
 
 > #cc_alphalabs1_00000000012
 Though still in its prototype stages, the hydrocon will in one dramatic move forever end all shortages of water and fuel.
-尽管仍处于原型阶段，水力转换器将以一次划时代的举动，永远终结水和燃料的所有短缺。
+尽管仍处于原型阶段，水氢反应堆将以一次划时代的举动，永远终结水和燃料的所有短缺。
 
 > #cc_alphalabs1_00000000013
 By splitting iron oxide molecules the hydrocon produces oxygen and hydrogen cheaply and safely without the need for large amounts of electricity.
-通过分裂氧化铁分子，水力转换器能够廉价且安全地生产氧气和氢气，而无需大量电力。
+通过分裂氧化铁分子，水氢反应堆能够廉价且安全地生产氧气和氢气，而无需大量电力。
 
 > #cc_alphalabs1_00000000014
 The hydrogen is then used for hydrogen fuel, a substance so versatile and clean that it can be used in everything
@@ -160,7 +160,7 @@ A side benefit to producing this fuel is an endless supply of pure spring like w
 
 > #cc_alphalabs1_00000000016
 We envision a world where technologies such as the hydrocon can be used to end drought
-我们设想一个世界，水力转换器等技术可以用来结束干旱
+我们设想一个世界，水氢反应堆等技术可以用来结束干旱
 
 > #cc_alphalabs1_00000000035
 and civil strife in impoverished nations where water or fuel have ever been in short supply.
@@ -172,7 +172,7 @@ UAC始终走在科学研究和发展的前沿，
 
 > #cc_alphalabs1_00000000036
 Union Aerospace hopes that the creation of the hydrocon will continue to make safer worlds for everyone.
-联合航空航天公司希望水力转换器的创造将继续为所有人创造更安全的世界。
+联合航空航天公司希望水氢反应堆的创造将继续为所有人创造更安全的世界。
 
 > #cc_alphalabs1_00000000018
 (CALMING EXIT MUSIC)
@@ -200,7 +200,7 @@ Female Computer: Gas leak stopped, fire extinguished.
 
 > #cc_alphalabs1_00000000024
 G. Kreitman: If I don't get the hydrocon operating within acceptable levels it could blow.
-G.克雷特曼：如果我不能让水力转换器在可接受的水平内运行，它可能会爆炸。
+G.克雷特曼：如果我不能让水氢反应堆在可接受的水平内运行，它可能会爆炸。
 
 > #cc_alphalabs1_00000000025
 G. Kreitman: I need to stay here and see if I can get this thing running safely.
@@ -216,7 +216,7 @@ G.克雷特曼(惊慌)：你吓了我一跳。天哪，见到你我真高兴，�
 
 > #cc_alphalabs1_00000000037
 The hydrocons blown a few circuits and is unstable. Be careful with that gun, a stray bullet into the glass shields could blow the whole area.
-水力转换器烧了几条电路，现在很不稳定。小心你的枪，一颗流弹打到玻璃护罩上，整个区域都可能爆炸。
+水氢反应堆烧了几条电路，现在很不稳定。小心你的枪，一颗流弹打到玻璃护罩上，整个区域都可能爆炸。
 
 > #cc_alphalabs1_00000000028
 G. Kreitman: I'm gonna try and get this thing stabelized. I'll head to the science office when I have this undercontrol.
@@ -4176,7 +4176,7 @@ S.L.梅德利：是，长官。
 
 > #cc_mars_city1_00000000067
 Swann (exasperated): I can't believe it's come to this, I didn't want to come here.
-斯旺(恼怒地)：我真不敢相信事情会发展到这种地步，我不想来这里。
+斯旺(恼怒地)：我不敢相信事情会发展到这种地步，我真不想来这里。
 
 > #cc_mars_city1_00000000068
 Campbell: He left you no choice.
@@ -4184,11 +4184,11 @@ Campbell: He left you no choice.
 
 > #cc_mars_city1_00000000069
 Swann: True, but this is the last time. I'm tired of running damage control every time he makes a mess.
-斯旺：没错，但这是最后一次了。每次他搞砸了，我都厌倦了去收拾烂摊子。
+斯旺：没错，但这是最后一次了。每次他都搞砸，我都厌倦去收拾烂摊子了。
 
 > #cc_mars_city1_00000000070
 Campbell (boasting): Right. You're the control and if that fails, I'm the damage.
-坎贝尔(吹嘘地)：对。你是控制，如果控制失败，我就是破坏。
+坎贝尔(吹嘘地)：对。你先控制，如果失败了，我就破坏。
 
 > #cc_mars_city1_00000000071
 Swann (determined): If that's what it takes, Betruger is gonna start doing things our way.
@@ -4196,7 +4196,7 @@ Swann (determined): If that's what it takes, Betruger is gonna start doing thing
 
 > #cc_mars_city1_00000000072
 Campbell: Whatever you say, counselor.
-坎贝尔：你说什么都行，顾问。
+坎贝尔：您所言极是，顾问。
 
 > #cc_mars_city1_00000000073
 (DARKSTAR'S ENGINES THRUST AND LIFTOFF)
@@ -4224,19 +4224,19 @@ R.库珀：嘿，你干什么呢？
 
 > #cc_mars_city1_00000000079
 M. Caseon: I've got to get out of here.
-M.凯森：我得离开这里。
+M.凯斯昂：我得离开这里。
 
 > #cc_mars_city1_00000000080
 M. Caseon: I'm getting off this rock and you should too.
-M.凯森：我要离开这个鬼地方，你也应该。
+M.凯斯昂：我要离开这个鬼地方，你也应该。
 
 > #cc_mars_city1_00000000081
 M. Caseon: If you're staying here, watch your back.
-M.凯森：如果你留在这里，小心背后。
+M.凯斯昂：如果你留在这里，小心背后。
 
 > #cc_mars_city1_00000000082
 M. Caseon: You should be careful..it's not safe here - trust no one.
-M.凯森：你应该小心……这里不安全——别相信任何人。
+M.凯斯昂：你应该小心……这里不安全——别相信任何人。
 
 > #cc_mars_city1_00000000083
 PA System: Welcome to Mars City; Union Aerospace's premiere research facility. To expedite your processing please proceed directly to reception.
@@ -6708,7 +6708,7 @@ And every moment, I feel them creeping closer toward me... Oh God... Oh God, we 
 
 > #cc_pda_00000000220
 Audio log for Dr. Caseon, currently stationed at Mars City.
-凯森医生的音频日志，目前驻扎在火星城。
+凯斯昂医生的音频日志，目前驻扎在火星城。
 
 > #cc_pda_00000000221
 I have just left the weekly status meeting here in Medical. The most prominent topic was the vast number of psychological issues we are seeing as of late.
@@ -6732,11 +6732,11 @@ I'm gonna formally request two additional psychiatrists on the next shuttle from
 
 > #cc_pda_00000000224
 The two we have are being overworked and the content of their sessions with patients is starting to affect them as well. Dr. Caseon out.
-我们现有的两名医生工作过度，他们与患者会谈的内容也开始影响他们。凯森医生，通话结束。
+我们现有的两名医生工作过度，他们与患者会谈的内容也开始影响他们。凯斯昂医生，通话结束。
 
 > #cc_pda_00000000225
 Dr. Mark Caseon, a-at 15:47, patient Jonathan Wills was admitted after complaining of insomnia and nausea.
-马克·凯森医生，在15:47，患者乔纳森·威尔斯因抱怨失眠和恶心而入院。
+马克·凯斯昂医生，在15:47，患者乔纳森·威尔斯因抱怨失眠和恶心而入院。
 
 > #cc_pda_00000000226
 According to the nurse, Mr. Wills was calm and exhibited no signs of disorder when he was brought to Exam Room 5.
@@ -6764,7 +6764,7 @@ I... I can only guess at the cause of his problems. I hope that additional psych
 
 > #cc_pda_00000000396
 all medical supplies and armaments will be locked in a secure hospital cabinet with the code 3-4-7. Dr. Caseon out.
-所有医疗用品和武器将锁在一个安全的医院储物柜中，密码是3-4-7。凯森医生，通话结束。
+所有医疗用品和武器将锁在一个安全的医院储物柜中，密码是3-4-7。凯斯昂医生，通话结束。
 
 > #cc_pda_00000000230
 B. Tyson: Audio report confirming new troop deployments for the Mars City Marine Facility. October 30th, 2145.
@@ -8632,15 +8632,15 @@ Safer worlds for everyone. For centuries people on Earth have waged war over two
 
 > #cc_videos_00000000011
 As part of its ongoing commitment to create safer worlds for everyone the UAC recently unveiled its development of the hydrocon.
-作为其持续承诺为所有人创造更安全世界的一部分，UAC最近公布了其水力转换器的研发成果。
+作为其持续承诺为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆的研发成果。
 
 > #cc_videos_00000000012
 Though still in its prototype stages, the hydrocon will in one dramatic move forever end all shortages of water and fuel.
-尽管仍处于原型阶段，水力转换器将以一个划时代的举动，永远结束水和燃料的所有短缺。
+尽管仍处于原型阶段，水氢反应堆将以一个划时代的举动，永远结束水和燃料的所有短缺。
 
 > #cc_videos_00000000013
 By splitting iron oxide molecules the hydrocon produces oxygen and hydrogen cheaply and safely without the need for large amounts of electricity.
-通过分解氧化铁分子，水力转换器可以廉价安全地生产氧气和氢气，而无需大量电力。
+通过分解氧化铁分子，水氢反应堆可以廉价安全地生产氧气和氢气，而无需大量电力。
 
 > #cc_videos_00000000014
 The hydrogen is then used for hydrogen fuel, a substance so versatile and clean that it can be used in everything from home appliances to today’s most demanding rocket engines.
@@ -8656,7 +8656,7 @@ A side benefit to producing this fuel is an endless supply of pure spring like w
 
 > #cc_videos_00000000016
 We envision a world where technologies such as the hydrocon can be used to end drought and civil strife in impoverished nations where water or fuel have ever been in short supply.
-我们设想一个世界，水力转换器等技术可以用于结束贫困国家(水或燃料一直短缺)的干旱和内乱。
+我们设想一个世界，水氢反应堆等技术可以用于结束贫困国家(水或燃料一直短缺)的干旱和内乱。
 
 > #cc_videos_00000000261
 """"""
@@ -8664,7 +8664,7 @@ We envision a world where technologies such as the hydrocon can be used to end d
 
 > #cc_videos_00000000017
 While always at the forefront of scientific research and development, Union Aerospace hopes that the creation of the hydrocon will continue to make safer worlds for everyone.
-联合航空航天公司始终走在科学研发前沿，希望水力转换器的创造将继续为所有人创造更安全的世界。
+联合航空航天公司始终走在科学研发前沿，希望水氢反应堆的创造将继续为所有人创造更安全的世界。
 
 > #cc_videos_00000000262
 """"""
@@ -8684,7 +8684,7 @@ but pushing those developments to even more daring extremes.
 
 > #cc_videos_00000000020
 With an abundant production of Hydrogen fuel, thanks to the Hydrocon, the specialist teams asked the big question,
-得益于水力转换器大量生产的氢燃料，专家团队提出了一个重大问题：
+得益于水氢反应堆大量生产的氢燃料，专家团队提出了一个重大问题：
 
 > #cc_videos_00000000264
 Can we devise a way to store and deliver that fuel to make the dream of deep space research a reality?
@@ -8740,7 +8740,7 @@ Originally created as the prime science and research facility, Alpha Labs are re
 
 > #cc_videos_00000000250
 Elemental Phase Deconstructor, Hydrocon, Molecular Fuel Storage Compactor, all presently being used right here in the Alpha Labs.
-元素相解构器、水力转换器、分子燃料储存压缩器，所有这些目前都在阿尔法实验室中使用。
+元素相解构器、水氢反应堆、分子燃料储存压缩器，所有这些目前都在阿尔法实验室中使用。
 
 > #cc_videos_00000000028
 These endeavors have allowed for much needed expansion into the UAC's currently leading research facility, Delta Labs;

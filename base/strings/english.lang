@@ -1450,7 +1450,7 @@
 // controlpanels/hydrocon.gui
 	"#str_00778"	"校准"
 // controlpanels/hydrocon.gui
-	"#str_00779"	"氢聚变实验室1号站"
+	"#str_00779"	"水氢反应堆实验室1号站"
 // controlpanels/hydrocon.gui
 	"#str_00780"	"充能中"
 // controlpanels/hydrocon.gui controlpanels/powerswitch_useonce.gui
@@ -1468,7 +1468,7 @@
 // controlpanels/hydrocon.gui
 	"#str_00787"	"当前读数"
 // controlpanels/hydrocon.gui
-	"#str_00788"	"氢聚变实验室2号站"
+	"#str_00788"	"水氢反应堆实验室2号站"
 // controlpanels/hydrocon.gui
 	"#str_00789"	"十字平面图"
 // controlpanels/hydrocon.gui
@@ -1484,7 +1484,7 @@
 // controlpanels/hydrocon.gui
 	"#str_00795"	"部门\n1336"
 // controlpanels/hydropower.gui
-	"#str_00796"	"氢聚变发电机"
+	"#str_00796"	"水氢反应堆发电机"
 // controlpanels/hydropower.gui
 	"#str_00797"	"发电机2"
 // controlpanels/hydropower.gui
@@ -2540,7 +2540,7 @@
 // _common/def/maps.def
 	"#str_01476"	"管理设施是公司在火星上的象征。位于上层办公室里面的联合航天的管理人员负责全部的本地及行星间的管理事务。这个设施里面还拥有数据库以及一个全球网络接入站点。"
 // _common/def/maps.def
-	"#str_01477"	"阿尔法实验室1区存放着元素相位拆析器以及氢聚变系统，\n一项革命性的新科技，可以将火星当地原材料转换为可用资源。\n主要EPD反应堆为氢聚变处理系统供能，并传输至2区MFS进行提炼和存储。"
+	"#str_01477"	"阿尔法实验室1区存放着元素相位拆析器以及水氢反应堆系统，\n一项革命性的新科技，可以将火星当地原材料转换为可用资源。\n主要EPD反应堆为水氢反应堆处理系统供能，并传输至2区MFS进行提炼和存储。"
 // _common/def/maps.def
 	"#str_01478"	"阿尔法实验室2区为基地的主要设施处理并储存氢气燃料，也就是分子燃料存储压缩机。地下层区域放置着为氢气提炼准备的冷却控制系统。"
 // _common/def/maps.def
@@ -3202,7 +3202,7 @@
 	"#str_01863"	"选项"
 	"#str_01864"	"制作人员"
 	"#str_01865"	"退出"
-	"#str_01866"	"新游戏 (汉化v20250827)"
+	"#str_01866"	"新游戏 (汉化v20250828)"
 	"#str_01867"	"载入游戏"
 	"#str_01868"	"试玩"
 	"#str_01869"	"位置: 德尔塔"
@@ -4502,7 +4502,7 @@
 // alphalabs1:PDA物品.名 alphalabs1:PDA物品.界面参数7 alphalabs1:界面参数7
 	"#str_02925"	"HCpda"
 // alphalabs1:界面参数1 alphalabs1:地点.名
-	"#str_02926"	"氢聚变控制"
+	"#str_02926"	"水氢反应堆控制"
 // alphalabs1:界面参数3
 	"#str_02927"	"B.利普希茨"
 // alphalabs1:界面参数3
@@ -4515,7 +4515,7 @@
 // alphalabs1:物品目标.内容
 	"#str_02932"	"找到通往阿尔法实验室2层的员工电梯。"
 // alphalabs1:界面参数1
-	"#str_02933"	"视频/氢聚变"
+	"#str_02933"	"视频/水氢反应堆"
 // alphalabs2:物品目标.内容
 	"#str_02934"	"朝工程站前进然后找到阿尔法实验室3区的入口。"
 // alphalabs2:物品目标.标题
@@ -7030,31 +7030,31 @@
 // alphalabs1:地点.名
 	"#str_04372"	"爬行通道13"
 // alphalabs1:地点.名
-	"#str_04373"	"氢聚变冷凝器"
+	"#str_04373"	"水氢反应堆冷凝器"
 // alphalabs1:地点.名
-	"#str_04374"	"氢聚变氧气生成器"
+	"#str_04374"	"水氢反应堆氧气生成器"
 // alphalabs1:地点.名
-	"#str_04375"	"氢聚变连接点1"
+	"#str_04375"	"水氢反应堆连接点1"
 // alphalabs1:地点.名
 	"#str_04376"	"氢虹吸室"
 // alphalabs1:地点.名
 	"#str_04377"	"氧气虹吸"
 // alphalabs1:地点.名
-	"#str_04378"	"氢聚变稳定室"
+	"#str_04378"	"水氢反应堆稳定室"
 // alphalabs1:地点.名
 	"#str_04379"	"稳定性连接点"
 // alphalabs1:地点.名
-	"#str_04380"	"氢聚变实验室"
+	"#str_04380"	"水氢反应堆实验室"
 // alphalabs1:地点.名
 	"#str_04381"	"存储第8区域"
 // alphalabs1:地点.名
 	"#str_04382"	"阿尔法实验室主连接点"
 // alphalabs1:地点.名
-	"#str_04383"	"氢聚变观测平台"
+	"#str_04383"	"水氢反应堆观测平台"
 // alphalabs1:地点.名
-	"#str_04384"	"氢聚变连接点4"
+	"#str_04384"	"水氢反应堆连接点4"
 // alphalabs1:地点.名
-	"#str_04385"	"氢聚变连接点3"
+	"#str_04385"	"水氢反应堆连接点3"
 // alphalabs1:地点.名
 	"#str_04386"	"阿尔法实验室区连接点"
 // alphalabs1:地点.名 delta2a:地点.名 delta2b:地点.名 le_enpro1:地点.位置 le_enpro2:地点.位置 mars_city1:地点.位置 mars_city2:地点.位置
@@ -10896,7 +10896,7 @@
 	"#str_alphalabs1_krietman_email_1_email_date"	"2145-11-13"
 	"#str_alphalabs1_krietman_email_1_email_from"	"帕特·哈维博士"
 	"#str_alphalabs1_krietman_email_1_email_subject"	"遗落的PDA"
-	"#str_alphalabs1_krietman_email_1_email_text"	"乔治\n\n我似乎把我的PDA连同保安密码一起弄丢了。前几天我在氢聚变上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？\n谢谢，\n\n哈维博士\n"
+	"#str_alphalabs1_krietman_email_1_email_text"	"乔治\n\n我似乎把我的PDA连同保安密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？\n谢谢，\n\n哈维博士\n"
 	"#str_alphalabs1_krietman_email_1_email_to"	"乔治·科里特曼博士"
 	"#str_alphalabs1_krietman_pda_fullname"	"乔治·科里特曼"
 	"#str_alphalabs1_krietman_pda_id"	"6903-50"
@@ -10911,14 +10911,14 @@
 	"#str_alphalabs1_lipsitz_email_1_email_to"	"伯尼·利普希茨"
 	"#str_alphalabs1_lipsitz_email_2_email_date"	"2145-11-14"
 	"#str_alphalabs1_lipsitz_email_2_email_from"	"弗雷德里克·阿努布斯"
-	"#str_alphalabs1_lipsitz_email_2_email_subject"	"氢聚变氧气泄露"
-	"#str_alphalabs1_lipsitz_email_2_email_text"	"利普希茨，\n\n在氧气位移阀门的一个虹吸水管在氢聚变实验室形成泄漏是因为其应要求降低了温度促进生产。如果此管破裂，它将导致氢聚变系统的剧烈不稳定然后导致非常危险的情况。它必须马上更换。\n\n阿努布斯博士\n"
+	"#str_alphalabs1_lipsitz_email_2_email_subject"	"水氢反应堆氧气泄露"
+	"#str_alphalabs1_lipsitz_email_2_email_text"	"利普希茨，\n\n在氧气位移阀门的一个虹吸水管在水氢反应堆实验室形成泄漏是因为其应要求降低了温度促进生产。如果此管破裂，它将导致水氢反应堆系统的剧烈不稳定然后导致非常危险的情况。它必须马上更换。\n\n阿努布斯博士\n"
 	"#str_alphalabs1_lipsitz_email_2_email_to"	"伯尼·利普希茨"
 	"#str_alphalabs1_lipsitz_pda_fullname"	"伯尼·利普希茨"
 	"#str_alphalabs1_lipsitz_pda_id"	"3902-21"
 	"#str_alphalabs1_lipsitz_pda_name"	"伯尼·利普希茨"
 	"#str_alphalabs1_lipsitz_pda_post"	"阿尔法实验室，1区"
-	"#str_alphalabs1_lipsitz_pda_security"	"氢聚变权限"
+	"#str_alphalabs1_lipsitz_pda_security"	"水氢反应堆权限"
 	"#str_alphalabs1_lipsitz_pda_title"	"研究助理"
 	"#str_alphalabs1_smith_audio_1_audio_info"	"来自: 杰克·史密斯\n日期: 2145-10-24\n打开并更改: 是\n入档: 是"
 	"#str_alphalabs1_smith_audio_1_audio_name"	"HR事故报告"
@@ -12146,8 +12146,8 @@
 	"#str_highscore_email_subject"	"新的最高分！"
 	"#str_highscore_email_text"	"恭喜！你在《超级涡轮火鸡拳3》中获得了一个新的高分！！！\n\n你的父母如果知道他们抚养了又一位人类的闪亮新星，他们就可以更轻松地安歇了。\n\n由于你在狂揍这些可怜且手无寸铁的火鸡上浪费了巨长无比的时间，你的假期被缩短了两天。\n\n 祝你今天愉快。\n\n"
 	"#str_highscore_email_to"	"收件人"
-	"#str_hydrocon_video_info"	"创建者: UAC公关部\n日期: 45-04-15\n\n关于氢聚变系统的信息"
-	"#str_hydrocon_video_name"	"氢聚变"
+	"#str_hydrocon_video_info"	"创建者: UAC公关部\n日期: 45-04-15\n\n关于水氢反应堆系统的信息"
+	"#str_hydrocon_video_name"	"水氢反应堆"
 	"#str_ian_report_video_info"	"创建者: 伊恩·麦考密克\n日期: 45-11-15\n\n人类传输实验的结果"
 	"#str_ian_report_video_name"	"传送实验"
 	"#str_id_1_email_date"	"2145-11-16"
@@ -12287,7 +12287,7 @@
 	"#str_imp197email_email_to"	"收件人"
 	"#str_ipn_news_video_info"	"创建者: IPN新闻网络\n日期: 45-11-15\n\nIPN新闻网的日常新闻报道"
 	"#str_ipn_news_video_name"	"IPN新闻网: 你现在的宇宙！ 2145-11-15"
-	"#str_lang_english"	"英语"
+	"#str_lang_english"	"简体中文"
 	"#str_lang_french"	"法语"
 	"#str_lang_german"	"德语"
 	"#str_lang_italian"	"意大利语"
@@ -12500,7 +12500,7 @@
 	"#str_marscity2_caseon_pda_name"	"马克·凯斯昂"
 	"#str_marscity2_caseon_pda_post"	"火星城"
 	"#str_marscity2_caseon_pda_security"	""
-	"#str_marscity2_caseon_pda_title"	"博士"
+	"#str_marscity2_caseon_pda_title"	"医生"
 	"#str_marscity2_duncan_email_1_email_date"	"2145-11-14"
 	"#str_marscity2_duncan_email_1_email_from"	"雷·格哈特"
 	"#str_marscity2_duncan_email_1_email_subject"	"现在暂别"
@@ -13297,7 +13297,7 @@
 	"#str_swf_motionblur"	"动态模糊"
 	"#str_swf_smart"	"智能"
 	"#str_swf_lodbias"	"纹理LOD偏移"
-	"#str_swf_fov"	"视野角度"
+	"#str_swf_fov"	"视野FOV角度"
 	"#str_swf_flashlight_shadows"	"手电筒阴影"
 	"#str_swf_checkpoints"	"自动保存"
 	"#str_swf_joy_mergedThreshold"	"合并的阈值"

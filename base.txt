@@ -5797,7 +5797,7 @@ Calibration
 > #str_00779
 ; controlpanels/hydrocon.gui
 HYDROCON LAB STATION 1
-氢聚变实验室1号站
+水氢反应堆实验室1号站
 
 > #str_00780
 ; controlpanels/hydrocon.gui
@@ -5844,7 +5844,7 @@ Current Readings
 > #str_00788
 ; controlpanels/hydrocon.gui
 HYDROCON LAB STATION 2
-氢聚变实验室2号站
+水氢反应堆实验室2号站
 
 > #str_00789
 ; controlpanels/hydrocon.gui
@@ -5900,7 +5900,7 @@ Calibrate
 > #str_00796
 ; controlpanels/hydropower.gui
 HYDROCON GENERATORS
-氢聚变发电机
+水氢反应堆发电机
 
 > #str_00797
 ; controlpanels/hydropower.gui
@@ -9673,9 +9673,9 @@ The Administration Facility is the Corporate presence on Mars. Union Aerospace e
 """Alpha Labs Sector 1 houses the Elemental Phase Deconstructor and Hydrocon
 systems, a revolutionary new technology that transforms raw materials native to
 Mars into useable resources. The primary EPD reactor feeds into the Hydrocon processing system for transport to Sector 2 MFS refinement and storage."""
-"""阿尔法实验室1区存放着元素相位拆析器以及氢聚变系统，
+"""阿尔法实验室1区存放着元素相位拆析器以及水氢反应堆系统，
 一项革命性的新科技，可以将火星当地原材料转换为可用资源。
-主要EPD反应堆为氢聚变处理系统供能，并传输至2区MFS进行提炼和存储。"""
+主要EPD反应堆为水氢反应堆处理系统供能，并传输至2区MFS进行提炼和存储。"""
 
 > #str_01478
 ; _common/def/maps.def
@@ -12470,7 +12470,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20250827)
+新游戏 (汉化v20250828)
 
 > #str_01867
 Load Game
@@ -17154,7 +17154,7 @@ HCpda
 > #str_02926
 ; alphalabs1:界面参数1 alphalabs1:地点.名
 Hydrocon Control
-氢聚变控制
+水氢反应堆控制
 
 > #str_02927
 ; alphalabs1:界面参数3
@@ -17188,7 +17188,7 @@ Find the personnel elevator that leads to Alpha Labs Level 2.
 > #str_02933
 ; alphalabs1:界面参数1
 video/hydrocon
-视频/氢聚变
+视频/水氢反应堆
 
 > #str_02934
 ; alphalabs2:物品目标.内容
@@ -25206,17 +25206,17 @@ Crawl way 13
 > #str_04373
 ; alphalabs1:地点.名
 Hydrocon Condenser
-氢聚变冷凝器
+水氢反应堆冷凝器
 
 > #str_04374
 ; alphalabs1:地点.名
 Hydrocon Oxygenator
-氢聚变氧气生成器
+水氢反应堆氧气生成器
 
 > #str_04375
 ; alphalabs1:地点.名
 Hydrocon Junction 1
-氢聚变连接点1
+水氢反应堆连接点1
 
 > #str_04376
 ; alphalabs1:地点.名
@@ -25231,7 +25231,7 @@ Oxygen Siphon
 > #str_04378
 ; alphalabs1:地点.名
 Hydrocon Stabilization
-氢聚变稳定室
+水氢反应堆稳定室
 
 > #str_04379
 ; alphalabs1:地点.名
@@ -25241,7 +25241,7 @@ Stabilization Junction
 > #str_04380
 ; alphalabs1:地点.名
 Hydrocon Lab
-氢聚变实验室
+水氢反应堆实验室
 
 > #str_04381
 ; alphalabs1:地点.名
@@ -25256,17 +25256,17 @@ Alpha Labs Main Junction
 > #str_04383
 ; alphalabs1:地点.名
 Hydrocon Observation Platform
-氢聚变观测平台
+水氢反应堆观测平台
 
 > #str_04384
 ; alphalabs1:地点.名
 Hydrocon Junction 4
-氢聚变连接点4
+水氢反应堆连接点4
 
 > #str_04385
 ; alphalabs1:地点.名
 Hydrocon Junction 3
-氢聚变连接点3
+水氢反应堆连接点3
 
 > #str_04386
 ; alphalabs1:地点.名
@@ -36524,7 +36524,7 @@ Dr. Harvey
 """
 """乔治
 
-我似乎把我的PDA连同保安密码一起弄丢了。前几天我在氢聚变上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
+我似乎把我的PDA连同保安密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
 谢谢，
 
 哈维博士
@@ -36600,7 +36600,7 @@ Fredric Anubus
 
 > #str_alphalabs1_lipsitz_email_2_email_subject
 Hydrocon O2 leak
-氢聚变氧气泄露
+水氢反应堆氧气泄露
 
 > #str_alphalabs1_lipsitz_email_2_email_text
 """Lipsitz,
@@ -36611,7 +36611,7 @@ Dr. Anubus
 """
 """利普希茨，
 
-在氧气位移阀门的一个虹吸水管在氢聚变实验室形成泄漏是因为其应要求降低了温度促进生产。如果此管破裂，它将导致氢聚变系统的剧烈不稳定然后导致非常危险的情况。它必须马上更换。
+在氧气位移阀门的一个虹吸水管在水氢反应堆实验室形成泄漏是因为其应要求降低了温度促进生产。如果此管破裂，它将导致水氢反应堆系统的剧烈不稳定然后导致非常危险的情况。它必须马上更换。
 
 阿努布斯博士
 """
@@ -36638,7 +36638,7 @@ Alpha Labs, Sector 1
 
 > #str_alphalabs1_lipsitz_pda_security
 Hydrocon Access
-氢聚变权限
+水氢反应堆权限
 
 > #str_alphalabs1_lipsitz_pda_title
 Research Assistant
@@ -43607,11 +43607,11 @@ Information on the Hydrocon system"""
 """创建者: UAC公关部
 日期: 45-04-15
 
-关于氢聚变系统的信息"""
+关于水氢反应堆系统的信息"""
 
 > #str_hydrocon_video_name
 Hydrocon
-氢聚变
+水氢反应堆
 
 > #str_ian_report_video_info
 """Creator: Ian McCormick
@@ -44477,7 +44477,7 @@ IPN新闻网: 你现在的宇宙！ 2145-11-15
 
 > #str_lang_english
 English
-英语
+简体中文
 
 > #str_lang_french
 French
@@ -45799,7 +45799,7 @@ Mars City
 
 > #str_marscity2_caseon_pda_title
 Doctor
-博士
+医生
 
 > #str_marscity2_duncan_email_1_email_date
 11-14-2145
@@ -50159,7 +50159,7 @@ Texture LOD Bias
 
 > #str_swf_fov
 Field of View
-视野角度
+视野FOV角度
 
 > #str_swf_flashlight_shadows
 Flashlight Shadows

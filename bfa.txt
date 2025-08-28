@@ -48,7 +48,7 @@ BFG混合
 
 > #str_pm_fov
 View Model Field of View
-视角模型FOV
+武器模型FOV
 
 > #str_advanced_heading
 ADVANCED OPTIONS
@@ -172,7 +172,7 @@ Language
 
 > #str_swf_tp_buton
 Photo Mode
-照片模式
+拍照模式
 
 > #str_smart_hud
 Smart HUD
