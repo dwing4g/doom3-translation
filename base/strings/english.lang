@@ -1099,7 +1099,7 @@
 // commoutside/co_callstation.gui
 	"#str_00572"	"运输升降梯\n已经移动"
 // commoutside/co_callstation.gui
-	"#str_00573"	"维护站 PDA\n需要许可证"
+	"#str_00573"	"维护站PDA\n需要许可证"
 // commoutside/co_callstation.gui
 	"#str_00574"	"1号站点"
 // commoutside/co_callstation.gui
@@ -2532,7 +2532,7 @@
 	"#str_01468"	"版本9.72b"
 	"#str_01469"	"个人PDA"
 	"#str_01470"	"已下载"
-	"#str_01471"	"PDA 数据"
+	"#str_01471"	"PDA数据"
 	"#str_01472"	"视频碟片"
 	"#str_01473"	"音频会议"
 	"#str_01474"	"邮件收件箱"
@@ -3665,7 +3665,7 @@
 	"#str_02283"	"寻找局域网游戏服务器"
 	"#str_02284"	" 应用过滤器"
 	"#str_02285"	"应用浏览器过滤"
-	"#str_02286"	"IP 连接"
+	"#str_02286"	"IP连接"
 	"#str_02287"	"直接连接至IP/服务器地址"
 	"#str_02288"	"   加入游戏"
 	"#str_02289"	"加入选择的游戏"
@@ -3757,7 +3757,7 @@
 	"#str_02374"	"地图名"
 	"#str_02375"	"# 玩家"
 	"#str_02376"	"游戏类型"
-	"#str_02377"	"IP 地址"
+	"#str_02377"	"IP地址"
 	"#str_02378"	"局域网搜索"
 	"#str_02379"	"连接至IP:"
 	"#str_02380"	"网速: 局域网"
@@ -3901,7 +3901,7 @@
 	"#str_02510"	"中止"
 // pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 	"#str_02511"	"生物ID"
-	"#str_02512"	"ID 匹配"
+	"#str_02512"	"ID匹配"
 // pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 	"#str_02513"	"名称"
 // pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
@@ -4212,7 +4212,7 @@
 // delta2a:界面参数1
 	"#str_02741"	"记录"
 // delta2a:界面参数2
-	"#str_02742"	"存储: 档案 D-116 - 274"
+	"#str_02742"	"存储: 档案D-116 - 274"
 // delta2a:界面参数4
 	"#str_02743"	"状态: 关闭"
 	"#str_02744"	"从操作区储藏柜回收等离子诱导器"
@@ -4376,9 +4376,9 @@
 	"#str_02846"	"储存点"
 // mars_city1:界面参数1 mars_city2:界面参数1 marscity/elevatorcall.gui
 	"#str_02847"	"单轨站"
-	"#str_02848"	"ACO 经营"
+	"#str_02848"	"ACO运营"
 // mars_city1:普通物品名 mars_city2:物品目标完成.标题 mars_city2:物品目标.标题 mars_city2:ACO钥匙卡物品.界面参数7
-	"#str_02849"	"ACO 卡"
+	"#str_02849"	"ACO卡"
 	"#str_02850"	"托马斯·格林博士的PDA"
 	"#str_02851"	"在陆战队总部找到终端并与士官建立无线电通讯"
 	"#str_02852"	"回到陆战队总部"
@@ -4521,7 +4521,7 @@
 // alphalabs2:物品目标.标题
 	"#str_02935"	"阿尔法实验室3区。"
 // alphalabs2:界面参数3
-	"#str_02936"	"MFS 压缩机"
+	"#str_02936"	"MFS压缩机"
 // alphalabs2:界面参数4
 	"#str_02937"	"EPD系统"
 // alphalabs3:物品目标完成.内容
@@ -4653,7 +4653,7 @@
 // delta1:界面参数1 delta5:物品目标完成.标题 delta5:物品目标.标题 transfer/enter_cpu.gui transfer/exit_delta5.gui
 	"#str_03002"	"CPU综合设施"
 // delta1:界面参数2
-	"#str_03003"	"科学团队 C6"
+	"#str_03003"	"科学团队C6"
 // delta1:物品目标.内容
 	"#str_03004"	"恢复德尔塔实验室电力"
 // delta2a:移除物品名 delta2a:普通物品名 le_exis2:普通物品名 le_exis2:移除物品名
@@ -4880,12 +4880,12 @@
 // delta2b/soulcube1.gui
 	"#str_03121"	"前端扫描"
 // delta2b/soulcube1.gui
-	"#str_03122"	"数据文件 AR-U1 打开"
+	"#str_03122"	"数据文件AR-U1打开"
 	"#str_03123"	"遗物ID: U1\n在洞穴考古挖掘中发现\n2143年6月15日\n\n研究报告于2143年9月1日上交。"
 	"#str_03124"	"原理图"
-	"#str_03125"	"数据文件 SC-802 打开"
+	"#str_03125"	"数据文件SC-802打开"
 	"#str_03126"	"原理图扫描802\n德尔塔2号传送器\n2141年5月11日\n\n主要传送点候选区"
-	"#str_03127"	"数据文件 RP-87 打开"
+	"#str_03127"	"数据文件RP-87打开"
 	"#str_03128"	"心理评估\n德尔塔2号实验体7号\n2145年2月5日\n由阿兰·东海博士提交\n\n对实验体7号的精神病理状态的分析。附带治疗建议。"
 	"#str_03129"	"火星基地"
 	"#str_03130"	"信息"
@@ -5254,7 +5254,7 @@
 // delta2/storagecontrol.gui
 	"#str_03316"	"抽取箱"
 // delta2/storagecontrol.gui
-	"#str_03317"	"正载入 BIN"
+	"#str_03317"	"正载入BIN"
 // delta2/storagecontrol.gui
 	"#str_03318"	"装填器就绪"
 // delta2/storagecontrol.gui
@@ -5330,7 +5330,7 @@
 // delta2b/artifact_analyzer.gui
 	"#str_03354"	"先前的扫描数据"
 // delta2b/artifact_analyzer.gui
-	"#str_03355"	"MXR 影像扫描器"
+	"#str_03355"	"MXR影像扫描器"
 // delta2b/artifact_analyzer.gui
 	"#str_03356"	"当前遗物研究扫描: U1"
 // delta2b/artifact_analyzer.gui
@@ -5424,7 +5424,7 @@
 // delta2b/medical1.gui
 	"#str_03401"	"扫描中心"
 // delta2b/medical1.gui
-	"#str_03402"	"AP 惰性扫描文件"
+	"#str_03402"	"AP惰性扫描文件"
 // delta2b/medical1.gui marscity/bioscan.gui marscity/bioscan2.gui marscity/bioscan3.gui marscity/bioscan4.gui
 	"#str_03403"	"扫描完毕"
 // delta2b/medical1.gui
@@ -6798,7 +6798,7 @@
 	"#str_04160"	"系统"
 	"#str_04161"	"退出"
 	"#str_04162"	"与服务器连接中"
-	"#str_04163"	"ID 不匹配"
+	"#str_04163"	"ID不匹配"
 	"#str_04164"	"选择一个\n视频文件"
 	"#str_04165"	"  停止"
 	"#str_04166"	"  开始游戏"
@@ -7811,7 +7811,7 @@
 	"#str_04762"	"工程处通路舱门08"
 // monorail:地点.名
 	"#str_04763"	"站点2传送区"
-	"#str_04764"	"PDA 房间"
+	"#str_04764"	"PDA房间"
 // recycling1:地点.名
 	"#str_04765"	"毒素处理维护"
 // recycling1:地点.名
@@ -7887,7 +7887,7 @@
 // recycling2:地点.名
 	"#str_04801"	"低层升降梯区域"
 // recycling2:地点.名
-	"#str_04802"	"泵站1b 柜子"
+	"#str_04802"	"泵站1b柜子"
 // site3:地点.名
 	"#str_04803"	"维护2"
 // site3:地点.名
@@ -8409,7 +8409,7 @@
 	"#str_07182"	"隐藏;显示"
 	"#str_07183"	" 或 "
 	"#str_07184"	"D3钥匙"
-	"#str_07185"	"ROE 钥匙"
+	"#str_07185"	"ROE钥匙"
 	"#str_07186"	"未知"
 	"#str_07187"	"无效"
 	"#str_07188"	"好"
@@ -10860,7 +10860,7 @@
 	"#str_admin_simons_audio_1_audio_info"	"制作者: 保罗·西蒙斯\n日期: 2145-10-30\n允许修改: 是\n存入档案: 否"
 	"#str_admin_simons_audio_1_audio_name"	"管理: 网络安全状态"
 	"#str_admin_simons_email_1_email_date"	"2145-11-02"
-	"#str_admin_simons_email_1_email_from"	"IT 保全"
+	"#str_admin_simons_email_1_email_from"	"IT安全部"
 	"#str_admin_simons_email_1_email_subject"	"网络攻破"
 	"#str_admin_simons_email_1_email_text"	"西蒙斯先生，\n\n通过在你的系统上进行的网络测试，没法发现什么问题。在我们测试过程中，你的防火墙看上去一切正常。其他IT经理报告说他们的网络也出现了类似的入侵情况。不管是谁干的，一定是个很高明的家伙，或者拥有极高的安全通行资格。我们会继续扫描网络，如果发现有异常我们会立即告诉你。\n\n中央IT安全部"
 	"#str_admin_simons_email_1_email_to"	"保罗·西蒙斯"
@@ -10874,7 +10874,7 @@
 	"#str_admin_simons_pda_name"	"保罗·西蒙斯"
 	"#str_admin_simons_pda_post"	"管理权限"
 	"#str_admin_simons_pda_security"	""
-	"#str_admin_simons_pda_title"	"IT 专家"
+	"#str_admin_simons_pda_title"	"IT专家"
 	"#str_alphalabs1_berger_audio_1_audio_info"	"来自: 凯尔·伯格\n日期: 2145-11-12\n打开并更改: 是\n入档: 是"
 	"#str_alphalabs1_berger_audio_1_audio_name"	"EPD事故"
 	"#str_alphalabs1_berger_email_1_email_date"	"2145-11-04"
@@ -10980,7 +10980,7 @@
 	"#str_alphalabs2_connors_email_2_email_to"	"沃尔特·康纳斯"
 	"#str_alphalabs2_connors_email_3_email_date"	"2145-11-02"
 	"#str_alphalabs2_connors_email_3_email_from"	"德里克·韦兰德"
-	"#str_alphalabs2_connors_email_3_email_subject"	"MFS 压缩机数量"
+	"#str_alphalabs2_connors_email_3_email_subject"	"MFS压缩机数量"
 	"#str_alphalabs2_connors_email_3_email_text"	"沃尔特，\n\n我想要私下感谢你，感谢你最后那次关于扩大模型的修改建议。这些管CPU的人弄乱了你的数字，经过一些考虑之后，我们一致认为这是我们见过最厉害的不知所云的理论。\n\n如果你在远方对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。\n\n祝你下一次评审愉快:)\n-德里克"
 	"#str_alphalabs2_connors_email_3_email_to"	"沃尔特·康纳斯"
 	"#str_alphalabs2_connors_pda_fullname"	"沃尔特·I.康纳斯"
@@ -11276,7 +11276,7 @@
 	"#str_cpu_tooloose_email_1_email_to"	"史蒂夫·土鲁斯"
 	"#str_cpu_tooloose_email_2_email_date"	"2145-11-14"
 	"#str_cpu_tooloose_email_2_email_from"	"布莱恩·弗兰科"
-	"#str_cpu_tooloose_email_2_email_subject"	"BFG 信息视频"
+	"#str_cpu_tooloose_email_2_email_subject"	"BFG信息视频"
 	"#str_cpu_tooloose_email_2_email_text"	"史蒂夫，\n\n公司需要把我新上传到你办公室的BFG视频放到我们的内部网络上。不要忘了把它转换成“.uacmov”格式以便于所有终端都能播放。\n\n完成后给我发个邮件，我等不及要看它了。\n\n-布莱恩"
 	"#str_cpu_tooloose_email_2_email_to"	"史蒂夫·土鲁斯"
 	"#str_cpuboss_tooloose_pda_fullname"	"史蒂夫·H.土鲁斯"
@@ -12355,7 +12355,7 @@
 	"#str_le_exis_adil_email_0_email_date"	"2145-11-13"
 	"#str_le_exis_adil_email_0_email_from"	"埃利奥特·斯旺"
 	"#str_le_exis_adil_email_0_email_subject"	"火星基地回顾"
-	"#str_le_exis_adil_email_0_email_text"	"阿迪尔中士，\n\n我已意识到你对我的来访很关注。这次行程对UAC的管理层至关重要，作为现场勘查的一部分，我将亲自检查艾克西斯实验室。我了解艾克西斯发生了很多事，这次行程我也将调查事发原因。我已经给火星安全部门主管发去了信息，他们会为你们提供武器装备以及必需品，请务必做好安保工作。\n\n还有，我可以向你保证我已经对自身安全做了额外的预防措施。\n\n诚挚地，\n\n埃利奥特·斯旺\nUAC 执行顾问"
+	"#str_le_exis_adil_email_0_email_text"	"阿迪尔中士，\n\n我已意识到你对我的来访很关注。这次行程对UAC的管理层至关重要，作为现场勘查的一部分，我将亲自检查艾克西斯实验室。我了解艾克西斯发生了很多事，这次行程我也将调查事发原因。我已经给火星安全部门主管发去了信息，他们会为你们提供武器装备以及必需品，请务必做好安保工作。\n\n还有，我可以向你保证我已经对自身安全做了额外的预防措施。\n\n诚挚地，\n\n埃利奥特·斯旺\nUAC执行顾问"
 	"#str_le_exis_adil_email_0_email_to"	"纳西尔·阿迪尔"
 	"#str_le_exis_adil_email_1_email_date"	"2145-10-09"
 	"#str_le_exis_adil_email_1_email_from"	"蔡斯·希金斯"
@@ -13136,7 +13136,7 @@
 	"#str_swf_invite_friends"	"邀请好友"
 	"#str_swf_invite_friends_upper"	"邀请好友"
 	"#str_swf_invite_only"	"切换隐私状态"
-	"#str_swf_invite_xbox_live_party"	"邀请 Xbox LIVE 派对"
+	"#str_swf_invite_xbox_live_party"	"邀请Xbox LIVE派对"
 	"#str_swf_join_public"	"快速比赛"
 	"#str_swf_keep_changes"	"保存更改"
 	"#str_swf_keyboard"	"键位绑定"

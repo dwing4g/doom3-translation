@@ -4471,7 +4471,7 @@ ALREADY MOVED"""
 ; commoutside/co_callstation.gui
 """MAINTENANCE PDA
 CLEARANCE REQUIRED"""
-"""维护站 PDA
+"""维护站PDA
 需要许可证"""
 
 > #str_00574
@@ -9625,7 +9625,7 @@ DOWNLOADED
 
 > #str_01471
 PDA Data
-PDA 数据
+PDA数据
 
 > #str_01472
 VIDEO DISKS
@@ -14309,7 +14309,7 @@ Apply browser filter
 
 > #str_02286
 IP CONNECT
-IP 连接
+IP连接
 
 > #str_02287
 Connect directly to ip/server address
@@ -14678,7 +14678,7 @@ Game Type
 
 > #str_02377
 IP Address
-IP 地址
+IP地址
 
 > #str_02378
 Lan Search
@@ -15279,7 +15279,7 @@ biometric id
 
 > #str_02512
 ID MATCH
-ID 匹配
+ID匹配
 
 > #str_02513
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
@@ -16312,7 +16312,7 @@ RECORDS
 > #str_02742
 ; delta2a:界面参数2
 Storage: Archives D-116 - 274
-存储: 档案 D-116 - 274
+存储: 档案D-116 - 274
 
 > #str_02743
 ; delta2a:界面参数4
@@ -16794,12 +16794,12 @@ Monorail Station
 
 > #str_02848
 ACO Operations
-ACO 经营
+ACO运营
 
 > #str_02849
 ; mars_city1:普通物品名 mars_city2:物品目标完成.标题 mars_city2:物品目标.标题 mars_city2:ACO钥匙卡物品.界面参数7
 ACO Card
-ACO 卡
+ACO卡
 
 > #str_02850
 Dr. Thomas Green's PDA
@@ -17203,7 +17203,7 @@ Alpha Labs Sector 3.
 > #str_02936
 ; alphalabs2:界面参数3
 MFS Compactor
-MFS 压缩机
+MFS压缩机
 
 > #str_02937
 ; alphalabs2:界面参数4
@@ -17536,7 +17536,7 @@ CPU综合设施
 > #str_03003
 ; delta1:界面参数2
 Science Team C6
-科学团队 C6
+科学团队C6
 
 > #str_03004
 ; delta1:物品目标.内容
@@ -18132,7 +18132,7 @@ FRONT SCAN
 > #str_03122
 ; delta2b/soulcube1.gui
 DATA FILE AR-U1 OPEN
-数据文件 AR-U1 打开
+数据文件AR-U1打开
 
 > #str_03123
 """Artifact ID: U1
@@ -18152,7 +18152,7 @@ SCHEMATIC
 
 > #str_03125
 DATA FILE SC-802 OPEN
-数据文件 SC-802 打开
+数据文件SC-802打开
 
 > #str_03126
 """Schematic Scan 802
@@ -18168,7 +18168,7 @@ Primary teleporter placement candidate area"""
 
 > #str_03127
 DATA FILE RP-87 OPEN
-数据文件 RP-87 打开
+数据文件RP-87打开
 
 > #str_03128
 """Psych Evaluation
@@ -19217,7 +19217,7 @@ EXTRACTING BIN
 > #str_03317
 ; delta2/storagecontrol.gui
 LOADING BIN
-正载入 BIN
+正载入BIN
 
 > #str_03318
 ; delta2/storagecontrol.gui
@@ -19471,7 +19471,7 @@ PREVIOUS SCAN DATA
 > #str_03355
 ; delta2b/artifact_analyzer.gui
 MXR IMAGING SCANNER
-MXR 影像扫描器
+MXR影像扫描器
 
 > #str_03356
 ; delta2b/artifact_analyzer.gui
@@ -19744,7 +19744,7 @@ SCAN STATION
 > #str_03402
 ; delta2b/medical1.gui
 AP SUPINE SCAN DATA
-AP 惰性扫描文件
+AP惰性扫描文件
 
 > #str_03403
 ; delta2b/medical1.gui marscity/bioscan.gui marscity/bioscan2.gui marscity/bioscan3.gui marscity/bioscan4.gui
@@ -24253,7 +24253,7 @@ CONNECTING TO SERVER
 
 > #str_04163
 ID MISMATCH
-ID 不匹配
+ID不匹配
 
 > #str_04164
 """SELECT A
@@ -27160,7 +27160,7 @@ Site 2 Transfer Area
 
 > #str_04764
 PDA Room
-PDA 房间
+PDA房间
 
 > #str_04765
 ; recycling1:地点.名
@@ -27350,7 +27350,7 @@ Lower Lift Area
 > #str_04802
 ; recycling2:地点.名
 Pumpstation1b Closet
-泵站1b 柜子
+泵站1b柜子
 
 > #str_04803
 ; site3:地点.名
@@ -28981,7 +28981,7 @@ D3钥匙
 
 > #str_07185
 RoE Key
-ROE 钥匙
+ROE钥匙
 
 > #str_07186
 Unknown
@@ -36330,7 +36330,7 @@ ADMIN: Network Security Status
 
 > #str_admin_simons_email_1_email_from
 IT Security
-IT 保全
+IT安全部
 
 > #str_admin_simons_email_1_email_subject
 Network Breach
@@ -36402,7 +36402,7 @@ Administration
 
 > #str_admin_simons_pda_title
 IT Specialist
-IT 专家
+IT专家
 
 > #str_alphalabs1_berger_audio_1_audio_info
 """Made by: Kyle Berger
@@ -36972,7 +36972,7 @@ Derek Wayland
 
 > #str_alphalabs2_connors_email_3_email_subject
 MFS Compressor Numbers
-MFS 压缩机数量
+MFS压缩机数量
 
 > #str_alphalabs2_connors_email_3_email_text
 """Walter,
@@ -38724,7 +38724,7 @@ Brian Franko
 
 > #str_cpu_tooloose_email_2_email_subject
 BFG Info Video
-BFG 信息视频
+BFG信息视频
 
 > #str_cpu_tooloose_email_2_email_text
 """Steve,
@@ -44823,7 +44823,7 @@ UAC Executive Counsel"""
 诚挚地，
 
 埃利奥特·斯旺
-UAC 执行顾问"""
+UAC执行顾问"""
 
 > #str_le_exis_adil_email_0_email_to
 Nasir Adil
@@ -49483,7 +49483,7 @@ Toggle Privacy
 
 > #str_swf_invite_xbox_live_party
 Invite Xbox LIVE Party
-邀请 Xbox LIVE 派对
+邀请Xbox LIVE派对
 
 > #str_swf_join_public
 Quick Match
