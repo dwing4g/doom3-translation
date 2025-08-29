@@ -2,8 +2,8 @@
 	"#font_"	"Chainlink_Semi-Bold"
 	"#font_an"	"Arial_Narrow"
 	"#font_arial"	"Arial_Narrow"
-	"#font_bank"	"BankGothic_Md_BT"
-	"#font_micro"	"MicrogrammaDBolExt"
+	"#font_bank"	"Arial_Narrow"
+	"#font_micro"	"Chainlink_Semi-Bold"
 // admin/admincontrol.gui
 	"#str_00000"	"行政办公室"
 // admin/admincontrol.gui alphalabs1/securitystation.gui delta2/securityswitch.gui delta2/securityswitch2.gui enpro/bridge_open.gui
@@ -4679,7 +4679,7 @@
 // delta2a:视频CD物品名 le_exis1:视频CD物品名 le_exis2:视频CD物品名
 	"#str_03015"	"视频光碟"
 // delta2a:钥匙卡物品名 delta2b:中继触发.需求
-	"#str_03016"	"BRD 通行卡"
+	"#str_03016"	"BRD通行卡"
 // delta2b:PDA物品.名
 	"#str_03017"	"雅各布·斯蒂蒙斯"
 // delta2b:PDA物品.名 delta2b:界面参数7 delta2b:界面参数4
@@ -5420,7 +5420,7 @@
 // delta2b/demon6.gui
 	"#str_03399"	"ATGCCTGGCTTGC"
 // delta2b/keycard.gui
-	"#str_03400"	"BRD 区域\n进入"
+	"#str_03400"	"BRD区域\n进入"
 // delta2b/medical1.gui
 	"#str_03401"	"扫描中心"
 // delta2b/medical1.gui

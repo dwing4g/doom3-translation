@@ -12,11 +12,11 @@ Arial_Narrow
 
 > #font_bank
 BankGothic_Md_BT
-BankGothic_Md_BT
+Arial_Narrow
 
 > #font_micro
 MicrogrammaDBolExt
-MicrogrammaDBolExt
+Chainlink_Semi-Bold
 
 > #str_00000
 ; admin/admincontrol.gui
@@ -17601,7 +17601,7 @@ Video Disk
 > #str_03016
 ; delta2a:钥匙卡物品名 delta2b:中继触发.需求
 BRD access card
-BRD 通行卡
+BRD通行卡
 
 > #str_03017
 ; delta2b:PDA物品.名
@@ -19733,7 +19733,7 @@ ATGCCTGGCTTGC
 ; delta2b/keycard.gui
 """BRD Area
 Access"""
-"""BRD 区域
+"""BRD区域
 进入"""
 
 > #str_03401
