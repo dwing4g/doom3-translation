@@ -1,8 +1,8 @@
 ﻿《DOOM3 BFG版》含语音字幕全中文汉化补丁
 
 安装方法
-先确保安装了BFA增强补丁
-然后解压此汉化补丁到游戏主文件夹, 补丁和本体的base文件夹要对应
+先确保安装(解压覆盖)了BFA增强补丁, 官方发布在 https://github.com/MadDeCoDeR/Classic-RBDOOM-3-BFG/releases
+然后解压覆盖此汉化补丁到游戏主文件夹, 补丁和本体的base文件夹要对应
 
 运行方法
 启动BFA增强补丁程序: DoomBFA

@@ -4400,7 +4400,7 @@ I will need full access, Dr. Betruger, Delta included. I won't have any difficul
 
 > #cc_mars_city1_00000000119
 Dr. Betruger (threatening): Only if you get lost, Swann. Just stay out of my way. Amazing things will happen here soon. You just wait.
-贝特鲁格博士(威胁地)：除非你迷路了，斯旺。别挡我的路。这里很快就会发生惊人的事情。你就等着瞧吧。
+贝特鲁格博士(威胁地)：除非你执迷不悟，斯旺。别挡我的道。这里很快就会发生惊人的事情。你就等着瞧吧。
 
 > #cc_mars_city1_00000000120
 Counselor Swann: Let's go...
@@ -5220,7 +5220,7 @@ All units this is Sergeant Kelly we are underattack by an unkown enemy force, fa
 
 > #cc_mc_underground_00000000088
 Then straight out. You'll have a quick evac, and what better way to see the Martian surface then to run across it?
-然后直接出去。你会快速撤离，还有什么比跑着穿过火星表面更好的方式来欣赏它呢？
+然后直接出去。你得快点离开，还有什么比跑着穿过火星表面更好的方式来欣赏它呢？
 
 > #cc_mc_underground_00000000095
 Lord, help us.
