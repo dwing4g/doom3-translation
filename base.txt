@@ -9795,7 +9795,7 @@ The Enpro plant provides primary power to the Communications Tower and backup po
 > #str_01496
 ; d3dm3:地点.位置
 Frag Chamber
-碎片室
+击杀室
 
 > #str_01497
 Update: 31 / 10 / 03
@@ -12226,7 +12226,7 @@ PISTOL
 > #str_01820
 ; _common/def/weapon_shotgun.def
 SHOTGUN
-散弹枪
+霰弹枪
 
 > #str_01821
 """MACHINE
@@ -12426,7 +12426,7 @@ this is temporary text this is temporary text
 
 > #str_01855
 Frag Limit:
-杀敌数限制:
+击杀数限制:
 
 > #str_01856
 Time Limit:
@@ -12470,7 +12470,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20250901)
+新游戏 (汉化v20250902)
 
 > #str_01867
 Load Game
@@ -12957,7 +12957,7 @@ N/A
 
 > #str_01982
 Frag Limit
-杀敌数限制
+击杀数限制
 
 > #str_01983
 Time Limit
@@ -13216,7 +13216,7 @@ Soul Cube
 
 > #str_02024
 Flashlight
-手电筒
+手电
 
 > #str_02025
 NEW OBJECTIVE
@@ -14952,7 +14952,7 @@ Smooth Mouse:
 
 > #str_02443
 Flashlight:
-手电筒:
+手电:
 
 > #str_02444
 Mouse Sensitivity:
@@ -15158,7 +15158,7 @@ CHAINSAW
 > #str_02482
 ; _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 FLASHLIGHT
-手电筒
+手电
 
 > #str_02483
 Last Man Max Lives
@@ -15190,7 +15190,7 @@ New Time Limit:
 
 > #str_02490
 New Frag Limit:
-新杀敌数上限:
+新击杀数上限:
 
 > #str_02491
 New Last Man Max Lives:
@@ -17085,7 +17085,7 @@ Unidentified
 > #str_02912
 ; mc_underground:目标提示
 Use your flashlight to illuminate dark areas. Pressing _impulse16 will turn it on and off.
-使用手电筒来照亮黑暗的区域。按下 _impulse16 将会开启或关闭它。
+使用手电来照亮黑暗的区域。按下 _impulse16 将会开启或关闭它。
 
 > #str_02913
 ; delta1:移除物品名 delta1:中继触发.需求 delta1:普通物品名
@@ -20343,7 +20343,7 @@ D3DM2 - 德尔塔实验室
 
 > #str_03489
 D3DM3 - FRAG CHAMBER
-D3DM3 - 碎片室
+D3DM3 - 击杀室
 
 > #str_03490
 D3DM4 - THE EDGE 2
@@ -24666,7 +24666,7 @@ Lives
 
 > #str_04243
 Frags
-破片手雷
+击杀
 
 > #str_04244
 New Player
@@ -24754,15 +24754,15 @@ Max Lives
 
 > #str_04265
 Frag Limit
-杀敌数限制
+击杀数限制
 
 > #str_04266
 Frag Limit value is out of range
-杀敌数限制值超出范围
+击杀数限制值超出范围
 
 > #str_04267
 already at the voted Frag Limit
-已达到投票杀敌数限制
+已达到投票击杀数限制
 
 > #str_04268
 Set Time Limit to %d
@@ -24818,11 +24818,11 @@ Vote failed
 
 > #str_04281
 %s^0 has reached the frag limit
-%s^0 已达到杀人数量
+%s^0 已达到击杀数量
 
 > #str_04282
 %s^0 team has reached the frag limit
-%s^0 队伍达到了杀人数量
+%s^0 队伍达到了击杀数量
 
 > #str_04283
 %s^0 is the last man standing
@@ -27832,7 +27832,7 @@ Coolant Pump 1
 > #str_06710
 ; d3dm3:地点.位置
 Frag Chamber Control
-碎片室控制
+击杀室控制
 
 > #str_06711
 ; d3dm3:地点.位置
@@ -28923,7 +28923,7 @@ Delta Lab
 > #str_07172
 ; _common/def/maps.def
 Frag Chamber
-碎片室
+击杀室
 
 > #str_07173
 ; _common/def/maps.def
@@ -30621,7 +30621,7 @@ Artifact
 > #str_00100187
 ; _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
 Flashlight
-手电筒
+手电
 
 > #str_00100188
 ; _common/def/weapon_fists.def
@@ -34102,11 +34102,11 @@ Transfer Support
 
 > #str_00100917
 Frag/Point Limit
-杀敌数/分数限制
+击杀数/分数限制
 
 > #str_00100918
 New Frag/Point Limit:
-新杀敌数/分数上限:
+新击杀数/分数上限:
 
 > #str_00100919
 Use a power cell to initialize the transfer elevator and then call it to this level
@@ -34214,7 +34214,7 @@ Gregory Stone
 
 > #str_00100943
 Nerve Software is
-神经软件是
+Nerve软件是
 
 > #str_00100944
 ; _common/def/maps.def
@@ -34391,7 +34391,7 @@ DOOM 3: 邪恶复苏
 
 > #str_00100981
 Developed by Nerve Software
-由神经软件开发
+由Nerve软件开发
 
 > #str_00100982
 Doom 3
@@ -35880,22 +35880,22 @@ Auxiliary Core
 > #str_00200222
 ; _common/def/maps.def
 For the great day of his wrath is come; and who shall be able to stand?
-其愤怒降临之日；何人能抵挡？
+审判之日已至，其烈怒降临，何人能抵挡？
 
 > #str_00200223
 ; _common/def/maps.def
 I looked upon the great rift, and there arose smoke and fire from the ancient place…
-我看着大裂谷，从那个古老的地方生出了烟和火……
+吾观深渊巨隙，古所之地喷涌烟与火……
 
 > #str_00200224
 ; _common/def/maps.def
 ...In due time their foot will slip; their day of disaster is near and their doom rushes upon them.
-……到时候他们就会倒下；他们的灾难之日正在到来他们的毁灭将会突然降临。
+……其时必至，彼等失足陷落；灾祸迫近，毁灭骤临其身。
 
 > #str_00200225
 ; _common/def/maps.def
 But the day of doom shall be the end of this time…
-但是世界末日将会是这段日子的终结……
+然此劫数之日，终为纪元之末……
 
 > #str_00200226
 ; transfer/le_hell_post.gui
@@ -45940,7 +45940,7 @@ I'm sending these back as soon as I get the time.  Meanwhile, I would appreciate
 David Robbins
 Industrial Complex"""
 """马库斯，
-米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是机箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个屁用！
+米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是几箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个屁用！
 
 我一有时间就把这些东西送回去。同时，如果你能再帮我向米克森投诉一次，并尽快弄到我的手提钻的话，那就太谢谢你了。
 
@@ -49215,7 +49215,7 @@ Previous Weapon
 
 > #str_swf_action_impulse16
 Flashlight
-手电筒
+手电
 
 > #str_swf_action_impulse19
 PDA/Scoreboard
@@ -49535,7 +49535,7 @@ Southpaw
 
 > #str_swf_lost_episodes
 Lost Mission
-迷失的任务
+失落任务
 
 > #str_swf_low
 Low
@@ -49789,7 +49789,7 @@ Say Team:
 
 > #str_swf_team_deathmatch_desc
 Team vs team frag battle
-小队间杀敌战
+小队间击杀战
 
 > #str_swf_toggle_privacy_desc
 Toggle games privacy
@@ -50163,7 +50163,7 @@ Field of View
 
 > #str_swf_flashlight_shadows
 Flashlight Shadows
-手电筒阴影
+手电阴影
 
 > #str_swf_checkpoints
 Auto Save

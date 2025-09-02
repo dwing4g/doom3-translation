@@ -2575,7 +2575,7 @@
 // _common/def/maps.def
 	"#str_01495"	"恩普罗电站为主要为通信塔功能，并为全部火星UAC设施提供后备电力。等离子罐也在这里从CRC电力产出的副产品里面生产出来。"
 // d3dm3:地点.位置
-	"#str_01496"	"碎片室"
+	"#str_01496"	"击杀室"
 	"#str_01497"	"更新: 31/10/03"
 	"#str_01498"	"记录:\n-中部房间启动后可以生成强化道具\n-地图其他敌方的灯光会在房间启动时闪烁\n\n改动记录:\n- 额外音频通道\n- 死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新布局（挡住了西边半块地图，包括引擎室）\n- 死亡竞赛的强化道具在重新激活前要等1分钟\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
 	"#str_01499"	"杀戮时刻"
@@ -3154,7 +3154,7 @@
 // _common/def/weapon_pistol.def
 	"#str_01819"	"手枪"
 // _common/def/weapon_shotgun.def
-	"#str_01820"	"散弹枪"
+	"#str_01820"	"霰弹枪"
 	"#str_01821"	"机关\n枪"
 	"#str_01822"	"锁链\n枪"
 	"#str_01823"	"等离子\n手枪"
@@ -3191,7 +3191,7 @@
 	"#str_01853"	"只会用功不玩耍，聪明孩子也变傻"
 // delta2/teleporter5.gui erebus1/station5.gui
 	"#str_01854"	"这是临时文本这是临时文本"
-	"#str_01855"	"杀敌数限制:"
+	"#str_01855"	"击杀数限制:"
 	"#str_01856"	"时间限制:"
 	"#str_01857"	"玩家1"
 	"#str_01858"	"玩家2"
@@ -3202,7 +3202,7 @@
 	"#str_01863"	"选项"
 	"#str_01864"	"制作人员"
 	"#str_01865"	"退出"
-	"#str_01866"	"新游戏 (汉化v20250901)"
+	"#str_01866"	"新游戏 (汉化v20250902)"
 	"#str_01867"	"载入游戏"
 	"#str_01868"	"试玩"
 	"#str_01869"	"位置: 德尔塔"
@@ -3319,7 +3319,7 @@
 	"#str_01980"	"小队伤害"
 // pda/pda_npc.gui pda/tablet_npc.gui
 	"#str_01981"	"无"
-	"#str_01982"	"杀敌数限制"
+	"#str_01982"	"击杀数限制"
 	"#str_01983"	"时间限制"
 	"#str_01984"	"做热身"
 	"#str_01985"	"技能等级"
@@ -3364,7 +3364,7 @@
 	"#str_02022"	"BFG-9000"
 // _common/def/weapon_soulcube.def
 	"#str_02023"	"灵魂魔方"
-	"#str_02024"	"手电筒"
+	"#str_02024"	"手电"
 	"#str_02025"	"新目标"
 	"#str_02026"	"目标完成"
 	"#str_02027"	"新物品"
@@ -3823,7 +3823,7 @@
 	"#str_02440"	"打开PDA:"
 	"#str_02441"	"反转鼠标:"
 	"#str_02442"	"平滑鼠标"
-	"#str_02443"	"手电筒:"
+	"#str_02443"	"手电:"
 	"#str_02444"	"鼠标灵敏度:"
 	"#str_02445"	"显示计分板"
 	"#str_02446"	"聊天:"
@@ -3870,7 +3870,7 @@
 // _common/def/weapon_chainsaw.def
 	"#str_02481"	"电锯"
 // _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
-	"#str_02482"	"手电筒"
+	"#str_02482"	"手电"
 	"#str_02483"	"最后一人最大生命"
 	"#str_02484"	"新投票"
 	"#str_02485"	"无投票"
@@ -3878,7 +3878,7 @@
 	"#str_02487"	"现在重启"
 	"#str_02488"	"无观察者"
 	"#str_02489"	"新时间限制"
-	"#str_02490"	"新杀敌数上限:"
+	"#str_02490"	"新击杀数上限:"
 	"#str_02491"	"新的最后一人最大生命:"
 	"#str_02492"	"新游戏类型:"
 	"#str_02493"	"踢出玩家:"
@@ -4475,7 +4475,7 @@
 	"#str_02910"	"你可以用你的PDA或者真正的ACO钥匙卡开启许多上锁的门。你的PDA也包含有安全访问密码来打开储藏柜，因此要确保获得每个PDA"
 	"#str_02911"	"未确认"
 // mc_underground:目标提示
-	"#str_02912"	"使用手电筒来照亮黑暗的区域。按下 _impulse16 将会开启或关闭它。"
+	"#str_02912"	"使用手电来照亮黑暗的区域。按下 _impulse16 将会开启或关闭它。"
 // delta1:移除物品名 delta1:中继触发.需求 delta1:普通物品名
 	"#str_02913"	"数据连接器"
 // commoutside:界面参数2
@@ -5580,7 +5580,7 @@
 	"#str_03486"	"主要服务库"
 	"#str_03487"	"D3DM1 - 富美子反应堆"
 	"#str_03488"	"D3DM2 - 德尔塔实验室"
-	"#str_03489"	"D3DM3 - 碎片室"
+	"#str_03489"	"D3DM3 - 击杀室"
 	"#str_03490"	"D3DM4 - 边缘2"
 	"#str_03491"	"D3DM5 - 熄灯"
 	"#str_03492"	"德尔塔实验室 - 1层"
@@ -6879,7 +6879,7 @@
 	"#str_04240"	"世界发言:;小队发言:"
 	"#str_04241"	"必须修复;意愿清单"
 	"#str_04242"	"存活"
-	"#str_04243"	"破片手雷"
+	"#str_04243"	"击杀"
 	"#str_04244"	"新玩家"
 	"#str_04245"	"正在连接"
 	"#str_04246"	"旁观中"
@@ -6901,9 +6901,9 @@
 	"#str_04262"	"小队伤害"
 	"#str_04263"	"最后幸存者"
 	"#str_04264"	"最大生命"
-	"#str_04265"	"杀敌数限制"
-	"#str_04266"	"杀敌数限制值超出范围"
-	"#str_04267"	"已达到投票杀敌数限制"
+	"#str_04265"	"击杀数限制"
+	"#str_04266"	"击杀数限制值超出范围"
+	"#str_04267"	"已达到投票击杀数限制"
 	"#str_04268"	"设置时间限制为%d"
 	"#str_04269"	"时间限制数值超出范围"
 	"#str_04270"	"已经是投票时间限制"
@@ -6917,8 +6917,8 @@
 	"#str_04278"	"投票失败"
 	"#str_04279"	"%s^0 开始了投票！"
 	"#str_04280"	"%s^0 加入了 %s 队伍"
-	"#str_04281"	"%s^0 已达到杀人数量"
-	"#str_04282"	"%s^0 队伍达到了杀人数量"
+	"#str_04281"	"%s^0 已达到击杀数量"
+	"#str_04282"	"%s^0 队伍达到了击杀数量"
 	"#str_04283"	"%s^0 是最后幸存者"
 	"#str_04284"	"达到时间限制"
 	"#str_04285"	"%s^0 加入了观察者"
@@ -8060,7 +8060,7 @@
 // d3dm3:地点.位置
 	"#str_06709"	"冷却泵1"
 // d3dm3:地点.位置
-	"#str_06710"	"碎片室控制"
+	"#str_06710"	"击杀室控制"
 // d3dm3:地点.位置
 	"#str_06711"	"冷却管制"
 // d3dm3:地点.位置
@@ -8392,7 +8392,7 @@
 // _common/def/maps.def
 	"#str_07171"	"德尔塔实验室"
 // _common/def/maps.def
-	"#str_07172"	"碎片室"
+	"#str_07172"	"击杀室"
 // _common/def/maps.def
 	"#str_07173"	"边缘2"
 // _common/def/maps.def
@@ -8908,7 +8908,7 @@
 // _common/def/weapon_bloodstone_passive.def
 	"#str_00100186"	"神器"
 // _common/def/weapon_flashlight.def _common/def/weapon_flashlight_new.def
-	"#str_00100187"	"手电筒"
+	"#str_00100187"	"手电"
 // _common/def/weapon_fists.def
 	"#str_00100188"	"拳头"
 	"#str_00100189"	"爪钩"
@@ -10104,8 +10104,8 @@
 	"#str_00100915"	"转移维护"
 // phobos4:地点.位置
 	"#str_00100916"	"转移支持"
-	"#str_00100917"	"杀敌数/分数限制"
-	"#str_00100918"	"新杀敌数/分数上限:"
+	"#str_00100917"	"击杀数/分数限制"
+	"#str_00100918"	"新击杀数/分数上限:"
 	"#str_00100919"	"使用1快电池来开启运输电梯然后让它到达本层"
 	"#str_00100920"	"找到两个能量电池启动遗物储存过滤系统然后激活它。"
 // erebus3/vent_storage2.gui
@@ -10138,7 +10138,7 @@
 	"#str_00100940"	"达林·麦克内尔"
 	"#str_00100941"	"肖恩·米切尔"
 	"#str_00100942"	"格雷戈里·斯通"
-	"#str_00100943"	"神经软件是"
+	"#str_00100943"	"Nerve软件是"
 // _common/def/maps.def
 	"#str_00100944"	"主挖掘场"
 	"#str_00100945"	"厄瑞玻斯挖掘场"
@@ -10201,7 +10201,7 @@
 	"#str_00100978"	" 由id软件制作"
 	"#str_00100979"	"爬虫"
 	"#str_00100980"	"DOOM 3: 邪恶复苏"
-	"#str_00100981"	"由神经软件开发"
+	"#str_00100981"	"由Nerve软件开发"
 	"#str_00100982"	"Doom 3"
 	"#str_00100983"	"由id软件开发"
 // phobos2/mcneil_touchscreen.gui
@@ -10777,13 +10777,13 @@
 // le_enpro2:目标安保.内容
 	"#str_00200221"	"辅助核心"
 // _common/def/maps.def
-	"#str_00200222"	"其愤怒降临之日；何人能抵挡？"
+	"#str_00200222"	"审判之日已至，其烈怒降临，何人能抵挡？"
 // _common/def/maps.def
-	"#str_00200223"	"我看着大裂谷，从那个古老的地方生出了烟和火……"
+	"#str_00200223"	"吾观深渊巨隙，古所之地喷涌烟与火……"
 // _common/def/maps.def
-	"#str_00200224"	"……到时候他们就会倒下；他们的灾难之日正在到来他们的毁灭将会突然降临。"
+	"#str_00200224"	"……其时必至，彼等失足陷落；灾祸迫近，毁灭骤临其身。"
 // _common/def/maps.def
-	"#str_00200225"	"但是世界末日将会是这段日子的终结……"
+	"#str_00200225"	"然此劫数之日，终为纪元之末……"
 // transfer/le_hell_post.gui
 	"#str_00200226"	"岗哨站1"
 	"#str_adil_exis_pda_01_audio_info"	"来自: 纳西尔·阿迪尔\n日期: 2145-11-03\n打开并更改: 否\n入档: 是"
@@ -12522,7 +12522,7 @@
 	"#str_marscity2_stanton_email_1_email_date"	"2145-11-12"
 	"#str_marscity2_stanton_email_1_email_from"	"戴维·罗宾斯"
 	"#str_marscity2_stanton_email_1_email_subject"	"你相信——链锯吗？"
-	"#str_marscity2_stanton_email_1_email_text"	"马库斯，\n米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是机箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个屁用！\n\n我一有时间就把这些东西送回去。同时，如果你能再帮我向米克森投诉一次，并尽快弄到我的手提钻的话，那就太谢谢你了。\n\n戴维·罗宾斯\n工业综合设施"
+	"#str_marscity2_stanton_email_1_email_text"	"马库斯，\n米克森的那些傻鸟又犯傻了。我征用了一箱手提钻，拿到的却是几箱电锯，根本没有手提钻。他们到底在想什么？火星上电锯顶个屁用！\n\n我一有时间就把这些东西送回去。同时，如果你能再帮我向米克森投诉一次，并尽快弄到我的手提钻的话，那就太谢谢你了。\n\n戴维·罗宾斯\n工业综合设施"
 	"#str_marscity2_stanton_email_1_email_to"	"马库斯·斯坦顿"
 	"#str_marscity2_stanton_email_2_email_date"	"2145-11-14"
 	"#str_marscity2_stanton_email_2_email_from"	"雷·格哈特"
@@ -13069,7 +13069,7 @@
 	"#str_swf_action_impulse13"	"装弹"
 	"#str_swf_action_impulse14"	"下一武器"
 	"#str_swf_action_impulse15"	"上一武器"
-	"#str_swf_action_impulse16"	"手电筒"
+	"#str_swf_action_impulse16"	"手电"
 	"#str_swf_action_impulse19"	"PDA/计分板"
 	"#str_swf_action_impulse28"	"武器群组1"
 	"#str_swf_action_impulse29"	"武器群组2"
@@ -13149,7 +13149,7 @@
 	"#str_swf_leaderboards_global_self_heading"	"排行榜（我的得分）"
 	"#str_swf_leave_game"	"离开游戏"
 	"#str_swf_lefty_flip"	"左撇子"
-	"#str_swf_lost_episodes"	"迷失的任务"
+	"#str_swf_lost_episodes"	"失落任务"
 	"#str_swf_low"	"低"
 	"#str_swf_lvl_short"	"等级%d"
 	"#str_swf_match_setting_desc"	"自定义对战设置"
@@ -13211,7 +13211,7 @@
 	"#str_swf_storage_device"	"仓库设备"
 	"#str_swf_talk_all"	"世界发言:"
 	"#str_swf_talk_team"	"小队发言:"
-	"#str_swf_team_deathmatch_desc"	"小队间杀敌战"
+	"#str_swf_team_deathmatch_desc"	"小队间击杀战"
 	"#str_swf_toggle_privacy_desc"	"切换游戏隐私状态"
 	"#str_swf_tourney_desc"	"1对1对决回合"
 	"#str_swf_unassign"	"未分配"
@@ -13298,7 +13298,7 @@
 	"#str_swf_smart"	"智能"
 	"#str_swf_lodbias"	"纹理LOD偏移"
 	"#str_swf_fov"	"视野FOV角度"
-	"#str_swf_flashlight_shadows"	"手电筒阴影"
+	"#str_swf_flashlight_shadows"	"手电阴影"
 	"#str_swf_checkpoints"	"自动保存"
 	"#str_swf_joy_mergedThreshold"	"合并的阈值"
 	"#str_swf_joy_gammaLook"	"查看加速度"
