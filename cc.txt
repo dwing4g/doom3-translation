@@ -3472,7 +3472,7 @@ I see you have the inducer. I'll unlock some doors so you can make it back throu
 
 > #cc_exis2_00000000002
 I have the teleporter sequence already configured. Just activate the main console.
-传送器序列我已经配置好了。你只需启动主控台就行。
+传送器序列我已经配置好了。你只需激活主控台就行。
 
 > #cc_exis2_00000000014
 When you reach the outpost, I'll be able to communicate with you. Good luck.
@@ -3480,7 +3480,7 @@ When you reach the outpost, I'll be able to communicate with you. Good luck.
 
 > #cc_exis2_00000000003
 Environmental bridge detected. Please, activate emergency shutters.
-检测到环境桥。请启动紧急闸门。
+检测到环境桥。请激活紧急闸门。
 
 > #cc_exis2_00000000004
 Environmental bridge contained.
@@ -5568,7 +5568,7 @@ He was performing maintenance on it, and states that he unplugged it and had the
 
 > #cc_pda_00000000021
 It managed to activate without an apparent power source, and, uh, shredded his arm up to the elbow before someone got him out.
-它竟然在没有明显电源的情况下启动了，呃，在他被人救出来之前，把他的手臂绞碎到了肘部。
+它竟然在没有明显电源的情况下激活了，呃，在他被人救出来之前，把他的手臂绞碎到了肘部。
 
 > #cc_pda_00000000425
 It's been reported that the, uh, machine is still running and we can't shut it down.
@@ -8216,11 +8216,11 @@ Announcer: Warning - Danger level red. Lethal toxicity level detected.
 
 > #cc_recycling2_00000000028
 Announcer: Air scrubber 1 of 3 activated
-播报员：空气净化器1/3已启动
+播报员：空气净化器1/3已激活
 
 > #cc_recycling2_00000000029
 Announcer: Air Scrubber 2 of 3 activated.
-播报员：空气净化器2/3已启动。
+播报员：空气净化器2/3已激活。
 
 > #cc_recycling2_00000000030
 Announcer: Attention - Air filtration system online. Toxicity level decreasing.
@@ -8892,19 +8892,19 @@ For more information, contact the UAC's Advanced Weapons Department.
 
 > #cc_videos_00000000278
 the UAC looked to the past when designing and manufacturing the newest line of Mach-2 Chainguns.
-UAC在设计和制造最新系列马赫2型链炮时借鉴了过去。
+UAC在设计和制造最新系列马赫2型链枪时借鉴了过去。
 
 > #cc_videos_00000000053
 The retro style and mechanical sturdiness of the Chaingun is a must for all hardened combat veterans.
-链炮的复古风格和机械坚固性是所有经验丰富的战斗老兵的必备品。
+链枪的复古风格和机械坚固性是所有经验丰富的战斗老兵的必备品。
 
 > #cc_videos_00000000279
 Early adopters have nicknamed it 'SAW', with its armor piercing 30 caliber bullets the Chaingun is capable of literally cutting opponents in two.
-早期使用者昵称它为“SAW”，凭借其穿甲30口径子弹，链炮能够将对手一分为二。
+早期使用者昵称它为“SAW”，凭借其穿甲30口径子弹，链枪能够将对手一分为二。
 
 > #cc_videos_00000000054
 Packed with all the punch you need in close combat fighting, the Chaingun delivers unparallel reliability and functionality.
-链炮在近距离战斗中提供你所需的所有冲击力，具有无与伦比的可靠性和功能性。
+链枪在近距离战斗中提供你所需的所有冲击力，具有无与伦比的可靠性和功能性。
 
 > #cc_videos_00000000055
 Always on the forefront of technology, the UAC is making safer worlds through superior firepower.
@@ -9560,7 +9560,7 @@ To date, there remains no evidence of any type of invasion at any of the sites. 
 
 > #cc_videos_00000000183
 On behalf of the UAC, welcome to Mars City.
-联合航空航天公司谨此欢迎您来到火星城。
+UAC谨此欢迎您来到火星城。
 
 > #cc_videos_00000000184
 This facility serves as the central hub for all scientific research, archeological study and military operations.
@@ -9568,11 +9568,11 @@ This facility serves as the central hub for all scientific research, archeologic
 
 > #cc_videos_00000000185
 Goal number one of the UAC is the safety and well being of all employees and guests.
-联合航空航天公司的首要目标是确保所有员工和来宾的安全与福祉。
+UAC的首要目标是确保所有员工和来宾的安全与福祉。
 
 > #cc_videos_00000000186
 To help achieve this goal, we ask for you to follow all UAC corporate procedures at all times.
-为实现此目标，我们要求您始终遵守联合航空航天公司的所有公司规程。
+为实现此目标，我们要求您始终遵守UAC的所有公司规程。
 
 > #cc_videos_00000000187
 This includes restricting your movement to areas for which you have clearance.
@@ -9584,7 +9584,7 @@ Always remain alert and aware of what you and others are doing.
 
 > #cc_videos_00000000189
 If notice anything out of the ordinary or just have a simple question find the nearest UAC Security Guard.
-如果您发现任何异常情况或有任何疑问，请寻找最近的联合航空航天公司安保人员。
+如果您发现任何异常情况或有任何疑问，请寻找最近的UAC安保人员。
 
 > #cc_videos_00000000190
 They are here to help no matter how large or small the problem is.
@@ -9612,7 +9612,7 @@ If you need more detailed assistance please see your human resources manager.
 
 > #cc_videos_00000000195
 If you are a guest you may bring up any issue with your appointed UAC liason.
-如果您是来宾，可以将任何问题向您指定的联合航空航天公司联络员提出。
+如果您是来宾，可以将任何问题向您指定的UAC联络员提出。
 
 > #cc_videos_00000000196
 Thank you, and have a nice day.
@@ -9628,7 +9628,7 @@ Thank you, and have a nice day.
 
 > #cc_videos_00000000199
 The UAC AM3 series portable power plant is an ideal redundant energy solution for military and commercial applications.
-联合航空航天公司AM3系列便携式发电站是军事和商业应用的理想冗余能源解决方案。
+UAC AM3系列便携式发电站是军事和商业应用的理想冗余能源解决方案。
 
 > #cc_videos_00000000200
 Once deployed, the AM3 can sustain a power output of up to 750 megawatts off a single cell for up to 50 years.
@@ -9644,7 +9644,7 @@ This makes the AM3 the ideal portable power source for the most demanding indust
 
 > #cc_videos_00000000202
 Powered by proprietary UAC MagSiel antimatter canisters, the AM3 allows for safe transportation even in the harshest of environments.
-AM3由联合航空航天公司专有的磁盾反物质燃料罐供电，即使在最恶劣的环境中也能安全运输。
+AM3由UAC专有的磁盾反物质燃料罐供电，即使在最恶劣的环境中也能安全运输。
 
 > #cc_videos_00000000203
 Boasting zero waste emissions, thanks to the most advanced gamma ray radiation shields, 
@@ -9692,7 +9692,7 @@ thereby making low-gravity docking procedures much safer for pilots.
 
 > #cc_videos_00000000212
 For more information, contact the UAC's Advanced Tool Department.
-欲了解更多信息，请联系联合航空航天公司高级工具部门。
+欲了解更多信息，请联系UAC的高级工具部门。
 
 > #cc_videos_00000000213
 Welcome to a new, safer Mars.
@@ -9704,19 +9704,19 @@ This briefing is designed to inform all personnel of our mission goals
 
 > #cc_videos_00000000317
 and act as a reminder of our ongoing commitment to the safety of the entire UAC family.
-并提醒我们对整个联合航空航天公司大家庭安全的持续承诺。
+并提醒我们对整个UAC大家庭安全的持续承诺。
 
 > #cc_videos_00000000215
 There are many reasons to be excited about this new UAC Mars mission.
-有许多理由对这次新的联合航空航天公司火星任务感到兴奋。
+有许多理由对这次新的UAC火星任务感到兴奋。
 
 > #cc_videos_00000000318
 Not only will you be part of what promises to be exciting discoveries, you are also laying the groundwork for the future of the UAC.
-您不仅将参与到有望带来激动人心发现的工作中，还在为联合航空航天公司的未来奠定基础。
+您不仅将参与到有望带来激动人心发现的工作中，还在为UAC的未来奠定基础。
 
 > #cc_videos_00000000216
 We ask for your cooperation in following all UAC procedures outlined in your team manual.
-我们请求您配合遵守团队手册中列出的所有联合航空航天公司规程。
+我们请求您配合遵守团队手册中列出的所有UAC规程。
 
 > #cc_videos_00000000319
 Discuss any issues or problems with team leaders only. And for your safety, please stay in your team-designated areas.
@@ -9736,7 +9736,7 @@ with the absolute safest working conditions.
 
 > #cc_videos_00000000321
 The UAC knows that safe workers are happy workers, and we will continue to do everything in our power to provide a secure workplace.
-联合航空航天公司深知安全工作的员工是快乐的员工，我们将继续竭尽所能提供一个安全的工作场所。
+UAC深知安全工作的员工是快乐的员工，我们将继续竭尽所能提供一个安全的工作场所。
 
 > #cc_videos_00000000219
 Thank you for your attention and enjoy your stay on Mars.
@@ -9760,7 +9760,7 @@ The research I participated in was the next step in teleportation.
 
 > #cc_videos_00000000223
 To give context to my research, back in 2115, UAC researchers discovered an ancient Martian civilization.
-为了说明我的研究背景，早在2115年，联合航空航天公司的研究员们发现了一个古老的火星文明。
+为了说明我的研究背景，早在2115年，UAC的研究员们发现了一个古老的火星文明。
 
 > #cc_videos_00000000323
 At the Erebus Dig site, they found a Martian teleportation device.
@@ -10424,39 +10424,39 @@ SOULCUBE: Use us!
 
 > #cc_weapons_00000000131
 (CHAINGUN RISES)
-(转轮机枪升起)
+(链枪升起)
 
 > #cc_weapons_00000000132
 (CHAINGUN WINDS UP)
-(转轮机枪预热)
+(链枪预热)
 
 > #cc_weapons_00000000133
 (CHAINGUN WINDS DOWN)
-(转轮机枪降速)
+(链枪降速)
 
 > #cc_weapons_00000000134
 (CHAINGUN FIRES)
-(转轮机枪射击)
+(链枪射击)
 
 > #cc_weapons_00000000135
 (CHAINGUN FIRES)
-(转轮机枪射击)
+(链枪射击)
 
 > #cc_weapons_00000000136
 (CHAINGUN FIRES)
-(转轮机枪射击)
+(链枪射击)
 
 > #cc_weapons_00000000137
 (CHAINGUN FIRES)
-(转轮机枪射击)
+(链枪射击)
 
 > #cc_weapons_00000000138
 (CHAINGUN CLICKS)
-(转轮机枪咔哒声)
+(链枪咔哒声)
 
 > #cc_weapons_00000000139
 (CHAINGUN RELOADS)
-(转轮机枪重新装弹)
+(链枪重新装弹)
 
 > #cc_weapons_00000000140
 (ROCKET EXPLODES)
@@ -10480,15 +10480,15 @@ SOULCUBE: Use us!
 
 > #cc_weapons_00000000145
 (CHAINGUN WINDS UP)
-(转轮机枪预热)
+(链枪预热)
 
 > #cc_weapons_00000000146
 (CHAINGUN FIRES)
-(转轮机枪射击)
+(链枪射击)
 
 > #cc_weapons_00000000147
 (CHAINGUN WINDS DOWN)
-(转轮机枪降速)
+(链枪降速)
 
 > #cc_weapons_00000000148
 (AIR WHOOSHING)

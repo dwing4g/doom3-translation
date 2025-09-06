@@ -890,7 +890,7 @@ Open Vent Hatch."""
 ; alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
 """CHAMBER
 LOCKED"""
-"""房间
+"""舱室
 已锁定"""
 
 > #str_00123
@@ -906,7 +906,7 @@ CANCEL
 > #str_00125
 ; alphalabs4/fragchamber.gui
 CHAMBER OPEN
-房间打开
+舱室打开
 
 > #str_00126
 ; alphalabs4/fragchamber.gui
@@ -922,15 +922,15 @@ CYCLE CANCELLED
 ; alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
 """ACTIVATE
 CHAMBER"""
-"""开启
-房间"""
+"""激活
+舱室"""
 
 > #str_00129
 ; alphalabs4/fragchamber.gui
 """OPEN
 CHAMBER"""
 """打开
-房间"""
+舱室"""
 
 > #str_00130
 ; alphalabs3/vent.gui
@@ -4313,12 +4313,12 @@ SENTRY ONLINE
 > #str_00544
 ; comm1/sentrybot.gui controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui controlpanels/bridgecontrol.gui delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui
 GUARD MODE ACTIVATED
-守卫模式开启
+守卫模式已激活
 
 > #str_00545
 ; comm1/sentrybot.gui
 ACTIVATE SENTRY
-启动哨卫
+激活哨卫
 
 > #str_00546
 ; doors/liftcall.gui commoutside/airlock_liftcall.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
@@ -4544,7 +4544,7 @@ User Campbell."""
 
 > #str_00586
 Contact shift Maintenance administrator for security override clearance.
-联系当班维护管理员来取得保安优先许可。
+联系当班维护管理员来取得安保优先许可。
 
 > #str_00587
 ; commoutside/co_unlock2.gui commoutside/co_unlock3.gui
@@ -5455,7 +5455,7 @@ Door
 
 > #str_00729
 Security
-安全
+安保
 
 > #str_00730
 Current
@@ -6415,7 +6415,7 @@ REPLACE BEFORE PROCEEDING"""
 """ACTIVATE
 TELEPORTER
 SEQUENCE"""
-"""启动
+"""激活
 传送器
 程序"""
 
@@ -7256,7 +7256,7 @@ Click to activate
 oxygen purge"""
 """灭火系统开启
 
-点击启动
+点击激活
 真空净化"""
 
 > #str_01039
@@ -7270,7 +7270,7 @@ temp 78
 > #str_01041
 ; delta2a:界面参数1
 SECURITY
-安全
+安保
 
 > #str_01042
 """SECURITY
@@ -7301,7 +7301,7 @@ Control
 > #str_01047
 ; delta2/securitydoor.gui
 Halon System Activated
-灭火系统已经启动
+灭火系统已激活
 
 > #str_01048
 ; delta2/securitydoor.gui
@@ -8070,7 +8070,7 @@ Teleporter Station 3"""
 """EPR源控制在线
 传送器 - 准备激活
 
-目标 - 保安平台
+目标 - 安保平台
 
 激活控制准备完毕于
 传送站3"""
@@ -9152,7 +9152,7 @@ To activate a new panel, simply place it on an available power receptacle, and t
 
 如需操作，请与值班技术人员在面板上签字，并让技术人员设置所需的接口值。如果您不确定需要哪个接口，请向技术人员索取库列表。
 
-想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"""
+想要激活一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"""
 
 > #str_01364
 DELTA LABS - AREA 1
@@ -9773,7 +9773,7 @@ Delta Labs Research Facility - Sector 2 North contains the Biological Research d
 > #str_01492
 ; _common/def/maps.def
 Delta Labs - Sector 3 contains the second generation transfer platforms, able to teleport variable distances to small portable receiving platforms. Test chambers must be reserved prior to experimentation. All access is under security observation.
-德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到保安监控。
+德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到安保监控。
 
 > #str_01493
 ; _common/def/maps.def
@@ -9813,7 +9813,7 @@ Changelog:
 - Power-Up creation in Deathmatch now has a 1 minute delay for when it can be reactivated
 - To load map with Duel settings, set si_gametype to duel - the scripting does the rest"""
 """记录:
--中部房间启动后可以生成强化道具
+-中部房间激活后可以生成强化道具
 -地图其他敌方的灯光会在房间启动时闪烁
 
 改动记录:
@@ -11399,7 +11399,7 @@ Turrents"""
 > #str_01670
 ; xian/monorail/monorail.gui
 ACTIVATE MONORAIL
-启动单轨铁路
+激活单轨铁路
 
 > #str_01671
 ; erebus6/erebus6_monorail.gui xian/monorail/monorail.gui
@@ -11416,7 +11416,7 @@ HEALTH STATION ACTIVITY
 ACTIVATED"""
 """
 
-已启动"""
+已激活"""
 
 > #str_01674
 Ammo Dispenser
@@ -11481,7 +11481,7 @@ CLOSING
 
 > #str_01688
 SELECT TO ACTIVATE
-选择启动
+选择激活
 
 > #str_01689
 Power-Up Chamber
@@ -12556,7 +12556,7 @@ Test Bugger
 """ACTIVATE
 TELEPORTATION
 SEQUENCE"""
-"""启动
+"""激活
 传送
 程序"""
 
@@ -15385,7 +15385,7 @@ MG-88执行者能够提供很高的射速以及在短时间连续射击时可靠
 > #str_02536
 ; _common/def/weapon_chaingun.def
 The Chain Gun's 0.30 caliber armor piercing round delivers substantial damage, but heavy recoil reduces accuracy.
-机关炮那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。
+链枪那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。
 
 > #str_02537
 ; _common/def/weapon_handgrenade.def
@@ -16832,7 +16832,7 @@ Head towards Alpha Labs
 
 > #str_02857
 Main Security
-主安全
+主安保
 
 > #str_02858
 ; mc_underground:界面参数1
@@ -17114,7 +17114,7 @@ Med Kit
 > #str_02918
 ; admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名 _common/def/items.def
 Security Armor
-保安护甲
+安保护甲
 
 > #str_02919
 ; admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名 _common/def/items.def
@@ -17437,7 +17437,7 @@ CPU 3层
 > #str_02983
 ; cpu:界面参数1
 CPU Security
-CPU安全
+CPU安保部门
 
 > #str_02984
 ; cpu:电梯.界面参数4
@@ -17451,7 +17451,7 @@ Heavy Weapons
 > #str_02986
 ; cpuboss:物品目标完成.标题 cpuboss:物品目标.标题
 Security Bridge
-保安控制台
+安保控制台
 
 > #str_02987
 ; cpuboss:物品目标.内容
@@ -17887,7 +17887,7 @@ Engineering Team
 > #str_03074
 ; mc_underground:界面参数3
 Underground Security
-地下安保
+地下安保部门
 
 > #str_03075
 ; mc_underground:界面参数4
@@ -18595,14 +18595,14 @@ USE ONLY"""
 > #str_03199
 ; cpu/secure.gui
 REPORT USE OF SECURITY SUPPLIES
-安全补给使用报告
+安保补给使用报告
 
 > #str_03200
 ; cpu/secure.gui
 """OPEN SECURITY
 LOCKER"""
-"""打开安全
-柜"""
+"""打开安保
+锁"""
 
 > #str_03201
 ; cranegame/crane_control.gui
@@ -18945,7 +18945,7 @@ BFG-9000 原型机
 > #str_03265
 ; delta2/halonswitch.gui
 HALON SYSTEM ACTIVATED
-灭火系统已经启动
+灭火系统已激活
 
 > #str_03266
 ; delta2/halonswitch.gui
@@ -18964,7 +18964,7 @@ HALON SYSTEM DEACTIVATED
 > #str_03268
 ; delta2/halonswitch.gui
 ACTIVATE OXYGEN PURGE
-启动氧气净化
+激活氧气净化
 
 > #str_03269
 ; delta2/halonswitch.gui
@@ -19024,7 +19024,7 @@ We escorted #8 to the medical lab after further instances of self-mutilation. I 
 > #str_03280
 ; delta2/report.gui
 The research subjects continue to deteriorate mentally. I have requested a security guard onsite. I am beginning to question my own safety working in close proximity to the them. Test Subject 8 never stops screaming. I have informed the guard that offices occupied by the subjects are to be locked at all times. I asked Dr. Brasky to place some military supplies in the security room locker, if things get out of hand again I want to be ready.
-研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基博士在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
+研究目标的精神状态持续恶化。我已经请求上层派遣一位安保人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知安保人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基博士在安保室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
 
 > #str_03281
 ; delta2/report.gui
@@ -19101,14 +19101,14 @@ NEW REPORT FILED
 """Dr. Raleigh requested military supplies placed in a storage locker in case of emergency. A security team member delivered the supplies today and secured them in locker 116. The lock code was set as 972.
 
 REPORT UPLOAD ACCEPTED 11-14-45"""
-"""罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个保安小组成员今天递送了补给并安置在116号柜。密码设置为972。
+"""罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个安保小组成员今天递送了补给并安置在116号柜。密码设置为972。
 
 报告上传已接受11-14-45"""
 
 > #str_03296
 ; delta2/report2.gui
 The research subjects continue to deteriorate mentally. I have requested a security guard onsite, I am beginning to question my own safety working in close proximity to the them. Test Subject 8 never stops screaming. I have informed the guard that offices occupied by the subjects are to be locked at all times. I asked Brasky to place some military supplies in the security room locker, if things get out of hand again I want to be ready.
-研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
+研究目标的精神状态持续恶化。我已经请求上层派遣一位安保人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知安保人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在安保室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。
 
 > #str_03297
 ; delta2/report2.gui
@@ -19277,7 +19277,7 @@ FILTER 1
 > #str_03329
 ; delta2/teleporter2.gui erebus1/station14.gui erebus1/station9.gui
 TARGETING SYSTEM ACTIVATED
-瞄准系统已经启动
+瞄准系统已激活
 
 > #str_03330
 ; delta2/teleporter2.gui
@@ -20072,7 +20072,7 @@ Bell-State analysis waiting"""
 """EPR源控制在线
 传送器 - 等待目的地
 
-上个目标 - 保安平台
+上个目标 - 安保平台
 
 程度/延迟追踪等待中
 钟态分析等待中"""
@@ -21124,7 +21124,7 @@ CODE BLACK: MISSING STAFF
 """UAC Security is looking for a missing scientist.  We need your help to insure he is found quickly and safely.
 
 Please report any information to your appointed HR manager."""
-"""UAC安全部队正在寻找失踪的科学家。我们需要你们的帮助来确保他能够迅速安全地被找到。
+"""UAC安保部正在寻找失踪的科学家。我们需要你们的帮助来确保他能够迅速安全地被找到。
 
 请将任何信息汇报给你们指定的人力资源经理。"""
 
@@ -22714,7 +22714,7 @@ CLICK TO DEACTIVATE
 > #str_03860
 ; monorail/lower_klaxxon.gui
 CLICK TO ACTIVATE
-点击启动
+点击激活
 
 > #str_03861
 ; monorail/stop1.gui
@@ -23355,7 +23355,7 @@ OPERATION SUSPENDED
 > #str_03969
 ; recycle2/pump1b.gui
 REACTIVATE PRIMARY PUMP SYSTEMS
-重新启动主要泵系统
+重新激活主要泵系统
 
 > #str_03970
 ; recycle2/temp_one.gui recycle2/pump1b.gui
@@ -25326,7 +25326,7 @@ Junction D03 / D04
 > #str_04397
 ; alphalabs2:地点.名
 Engineering Security Checkpoint
-工程处保安检查站
+工程处安保检查站
 
 > #str_04398
 ; alphalabs2:地点.名
@@ -26206,7 +26206,7 @@ East Lobby
 > #str_04573
 ; delta2a:地点.名
 Delta Security
-德尔塔保安
+德尔塔安保部门
 
 > #str_04574
 ; delta2a:地点.名
@@ -26661,12 +26661,12 @@ Delta4 Junction 2
 > #str_04664
 ; delta4:地点.名
 Delta4 Security Check-in
-德尔塔4保安登记
+德尔塔4安保登记
 
 > #str_04665
 ; delta4:地点.名
 Delta4 Security
-德尔塔4保安
+德尔塔4安保部门
 
 > #str_04666
 ; delta4:地点.名
@@ -26951,7 +26951,7 @@ Infirmary Access Junction
 > #str_04722
 ; mc_underground:地点.名
 Underground Security Checkpoint
-地下保安检查点
+地下安保检查点
 
 > #str_04723
 ; mc_underground:地点.名
@@ -27136,7 +27136,7 @@ Delta Approach East-Hall
 > #str_04759
 ; monorail:地点.名
 Delta Security Checkpoint
-德尔塔保安检查站
+德尔塔安保检查站
 
 > #str_04760
 ; monorail:地点.名
@@ -30087,7 +30087,7 @@ CLICK TO OPEN
 > #str_00100065
 ; phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
 ACTIVATE SKYTRAM
-启动空中轨道车
+激活空中轨道车
 
 > #str_00100066
 ; phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
@@ -30732,7 +30732,7 @@ DOUBLE BARREL SHOTGUN
 > #str_00100212
 ; _common/def/weapon_shotgun_double.def
 The Vulcan 1270 Double Barrel Shotgun fires two 12-guage rounds simultaneously and can take down even the largest of game.
-火山1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。
+伏尔甘1270双管霰弹枪能够同时发射两发12号口径的弹药，并且甚至能够放倒最为庞大的敌人。
 
 > #str_00100213
 ; _common/def/weapon_bloodstone_passive.def
@@ -30742,7 +30742,7 @@ Created by the ancient civilization to defend against the forces of hell.
 > #str_00100214
 ; erebus1:可移动护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus4:可移动护甲物品名 erebus6:可移动护甲物品名 hell:可移动护甲物品名 phobos1:可移动护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 d3ctf3:对战护甲物品名 d3ctf4:对战护甲物品名
 Security Armor
-保安护甲
+安保护甲
 
 > #str_00100215
 ; erebus1:可移动小医疗包物品名 erebus1:可移动医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf3:对战医疗包物品名
@@ -30849,7 +30849,7 @@ Site 1 Research
 > #str_00100238
 ; erebus3:PDA物品.名 phobos2:界面参数1
 Security
-安全
+安保
 
 > #str_00100239
 ; erebus3:濒死NPC名
@@ -31831,7 +31831,7 @@ Reroute power to the Experimental Teleporter.
 > #str_00100445
 ; phobos1:物品目标完成.内容 phobos1:物品目标.内容
 Find and activate the Phobos Labs Experimental Teleporter.
-找到并开启火卫一实验室的实验传送器。
+找到并激活火卫一实验室的实验传送器。
 
 > #str_00100446
 ; phobos1:物品目标完成.标题 phobos1:物品目标.标题 phobos4:物品目标完成.标题 phobos4:物品目标.标题
@@ -32063,7 +32063,7 @@ Gallery
 > #str_00100494
 ; phobos2:界面参数2 phobos2:界面参数1
 Research Security
-科研区保安部门
+科研区安保部门
 
 > #str_00100495
 Research Lab A
@@ -32090,7 +32090,7 @@ Security Control
 > #str_00100500
 ; phobos2:地点.位置
 Research Security Access
-科研区保安部门进入权限
+科研区安保部门通道
 
 > #str_00100501
 ; phobos2:地点.位置
@@ -32335,22 +32335,22 @@ SHUTTING DOWN
 > #str_00100551
 ; phobos2/p2_secliftcontrol.gui
 SECURITY LIFT CONTROL
-安全升降梯控制点
+安保升降梯控制点
 
 > #str_00100552
 ; phobos2/p2_secliftcontrol.gui
 ACTIVATE LIFT
-启动升降梯
+激活升降梯
 
 > #str_00100553
 ; phobos2/p2_secliftcontrol.gui
 LIFT ACTIVATED
-升降梯启动
+升降梯已激活
 
 > #str_00100554
 ; phobos2/p2_securitylift.gui
 SECURITY
-安全
+安保
 
 > #str_00100555
 ; phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
@@ -32611,7 +32611,7 @@ The Primitive
 
 > #str_00100610
 Find a power cell to activate the lift that leads into the ventialation system
-找到1块电池来启动通往通风系统的升降梯
+找到1块电池来激活通往通风系统的升降梯
 
 > #str_00100611
 ; erebus4:物品目标.标题 erebus4:物品目标完成.标题
@@ -32659,7 +32659,7 @@ SkyTram
 
 > #str_00100621
 Disable the Security Turrets protecting Auxiliary Power.
-关闭保护辅助能源的保安炮塔
+关闭保护辅助能源的安保炮塔
 
 > #str_00100622
 Return to the SkyTram.
@@ -32712,7 +32712,7 @@ Start excavation machine
 
 > #str_00100634
 Find 2 power cells to activate the lift that leads into the ventialation system
-找到2块电池来启动通往通风系统的升降梯
+找到2块电池来激活通往通风系统的升降梯
 
 > #str_00100635
 Deployment Video
@@ -32760,7 +32760,7 @@ Chamber Junction 2
 
 > #str_00100644
 Find 2 power cells to activate the lift that leads into the ventilation system
-找到2块电池来启动通往通风系统的升降梯
+找到2块电池来激活通往通风系统的升降梯
 
 > #str_00100645
 ; erebus5:物品目标完成.内容 erebus5:物品目标.内容
@@ -33609,7 +33609,7 @@ Adrenaline
 
 > #str_00100800
 Find and activate the Phobos Labs Experimental Teleporter
-找到并开启火卫一实验室的实验传送器
+找到并激活火卫一实验室的实验传送器
 
 > #str_00100801
 Take the SkyTram to the Phobos Labs Research Sector and rendezvous with Dr. Elizabeth McNeil
@@ -34685,7 +34685,7 @@ Locate a power cell to start the lift in Excavation Transfer.
 > #str_00101040
 ; erebus4:物品目标.内容 erebus4:物品目标完成.内容
 Find 2 power cells to activate the lift that leads into the ventilation system.
-找到2块电池来启动通往通风系统的升降梯。
+找到2块电池来激活通往通风系统的升降梯。
 
 > #str_00101041
 ; erebus6:物品目标完成.内容 erebus6:物品目标.内容
@@ -34837,7 +34837,7 @@ Underground
 > #str_00200014
 ; le_exis1:界面参数1
 Monorail Security
-单轨安全
+单轨安保室
 
 > #str_00200015
 ; le_exis1:界面参数2
@@ -35461,7 +35461,7 @@ Power Transfer Conduit
 > #str_00200138
 ; le_underground2:地点.位置
 Sub-Level Security
-地下层保安部门
+地下层安保室
 
 > #str_00200139
 ; le_underground2:地点.位置
@@ -35541,7 +35541,7 @@ Maintenance Access 06
 > #str_00200154
 ; le_exis1:地点.名
 Exis Lobby Security
-艾克西斯大厅保安室
+艾克西斯大厅安保室
 
 > #str_00200155
 ; le_exis1:地点.名
@@ -35581,7 +35581,7 @@ Teleporter Ready Room
 > #str_00200162
 ; le_exis1:地点.名
 Teleporter Security
-传送器安保
+传送器安保室
 
 > #str_00200163
 ; le_exis1:地点.名 le_exis2:地点.名
@@ -36524,7 +36524,7 @@ Dr. Harvey
 """
 """乔治
 
-我似乎把我的PDA连同保安密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
+我似乎把我的PDA连同安保密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？
 谢谢，
 
 哈维博士
@@ -37106,7 +37106,7 @@ Michael Abrams
 
 > #str_alphalabs3_abrams_email_3_email_from
 I.T. Security
-I.T. 安全
+I.T.安全部
 
 > #str_alphalabs3_abrams_email_3_email_subject
 Invalid Number in code
@@ -37144,7 +37144,7 @@ Michael Abrams
 
 > #str_alphalabs3_abrams_pda_post
 Delta Security, Level 2
-德尔塔保安，2层
+德尔塔安保部门，2层
 
 > #str_alphalabs3_abrams_pda_security
 """"""
@@ -37555,7 +37555,7 @@ John Okonkwo
 
 我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
 
-这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
+这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间安保公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
 
 就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。
 
@@ -37890,7 +37890,7 @@ Informational video on the Mach-2 Chain Gun"""
 
 > #str_chaingun_video_name
 Mach-2 Chain Gun Briefing
-Mach-2 电锯枪简介
+Mach-2 链枪简介
 
 > #str_comm1_blake_audio_1_audio_info
 """Made by: Seamus Blake
@@ -39614,7 +39614,7 @@ Research Director
 
 > #str_delta2b_erikson_email_1_email_from
 Delta Security
-德尔塔保安
+德尔塔安保部门
 
 > #str_delta2b_erikson_email_1_email_subject
 Locker code change request
@@ -39632,7 +39632,7 @@ Delta Security, Clerk"""
 
 谢谢，
 托马斯·桑德森
-德尔塔保安部门，职员"""
+德尔塔安保部门，职员"""
 
 > #str_delta2b_erikson_email_1_email_to
 Francis Erikson
@@ -40044,7 +40044,7 @@ Missing BFG Guns
 
 > #str_delta3_lee_email_1_email_from
 Delta Security
-德尔塔保安
+德尔塔安保部门
 
 > #str_delta3_lee_email_1_email_subject
 Security Team info
@@ -40270,7 +40270,7 @@ Michael Abrams
 
 > #str_delta5_jackson_email_2_email_subject
 Security Assignment
-保安分配
+安保分配
 
 > #str_delta5_jackson_email_2_email_text
 """Bruce,
@@ -41401,7 +41401,7 @@ Lloyd"""
 """特雷莎，
 请在之后的几天里面花几分钟创建一份基于你的等自己储存方面的发现的音频报告。董事会想要了解你的进展。
 
-正像你知道的那样，由于最近发生的事故保安部门都很紧张，所以我们绝对要千万小心。请保证把实验武器锁好并在报告中包括你的柜子密码。
+正像你知道的那样，由于最近发生的事故安保部门都很紧张，所以我们绝对要千万小心。请保证把实验武器锁好并在报告中包括你的柜子密码。
 
 干得好，
 劳埃德"""
@@ -41886,7 +41886,7 @@ Site One
 
 > #str_erebus2_gregory_pda_title
 Security
-安全
+安保
 
 > #str_erebus2_tanner_audio_1_audio_info
 """Made by: Marcus Tanner
@@ -42076,7 +42076,7 @@ Site One
 
 > #str_erebus2_weston_pda_title
 Security
-安全
+安保
 
 > #str_erebus3_crane_email_1_email_date
 3-16-2147
@@ -42204,11 +42204,11 @@ Steven Crane
 
 > #str_erebus3_crane_pda_post
 Erebus Security
-厄瑞玻斯保安
+厄瑞玻斯安保部门
 
 > #str_erebus3_crane_pda_security
 Security
-安全
+安保
 
 > #str_erebus3_crane_pda_title
 Sergeant
@@ -42496,11 +42496,11 @@ Stewart Jackson
 
 > #str_erebus3_jackson_pda_post
 Erebus Security
-厄瑞玻斯保安
+厄瑞玻斯安保部门
 
 > #str_erebus3_jackson_pda_security
 Security
-安全
+安保
 
 > #str_erebus3_jackson_pda_title
 Sergeant
@@ -44703,7 +44703,7 @@ Security Code
 """Per our discussion, I've changed the security code of my display cabinet to 731.  Can you please check with Central Security to determine if changing the code bi-montly is necessary?  The shotgun is there for display only, I don't even know if it actually works.
 
 - Vargas"""
-"""根据之前的讨论，我把陈列柜的密码改成了731。你能不能和安全中心确认下，每两个月改一次密码真的有必要吗？那把霰弹枪只是用来展览的，我都不知道能不能用。
+"""根据之前的讨论，我把陈列柜的密码改成了731。你能不能和中央安保部确认下，每两个月改一次密码真的有必要吗？那把霰弹枪只是用来展览的，我都不知道能不能用。
 
 - 瓦尔加斯"""
 
@@ -45043,7 +45043,7 @@ Thanks,
 Steve"""
 """D，
 
-艾克西斯那边派出如此严密的保安是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。: ）
+艾克西斯那边派出如此严密的安保是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。: ）
 
 谢了，
 
@@ -45839,7 +45839,7 @@ Duncan Mathews
 
 > #str_marscity2_duncan_email_2_email_from
 UAC Security
-UAC安全部队
+UAC安保部
 
 > #str_marscity2_duncan_email_2_email_subject
 RE: Equipment request
@@ -45861,17 +45861,17 @@ To: UAC Security
 Please requisition to my department armor and one plasma gun with ammo.  With all that has been happening around here, I don't feel safe.  I haven't been able to sleep and it has been difficult to work.
 
 If it would be easier, I could always just help myself to some of the armor I've seen security leave carelessly around the base."""
-"""我们理解火星城平民所承受的压力和担忧。我想向你们保证，没什么可担心的。我们UAC安全部门一切尽在掌控之中。
+"""我们理解火星城平民所承受的压力和担忧。我想向你们保证，没什么可担心的。我们UAC安保部一切尽在掌控之中。
 
 你要求的盔甲我已经放在你桌上了。希望这能让你安心一些。目前我们无法满足你对等离子枪的要求。借此机会我想提醒你，平民是不允许持有武器的。如果你再提出这种要求，我将别无选择，只能向UAC人力资源部门报告你。
 
-如果你确实发现了设备，你有责任立即将其归还给UAC安保部门。
+如果你确实发现了设备，你有责任立即将其归还给UAC安保部。
 
 诚挚地，
-UAC安全部门
+UAC安保部
 ----原始邮件----
 发送日期: 2145-11-15
-收件人: UAC安全部门
+收件人: UAC安保部
 
 请向我所在的部门申请一批盔甲和一支等离子枪及弹药。这里最近发生的事太多了，我感觉很不安全。我根本没法入睡，工作也很难进行。
 
@@ -46155,7 +46155,7 @@ SSgt Tyson
 
 > #str_marscity2_tyson_email_3_email_from
 Central Security
-中央安防
+中央安保部
 
 > #str_marscity2_tyson_email_3_email_subject
 Security Code Change
@@ -46171,7 +46171,7 @@ Central Security"""
 由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将于2145年11月15日生效。
 非常感谢你，
 
-安防中心"""
+中央安保部"""
 
 > #str_marscity2_tyson_email_3_email_to
 SSgt Tyson
@@ -46257,7 +46257,7 @@ Mail recipient
 
 > #str_marscityinfo2_email_from
 UAC Security
-UAC安全部队
+UAC安保部
 
 > #str_marscityinfo2_email_subject
 Code-Black: Missing Staff
@@ -46270,7 +46270,7 @@ He was last seen in Mars City Underground approaching the airlock leading to the
 
 
 """
-"""德尔塔科学小组的乔纳森·石井博士失踪。保安部认为他可能受伤所以无法回复传呼或回到岗位。请注意石井博士的踪迹并在发现他后向UAC保安部汇报。
+"""德尔塔科学小组的乔纳森·石井博士失踪。安保部门认为他可能受伤所以无法回复传呼或回到岗位。请注意石井博士的踪迹并在发现他后向UAC安保部汇报。
 
 他最后的出现地点是在火星城的地下，正在前往通向通讯阵列的气闸。
 
@@ -46433,7 +46433,7 @@ Grant Baston
 
 > #str_mcunderground_baston_email_2_email_from
 UAC Security
-UAC安全部队
+UAC安保部
 
 > #str_mcunderground_baston_email_2_email_subject
 UPDATED SECURITY CODE
@@ -46450,10 +46450,10 @@ UAC Security"""
 """部门总管，
 
 你们所负责的地下维护区域11月份的安全升级已经完成。
-请将能量稳定设施里面的保安柜的密码更改成531。
+请将能量稳定设施里面的安保柜的密码更改成531。
 
 谢谢，
-UAC保安"""
+UAC安保部"""
 
 > #str_mcunderground_baston_email_2_email_to
 Grant Baston
@@ -46543,7 +46543,7 @@ Frank Delahue
 
 > #str_mcunderground_delahue_email_2_email_from
 UAC Security
-UAC安全部队
+UAC安保部
 
 > #str_mcunderground_delahue_email_2_email_subject
 RE: Request Security
@@ -46569,10 +46569,10 @@ I formally request additional security as well as an investigation as to what's 
 我们收到了你们的投诉，并将考虑你们的要求。安全压倒一切，我们会尽一切所能来确保整个UAC的安全。
 
 致敬，
-UAC安全部
+UAC安保部
 ----原始邮件----
 发送日期: 2145-11-12
-收件人: UAC安全部
+收件人: UAC安保部
 
 我现在很关心我自己还有的我同事们在地下工作的安全性。我们有人在通往旧的通信建筑的气闸外面被困住了，而且这几个星期以来紧张的情绪不断在酝酿。我亲眼见到友善的同事变了……
 
@@ -46751,7 +46751,7 @@ Molecular Fuel Storage Compactor
 
 > #str_monorail_cullen_email_1_email_from
 Security Authority
-保安权力
+安全局
 
 > #str_monorail_cullen_email_1_email_subject
 New Automated Defense System
@@ -46806,7 +46806,7 @@ Karl"""
 
 ----原始邮件----
 发送日期: 2145-11-11
-收件人: 所有保安人员
+收件人: 所有安保人员
 
 伙计们，
 我已经把机枪塔的关闭序列编码到我的PDA里面了，如果这些枪械发生了什么问题，你可以在金属探测器旁边的安防终端使用这个关闭序列。
@@ -46903,7 +46903,7 @@ Thank you for your cooperation in this."""
 
 我们准备从德尔塔运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到火卫一实验室去，所以只能使用单轨铁路。
 
-该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强保安措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。
+该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强安保措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。
 
 对了，你也知道关于这个物种有很多传闻。我不想让谣言扩散以至失控。这次运送的事情仅限于必要之人知情，不得外传。
 
@@ -46931,11 +46931,11 @@ Monorail
 
 > #str_monorail_cullen_pda_security
 Delta Security
-德尔塔保安
+德尔塔安保部门
 
 > #str_monorail_cullen_pda_title
 Security Personnel
-安防人员
+安保人员
 
 > #str_monorail_harding_audio_1_audio_info
 """Made by: Sam Harding
@@ -47211,7 +47211,7 @@ EAP总管
 
 > #str_monorail_ross_email_1_email_from
 Delta Security
-德尔塔保安
+德尔塔安保部门
 
 > #str_monorail_ross_email_1_email_subject
 ADS operational
@@ -47241,7 +47241,7 @@ Gary Ross
 
 > #str_monorail_ross_email_2_email_from
 Central Security
-中央安防
+中央安保部
 
 > #str_monorail_ross_email_2_email_subject
 RE: Airlock Request
@@ -47263,7 +47263,7 @@ Thank You."""
 
 ----原始邮件----
 发送日期: 2145-11-03
-收件人:   中央安保
+收件人:   中央安保部
 发件人:   加里·罗斯
 主题:     气闸要求
 
@@ -47293,7 +47293,7 @@ Site 2
 
 > #str_monorail_ross_pda_security
 Monorail Security
-单轨安全
+单轨安保室
 
 > #str_monorail_ross_pda_title
 Lead Engineer
@@ -47755,11 +47755,11 @@ Phobos Labs
 
 > #str_phobos2_edens_pda_security
 P4 Security
-P4安保
+P4安保部门
 
 > #str_phobos2_edens_pda_title
 Security Officer
-安防长官
+安保长官
 
 > #str_phobos2_killian_audio_1_audio_info
 """Made by: Seth Killian
@@ -47893,7 +47893,7 @@ Keith Noordzy
 
 > #str_phobos2_noordzy_email_2_email_from
 Phobos Security
-火卫一安保
+火卫一安保部门
 
 > #str_phobos2_noordzy_email_2_email_subject
 Bridge Code
@@ -47937,11 +47937,11 @@ Phobos Labs
 
 > #str_phobos2_noordzy_pda_security
 L4 Security
-L4保安室
+L4安保部门
 
 > #str_phobos2_noordzy_pda_title
 Security Chief
-安全主管
+安保主管
 
 > #str_phobos2_owens_email_1_email_date
 3-13-2147
@@ -48192,7 +48192,7 @@ Reactor Maintenance - Phobos Labs"""
 
 ----原始邮件----
 发送日期: 2147-3-11
-收件人: 火卫一实验室安全部
+收件人: 火卫一实验室安保部
 你好，
 我忘记了反应堆综合设施的储物锁密码。能否帮我重置一下密码？
 

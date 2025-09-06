@@ -247,21 +247,21 @@
 // alphalabs2/venthatch.gui
 	"#str_00121"	"主通风舱口\n没有流量。\n备用通风管道\n达到最大流量。\n打开通风舱口"
 // alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
-	"#str_00122"	"房间\n已锁定"
+	"#str_00122"	"舱室\n已锁定"
 // alphalabs4/efr2.gui alphalabs4/fragchamber.gui controlpanels/bridgesignr.gui multiplayer/lightswitch_parm.gui multiplayer/fragchamber_console.gui multiplayer/generator.gui enpro/rod_replace.gui monorail/stop1.gui
 	"#str_00123"	"正在处理"
 // controlpanels/epd2.gui alphalabs4/fragchamber.gui comm1/commterminal.gui marscity/reception.gui
 	"#str_00124"	"取消"
 // alphalabs4/fragchamber.gui
-	"#str_00125"	"房间打开"
+	"#str_00125"	"舱室打开"
 // alphalabs4/fragchamber.gui
 	"#str_00126"	"切换完成"
 // alphalabs4/fragchamber.gui
 	"#str_00127"	"切换已取消"
 // alphalabs4/fragchamber.gui multiplayer/fragchamber_console.gui
-	"#str_00128"	"开启\n房间"
+	"#str_00128"	"激活\n舱室"
 // alphalabs4/fragchamber.gui
-	"#str_00129"	"打开\n房间"
+	"#str_00129"	"打开\n舱室"
 // alphalabs3/vent.gui
 	"#str_00130"	"1号检修格栅开启"
 // alphalabs3/vent.gui
@@ -1041,9 +1041,9 @@
 // comm1/sentrybot.gui controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui controlpanels/bridgecontrol.gui delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui erebus5/erebus5_mcneil.gui
 	"#str_00543"	"哨兵上线"
 // comm1/sentrybot.gui controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui controlpanels/bridgecontrol.gui delta1/power_trigger.gui delta3/decon.gui delta3/decon_malfunction.gui
-	"#str_00544"	"守卫模式开启"
+	"#str_00544"	"守卫模式已激活"
 // comm1/sentrybot.gui
-	"#str_00545"	"启动哨卫"
+	"#str_00545"	"激活哨卫"
 // doors/liftcall.gui commoutside/airlock_liftcall.gui doors/liftcallscript.gui le_exis1/airlock_liftcall.gui
 	"#str_00546"	"呼叫升降梯"
 // commoutside/airlock_liftcall.gui commoutside/airlock_liftcall_broken.gui commoutside/airlock_liftmove.gui le_exis1/airlock_liftcall.gui le_exis1/airlock_liftmove.gui le_exis2/airlock_liftmove.gui
@@ -1120,7 +1120,7 @@
 // commoutside/co_unlock2.gui
 	"#str_00584"	"有效封锁"
 	"#str_00585"	"安防封锁已在13:20启动，权限密码731\n用户坎贝尔。"
-	"#str_00586"	"联系当班维护管理员来取得保安优先许可。"
+	"#str_00586"	"联系当班维护管理员来取得安保优先许可。"
 // commoutside/co_unlock2.gui commoutside/co_unlock3.gui
 	"#str_00587"	"电流转移"
 // commoutside/co_unlock2.gui
@@ -1358,7 +1358,7 @@
 	"#str_00726"	"发电机1"
 	"#str_00727"	"舰桥"
 	"#str_00728"	"门"
-	"#str_00729"	"安全"
+	"#str_00729"	"安保"
 	"#str_00730"	"电流"
 	"#str_00731"	"未完成"
 	"#str_00732"	"A库"
@@ -1665,7 +1665,7 @@
 // controlpanels/teleporter.gui le_exis2/teleporter.gui
 	"#str_00901"	"等离子导管错误\n更换后继续"
 // controlpanels/teleporter.gui delta3/teleport1.gui delta3/teleport2.gui delta3/teleport3.gui transfer/hell.gui le_exis2/teleporter.gui transfer/le_hell_post.gui
-	"#str_00902"	"启动\n传送器\n程序"
+	"#str_00902"	"激活\n传送器\n程序"
 // controlpanels/teleporter.gui
 	"#str_00903"	"主要接收平台A"
 // controlpanels/teleporter.gui delta3/teleport1.gui delta3/teleport2.gui delta3/teleport3.gui le_exis2/teleporter.gui
@@ -1869,11 +1869,11 @@
 	"#str_01035"	"办公室"
 	"#str_01036"	"温度75"
 	"#str_01037"	"测试室"
-	"#str_01038"	"灭火系统开启\n\n点击启动\n真空净化"
+	"#str_01038"	"灭火系统开启\n\n点击激活\n真空净化"
 	"#str_01039"	"通风:无"
 	"#str_01040"	"温度78"
 // delta2a:界面参数1
-	"#str_01041"	"安全"
+	"#str_01041"	"安保"
 	"#str_01042"	"安防\n封锁"
 // delta2/securitydoor.gui xian/monorail/enable.gui
 	"#str_01043"	"安全中心"
@@ -1884,7 +1884,7 @@
 // delta2/securitydoor.gui
 	"#str_01046"	"控制"
 // delta2/securitydoor.gui
-	"#str_01047"	"灭火系统已经启动"
+	"#str_01047"	"灭火系统已激活"
 // delta2/securitydoor.gui
 	"#str_01048"	"安防锁定运行中\n\n联系维修"
 	"#str_01049"	"导出/替换"
@@ -2109,7 +2109,7 @@
 // delta3/telecontrol3.gui
 	"#str_01175"	"安全平台选定"
 // delta3/telecontrol3.gui
-	"#str_01176"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 保安平台\n\n激活控制准备完毕于\n传送站3"
+	"#str_01176"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 安保平台\n\n激活控制准备完毕于\n传送站3"
 // delta3/telecontrol3.gui
 	"#str_01177"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 仓库平台\n\n激活控制准备完毕于\n传送站3"
 // delta3/telecontrol3.gui delta3/teleport3.gui
@@ -2419,7 +2419,7 @@
 	"#str_01360"	"区域信息"
 	"#str_01361"	"展开来查看地图和设施详细信息"
 	"#str_01362"	"当前位置 - 用户界面库"
-	"#str_01363"	"UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。\n\n如需操作，请与值班技术人员在面板上签字，并让技术人员设置所需的接口值。如果您不确定需要哪个接口，请向技术人员索取库列表。\n\n想要启用一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"
+	"#str_01363"	"UAC设计师们为了方便访问所有的可移动界面而自定义了这个设施。\n\n如需操作，请与值班技术人员在面板上签字，并让技术人员设置所需的接口值。如果您不确定需要哪个接口，请向技术人员索取库列表。\n\n想要激活一个新的面板，直接把它放在一个可用的电源插座上就好了，GUI会自动配置。"
 	"#str_01364"	"德尔塔实验室 - 区域1"
 	"#str_01365"	"德尔塔1实验室"
 	"#str_01366"	"办公室目录"
@@ -2567,7 +2567,7 @@
 // _common/def/maps.def
 	"#str_01491"	"德尔塔实验室研究设施 - 北2区包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。"
 // _common/def/maps.def
-	"#str_01492"	"德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到保安监控。"
+	"#str_01492"	"德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到安保监控。"
 // _common/def/maps.def
 	"#str_01493"	"德尔塔实验室 - 4区包含第三代传输平台。所有的传送器目的研究都是机密的。只有顶层人士可以进入中央控制室和激活主要测试舱的阵列。"
 // _common/def/maps.def
@@ -2577,7 +2577,7 @@
 // d3dm3:地点.位置
 	"#str_01496"	"击杀室"
 	"#str_01497"	"更新: 31/10/03"
-	"#str_01498"	"记录:\n-中部房间启动后可以生成强化道具\n-地图其他敌方的灯光会在房间启动时闪烁\n\n改动记录:\n- 额外音频通道\n- 死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新布局（挡住了西边半块地图，包括引擎室）\n- 死亡竞赛的强化道具在重新激活前要等1分钟\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
+	"#str_01498"	"记录:\n-中部房间激活后可以生成强化道具\n-地图其他敌方的灯光会在房间启动时闪烁\n\n改动记录:\n- 额外音频通道\n- 死亡竞赛和决斗模式调整了物品放置\n- 决斗模式有了新布局（挡住了西边半块地图，包括引擎室）\n- 死亡竞赛的强化道具在重新激活前要等1分钟\n- 要用决斗设定加载地图，把si_gametype设为决斗——剩下的交给脚本"
 	"#str_01499"	"杀戮时刻"
 	"#str_01500"	"记录:\n-添加的音频通道\n黄色和蓝色路线添加了细节\n-强化壁架后有新的下落点（平台折叠的时候打开）\n决斗和死亡竞赛里放置物品和脚本撰写"
 	"#str_01501"	"熄灯"
@@ -2905,11 +2905,11 @@
 // xian/monorail/enable.gui
 	"#str_01669"	"关闭\n武器\n塔楼"
 // xian/monorail/monorail.gui
-	"#str_01670"	"启动单轨铁路"
+	"#str_01670"	"激活单轨铁路"
 // erebus6/erebus6_monorail.gui xian/monorail/monorail.gui
 	"#str_01671"	"单轨铁路控制"
 	"#str_01672"	"医疗站活动"
-	"#str_01673"	"\n\n已启动"
+	"#str_01673"	"\n\n已激活"
 	"#str_01674"	"弹药分配器"
 	"#str_01675"	"军械库"
 	"#str_01676"	"管理员措施"
@@ -2927,7 +2927,7 @@
 	"#str_01685"	"已打开"
 	"#str_01686"	"正在关门"
 	"#str_01687"	"正在关闭"
-	"#str_01688"	"选择启动"
+	"#str_01688"	"选择激活"
 	"#str_01689"	"为房间供电"
 // multiplayer/fragchamber_console.gui
 	"#str_01690"	"房间\n打开"
@@ -3222,7 +3222,7 @@
 	"#str_01883"	"GUI测试调色板 - 将代码保存在test.gui中"
 	"#str_01884"	"实验"
 	"#str_01885"	"实验破坏者"
-	"#str_01886"	"启动\n传送\n程序"
+	"#str_01886"	"激活\n传送\n程序"
 	"#str_01887"	"主系统离线"
 	"#str_01888"	"字体大小 0.2"
 	"#str_01889"	"字体大小 0.21"
@@ -3935,7 +3935,7 @@
 // _common/def/weapon_machinegun.def
 	"#str_02535"	"MG-88执行者能够提供很高的射速以及在短时间连续射击时可靠的精准度。标准陆战队步兵版本。"
 // _common/def/weapon_chaingun.def
-	"#str_02536"	"机关炮那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。"
+	"#str_02536"	"链枪那0.30口径的穿甲弹药能够造成巨大的伤害，但是强大的后坐力会降低准度。"
 // _common/def/weapon_handgrenade.def
 	"#str_02537"	"步兵版本的破片手雷使用捻式引爆器起爆。爆炸延迟为3秒，杀伤范围是30米。"
 // _common/def/weapon_plasmagun.def
@@ -4387,7 +4387,7 @@
 	"#str_02855"	"前方阿尔法实验室"
 // mars_city2:物品目标完成.标题
 	"#str_02856"	"直走阿尔法实验室"
-	"#str_02857"	"主安全"
+	"#str_02857"	"主安保"
 // mc_underground:界面参数1
 	"#str_02858"	"安防检查点"
 // mc_underground:地点.名 mc_underground:界面参数1 mc_underground:地点.位置
@@ -4486,7 +4486,7 @@
 // admin:医疗包物品名 alphalabs1:医疗包物品名 alphalabs1:小医疗包物品名 alphalabs2:小医疗包物品名 alphalabs2:医疗包物品名 alphalabs3:小医疗包物品名 alphalabs3:医疗包物品名 alphalabs4:医疗包物品名 alphalabs4:小医疗包物品名 caverns1:医疗包物品名 caverns1:小医疗包物品名 caverns2:小医疗包物品名 caverns2:医疗包物品名 comm1:小医疗包物品名 comm1:医疗包物品名 commoutside:小医疗包物品名 commoutside:医疗包物品名 cpu:医疗包物品名 cpu:小医疗包物品名 cpuboss:小医疗包物品名 cpuboss:医疗包物品名 delta1:小医疗包物品名 delta1:医疗包物品名 delta2a:医疗包物品名 delta2a:小医疗包物品名 delta2b:医疗包物品名 delta2b:小医疗包物品名 delta3:小医疗包物品名 delta3:医疗包物品名 delta5:医疗包物品名 delta5:小医疗包物品名 deltax:可移动小医疗包物品名 deltax:可移动医疗包物品名 enpro:医疗包物品名 enpro:小医疗包物品名 erebus2:可移动小医疗包物品名 erebus2:可移动医疗包物品名 erebus3:可移动医疗包物品名 erebus3:可移动小医疗包物品名 erebus4:可移动小医疗包物品名 erebus4:可移动医疗包物品名 erebus5:可移动小医疗包物品名 erebus5:可移动医疗包物品名 erebus6:可移动医疗包物品名 erebus6:可移动小医疗包物品名 hell:可移动小医疗包物品名 hell:可移动医疗包物品名 hell1:医疗包物品名 hell1:小医疗包物品名 hellhole:医疗包物品名 hellhole:小医疗包物品名 le_enpro1:小医疗包物品名 le_enpro1:医疗包物品名 le_enpro2:可移动医疗包物品名 le_enpro2:可移动小医疗包物品名 le_exis1:小医疗包物品名 le_exis1:可移动小医疗包物品名 le_exis1:可移动医疗包物品名 le_exis1:医疗包物品名 le_exis2:可移动医疗包物品名 le_exis2:小医疗包物品名 le_exis2:可移动小医疗包物品名 le_hell:可移动医疗包物品名 le_hell:可移动小医疗包物品名 le_hell_post:可移动小医疗包物品名 le_hell_post:可移动医疗包物品名 le_hell_post:医疗包物品名 le_underground:可移动医疗包物品名 le_underground:可移动小医疗包物品名 le_underground2:可移动医疗包物品名 le_underground2:可移动小医疗包物品名 mars_city1:医疗包物品名 mars_city1:小医疗包物品名 mars_city2:小医疗包物品名 mars_city2:医疗包物品名 mc_underground:小医疗包物品名 mc_underground:医疗包物品名 monorail:医疗包物品名 phobos1:可移动小医疗包物品名 phobos1:可移动医疗包物品名 phobos2:可移动医疗包物品名 phobos2:可移动小医疗包物品名 phobos3:可移动医疗包物品名 phobos4:可移动小医疗包物品名 phobos4:可移动医疗包物品名 recycling1:医疗包物品名 recycling1:小医疗包物品名 recycling2:医疗包物品名 recycling2:小医疗包物品名 site3:医疗包物品名 site3:小医疗包物品名 d3ctf1:对战医疗包物品名 d3ctf1:对战小医疗包物品名 d3ctf2:对战小医疗包物品名 d3ctf2:对战医疗包物品名 d3ctf3:对战医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf4:对战小医疗包物品名 d3ctf4:对战医疗包物品名 d3ctf4:医疗包物品名 d3dm1:对战医疗包物品名 d3dm1:对战小医疗包物品名 d3dm2:对战小医疗包物品名 d3dm2:医疗包物品名 d3dm2:对战医疗包物品名 d3dm3:对战小医疗包物品名 d3dm3:对战医疗包物品名 d3dm4:小医疗包物品名 d3dm4:对战医疗包物品名 d3dm4:对战小医疗包物品名 d3dm5:对战小医疗包物品名 d3dm5:对战医疗包物品名 d3xpdm1:对战小医疗包物品名 d3xpdm1:对战医疗包物品名 d3xpdm2:对战小医疗包物品名 d3xpdm2:对战医疗包物品名 d3xpdm3:对战医疗包物品名 d3xpdm4:对战小医疗包物品名 d3xpdm4:对战医疗包物品名 _common/def/items.def
 	"#str_02917"	"医疗包"
 // admin:护甲物品名 alphalabs1:护甲物品名 alphalabs2:护甲物品名 alphalabs3:护甲物品名 alphalabs4:护甲物品名 caverns1:护甲物品名 caverns2:护甲物品名 comm1:护甲物品名 commoutside:护甲物品名 cpu:护甲物品名 cpuboss:护甲物品名 delta1:护甲物品名 delta2a:护甲物品名 delta2b:护甲物品名 delta3:护甲物品名 delta4:护甲物品名 delta5:护甲物品名 deltax:可移动护甲物品名 enpro:护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus5:可移动护甲物品名 hell:护甲物品名 hell:可移动护甲物品名 hell1:护甲物品名 hellhole:护甲物品名 le_enpro1:护甲物品名 le_enpro2:可移动护甲物品名 le_exis1:可移动护甲物品名 le_exis1:护甲物品名 le_exis2:可移动护甲物品名 le_hell:可移动护甲物品名 le_hell_post:可移动护甲物品名 le_hell_post:护甲物品名 le_underground:可移动护甲物品名 le_underground2:可移动护甲物品名 mars_city1:护甲物品名 mars_city2:护甲物品名 mc_underground:护甲物品名 monorail:护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 recycling1:护甲物品名 recycling2:护甲物品名 site3:护甲物品名 d3ctf1:对战护甲物品名 d3ctf2:对战护甲物品名 d3ctf4:对战护甲物品名 d3dm1:对战护甲物品名 d3dm2:对战护甲物品名 d3dm3:对战护甲物品名 d3dm4:对战护甲物品名 d3dm5:对战护甲物品名 _common/def/items.def
-	"#str_02918"	"保安护甲"
+	"#str_02918"	"安保护甲"
 // admin:护甲碎片物品名 alphalabs1:护甲碎片物品名 alphalabs2:护甲碎片物品名 alphalabs3:护甲碎片物品名 alphalabs4:护甲碎片物品名 caverns1:护甲碎片物品名 caverns2:护甲碎片物品名 comm1:护甲碎片物品名 commoutside:护甲碎片物品名 cpu:护甲碎片物品名 cpuboss:护甲碎片物品名 delta1:护甲碎片物品名 delta2a:护甲碎片物品名 delta2b:护甲碎片物品名 delta3:护甲碎片物品名 delta5:护甲碎片物品名 deltax:可移动护甲碎片物品名 enpro:护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 hell1:护甲碎片物品名 le_enpro1:护甲碎片物品名 le_enpro2:可移动护甲碎片物品名 le_enpro2:可移动护甲碎片物品名2 le_exis1:可移动护甲碎片物品名 le_exis2:护甲碎片物品名 le_exis2:可移动护甲碎片物品名 le_hell:可移动护甲碎片物品名 le_hell_post:可移动护甲碎片物品名 le_underground:可移动护甲碎片物品名 le_underground2:可移动护甲碎片物品名 mars_city2:护甲碎片物品名 mc_underground:护甲碎片物品名 monorail:护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 phobos4:可移动护甲碎片物品名 recycling1:护甲碎片物品名 recycling2:护甲碎片物品名 site3:护甲碎片物品名 d3dm1:对战护甲碎片物品名 d3dm2:对战护甲碎片物品名 d3dm3:对战护甲碎片物品名 d3dm4:对战护甲碎片物品名 d3dm5:对战护甲碎片物品名 d3xpdm2:对战护甲碎片物品名 d3xpdm3:对战护甲碎片物品名 _common/def/items.def
 	"#str_02919"	"护甲零件"
 // admin:PDA物品.名 admin:PDA物品.界面参数6 cpuboss:PDA物品.名 cpuboss:PDA物品.界面参数6 delta5:PDA物品.名 monorail:PDA物品.名 recycling1:PDA物品.名
@@ -4614,12 +4614,12 @@
 // cpu:界面参数3
 	"#str_02982"	"CPU 3层"
 // cpu:界面参数1
-	"#str_02983"	"CPU安全"
+	"#str_02983"	"CPU安保部门"
 // cpu:电梯.界面参数4
 	"#str_02984"	"CPU库A-J"
 	"#str_02985"	"重型武器"
 // cpuboss:物品目标完成.标题 cpuboss:物品目标.标题
-	"#str_02986"	"保安控制台"
+	"#str_02986"	"安保控制台"
 // cpuboss:物品目标.内容
 	"#str_02987"	"获取安全许可进入中央处理区"
 // cpuboss:PDA物品.名
@@ -4791,7 +4791,7 @@
 // mc_underground:界面参数2
 	"#str_03073"	"工程队"
 // mc_underground:界面参数3
-	"#str_03074"	"地下安保"
+	"#str_03074"	"地下安保部门"
 // mc_underground:界面参数4
 	"#str_03075"	"伊恩·辛克莱"
 // mc_underground:界面参数7
@@ -5020,9 +5020,9 @@
 // cpu/secure.gui
 	"#str_03198"	"安全锁柜的物品\n仅供紧急状态使用"
 // cpu/secure.gui
-	"#str_03199"	"安全补给使用报告"
+	"#str_03199"	"安保补给使用报告"
 // cpu/secure.gui
-	"#str_03200"	"打开安全\n柜"
+	"#str_03200"	"打开安保\n锁"
 // cranegame/crane_control.gui
 	"#str_03201"	"握把控制"
 // cranegame/crane_control.gui
@@ -5152,13 +5152,13 @@
 // delta2/door_control.gui
 	"#str_03264"	"BFG-9000 原型机"
 // delta2/halonswitch.gui
-	"#str_03265"	"灭火系统已经启动"
+	"#str_03265"	"灭火系统已激活"
 // delta2/halonswitch.gui
 	"#str_03266"	"联系维修人员重置灭火系统\n\n安全第一"
 // delta2/halonswitch.gui
 	"#str_03267"	"灭火系统已经关闭"
 // delta2/halonswitch.gui
-	"#str_03268"	"启动氧气净化"
+	"#str_03268"	"激活氧气净化"
 // delta2/halonswitch.gui
 	"#str_03269"	"火灾抑制系统"
 // delta2/officelock.gui
@@ -5182,7 +5182,7 @@
 // delta2/report.gui
 	"#str_03279"	"在更严重的自残事件发生之后，我们将8号护送到医学实验室。我已经允许对他进行最后实验，并且在实验之后可以抛弃，他已经不再是一个有用的数据对象了。由于更严重的功率波动，今天的测试暂停了很久，然而伊恩认为他可以绕过故障保护来提高我们的输出，这样我们就可以获得足够的电力继续11号测试的最后一个环节。他现在正在解决主电路路线。处于安全考虑，我要封锁此区域直到测试得以继续进行。"
 // delta2/report.gui
-	"#str_03280"	"研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基博士在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。"
+	"#str_03280"	"研究目标的精神状态持续恶化。我已经请求上层派遣一位安保人员来对我进行现场保护。在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知安保人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基博士在安保室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。"
 // delta2/report.gui
 	"#str_03281"	"实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。贝特鲁格向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。"
 // delta2/report.gui
@@ -5212,9 +5212,9 @@
 // delta2/report2.gui
 	"#str_03294"	"已提交新报告"
 // delta2/report2.gui
-	"#str_03295"	"罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个保安小组成员今天递送了补给并安置在116号柜。密码设置为972。\n\n报告上传已接受11-14-45"
+	"#str_03295"	"罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个安保小组成员今天递送了补给并安置在116号柜。密码设置为972。\n\n报告上传已接受11-14-45"
 // delta2/report2.gui
-	"#str_03296"	"研究目标的精神状态持续恶化。我已经请求上层派遣一位保安人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知保安人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在保安室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。"
+	"#str_03296"	"研究目标的精神状态持续恶化。我已经请求上层派遣一位安保人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知安保人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在安保室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。"
 // delta2/report2.gui
 	"#str_03297"	"实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。贝特鲁格向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。"
 	"#str_03298"	"詹姆逊完成了对未知测试对象的详细物理分析。我上传了一份报告申请新的志愿者，所以我们应该能找一些新来的想吃干饭的人。我正在把桑德拉复制到此日志条目上，务必检查所有潜在候选人的直系亲属或当地的社会关系。确保他们不会迷路，公司可不希望再打官司。"
@@ -5278,7 +5278,7 @@
 // delta2/teleporter1.gui
 	"#str_03328"	"过滤器1"
 // delta2/teleporter2.gui erebus1/station14.gui erebus1/station9.gui
-	"#str_03329"	"瞄准系统已经启动"
+	"#str_03329"	"瞄准系统已激活"
 // delta2/teleporter2.gui
 	"#str_03330"	"主要PAD选择"
 // delta2/teleporter2.gui
@@ -5486,7 +5486,7 @@
 // delta3/telecontrol3.gui
 	"#str_03432"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 出口平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
 // delta3/telecontrol3.gui
-	"#str_03433"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 保安平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03433"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 安保平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
 // delta4/cabinetcode.gui
 	"#str_03434"	"设置命令ID锁104"
 // delta5/info.gui
@@ -5821,7 +5821,7 @@
 // marscity/code_black.gui
 	"#str_03614"	"代号布莱克: 失踪的人员"
 // marscity/code_black.gui
-	"#str_03615"	"UAC安全部队正在寻找失踪的科学家。我们需要你们的帮助来确保他能够迅速安全地被找到。\n\n请将任何信息汇报给你们指定的人力资源经理。"
+	"#str_03615"	"UAC安保部正在寻找失踪的科学家。我们需要你们的帮助来确保他能够迅速安全地被找到。\n\n请将任何信息汇报给你们指定的人力资源经理。"
 // marscity/comm2.gui marscity/comm1mp.gui erebus1/station3.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui marscity/comm4.gui
 	"#str_03616"	"通信"
 // marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
@@ -6306,7 +6306,7 @@
 // monorail/lower_klaxxon.gui
 	"#str_03859"	"点击停止"
 // monorail/lower_klaxxon.gui
-	"#str_03860"	"点击启动"
+	"#str_03860"	"点击激活"
 // monorail/stop1.gui
 	"#str_03861"	"单轨铁路气闸 - 位置2"
 // monorail/stop1.gui
@@ -6524,7 +6524,7 @@
 // recycle2/pump1b.gui
 	"#str_03968"	"暂停运行"
 // recycle2/pump1b.gui
-	"#str_03969"	"重新启动主要泵系统"
+	"#str_03969"	"重新激活主要泵系统"
 // recycle2/temp_one.gui recycle2/pump1b.gui
 	"#str_03970"	"泵已激活"
 // recycle2/temp_one.gui
@@ -7078,7 +7078,7 @@
 // alphalabs2:地点.名
 	"#str_04396"	"连接点D03/D04"
 // alphalabs2:地点.名
-	"#str_04397"	"工程处保安检查站"
+	"#str_04397"	"工程处安保检查站"
 // alphalabs2:地点.名
 	"#str_04398"	"洗手间通风管道"
 // alphalabs2:地点.名
@@ -7430,7 +7430,7 @@
 // delta2a:地点.名
 	"#str_04572"	"东大厅"
 // delta2a:地点.名
-	"#str_04573"	"德尔塔保安"
+	"#str_04573"	"德尔塔安保部门"
 // delta2a:地点.名
 	"#str_04574"	"德尔塔安保连接点"
 // delta2a:地点.名
@@ -7612,9 +7612,9 @@
 // delta4:地点.名
 	"#str_04663"	"德尔塔4连接点2"
 // delta4:地点.名
-	"#str_04664"	"德尔塔4保安登记"
+	"#str_04664"	"德尔塔4安保登记"
 // delta4:地点.名
-	"#str_04665"	"德尔塔4保安"
+	"#str_04665"	"德尔塔4安保部门"
 // delta4:地点.名
 	"#str_04666"	"德尔塔4主准备室"
 // delta4:地点.名
@@ -7728,7 +7728,7 @@
 // mars_city2:地点.名
 	"#str_04721"	"医务室通道连接点"
 // mc_underground:地点.名
-	"#str_04722"	"地下保安检查点"
+	"#str_04722"	"地下安保检查点"
 // mc_underground:地点.名
 	"#str_04723"	"维护区CS1"
 // mc_underground:地点.名
@@ -7802,7 +7802,7 @@
 // monorail:地点.名
 	"#str_04758"	"德尔塔入口东大厅"
 // monorail:地点.名
-	"#str_04759"	"德尔塔保安检查站"
+	"#str_04759"	"德尔塔安保检查站"
 // monorail:地点.名
 	"#str_04760"	"MR气闸06"
 // monorail:地点.名
@@ -8740,7 +8740,7 @@
 // phobos/cargotunnel_shutters.gui
 	"#str_00100064"	"点击打开"
 // phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
-	"#str_00100065"	"启动空中轨道车"
+	"#str_00100065"	"激活空中轨道车"
 // phobos/skytram_controlpanel_p1.gui phobos/skytram_controlpanel_p3.gui
 	"#str_00100066"	"空中轨道车控制"
 // transfer/exit_erebus1.gui transfer/enter_erebus2.gui transfer/exit_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/exit_erebus4.gui
@@ -8944,11 +8944,11 @@
 	"#str_00100210"	"电离等离子体悬浮器能够制造出电磁充能的等离子流来将物件短距离移动。"
 	"#str_00100211"	"双管霰弹枪"
 // _common/def/weapon_shotgun_double.def
-	"#str_00100212"	"火山1270双管霰弹枪能够同时发射两发12线规的弹药，并且甚至能够放倒最为庞大的敌人。"
+	"#str_00100212"	"伏尔甘1270双管霰弹枪能够同时发射两发12号口径的弹药，并且甚至能够放倒最为庞大的敌人。"
 // _common/def/weapon_bloodstone_passive.def
 	"#str_00100213"	"由上古文明建立来抵抗地狱的势力。"
 // erebus1:可移动护甲物品名 erebus2:可移动护甲物品名 erebus3:可移动护甲物品名 erebus4:可移动护甲物品名 erebus6:可移动护甲物品名 hell:可移动护甲物品名 phobos1:可移动护甲物品名 phobos2:可移动护甲物品名 phobos3:可移动护甲物品名 phobos4:可移动护甲物品名 d3ctf3:对战护甲物品名 d3ctf4:对战护甲物品名
-	"#str_00100214"	"保安护甲"
+	"#str_00100214"	"安保护甲"
 // erebus1:可移动小医疗包物品名 erebus1:可移动医疗包物品名 d3ctf3:对战小医疗包物品名 d3ctf3:对战医疗包物品名
 	"#str_00100215"	"医疗包"
 // erebus2:可移动护甲碎片物品名 erebus3:可移动护甲碎片物品名 erebus4:可移动护甲碎片物品名 erebus5:可移动护甲碎片物品名 erebus6:可移动护甲碎片物品名 phobos1:可移动护甲碎片物品名 phobos2:可移动护甲碎片物品名 phobos3:可移动护甲碎片物品名 d3ctf1:对战护甲碎片物品名 d3ctf2:对战护甲碎片物品名 d3ctf3:对战护甲碎片物品名 d3ctf4:对战护甲碎片物品名 d3ctf4:护甲碎片物品名
@@ -8983,7 +8983,7 @@
 // erebus3:界面参数7 erebus3:界面参数1 erebus3:PDA物品.名
 	"#str_00100237"	"站点1调查"
 // erebus3:PDA物品.名 phobos2:界面参数1
-	"#str_00100238"	"安全"
+	"#str_00100238"	"安保"
 // erebus3:濒死NPC名
 	"#str_00100239"	"B.詹姆斯"
 // erebus3:地点.位置 erebus4:地点.位置
@@ -9344,7 +9344,7 @@
 	"#str_00100443"	"PDA"
 	"#str_00100444"	"变更电力供给至实验传送器。"
 // phobos1:物品目标完成.内容 phobos1:物品目标.内容
-	"#str_00100445"	"找到并开启火卫一实验室的实验传送器。"
+	"#str_00100445"	"找到并激活火卫一实验室的实验传送器。"
 // phobos1:物品目标完成.标题 phobos1:物品目标.标题 phobos4:物品目标完成.标题 phobos4:物品目标.标题
 	"#str_00100446"	"激活传送器"
 	"#str_00100447"	"找到实验传送器"
@@ -9429,7 +9429,7 @@
 // phobos2:界面参数1
 	"#str_00100493"	"画廊"
 // phobos2:界面参数2 phobos2:界面参数1
-	"#str_00100494"	"科研区保安部门"
+	"#str_00100494"	"科研区安保部门"
 	"#str_00100495"	"研究实验室A"
 	"#str_00100496"	"研究实验室B"
 	"#str_00100497"	"研究实验室C"
@@ -9438,7 +9438,7 @@
 // phobos2:地点.位置
 	"#str_00100499"	"安全控制"
 // phobos2:地点.位置
-	"#str_00100500"	"科研区保安部门进入权限"
+	"#str_00100500"	"科研区安保部门通道"
 // phobos2:地点.位置
 	"#str_00100501"	"工具间"
 // phobos2:地点.位置
@@ -9522,13 +9522,13 @@
 	"#str_00100549"	"离线"
 	"#str_00100550"	"关闭中"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100551"	"安全升降梯控制点"
+	"#str_00100551"	"安保升降梯控制点"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100552"	"启动升降梯"
+	"#str_00100552"	"激活升降梯"
 // phobos2/p2_secliftcontrol.gui
-	"#str_00100553"	"升降梯启动"
+	"#str_00100553"	"升降梯已激活"
 // phobos2/p2_securitylift.gui
-	"#str_00100554"	"安全"
+	"#str_00100554"	"安保"
 // phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui
 	"#str_00100555"	"升降梯控制"
 // phobos2/p2_securitylift.gui phobos3/p3_reactorlift_bottom.gui phobos3/p3_reactorlift_top.gui phobos/reactor_bridgecontrol2.gui
@@ -9621,7 +9621,7 @@
 	"#str_00100608"	"这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储存室。"
 // erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
 	"#str_00100609"	"“源体”"
-	"#str_00100610"	"找到1块电池来启动通往通风系统的升降梯"
+	"#str_00100610"	"找到1块电池来激活通往通风系统的升降梯"
 // erebus4:物品目标.标题 erebus4:物品目标完成.标题
 	"#str_00100611"	"为升降梯供电"
 	"#str_00100612"	"找到1块电池来开启挖掘机"
@@ -9636,7 +9636,7 @@
 	"#str_00100619"	"乘坐空中轨道车前往火卫一实验室研究区并和伊丽莎白·麦克内尔博士汇合。"
 // phobos1:物品目标完成.标题 phobos1:物品目标.标题 phobos2:物品目标完成.标题 phobos2:物品目标.标题
 	"#str_00100620"	"空中轨道车"
-	"#str_00100621"	"关闭保护辅助能源的保安炮塔"
+	"#str_00100621"	"关闭保护辅助能源的安保炮塔"
 	"#str_00100622"	"回到空中轨道车。"
 	"#str_00100623"	"回到空中轨道车"
 // phobos3:地点.位置
@@ -9650,7 +9650,7 @@
 	"#str_00100631"	"急速"
 	"#str_00100632"	"AM3视频"
 	"#str_00100633"	"启动挖掘机"
-	"#str_00100634"	"找到2块电池来启动通往通风系统的升降梯"
+	"#str_00100634"	"找到2块电池来激活通往通风系统的升降梯"
 	"#str_00100635"	"部署视频"
 // erebus1:地点.位置 d3xpdm1:地点.位置
 	"#str_00100636"	"坑道大厅"
@@ -9668,7 +9668,7 @@
 	"#str_00100642"	"试验场"
 // erebus3:地点.位置
 	"#str_00100643"	"房间连接点2"
-	"#str_00100644"	"找到2块电池来启动通往通风系统的升降梯"
+	"#str_00100644"	"找到2块电池来激活通往通风系统的升降梯"
 // erebus5:物品目标完成.内容 erebus5:物品目标.内容
 	"#str_00100645"	"取得环境服并沿着废物处理通道前往地表的货物站。"
 // phobos1:目标标题 phobos2:目标标题
@@ -9953,7 +9953,7 @@
 // transfer/exit_erebus4.gui
 	"#str_00100798"	"厄瑞玻斯控制"
 	"#str_00100799"	"肾上腺素"
-	"#str_00100800"	"找到并开启火卫一实验室的实验传送器"
+	"#str_00100800"	"找到并激活火卫一实验室的实验传送器"
 	"#str_00100801"	"乘坐空中轨道车前往火卫一实验室研究区并和伊丽莎白·麦克内尔博士汇合"
 	"#str_00100802"	"和伊丽莎白·麦克内尔博士汇合"
 	"#str_00100803"	"关闭外部泵站能源"
@@ -10316,7 +10316,7 @@
 // erebus4:物品目标完成.内容 erebus4:物品目标.内容
 	"#str_00101039"	"找到一个能量电池启动升降梯通往洞穴换乘站"
 // erebus4:物品目标.内容 erebus4:物品目标完成.内容
-	"#str_00101040"	"找到2块电池来启动通往通风系统的升降梯。"
+	"#str_00101040"	"找到2块电池来激活通往通风系统的升降梯。"
 // erebus6:物品目标完成.内容 erebus6:物品目标.内容
 	"#str_00101041"	"跟随哨兵机器人前往货运区。"
 // erebus6:物品目标完成.内容 erebus6:物品目标.内容
@@ -10372,7 +10372,7 @@
 	"#str_00200012"	"艾克西斯实验室"
 	"#str_00200013"	"地下"
 // le_exis1:界面参数1
-	"#str_00200014"	"单轨安全"
+	"#str_00200014"	"单轨安保室"
 // le_exis1:界面参数2
 	"#str_00200015"	"科学团队D3"
 // le_exis1:界面参数3
@@ -10612,7 +10612,7 @@
 // le_underground2:地点.位置
 	"#str_00200137"	"电力传输导体"
 // le_underground2:地点.位置
-	"#str_00200138"	"地下层保安部门"
+	"#str_00200138"	"地下层安保室"
 // le_underground2:地点.位置
 	"#str_00200139"	"服务隧道"
 // le_underground2:地点.位置
@@ -10644,7 +10644,7 @@
 // le_exis1:地点.名
 	"#str_00200153"	"维护入口06"
 // le_exis1:地点.名
-	"#str_00200154"	"艾克西斯大厅保安室"
+	"#str_00200154"	"艾克西斯大厅安保室"
 // le_exis1:地点.名
 	"#str_00200155"	"艾克西斯主厅"
 // le_exis1:地点.名
@@ -10660,7 +10660,7 @@
 // le_exis1:地点.名 le_exis2:地点.名
 	"#str_00200161"	"传送器准备室"
 // le_exis1:地点.名
-	"#str_00200162"	"传送器安保"
+	"#str_00200162"	"传送器安保室"
 // le_exis1:地点.名 le_exis2:地点.名
 	"#str_00200163"	"艾克西斯训练终端"
 // le_exis1:地点.名
@@ -10896,7 +10896,7 @@
 	"#str_alphalabs1_krietman_email_1_email_date"	"2145-11-13"
 	"#str_alphalabs1_krietman_email_1_email_from"	"帕特·哈维博士"
 	"#str_alphalabs1_krietman_email_1_email_subject"	"遗落的PDA"
-	"#str_alphalabs1_krietman_email_1_email_text"	"乔治\n\n我似乎把我的PDA连同保安密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？\n谢谢，\n\n哈维博士\n"
+	"#str_alphalabs1_krietman_email_1_email_text"	"乔治\n\n我似乎把我的PDA连同安保密码一起弄丢了。前几天我在水氢反应堆上面检查氧气供给，我记得那个时候还用到它来的，但是我想不起来到底把它放到哪里了。如果在当班的时候你看到我的PDA的话能帮我把它放到安全的地方吗？\n谢谢，\n\n哈维博士\n"
 	"#str_alphalabs1_krietman_email_1_email_to"	"乔治·科里特曼博士"
 	"#str_alphalabs1_krietman_pda_fullname"	"乔治·科里特曼"
 	"#str_alphalabs1_krietman_pda_id"	"6903-50"
@@ -11002,14 +11002,14 @@
 	"#str_alphalabs3_abrams_email_2_email_text"	"安全主管艾布拉姆斯\n\n照你的要求我们已经派遣更多的安防人员去你的安防部队。郭门的死是一场悲剧，我们希望以后可以更加安全的去处理这些事情。\n\n在10个工作日里新的工作人员就会到达。\n\n柯西·克里斯主管\n人力资源……“我们让火星上工作的人有家的感觉”"
 	"#str_alphalabs3_abrams_email_2_email_to"	"迈克尔·艾布拉姆斯"
 	"#str_alphalabs3_abrams_email_3_email_date"	"2145-11-15"
-	"#str_alphalabs3_abrams_email_3_email_from"	"I.T. 安全"
+	"#str_alphalabs3_abrams_email_3_email_from"	"I.T.安全部"
 	"#str_alphalabs3_abrams_email_3_email_subject"	"无效的数字密码"
 	"#str_alphalabs3_abrams_email_3_email_text"	"艾布拉姆斯先生，\n\n我们没法处理你的室门密码请求，因为你的号码序列中包含有一个0。你应该知道0是一个无效的室门密码。由于你的请求很重要，我们自行决定将0替换为3。\n如果为你带来麻烦你告知我们。\n\nI.T.安全部"
 	"#str_alphalabs3_abrams_email_3_email_to"	"迈克尔·艾布拉姆斯"
 	"#str_alphalabs3_abrams_pda_fullname"	"迈克尔·G.艾布拉姆斯"
 	"#str_alphalabs3_abrams_pda_id"	"6734-51"
 	"#str_alphalabs3_abrams_pda_name"	"迈克尔·艾布拉姆斯"
-	"#str_alphalabs3_abrams_pda_post"	"德尔塔保安，2层"
+	"#str_alphalabs3_abrams_pda_post"	"德尔塔安保部门，2层"
 	"#str_alphalabs3_abrams_pda_security"	""
 	"#str_alphalabs3_abrams_pda_title"	"安全主管"
 	"#str_alphalabs3_george_email_1_email_date"	"2145-10-28"
@@ -11082,7 +11082,7 @@
 	"#str_alphalabs4_kaczynski_email_2_email_date"	"2145-11-9"
 	"#str_alphalabs4_kaczynski_email_2_email_from"	"约翰·奥孔沃"
 	"#str_alphalabs4_kaczynski_email_2_email_subject"	"你好"
-	"#str_alphalabs4_kaczynski_email_2_email_text"	"你好\n\n我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。\n\n这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间保安公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。\n\n就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。\n\n关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系老讨论。\n\n你真诚的，\n\n约翰·奥孔沃\n"
+	"#str_alphalabs4_kaczynski_email_2_email_text"	"你好\n\n我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。\n\n这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间安保公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。\n\n就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。\n\n关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系老讨论。\n\n你真诚的，\n\n约翰·奥孔沃\n"
 	"#str_alphalabs4_kaczynski_email_2_email_to"	"拉里·卡钦斯基"
 	"#str_alphalabs4_kaczynski_pda_fullname"	"拉里·卡钦斯基"
 	"#str_alphalabs4_kaczynski_pda_id"	"3492-40"
@@ -11136,7 +11136,7 @@
 	"#str_caverns1_cody_pda_security"	""
 	"#str_caverns1_cody_pda_title"	"维护"
 	"#str_chaingun_video_info"	"创建者: UAC先进武器部门\n日期: 03/20/42\n\n关于Mach-2链枪的信息视频"
-	"#str_chaingun_video_name"	"Mach-2 电锯枪简介"
+	"#str_chaingun_video_name"	"Mach-2 链枪简介"
 	"#str_comm1_blake_audio_1_audio_info"	"制作者: 谢默斯·布雷克\n日期: 2145-10-16\n允许修改: 是\n存入档案: 否"
 	"#str_comm1_blake_audio_1_audio_name"	"替代模组"
 	"#str_comm1_blake_email_1_email_date"	"2145-10-10"
@@ -11431,9 +11431,9 @@
 	"#str_delta2b_bullman_pda_security"	""
 	"#str_delta2b_bullman_pda_title"	"研究主管"
 	"#str_delta2b_erikson_email_1_email_date"	"2145-11-02"
-	"#str_delta2b_erikson_email_1_email_from"	"德尔塔保安"
+	"#str_delta2b_erikson_email_1_email_from"	"德尔塔安保部门"
 	"#str_delta2b_erikson_email_1_email_subject"	"锁密码更改申请"
-	"#str_delta2b_erikson_email_1_email_text"	"弗朗西斯，\n给中央安保小队的一些额外的补给将会送到你那里。请把它们保存在103号柜子里面，并把密码改成259。\n\n谢谢，\n托马斯·桑德森\n德尔塔保安部门，职员"
+	"#str_delta2b_erikson_email_1_email_text"	"弗朗西斯，\n给中央安保小队的一些额外的补给将会送到你那里。请把它们保存在103号柜子里面，并把密码改成259。\n\n谢谢，\n托马斯·桑德森\n德尔塔安保部门，职员"
 	"#str_delta2b_erikson_email_1_email_to"	"弗朗西斯·埃里克森"
 	"#str_delta2b_erikson_email_2_email_date"	"2145-10-30"
 	"#str_delta2b_erikson_email_2_email_from"	"科尔宾·休斯"
@@ -11506,7 +11506,7 @@
 	"#str_delta3_lee_audio_2_audio_info"	"来自: 汉·李\n日期: 2145-10-20\n打开并更改: 否\n入档: 是"
 	"#str_delta3_lee_audio_2_audio_name"	"没有BFG枪"
 	"#str_delta3_lee_email_1_email_date"	"2145-10-23"
-	"#str_delta3_lee_email_1_email_from"	"德尔塔保安"
+	"#str_delta3_lee_email_1_email_from"	"德尔塔安保部门"
 	"#str_delta3_lee_email_1_email_subject"	"安防队伍资料"
 	"#str_delta3_lee_email_1_email_text"	"汉，\n\n由于上周发生的事故，德尔塔安全小组将会把额外的补给品储存在传送室附近的386和387储物柜。我们将在装备抵达以后尽快将安全密码升级为836。\n\n谢谢，\n托马斯·佩尔纳\n德尔塔安全小组办事员"
 	"#str_delta3_lee_email_1_email_to"	"汉·李"
@@ -11547,7 +11547,7 @@
 	"#str_delta5_jackson_email_1_email_to"	"布鲁斯·杰克逊"
 	"#str_delta5_jackson_email_2_email_date"	"2145-11-14"
 	"#str_delta5_jackson_email_2_email_from"	"迈克尔·艾布拉姆斯"
-	"#str_delta5_jackson_email_2_email_subject"	"保安分配"
+	"#str_delta5_jackson_email_2_email_subject"	"安保分配"
 	"#str_delta5_jackson_email_2_email_text"	"布鲁斯，\n\n你已经被重新指派到CPU综合设施，立即生效。过去几个星期内，我们已经收到许多电脑入侵和安全漏洞的报告了。\n\n我已经在安全检查站的橱柜里放了一个火箭发射器。门的密码的571。我知道火箭发射器很可能是多余的，不过你用来指着别人的时候，他们会更倾向于听众你。\n\n小心点，还要记得立刻汇报一切奇怪的迹象。\n\n迈克尔·艾布拉姆斯"
 	"#str_delta5_jackson_email_2_email_to"	"布鲁斯·杰克逊"
 	"#str_delta5_jackson_pda_fullname"	"布鲁斯·L.杰克逊"
@@ -11794,7 +11794,7 @@
 	"#str_enpro_chasar_email_1_email_date"	"2145-11-02"
 	"#str_enpro_chasar_email_1_email_from"	"劳埃德·伦斯特姆"
 	"#str_enpro_chasar_email_1_email_subject"	"等离子储存量"
-	"#str_enpro_chasar_email_1_email_text"	"特雷莎，\n请在之后的几天里面花几分钟创建一份基于你的等自己储存方面的发现的音频报告。董事会想要了解你的进展。\n\n正像你知道的那样，由于最近发生的事故保安部门都很紧张，所以我们绝对要千万小心。请保证把实验武器锁好并在报告中包括你的柜子密码。\n\n干得好，\n劳埃德"
+	"#str_enpro_chasar_email_1_email_text"	"特雷莎，\n请在之后的几天里面花几分钟创建一份基于你的等自己储存方面的发现的音频报告。董事会想要了解你的进展。\n\n正像你知道的那样，由于最近发生的事故安保部门都很紧张，所以我们绝对要千万小心。请保证把实验武器锁好并在报告中包括你的柜子密码。\n\n干得好，\n劳埃德"
 	"#str_enpro_chasar_email_1_email_to"	"特雷莎·查萨尔"
 	"#str_enpro_chasar_email_2_email_date"	"2145-11-05"
 	"#str_enpro_chasar_email_2_email_from"	"劳埃德·伦斯特姆"
@@ -11872,7 +11872,7 @@
 	"#str_erebus2_gregory_pda_name"	"格雷戈里·马丁"
 	"#str_erebus2_gregory_pda_post"	"厄瑞玻斯实验室"
 	"#str_erebus2_gregory_pda_security"	"站点一"
-	"#str_erebus2_gregory_pda_title"	"安全"
+	"#str_erebus2_gregory_pda_title"	"安保"
 	"#str_erebus2_tanner_audio_1_audio_info"	"来自: 马库斯·坦纳\n日期: 2147-03-15\n打开并更改: 是\n入档: 是"
 	"#str_erebus2_tanner_audio_1_audio_name"	"坑道异常"
 	"#str_erebus2_tanner_email_1_email_date"	"2147-3-14"
@@ -11901,7 +11901,7 @@
 	"#str_erebus2_weston_pda_name"	"肖恩·韦斯顿"
 	"#str_erebus2_weston_pda_post"	"厄瑞玻斯实验室"
 	"#str_erebus2_weston_pda_security"	"站点一"
-	"#str_erebus2_weston_pda_title"	"安全"
+	"#str_erebus2_weston_pda_title"	"安保"
 	"#str_erebus3_crane_email_1_email_date"	"2147-3-16"
 	"#str_erebus3_crane_email_1_email_from"	"斯图尔特·杰克逊"
 	"#str_erebus3_crane_email_1_email_subject"	"准备好了吗？"
@@ -11920,8 +11920,8 @@
 	"#str_erebus3_crane_pda_fullname"	"斯蒂文·W.克雷恩"
 	"#str_erebus3_crane_pda_id"	"1312-44"
 	"#str_erebus3_crane_pda_name"	"斯蒂文·克雷恩"
-	"#str_erebus3_crane_pda_post"	"厄瑞玻斯保安"
-	"#str_erebus3_crane_pda_security"	"安全"
+	"#str_erebus3_crane_pda_post"	"厄瑞玻斯安保部门"
+	"#str_erebus3_crane_pda_security"	"安保"
 	"#str_erebus3_crane_pda_title"	"士官"
 	"#str_erebus3_glenn_email_1_email_date"	"2147-3-14"
 	"#str_erebus3_glenn_email_1_email_from"	"维克多·哈尔科夫"
@@ -11957,8 +11957,8 @@
 	"#str_erebus3_jackson_pda_fullname"	"斯图尔特·A.杰克逊"
 	"#str_erebus3_jackson_pda_id"	"1231-48"
 	"#str_erebus3_jackson_pda_name"	"斯图尔特·杰克逊"
-	"#str_erebus3_jackson_pda_post"	"厄瑞玻斯保安"
-	"#str_erebus3_jackson_pda_security"	"安全"
+	"#str_erebus3_jackson_pda_post"	"厄瑞玻斯安保部门"
+	"#str_erebus3_jackson_pda_security"	"安保"
 	"#str_erebus3_jackson_pda_title"	"士官"
 	"#str_erebus3_kharkov_audio_1_audio_info"	"来自: 维克多·哈尔科夫博士\n日期: 2147-03-15\n打开并更改: 是\n入档: 是"
 	"#str_erebus3_kharkov_audio_1_audio_name"	"猎人启示录"
@@ -12334,7 +12334,7 @@
 	"#str_le_enpro_voss_email_1_email_date"	"2145-10-27"
 	"#str_le_enpro_voss_email_1_email_from"	"克里斯·瓦尔加斯"
 	"#str_le_enpro_voss_email_1_email_subject"	"安全密码"
-	"#str_le_enpro_voss_email_1_email_text"	"根据之前的讨论，我把陈列柜的密码改成了731。你能不能和安全中心确认下，每两个月改一次密码真的有必要吗？那把霰弹枪只是用来展览的，我都不知道能不能用。\n\n- 瓦尔加斯"
+	"#str_le_enpro_voss_email_1_email_text"	"根据之前的讨论，我把陈列柜的密码改成了731。你能不能和中央安保部确认下，每两个月改一次密码真的有必要吗？那把霰弹枪只是用来展览的，我都不知道能不能用。\n\n- 瓦尔加斯"
 	"#str_le_enpro_voss_email_1_email_to"	"戴维·沃斯"
 	"#str_le_enpro_voss_email_2_email_date"	"2145-10-27"
 	"#str_le_enpro_voss_email_2_email_from"	"安德鲁·陈"
@@ -12392,7 +12392,7 @@
 	"#str_le_exis_lebedev_email_0_email_date"	"2145-10-18"
 	"#str_le_exis_lebedev_email_0_email_from"	"史蒂夫·布莱恩特"
 	"#str_le_exis_lebedev_email_0_email_subject"	"这是武器还是什么别的？"
-	"#str_le_exis_lebedev_email_0_email_text"	"D，\n\n艾克西斯那边派出如此严密的保安是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。: ）\n\n谢了，\n\n史蒂夫"
+	"#str_le_exis_lebedev_email_0_email_text"	"D，\n\n艾克西斯那边派出如此严密的安保是要干什么？我问一个技术员怎么回事，他不肯说。这里有部分人推测是某种大型武器，或者传送器。我觉得你应该知道点什么，因为你见过进入这个区的所有资源。或许你能让我混进一个运输集装箱里，让我看个究竟。: ）\n\n谢了，\n\n史蒂夫"
 	"#str_le_exis_lebedev_email_0_email_to"	"德米特里·列别杰夫"
 	"#str_le_exis_lebedev_email_1_email_date"	"2145-10-01"
 	"#str_le_exis_lebedev_email_1_email_from"	"乔·斯坦格尔"
@@ -12507,9 +12507,9 @@
 	"#str_marscity2_duncan_email_1_email_text"	"如果你收到了这封邮件，你一定是我在火星工作时留下深刻印象的人。我要你知道我明天在德尔塔实验室接收最后一项指派以后就要离开火星和UAC去另寻他路了。\n\n我会非常挂念你并且经常想着你的。我敢肯定我在这里建立的友谊会支撑我的余生并且我会保持联系。我一有了新地址就会马上告诉你。\n\n我希望你明晚能来火星城厨房咱们喝一杯。我的飞船会在11/16离开并且我不想错过最后见你的机会……直到下次。\n\n雷·格哈特"
 	"#str_marscity2_duncan_email_1_email_to"	"邓肯·马修斯"
 	"#str_marscity2_duncan_email_2_email_date"	"2145-11-15"
-	"#str_marscity2_duncan_email_2_email_from"	"UAC安全部队"
+	"#str_marscity2_duncan_email_2_email_from"	"UAC安保部"
 	"#str_marscity2_duncan_email_2_email_subject"	"回复: 设备请求"
-	"#str_marscity2_duncan_email_2_email_text"	"我们理解火星城平民所承受的压力和担忧。我想向你们保证，没什么可担心的。我们UAC安全部门一切尽在掌控之中。\n\n你要求的盔甲我已经放在你桌上了。希望这能让你安心一些。目前我们无法满足你对等离子枪的要求。借此机会我想提醒你，平民是不允许持有武器的。如果你再提出这种要求，我将别无选择，只能向UAC人力资源部门报告你。\n\n如果你确实发现了设备，你有责任立即将其归还给UAC安保部门。\n\n诚挚地，\nUAC安全部门\n----原始邮件----\n发送日期: 2145-11-15\n收件人: UAC安全部门\n\n请向我所在的部门申请一批盔甲和一支等离子枪及弹药。这里最近发生的事太多了，我感觉很不安全。我根本没法入睡，工作也很难进行。\n\n如果这样会更简单的话，我大可以随便拿些我看到的保安粗心大意地留在基地周围的盔甲。"
+	"#str_marscity2_duncan_email_2_email_text"	"我们理解火星城平民所承受的压力和担忧。我想向你们保证，没什么可担心的。我们UAC安保部一切尽在掌控之中。\n\n你要求的盔甲我已经放在你桌上了。希望这能让你安心一些。目前我们无法满足你对等离子枪的要求。借此机会我想提醒你，平民是不允许持有武器的。如果你再提出这种要求，我将别无选择，只能向UAC人力资源部门报告你。\n\n如果你确实发现了设备，你有责任立即将其归还给UAC安保部。\n\n诚挚地，\nUAC安保部\n----原始邮件----\n发送日期: 2145-11-15\n收件人: UAC安保部\n\n请向我所在的部门申请一批盔甲和一支等离子枪及弹药。这里最近发生的事太多了，我感觉很不安全。我根本没法入睡，工作也很难进行。\n\n如果这样会更简单的话，我大可以随便拿些我看到的保安粗心大意地留在基地周围的盔甲。"
 	"#str_marscity2_duncan_email_2_email_to"	"邓肯·马修斯"
 	"#str_marscity2_duncan_pda_fullname"	"邓肯·A.马修斯"
 	"#str_marscity2_duncan_pda_id"	"6917-38"
@@ -12555,9 +12555,9 @@
 	"#str_marscity2_tyson_email_2_email_text"	"泰森上士，\n我们有一个新兵入站更换艾伦。他将到达下一个传输站。\n\n记得一定要他填写第一个问题清单。\n凯利士官"
 	"#str_marscity2_tyson_email_2_email_to"	"泰森上士"
 	"#str_marscity2_tyson_email_3_email_date"	"2145-11-11"
-	"#str_marscity2_tyson_email_3_email_from"	"中央安防"
+	"#str_marscity2_tyson_email_3_email_from"	"中央安保部"
 	"#str_marscity2_tyson_email_3_email_subject"	"安全密码更改"
-	"#str_marscity2_tyson_email_3_email_text"	"泰森上士，\n由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将于2145年11月15日生效。\n非常感谢你，\n\n安防中心"
+	"#str_marscity2_tyson_email_3_email_text"	"泰森上士，\n由于即将到来的人事调动，我们将改变武器储存代码到584。这更改将于2145年11月15日生效。\n非常感谢你，\n\n中央安保部"
 	"#str_marscity2_tyson_email_3_email_to"	"泰森上士"
 	"#str_marscity2_tyson_pda_fullname"	"比尔·泰森上士"
 	"#str_marscity2_tyson_pda_id"	"7488-89"
@@ -12571,9 +12571,9 @@
 	"#str_marscityinfo1_email_text"	"安全对我们在火星的工作来说是非常重要的。我们会在11月——安全宣传月——里检查所有安全协议。\n\n这是强制性的，希望你安排时间来参加这些研讨会。\n\n正确的等离子处理方法: 检查等离子存储，如何处理等离子泄漏，和治疗等离子灼伤的最好方法。\n\n急救: 了解所有的健康包在整个设施的位置和正确的使用方法。特别是预防浪费的方法。当只需要小型医疗包的时候使用大型医疗包会造成医疗物资的短缺。\n\n武器和弹药的储存: 武器和弹药的安全储存专题讲座。雷德·尼尔森将手把手的教导瞄准扫射技巧。\n\n紧急空间灾难: 本讲座将集中在要如何做如果你面对漏气，结构破坏，或气闸故障的问题。注意紧急空气储存瓶的位置。\n\n\n时间和地点请留意在UAC人力资源部外面的海报。\n\n"
 	"#str_marscityinfo1_email_to"	"收件人"
 	"#str_marscityinfo2_email_date"	"2145-11-15"
-	"#str_marscityinfo2_email_from"	"UAC安全部队"
+	"#str_marscityinfo2_email_from"	"UAC安保部"
 	"#str_marscityinfo2_email_subject"	"代码-黑: 失踪员工"
-	"#str_marscityinfo2_email_text"	"德尔塔科学小组的乔纳森·石井博士失踪。保安部认为他可能受伤所以无法回复传呼或回到岗位。请注意石井博士的踪迹并在发现他后向UAC保安部汇报。\n\n他最后的出现地点是在火星城的地下，正在前往通向通讯阵列的气闸。\n\n\n"
+	"#str_marscityinfo2_email_text"	"德尔塔科学小组的乔纳森·石井博士失踪。安保部门认为他可能受伤所以无法回复传呼或回到岗位。请注意石井博士的踪迹并在发现他后向UAC安保部汇报。\n\n他最后的出现地点是在火星城的地下，正在前往通向通讯阵列的气闸。\n\n\n"
 	"#str_marscityinfo2_email_to"	"收件人"
 	"#str_marscityinfo3_email_date"	"2145-11-15"
 	"#str_marscityinfo3_email_from"	"人力资源部协调员"
@@ -12599,9 +12599,9 @@
 	"#str_mcunderground_baston_email_1_email_text"	"你不会相信这个的……其实你也许会。深夜的安保信息没法打开安保办公室的橱柜？！？！第二天早上带他们一步步检查安保面板。他们没有意识到你可以用一个安保面板打开两个橱柜。他们怎么会雇佣这样的人？\n\n-布鲁克斯"
 	"#str_mcunderground_baston_email_1_email_to"	"格兰特·巴斯顿"
 	"#str_mcunderground_baston_email_2_email_date"	"2145-11-14"
-	"#str_mcunderground_baston_email_2_email_from"	"UAC安全部队"
+	"#str_mcunderground_baston_email_2_email_from"	"UAC安保部"
 	"#str_mcunderground_baston_email_2_email_subject"	"更新安全代码"
-	"#str_mcunderground_baston_email_2_email_text"	"部门总管，\n\n你们所负责的地下维护区域11月份的安全升级已经完成。\n请将能量稳定设施里面的保安柜的密码更改成531。\n\n谢谢，\nUAC保安"
+	"#str_mcunderground_baston_email_2_email_text"	"部门总管，\n\n你们所负责的地下维护区域11月份的安全升级已经完成。\n请将能量稳定设施里面的安保柜的密码更改成531。\n\n谢谢，\nUAC安保部"
 	"#str_mcunderground_baston_email_2_email_to"	"格兰特·巴斯顿"
 	"#str_mcunderground_baston_pda_fullname"	"格兰特·F.巴斯顿"
 	"#str_mcunderground_baston_pda_id"	"2781-61"
@@ -12619,9 +12619,9 @@
 	"#str_mcunderground_delahue_email_1_email_text"	"哟，弗兰克，\n别忘了我们这次会提前开始排队……8:15。\n\n--B.莫拉--"
 	"#str_mcunderground_delahue_email_1_email_to"	"弗兰克·德拉休"
 	"#str_mcunderground_delahue_email_2_email_date"	"2145-11-14"
-	"#str_mcunderground_delahue_email_2_email_from"	"UAC安全部队"
+	"#str_mcunderground_delahue_email_2_email_from"	"UAC安保部"
 	"#str_mcunderground_delahue_email_2_email_subject"	"回复: 请求安保"
-	"#str_mcunderground_delahue_email_2_email_text"	"UAC雇员，\n\n我们收到了你们的投诉，并将考虑你们的要求。安全压倒一切，我们会尽一切所能来确保整个UAC的安全。\n\n致敬，\nUAC安全部\n----原始邮件----\n发送日期: 2145-11-12\n收件人: UAC安全部\n\n我现在很关心我自己还有的我同事们在地下工作的安全性。我们有人在通往旧的通信建筑的气闸外面被困住了，而且这几个星期以来紧张的情绪不断在酝酿。我亲眼见到友善的同事变了……\n\n我正式请求额外的安全重视，并且调查焦虑的成因。\n-弗兰克·德拉休"
+	"#str_mcunderground_delahue_email_2_email_text"	"UAC雇员，\n\n我们收到了你们的投诉，并将考虑你们的要求。安全压倒一切，我们会尽一切所能来确保整个UAC的安全。\n\n致敬，\nUAC安保部\n----原始邮件----\n发送日期: 2145-11-12\n收件人: UAC安保部\n\n我现在很关心我自己还有的我同事们在地下工作的安全性。我们有人在通往旧的通信建筑的气闸外面被困住了，而且这几个星期以来紧张的情绪不断在酝酿。我亲眼见到友善的同事变了……\n\n我正式请求额外的安全重视，并且调查焦虑的成因。\n-弗兰克·德拉休"
 	"#str_mcunderground_delahue_email_2_email_to"	"弗兰克·德拉休"
 	"#str_mcunderground_delahue_pda_fullname"	"弗兰克·A.德拉休"
 	"#str_mcunderground_delahue_pda_id"	"8397-68"
@@ -12656,14 +12656,14 @@
 	"#str_mfs_video_info"	"创建者: UAC公关部\n日期: 45-04-15\n\n关于MFS系统的信息"
 	"#str_mfs_video_name"	"分子燃料储存压缩机"
 	"#str_monorail_cullen_email_1_email_date"	"2145-10-06"
-	"#str_monorail_cullen_email_1_email_from"	"保安权力"
+	"#str_monorail_cullen_email_1_email_from"	"安全局"
 	"#str_monorail_cullen_email_1_email_subject"	"新的自动防御系统"
 	"#str_monorail_cullen_email_1_email_text"	"库伦先生，\n\n请告知你的队伍，德尔塔主入口处将安装一个自动安全炮塔。这么做的原因是实验的敏感性越来越强，而且最近出现的安保问题也越来越严重。\n请确保你的队伍成员持有正确的安全通行证，并且在IFF数据库中作了备案。我们不想再看到当初陆战队指挥中心安装炮塔时出现的问题。\n\n谢谢，\n中央安全局"
 	"#str_monorail_cullen_email_1_email_to"	"卡尔·库伦"
 	"#str_monorail_cullen_email_2_email_date"	"2145-10-12"
 	"#str_monorail_cullen_email_2_email_from"	"克里斯·鲍曼"
 	"#str_monorail_cullen_email_2_email_subject"	"回复: 炮台关闭代码"
-	"#str_monorail_cullen_email_2_email_text"	"多谢，我真的非常讨厌装备带有自动敌我识别的枪械。\n\n----原始邮件----\n发送日期: 2145-11-11\n收件人: 所有保安人员\n\n伙计们，\n我已经把机枪塔的关闭序列编码到我的PDA里面了，如果这些枪械发生了什么问题，你可以在金属探测器旁边的安防终端使用这个关闭序列。\n要是机枪塔会滥杀无辜的话，我还不如就把它关掉……\n\n多谢，\n卡尔"
+	"#str_monorail_cullen_email_2_email_text"	"多谢，我真的非常讨厌装备带有自动敌我识别的枪械。\n\n----原始邮件----\n发送日期: 2145-11-11\n收件人: 所有安保人员\n\n伙计们，\n我已经把机枪塔的关闭序列编码到我的PDA里面了，如果这些枪械发生了什么问题，你可以在金属探测器旁边的安防终端使用这个关闭序列。\n要是机枪塔会滥杀无辜的话，我还不如就把它关掉……\n\n多谢，\n卡尔"
 	"#str_monorail_cullen_email_2_email_to"	"卡尔·库伦"
 	"#str_monorail_cullen_email_3_email_date"	"2145-11-02"
 	"#str_monorail_cullen_email_3_email_from"	"李·帕姆罗伊"
@@ -12678,14 +12678,14 @@
 	"#str_monorail_cullen_email_5_email_date"	"2145-11-09"
 	"#str_monorail_cullen_email_5_email_from"	"马修·盖泽"
 	"#str_monorail_cullen_email_5_email_subject"	"需要额外安全措施"
-	"#str_monorail_cullen_email_5_email_text"	"库伦先生，\n\n我们准备从德尔塔运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到火卫一实验室去，所以只能使用单轨铁路。\n\n该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强保安措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。\n\n对了，你也知道关于这个物种有很多传闻。我不想让谣言扩散以至失控。这次运送的事情仅限于必要之人知情，不得外传。\n\n感谢你的合作。"
+	"#str_monorail_cullen_email_5_email_text"	"库伦先生，\n\n我们准备从德尔塔运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到火卫一实验室去，所以只能使用单轨铁路。\n\n该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强安保措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。\n\n对了，你也知道关于这个物种有很多传闻。我不想让谣言扩散以至失控。这次运送的事情仅限于必要之人知情，不得外传。\n\n感谢你的合作。"
 	"#str_monorail_cullen_email_5_email_to"	"卡尔·库伦"
 	"#str_monorail_cullen_pda_fullname"	"卡尔·P.库伦"
 	"#str_monorail_cullen_pda_id"	"6167-07"
 	"#str_monorail_cullen_pda_name"	"卡尔·库伦"
 	"#str_monorail_cullen_pda_post"	"单轨"
-	"#str_monorail_cullen_pda_security"	"德尔塔保安"
-	"#str_monorail_cullen_pda_title"	"安防人员"
+	"#str_monorail_cullen_pda_security"	"德尔塔安保部门"
+	"#str_monorail_cullen_pda_title"	"安保人员"
 	"#str_monorail_harding_audio_1_audio_info"	"制作者: 山姆·哈丁\n日期: 2145-04-05\n允许修改: 是\n存入档案: 是"
 	"#str_monorail_harding_audio_1_audio_name"	"磁力锁修理"
 	"#str_monorail_harding_email_1_email_date"	"2145-10-23"
@@ -12733,20 +12733,20 @@
 	"#str_monorail_hollies_pda_security"	""
 	"#str_monorail_hollies_pda_title"	"EAP总管"
 	"#str_monorail_ross_email_1_email_date"	"2145-10-23"
-	"#str_monorail_ross_email_1_email_from"	"德尔塔保安"
+	"#str_monorail_ross_email_1_email_from"	"德尔塔安保部门"
 	"#str_monorail_ross_email_1_email_subject"	"可操作ADS"
 	"#str_monorail_ross_email_1_email_text"	"罗斯先生，\n\n简单提醒你一下，德尔塔实验室门口的新自动防御系统已经处于完全运作状态。有什么问题请联系德尔塔安保部。\n\n谢谢，\n德尔塔安保部"
 	"#str_monorail_ross_email_1_email_to"	"加里·罗斯"
 	"#str_monorail_ross_email_2_email_date"	"2145-11-04"
-	"#str_monorail_ross_email_2_email_from"	"中央安防"
+	"#str_monorail_ross_email_2_email_from"	"中央安保部"
 	"#str_monorail_ross_email_2_email_subject"	"回复: 空气阀请求"
-	"#str_monorail_ross_email_2_email_text"	"按你的需求，5号连接点，2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。\n\n----原始邮件----\n发送日期: 2145-11-03\n收件人:   中央安保\n发件人:   加里·罗斯\n主题:     气闸要求\n\n2区的工程组将会在下周对J5气闸系统做一系列测试。我们需要手动操作ARSS来进行这些测试，我们希望将密码更新为826，以便进行测试。\n\n谢谢配合。"
+	"#str_monorail_ross_email_2_email_text"	"按你的需求，5号连接点，2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。\n\n----原始邮件----\n发送日期: 2145-11-03\n收件人:   中央安保部\n发件人:   加里·罗斯\n主题:     气闸要求\n\n2区的工程组将会在下周对J5气闸系统做一系列测试。我们需要手动操作ARSS来进行这些测试，我们希望将密码更新为826，以便进行测试。\n\n谢谢配合。"
 	"#str_monorail_ross_email_2_email_to"	"加里·罗斯"
 	"#str_monorail_ross_pda_fullname"	"加里·罗斯"
 	"#str_monorail_ross_pda_id"	"3217-4A"
 	"#str_monorail_ross_pda_name"	"加里·罗斯"
 	"#str_monorail_ross_pda_post"	"站点2"
-	"#str_monorail_ross_pda_security"	"单轨安全"
+	"#str_monorail_ross_pda_security"	"单轨安保室"
 	"#str_monorail_ross_pda_title"	"工程总监"
 	"#str_new_personal1_email_date"	"2147-3-17"
 	"#str_new_personal1_email_from"	"赫尔南德斯中士"
@@ -12835,8 +12835,8 @@
 	"#str_phobos2_edens_pda_id"	"1985-63"
 	"#str_phobos2_edens_pda_name"	"戴维·伊登斯"
 	"#str_phobos2_edens_pda_post"	"火卫一实验室"
-	"#str_phobos2_edens_pda_security"	"P4安保"
-	"#str_phobos2_edens_pda_title"	"安防长官"
+	"#str_phobos2_edens_pda_security"	"P4安保部门"
+	"#str_phobos2_edens_pda_title"	"安保长官"
 	"#str_phobos2_killian_audio_1_audio_info"	"制作者: 赛斯·基里安\n日期: 2147-03-15\n允许修改: 是\n存入档案: 是"
 	"#str_phobos2_killian_audio_1_audio_name"	"帮助我"
 	"#str_phobos2_killian_email_1_email_date"	"2147-3-14"
@@ -12856,7 +12856,7 @@
 	"#str_phobos2_noordzy_email_1_email_text"	"基斯，\n\n我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感，如果你能保证细心看着它让它完好无损的来到我的办公室，我会不胜感激！\n\n谢谢！\n\n伊丽莎白·麦克内尔\n研究主管 - 火卫一实验室"
 	"#str_phobos2_noordzy_email_1_email_to"	"基斯·努吉"
 	"#str_phobos2_noordzy_email_2_email_date"	"2147-3-14"
-	"#str_phobos2_noordzy_email_2_email_from"	"火卫一安保"
+	"#str_phobos2_noordzy_email_2_email_from"	"火卫一安保部门"
 	"#str_phobos2_noordzy_email_2_email_subject"	"舰桥密码"
 	"#str_phobos2_noordzy_email_2_email_text"	"努吉先生，\n你在2147年3月14日这一周的桥梁密码被改为281。新密码即时生效。请不要把密码告诉别人。如果密码丢失，请立即向火卫一实验室安保部报告，我们将邮寄一个新密码给你。\n\n火卫一实验室安保部\n\n这封邮件由系统自动生成，请勿回复。\n"
 	"#str_phobos2_noordzy_email_2_email_to"	"基斯·努吉"
@@ -12864,8 +12864,8 @@
 	"#str_phobos2_noordzy_pda_id"	"1924-53"
 	"#str_phobos2_noordzy_pda_name"	"基斯·努吉"
 	"#str_phobos2_noordzy_pda_post"	"火卫一实验室"
-	"#str_phobos2_noordzy_pda_security"	"L4保安室"
-	"#str_phobos2_noordzy_pda_title"	"安全主管"
+	"#str_phobos2_noordzy_pda_security"	"L4安保部门"
+	"#str_phobos2_noordzy_pda_title"	"安保主管"
 	"#str_phobos2_owens_email_1_email_date"	"2147-3-13"
 	"#str_phobos2_owens_email_1_email_from"	"伊丽莎白·麦克内尔"
 	"#str_phobos2_owens_email_1_email_subject"	"碱耗"
@@ -12900,7 +12900,7 @@
 	"#str_phobos3_haag_email_2_email_date"	"2147-3-11"
 	"#str_phobos3_haag_email_2_email_from"	"security@pL.net"
 	"#str_phobos3_haag_email_2_email_subject"	"回复: 安全锁？"
-	"#str_phobos3_haag_email_2_email_text"	"哈格先生，\n\n我们按照你的要求重置了反应堆综合设施的储物锁密码。新的密码是: 492\n\n如果还有问题，随时可以来联系我们。\n\n钱斯·格拉斯科\n安全主管 - 火卫一实验室\n\n----原始邮件----\n发送日期: 2147-3-11\n收件人: 火卫一实验室安全部\n你好，\n我忘记了反应堆综合设施的储物锁密码。能否帮我重置一下密码？\n\n尼克·哈格\n反应堆维护部 - 火卫一实验室"
+	"#str_phobos3_haag_email_2_email_text"	"哈格先生，\n\n我们按照你的要求重置了反应堆综合设施的储物锁密码。新的密码是: 492\n\n如果还有问题，随时可以来联系我们。\n\n钱斯·格拉斯科\n安全主管 - 火卫一实验室\n\n----原始邮件----\n发送日期: 2147-3-11\n收件人: 火卫一实验室安保部\n你好，\n我忘记了反应堆综合设施的储物锁密码。能否帮我重置一下密码？\n\n尼克·哈格\n反应堆维护部 - 火卫一实验室"
 	"#str_phobos3_haag_email_2_email_to"	"尼古拉斯·哈格"
 	"#str_phobos3_haag_pda_fullname"	"尼古拉斯·哈格"
 	"#str_phobos3_haag_pda_id"	"2600-24"
