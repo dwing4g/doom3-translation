@@ -264,15 +264,15 @@ Stay close.
 
 > #cc_alphalabs2_00000000008
 Electromagnetic pulses have knocked out the electrical systems in this area. Watch out, a big one could knock out our lights.
-电磁脉冲已经摧毁了这片区域的电气系统。小心，一个大的脉冲可能会让我们的灯也熄灭。
+电磁脉冲已经摧毁了这片区域的电气系统。小心，一次大的脉冲可能会让我们的灯也熄灭。
 
 > #cc_alphalabs2_00000000009
 There's one!
-来了一个！
+来了一次！
 
 > #cc_alphalabs2_00000000010
 Hang on, here comes another.
-等等，又来一个。
+等等，又来一次。
 
 > #cc_alphalabs2_00000000011
 Watch it.
@@ -4276,7 +4276,7 @@ Security Officer: Welcome to Mars, marine.
 
 > #cc_mars_city1_00000000091
 Security Officer: I'm gonna need you to step on one of those red squares on the floor for a bioscan. This'll only take a second.
-安保人员：我需要你踩到地板上的一个红色方块上进行生物扫描。这只需要一秒钟。
+安保人员：我需要你踩到地板上的一个红色方块上进行生物扫描。一秒就好。
 
 > #cc_mars_city1_00000000092
 Security Officer: You're gonna need to hold still. Moving around only makes the test take longer.
