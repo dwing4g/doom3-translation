@@ -2836,7 +2836,7 @@ I'm moving in.
 
 > #cc_enpro_00000000030
 Hey, over here... we were hit... (coughs). I don't know how much farther I can go.
-嘿，这边……我们被击中了……(咳嗽)。我不知道还能走多远。
+嘿，这边……我们被袭击了……(咳嗽)。我不知道还能走多远。
 
 > #cc_enpro_00000000031
 (coughs) Here, take the transmission card.
@@ -2856,7 +2856,7 @@ It's vital that you retrieve that card as it contains encoded data needed to sen
 
 > #cc_enpro_00000000039
 You're our last hope to get reinforcements, find that card and find it fast.
-你获得增援的最后希望，快找到那张卡，而且要快。
+你是我们获得增援的最后希望，快找到那张卡，而且要快。
 
 > #cc_enpro_00000000034
 Sgt. Kelly: Marine, you gotta find that transmission card, if Swann gets his hands on it I don't know what he'll do.
@@ -8900,7 +8900,7 @@ The retro style and mechanical sturdiness of the Chaingun is a must for all hard
 
 > #cc_videos_00000000279
 Early adopters have nicknamed it 'SAW', with its armor piercing 30 caliber bullets the Chaingun is capable of literally cutting opponents in two.
-早期使用者昵称它为“SAW”，凭借其穿甲30口径子弹，链枪能够将对手一分为二。
+早期使用者昵称它为“锯子”，凭借其穿甲30口径子弹，链枪能够将对手一分为二。
 
 > #cc_videos_00000000054
 Packed with all the punch you need in close combat fighting, the Chaingun delivers unparallel reliability and functionality.

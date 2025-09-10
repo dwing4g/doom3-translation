@@ -12231,13 +12231,13 @@ SHOTGUN
 > #str_01821
 """MACHINE
 GUN"""
-"""机关
+"""机
 枪"""
 
 > #str_01822
 """CHAIN
 GUN"""
-"""锁链
+"""链
 枪"""
 
 > #str_01823
@@ -37886,11 +37886,11 @@ Informational video on the Mach-2 Chain Gun"""
 """创建者: UAC先进武器部门
 日期: 03/20/42
 
-关于Mach-2链枪的信息视频"""
+关于马赫2型链枪的信息视频"""
 
 > #str_chaingun_video_name
 Mach-2 Chain Gun Briefing
-Mach-2 链枪简介
+马赫2型链枪简介
 
 > #str_comm1_blake_audio_1_audio_info
 """Made by: Seamus Blake
