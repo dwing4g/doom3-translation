@@ -752,7 +752,7 @@ Swann: You did the right thing. Until we know what's happening here, we need to 
 
 > #cc_comm1_00000000028
 The monorail entrance looks clear. Meet up with us there, we need to reach the delta complex and stop this...
-单轨列车入口看起来很安全。在那里和我们会合，我们需要到达德尔塔综合体并阻止这一切……
+单轨列车入口看起来很安全。在那里和我们会合，我们需要到达德尔塔综合设施并阻止这一切……
 
 > #cc_commoutside_00000000001
 Female Computer: Service lift called to station.
@@ -960,7 +960,7 @@ I guess things aren't always what they seem...
 
 > #cc_delta1_00000000002
 Plans have changed. Delta complex 1's been compromised, you're not safe there. I'm moving to secure service tunnel 1.
-计划有变。德尔塔综合体1号已被攻破，你在那里不安全。我正前往保护1号维修隧道。
+计划有变。德尔塔综合设施1号已被攻破，你在那里不安全。我正前往保护1号维修隧道。
 
 > #cc_delta1_00000000003
 It's not far from your position. We'll meet there.
@@ -1608,7 +1608,7 @@ The code is 6-2-4. I hope you can use it.
 
 > #cc_delta2b_00000000007
 Narrator: Welcome to the Delta Complex Stasis Chambers.
-旁白：欢迎来到德尔塔综合体静滞舱。
+旁白：欢迎来到德尔塔综合设施静滞舱。
 
 > #cc_delta2b_00000000008
 This facility was constructed to house and study the extra dimensional beings,
@@ -3900,7 +3900,7 @@ Darkstar: Tower, Darkstar on final.
 
 > #cc_mars_city1_00000000006
 S.L. Medley: We've got you Darkstar, you are set for lockdown. Welcome back!
-S.L.梅德利：我们看到你了，暗星号，你已准备好进行锁定。欢迎回来！
+S.L.梅德利：我们看到你了，暗星号，你已准备好锁定。欢迎回来！
 
 > #cc_mars_city1_00000000007
 (CORPORATE INTRO MUSIC)
@@ -3908,7 +3908,7 @@ S.L.梅德利：我们看到你了，暗星号，你已准备好进行锁定。�
 
 > #cc_mars_city1_00000000008
 On behalf of the UAC, welcome to Mars City.
-我代表UAC，欢迎来到火星城。
+谨代表UAC，欢迎来到火星城。
 
 > #cc_mars_city1_00000000009
 This facility serves as the central hub for all scientific research, archaeological study and military operations.
@@ -3984,7 +3984,7 @@ While on duty, please stay in your assigned patrol converage area.
 
 > #cc_mars_city1_00000000214
 All PCAs have been predesignated to provide overlapping security and maximize efficiency.
-所有巡逻覆盖区都已预先指定，以提供重叠安保并最大化效率。
+所有巡逻覆盖区都已预先指定过，以提供重叠安保并最大化效率。
 
 > #cc_mars_city1_00000000026
 All personnel must have proper authorization in assigned areas. Be sure to annotate any discrepencies in your Security Inspection Report.
@@ -4008,7 +4008,7 @@ Keep in mind that you represent the greatest fighting force in the galaxy and yo
 
 > #cc_mars_city1_00000000029
 Take good care and good luck on your new assignment.
-请多保重，祝您新任务顺利。
+请多保重，祝您新工作顺利。
 
 > #cc_mars_city1_00000000030
 This is the audio log of Maintenance Technician Adam Berneche, dated November 10th, 2145.
@@ -4028,7 +4028,7 @@ I’ve checked the work logs, and I was the only person scheduled to be in that 
 
 > #cc_mars_city1_00000000034
 That experience, coupled with the stories I’ve heard from some guys over in the Delta Labs has me... pretty freaked out.
-那次经历，再加上我从德尔塔实验室那边一些人那里听到的故事，让我……相当不安。
+那次经历，再加上我从德尔塔实验室的一些人那里听到的故事，让我……相当不安。
 
 > #cc_mars_city1_00000000035
 I’m really beginning to hate going down to the underground maintenance area.
@@ -4064,7 +4064,7 @@ A spokesperson stated that increased activity is simply a tactical deployment to
 
 > #cc_mars_city1_00000000043
 Authorities continue to search for the activists responsible in Monday's bombing of a Biomech production facility,
-当局继续搜捕对周一生物机械生产设施爆炸案负责的激进分子，
+当局继续搜捕周一炸毁生物机械生产设施的激进分子，
 
 > #cc_mars_city1_00000000206
 resulting in the destruction of hundreds of Biomech labor units.
@@ -4072,7 +4072,7 @@ resulting in the destruction of hundreds of Biomech labor units.
 
 > #cc_mars_city1_00000000044
 In space news, mining station Amun is reporting nine dead and twenty eight wounded in what appears to be an ore canopy failure during routine operations.
-在太空新闻方面，阿蒙采矿站报告称，在日常作业中发生了一起疑似矿石顶盖故障，造成9人死亡，28人受伤。
+在太空新闻方面，阿穆恩采矿站报告称，在日常作业中发生了一起疑似矿石顶盖故障，造成9人死亡，28人受伤。
 
 > #cc_mars_city1_00000000045
 This is the fifth incident in a string of mishaps that have plagued asteroid strip-mining facilities in recent months.
@@ -4080,7 +4080,7 @@ This is the fifth incident in a string of mishaps that have plagued asteroid str
 
 > #cc_mars_city1_00000000046
 Deep space Medridi successful executed the first of four engine bursts designed to alter the probe's course, according to officials.
-官员称，深空梅德里迪成功执行了四次引擎点火中的第一次，旨在改变探测器航向。
+据官员称，深空探测器梅德里迪成功执行了四次引擎喷射中的第一次，旨在改变探测器航向。
 
 > #cc_mars_city1_00000000047
 The probe's logic core first requested the diversion following yesterday's discovery of a negative light object outside the orbit of Sedna.
@@ -4096,19 +4096,19 @@ Faint signals continue to be received from the failed Europa Orbiter, which is s
 
 > #cc_mars_city1_00000000050
 Union Aerospace, who funded the privately operated orbiter,
-资助了这艘私人运营轨道飞行器的联合航空航天公司，
+资助该私人运营轨道飞行器的联合航空航天公司表示，
 
 > #cc_mars_city1_00000000207
 stated that there were no survivors and the signal is part of the NavCom system's automated distress beacon.
-声明称没有幸存者，且该信号是导航通信系统自动求救信标的一部分。
+没有幸存者，该信号是导航通信系统自动求救信标的一部分。
 
 > #cc_mars_city1_00000000051
 Critics of the massive corporation say the Europa's signal is undeniably originating from one or more survivors,
-这家大型企业的批评者表示，欧罗巴的信号毫无疑问地源自一名或多名幸存者，
+这家大型企业的批评者表示，欧罗巴的信号无疑来自一名或多名幸存者，
 
 > #cc_mars_city1_00000000208
 and that high costs of mounting a rescue operation have led to the UAC's refusal.
-并且组织救援行动的高昂成本导致了UAC的拒绝。
+而高昂的救援行动成本导致UAC拒绝救援。
 
 > #cc_mars_city1_00000000052
 In IPN's business news, Mixom corporation has filed suit against rival company Moxim,
@@ -4116,11 +4116,11 @@ In IPN's business news, Mixom corporation has filed suit against rival company M
 
 > #cc_mars_city1_00000000209
 claiming the company infringed on several pressure-sealed patents utilized in planetary bases.
-声称该公司侵犯了多项用于行星基地的压力密封专利。
+声称该公司侵犯了其在行星基地中使用的多项压力密封专利。
 
 > #cc_mars_city1_00000000053
 Moxim lawyers have threatened a countersuit, saying that Mixom creates inferior parts based on original Moxim designs.
-莫克西姆的律师威胁要提起反诉，称米克松公司基于米克森的原始设计制造劣质零件。
+莫克西姆公司的律师威胁要提起反诉，称米克森公司基于莫克西姆公司的原始设计制造劣质零件。
 
 > #cc_mars_city1_00000000054
 Senate majority leaders this morning approved a nearly 80.2 trillion dollar spending plan.
@@ -4128,23 +4128,23 @@ Senate majority leaders this morning approved a nearly 80.2 trillion dollar spen
 
 > #cc_mars_city1_00000000055
 The plan includes cuts in funding for the lunar outpost and several planetary platforms, as well as major revisions to the public health care system.
-该计划包括削减月球前哨站和多个行星平台的资金，以及对公共医疗系统的重大修订。
+该计划包括削减月球前哨站和多个行星平台的资金，以及对公共医疗系统进行重大修订。
 
 > #cc_mars_city1_00000000056
 The plan also calls for cutting the budget deficit in half by 2147.
-该计划还要求到2147年将预算赤字削减一半。
+该计划还呼吁到2147年将预算赤字削减一半。
 
 > #cc_mars_city1_00000000057
 Gentech firm Groetre met further resistance this week in its plans to introduce genetically manufactured health products on Earth.
-基因科技公司格罗特本周在其将基因制造的健康产品引入地球的计划中遭遇了进一步阻力。
+基因技术公司格罗特本周在地球上推出基因制造健康产品的计划遇到了进一步阻力。
 
 > #cc_mars_city1_00000000058
 A long-time supplier to military and space sectors, genetically-modified products have seen poor sales in the consumer market.
-作为军事和太空领域的长期供应商，基因改造产品在消费市场销量不佳。
+作为军事和太空领域的长期供应商，基因改造产品在消费市场销售不佳。
 
 > #cc_mars_city1_00000000059
 Groetre's latest Medkit technology was slated to hit stores next month.
-格罗特公司最新的医疗包技术原定下月上市。
+格罗特公司最新的医疗包技术原定于下个月上市。
 
 > #cc_mars_city1_00000000060
 (HIGH ENERGY NEWS REPORT MUSIC)
@@ -4152,7 +4152,7 @@ Groetre's latest Medkit technology was slated to hit stores next month.
 
 > #cc_mars_city1_00000000061
 For IPN news, this is Roger McEllen, listing subspace news on the hour.
-IPN新闻，我是罗杰·麦克艾伦，整点播报次空间新闻。
+IPN新闻，我是罗杰·麦克艾伦，整点播报亚空间新闻。
 
 > #cc_mars_city1_00000000062
 Science Officer: This is Delta science management. We would like to request another security team here in Delta.
@@ -4164,11 +4164,11 @@ Science Officer: Thank you.
 
 > #cc_mars_city1_00000000064
 S.L. Medley: We have them on radar, sir, they'll be landing in a few moments.
-S.L.梅德利：长官，雷达上显示他们，几分钟后就会降落。
+S.L.梅德利：长官，雷达上看到他们了，几分钟后就会着陆。
 
 > #cc_mars_city1_00000000065
 Betruger: Excellent. See that Counselor Swann is sent directly to me.
-贝特鲁格：太好了。确保斯旺顾问直接来见我。
+贝特鲁格：太好了。务必让斯旺顾问直接来见我。
 
 > #cc_mars_city1_00000000066
 S.L. Medley: Yes sir.
@@ -4204,7 +4204,7 @@ Campbell: Whatever you say, counselor.
 
 > #cc_mars_city1_00000000074
 R. Cooper: Welcome to Mars.  All new arrivals need to check in at reception.
-R.库珀：欢迎来到火星。所有新来的人都需要到接待处报到。
+R.库珀：欢迎来到火星。所有新来的人都要到接待处报到。
 
 > #cc_mars_city1_00000000075
 R. Cooper: If you're looking for someone to help you just head to reception.
@@ -4212,11 +4212,11 @@ R.库珀：如果你想找人帮忙，直接去接待处就行。
 
 > #cc_mars_city1_00000000076
 R. Cooper: I've got to process the transport log; I can't talk with you now.
-R.库珀：我得处理运输日志；我现在不能和你说话。
+R.库珀：我得处理运输日志；我现在不能跟你说话。
 
 > #cc_mars_city1_00000000077
 R. Cooper: If I don't get this log to central authority it'll be my neck, please move along.
-R.库珀：如果我不把这份日志交给中央管理部门，我的小命就没了，请走开。
+R.库珀：如果我不把这份日志交给中央管理局，我的小命就没了，请走开。
 
 > #cc_mars_city1_00000000078
 R. Cooper: Hey, what're you doing?
@@ -4224,7 +4224,7 @@ R.库珀：嘿，你干什么呢？
 
 > #cc_mars_city1_00000000079
 M. Caseon: I've got to get out of here.
-M.凯斯昂：我得离开这里。
+M.凯斯昂：我得赶紧离开这里。
 
 > #cc_mars_city1_00000000080
 M. Caseon: I'm getting off this rock and you should too.
@@ -4236,7 +4236,7 @@ M.凯斯昂：如果你留在这里，小心背后。
 
 > #cc_mars_city1_00000000082
 M. Caseon: You should be careful..it's not safe here - trust no one.
-M.凯斯昂：你应该小心……这里不安全——别相信任何人。
+M.凯斯昂：你应该小心……这里可不安全——别相信任何人。
 
 > #cc_mars_city1_00000000083
 PA System: Welcome to Mars City; Union Aerospace's premiere research facility. To expedite your processing please proceed directly to reception.
@@ -4252,7 +4252,7 @@ PA System: Mars City is a smoke free facility. Please smoke only in designated a
 
 > #cc_mars_city1_00000000086
 PA System: Attention ... Director Banks please report to central administration.
-广播系统：注意……班克斯主管请到中央行政部报到。
+广播系统：请注意……班克斯主管请到中央行政部报到。
 
 > #cc_mars_city1_00000000087
 PA System: Attention UAC personnel. Interested in earning more credits? Volunteer at Delta Labs today ! See your service branch director for more details.
@@ -4264,7 +4264,7 @@ PA System: Attention UAC personnel. Interested in earning more credits? Voluntee
 
 > #cc_mars_city1_00000000088
 PA System: Attention ... Dr. Braddock please report to environment management office 4-Alpha.
-广播系统：注意……布拉多克博士请到环境管理办公室4-阿尔法报到。
+广播系统：请注意……布拉多克博士请到环境管理办公室4-阿尔法报到。
 
 > #cc_mars_city1_00000000089
 PA System: The UAC cares about the quality of life of it's employees, please take advantage of our quality medical care services.
@@ -4308,7 +4308,7 @@ H.费纳：你可以把包放在那里。我会让人把它送到你的宿舍。
 
 > #cc_mars_city1_00000000099
 H. Feiner: OK, there are a few things we need to take care of first. This is your personal data assistant; you'll need this to access all secure areas.
-H.费纳：好的，我们首先需要处理几件事。这是你的个人数据助理；你需要它来访问所有安全区域。
+H.费纳：好的，我们首先需要办理几件事。这是你的个人数据助理(PDA)；你需要它来访问所有安全区域。
 
 > #cc_mars_city1_00000000100
 H. Feiner: If you get clearance for any security zones, it'll download directly.
@@ -4332,7 +4332,7 @@ H.费纳：就在那边，跟着指示牌走。
 
 > #cc_mars_city1_00000000105
 H. Feiner: You better move along, it looks like you have some important things to do.
-H.费纳：你最好快点，你看起来有重要的事情要做。
+H.费纳：你最好快点，看起来你还有重要的事情要做。
 
 > #cc_mars_city1_00000000106
 H. Feiner: The last marine that kept the Sergeant waiting was permanently assigned to guard duty at the solid waste facility. You better move!
@@ -4340,15 +4340,15 @@ H.费纳：上一个让士官久等的陆战队员被永久调去固体废物处
 
 > #cc_mars_city1_00000000107
 H. Feiner: Sergeant Kelly doesn't like to be kept waiting, you better move along.
-H.费纳：凯利士官不喜欢等人，你最好快点。
+H.费纳：凯利士官不喜欢等人，你最好快点去。
 
 > #cc_mars_city1_00000000108
 H. Feiner: You'd better move along.
-H.费纳：你最好快点。
+H.费纳：你最好快点去。
 
 > #cc_mars_city1_00000000109
 A. Chang: Haven't seen you before. You must be with that new detachment coming to check on us.
-A.张：以前没见过你。你一定是来检查我们的新分遣队的人吧。
+A.张：以前没见过你。你一定是来检查我们新分遣队的人吧。
 
 > #cc_mars_city1_00000000110
 A. Chang: Is there some type of problem? I'm just trying to get my work done here.
@@ -4364,15 +4364,15 @@ Counselor Swann: I'm here because there seems to be some very serious problems.
 
 > #cc_mars_city1_00000000113
 Dr. Betruger (condescending): Oh really? Do I need to remind you of the ground-breaking work we're doing here?
-贝特鲁格博士(傲慢地)：哦，是吗？我需要提醒你我们在这里做的开创性工作吗？
+贝特鲁格博士(傲慢地)：哦，是吗？我需要再给你讲一次我们在这里做的开创性工作吗？
 
 > #cc_mars_city1_00000000114
 Counselor Swann: No. But I've been authorized by the board to look at everything.
-斯旺顾问：不用。但我已获得董事会授权，可以查看所有一切。
+斯旺顾问：不用。而我已获得了董事会授权，可以查看所有一切。
 
 > #cc_mars_city1_00000000115
 Dr. Betruger (scathing): The board authorized you? Hmmm. The board doesn't know the first thing about science.
-贝特鲁格博士(刻薄地)：董事会授权你？嗯。董事会根本不懂科学。
+贝特鲁格博士(刻薄地)：董事会授权你？嗯。董事会根本不懂科学原则。
 
 > #cc_mars_city1_00000000211
 All they want is something to make them more money, some product. (almost threatening) Don't worry. They'll get their product.
@@ -4384,7 +4384,7 @@ Counselor Swann: After how many accidents? Tell me, Dr. Betruger, why are so man
 
 > #cc_mars_city1_00000000117
 Dr. Betruger: They simply can't handle life here. They're exhausted and overworked.
-贝特鲁格博士：他们只是无法适应这里的生活。他们精疲力尽，工作过度。
+贝特鲁格博士：他们只是无法适应这里的生活。他们精疲力尽、工作过度罢了。
 
 > #cc_mars_city1_00000000212
 If I had a larger, more competent staff, and bigger budget, even these few accidents could've been avoided.
@@ -4392,7 +4392,7 @@ If I had a larger, more competent staff, and bigger budget, even these few accid
 
 > #cc_mars_city1_00000000118
 Counselor Swann (defiant): I'm afraid you'll get nothing more until my report is filed with the board.
-斯旺顾问(挑衅地)：恐怕在我的报告提交给董事会之前，你什么也别想得到。
+斯旺顾问(挑衅地)：恐怕在我把报告提交给董事会之前，你什么也别想得到。
 
 > #cc_mars_city1_00000000213
 I will need full access, Dr. Betruger, Delta included. I won't have any difficulties doing that, will I?
@@ -4412,7 +4412,7 @@ J.叶兹巴克：听着，伙计，你没有这个区域的权限。走开。
 
 > #cc_mars_city1_00000000122
 J. Yezback: I can't help you here. Move out to Marine Command, they can help you.
-J.叶兹巴克：我在这里帮不了你。去陆战队指挥部，他们能帮你。
+J.叶兹巴克：我在这帮不了你。去陆战队指挥部，他们能帮你。
 
 > #cc_mars_city1_00000000123
 J. Yezback: If you don't move out now, they're gonna bust both our asses.
@@ -4436,7 +4436,7 @@ T.华盛顿：尽量别让这个地方影响你的心智。只管专注于你的
 
 > #cc_mars_city1_00000000128
 T. Washington: Not a lot to do around here. But watch your back.
-T.华盛顿：这里没什么可做的。但小心背后。
+T.华盛顿：这里没什么可做的，除了小心背后。
 
 > #cc_mars_city1_00000000129
 K.Tang: Ah, someone new. It's always nice seeing new faces around here. Hope you enjoy your stay.
@@ -4444,7 +4444,7 @@ K.唐：啊，新人。这里总是很高兴看到新面孔。希望你住得愉
 
 > #cc_mars_city1_00000000130
 K.Tang: I've been here four years. My advice is to work hard and stay outta trouble.
-K.唐：我在这里四年了。我的建议是努力工作，别惹麻烦。
+K.唐：我在这里四年了。我的建议是努力工作、别惹麻烦。
 
 > #cc_mars_city1_00000000131
 K.Tang: You want my advice? Don't go poking your nose around places where you aren't supposed to.
@@ -4456,7 +4456,7 @@ M.马拉克：米勒，你听说艾伦下士的事了吗？
 
 > #cc_mars_city1_00000000133
 K. Miller: Yeah, they say he just lost it. Shipped home this week.
-K.米勒：听说了，他们说他就是崩溃了。这周被送回家了。
+K.米勒：听说了，他们说他只是崩溃了。这周被送回家了。
 
 > #cc_mars_city1_00000000134
 M. Marak: We lose one, gain another.
@@ -4476,7 +4476,7 @@ K.米勒：我懂你。
 
 > #cc_mars_city1_00000000138
 M. Marak: Another newbie. Welcome to the worst assignment you'll ever have.
-M.马拉克：又一个菜鸟。欢迎来到你这辈子最糟糕的任务。
+M.马拉克：又一个菜鸟。欢迎来到你这辈子最糟糕的工作。
 
 > #cc_mars_city1_00000000139
 M. Marak: Come back for a drink when you get some free time.
@@ -4544,7 +4544,7 @@ R.斯朗：如果你能修好这个，你就可以留下来帮忙，否则，就
 
 > #cc_mars_city1_00000000155
 R. Slang: Why you bothering me? Can't you see that I'm working?
-R.斯朗：你为什么烦我？难道你没看到我在工作吗？
+R.斯朗：你为什么烦我？难道你没看到我在干活吗？
 
 > #cc_mars_city1_00000000156
 J. Kim: Marine command is right around the corner. Why don't you go bother someone there.
@@ -4552,15 +4552,15 @@ J.金：陆战队指挥部就在拐角处。你为什么不去那里烦别人呢
 
 > #cc_mars_city1_00000000157
 J. Kim: Listen. I'd love to talk, but I'm really busy.
-J.金：听着。我很想和你聊，但我真的很忙。
+J.金：听着。我很想聊，但我真的很忙。
 
 > #cc_mars_city1_00000000158
 J. Kim: What? Do I look like a tour director, leatherneck?
-J.金：什么？我看起来像个导游吗，陆战队员？
+J.金：什么？我看起来像个导游吗，陆战队的？
 
 > #cc_mars_city1_00000000159
 S. Holmes: You need to report to Sergeant Kelly A-SAP. He's in Command HQ.
-S.霍姆斯：你需要尽快向凯利士官报到。他在指挥部总部。
+S.霍姆斯：你得尽快向凯利士官报到。他在指挥部总部。
 
 > #cc_mars_city1_00000000160
 S. Holmes: Don't waste anymore time, go see the sarge.
@@ -4572,7 +4572,7 @@ S.霍姆斯：如果你不立刻赶到指挥部总部，士官会让你吃不了
 
 > #cc_mars_city1_00000000162
 S. Holmes: If you're late reporting in, sarge will have you patrolling outside for a week.
-S.霍姆斯：如果你迟到报到，士官会让你在外面巡逻一周。
+S.霍姆斯：如果你报到迟了，士官会让你在外面巡逻一周。
 
 > #cc_mars_city1_00000000163
 Don't you have a mission to do?
@@ -4596,7 +4596,7 @@ Doctor: OK, he's sedated now.
 
 > #cc_mars_city1_00000000168
 R. Kasal (annoyed): I can't be interrupted now; I've got work to finish!
-R.卡萨尔(恼怒地)：我现在不能被打扰；我还有工作要完成！
+R.卡萨尔(恼怒地)：我现在不能被打扰；我还有活儿得干完！
 
 > #cc_mars_city1_00000000169
 R. Kasal: Please don't disturb me! Can't you see I'm busy?
@@ -4612,7 +4612,7 @@ E.格拉夫顿(友好地)：欢迎加入这个单位。回头见。
 
 > #cc_mars_city1_00000000172
 E. Grafton (laughing): Hope you don't go crazy here... like the others!
-E.格拉夫顿(笑着)：希望你别在这里发疯……像其他人一样！
+E.格拉夫顿(笑着)：希望你别在这里发疯……像其他人那样！
 
 > #cc_mars_city1_00000000173
 E. Grafton: Well, I've got a few things I need to do, so I'll catch up with you later.
@@ -4620,7 +4620,7 @@ E.格拉夫顿：嗯，我还有些事情要做，所以我们稍后再聊。
 
 > #cc_mars_city1_00000000174
 K. Lee-Creel: I'm trying to reconfigure this little guy. I can't talk now.
-K.李-克里尔：我正在尝试重新配置这个小家伙。我现在不能说话。
+K.李-克里尔：我正在尝试重新配置这个小家伙。我现在没空说话。
 
 > #cc_mars_city1_00000000175
 K. Lee-Creel: Hey, this is tricky business. I can't be hassled.
@@ -4628,7 +4628,7 @@ K.李-克里尔：嘿，这是个棘手的活儿。我不能被打扰。
 
 > #cc_mars_city1_00000000176
 K. Lee-Creel: If you need something, go talk to sarge.
-K.李-克里尔：如果你需要什么，去和士官说。
+K.李-克里尔：如果你需要什么，去跟士官说。
 
 > #cc_mars_city1_00000000177
 V. King: Yes sir.
@@ -4644,7 +4644,7 @@ V.金：我现在太忙了，没空说话。
 
 > #cc_mars_city1_00000000180
 V. King: Got lots of work here. Sorry.
-V.金：这里有很多工作。抱歉。
+V.金：这里有很多活儿要干。抱歉。
 
 > #cc_mars_city1_00000000181
 Sgt. Kelly: Took your sweet time, marine? Now, here's the situation.
@@ -4652,19 +4652,19 @@ Sgt. Kelly: Took your sweet time, marine? Now, here's the situation.
 
 > #cc_mars_city1_00000000182
 Sgt. Kelly: Another member of the science team has gone missing. Since you're the ranking F.N.G., you get to find him.
-凯利士官：又一名科学团队成员失踪了。既然你是级别最高的新兵蛋子，就由你去找他。
+凯利士官：又一名科学团队的成员失踪了。既然你是级别最高的新兵蛋子，就由你去找他。
 
 > #cc_mars_city1_00000000183
 Sgt. Kelly: I want you to check out the decommissioned comm facility. We heard he might be heading that way.
-凯利士官：我要你去查看退役通讯设施。我们听说他可能朝那个方向去了。
+凯利士官：我要你去查看退役的通讯设施。我们听说他可能朝那个方向去了。
 
 > #cc_mars_city1_00000000184
 Sgt. Kelly: The only way there is through the service passage under Mars City.
-凯利士官：唯一的路是穿过火星城下面的服务通道。
+凯利士官：唯一一条路是穿过火星城下面的服务通道。
 
 > #cc_mars_city1_00000000185
 Sgt. Kelly: I've programmed this sentry to guide you to the maintenence elevator. I hope you follow the sentry better than you've followed orders so far.
-凯利士官：我已将这台哨兵机器人编程，让它引导你前往维修电梯。我希望你跟着哨兵机器人比你迄今为止听从命令要好。
+凯利士官：我已将这台哨兵机器人编程，让它引导你前往维修电梯。我希望你跟着哨兵机器人，这可比你听从过的命令都更好。
 
 > #cc_mars_city1_00000000186
 Sgt. Kelly: You pick up some gear at the security checkpoint at the bottom of the elevator.
@@ -4688,7 +4688,7 @@ Sgt. Kelly: Are you deaf, marine? When I say move out, you better move.
 
 > #cc_mars_city1_00000000191
 S. L. Medley: Didn't you hear sarge? He gave you a mission. Move out, marine.
-S.L.梅德利：你没听到士官的话吗？他给了你一个任务。出发，陆战队员。
+S.L.梅德利：你没听到士官的话吗？他给了你一个任务。出发吧，陆战队员。
 
 > #cc_mars_city1_00000000192
 S. L. Medley: Sarge will have your ass if you stand here wasting my time.
@@ -4696,7 +4696,7 @@ S.L.梅德利：如果你站在这里浪费我的时间，士官会让你吃不�
 
 > #cc_mars_city1_00000000193
 S. L. Medley: I got better things to do than talk to you, marine.
-S.L.梅德利：我还有更重要的事情要做，没空和你说话，陆战队员。
+S.L.梅德利：我还有更重要的事情要做，没空跟你说话，陆战队员。
 
 > #cc_mars_city1_00000000194
 D. Morton: No time to talk, bud, we both got work to do.
@@ -4708,7 +4708,7 @@ D.莫顿：你聋了吗，陆战队员？你有任务要执行。你不能留在
 
 > #cc_mars_city1_00000000196
 D. Morton: Move out, marine.
-D.莫顿：出发，陆战队员。
+D.莫顿：出发吧，陆战队员。
 
 > #cc_mars_city1_00000000197
 R. Slang: Did you hear what Carter said?
@@ -4736,7 +4736,7 @@ J.金：又一个让我迫不及待想离开这里的理由。
 
 > #cc_mars_city2_00000000001
 I thought I was the only one still alive, I can't believe I found you.
-我以为我是唯一还活着的人，真不敢相信我找到了你。
+我以为我是唯一还活着的人，真不敢相信找到了你。
 
 > #cc_mars_city2_00000000002
 Something happened... I don't know what, it was like a shockwave, it... it passed through the entire base.
@@ -4748,11 +4748,11 @@ People started changing, it was crazy, I was working up here on the vent shafts.
 
 > #cc_mars_city2_00000000004
 Marine, I can't believe you're still alive. I am unable to return to Mars City, all passages out of the Delta Complex have been blocked.
-陆战队员，真不敢相信你还活着。我无法返回火星城，所有通往德尔塔综合体的通道都被堵住了。
+陆战队员，真不敢相信你还活着。我无法返回火星城，所有通往德尔塔综合设施的通道都被堵住了。
 
 > #cc_mars_city2_00000000005
 I'm setting up a command post here; I can monitor status reports of the entire base from Delta central authority and communicate with other marine teams.
-我正在这里设立一个指挥所；我可以从德尔塔中央管理部门监控整个基地的状态报告，并与其他陆战队小队通信。
+我正在这里设立一个指挥所；我可以从德尔塔中央管理局监控整个基地的状态报告，并与其他陆战队小队通信。
 
 > #cc_mars_city2_00000000006
 It is your mission to link up with Bravo Team and get that transmission sent.
@@ -4792,7 +4792,7 @@ Female PA System: Connection Established.
 
 > #cc_mars_city2_00000000014
 Hey, you! – Up here, quickly.
-嘿，你！——上面，快点。
+嘿，你！——到上面来，快点。
 
 > #cc_mars_city2_00000000015
 No way, I'm staying up here; it's the only safe place.
@@ -4864,7 +4864,7 @@ T.布鲁克斯：火星安保无线电检查，太好了。信号很好。
 
 > #cc_mc_underground_00000000006
 T. Brooks: Looks like you've been assigned the decommissioned comm facility... just follow the main passage through the UNDERGROUND JUNCTION...
-T.布鲁克斯：看来你被分配到退役通讯设施了……沿着主通道穿过地下枢纽就行……
+T.布鲁克斯：看来你被分配到退役的通讯设施了……沿着主通道穿过地下连接点就行……
 
 > #cc_mc_underground_00000000007
 T. Brooks: Ok, you're all set.
@@ -4872,7 +4872,7 @@ T.布鲁克斯：好了，你都准备好了。
 
 > #cc_mc_underground_00000000008
 T. Brooks: Oh, ya Keep in mind; civilians are working down here... don't get excited and shoot any. (RADIO CLICKS OFF)
-T.布鲁克斯：哦，对了，记住；这里有平民在工作……别太兴奋，别乱开枪。(无线电关闭)
+T.布鲁克斯：哦，对了，记住；这里有平民在工作……别太兴奋乱开枪。(无线电关闭)
 
 > #cc_mc_underground_00000000009
 T. Brooks: You need to secure your gear, Marine.
@@ -4888,11 +4888,11 @@ T.布鲁克斯：现在你准备好战斗了！
 
 > #cc_mc_underground_00000000012
 T. Brooks: Don't fire that thing in here? You're gonna kill someone!
-T.布鲁克斯：别在这里开枪！你会杀了人的！
+T.布鲁克斯：别在这里开枪！你会杀人的！
 
 > #cc_mc_underground_00000000013
 T. Brooks: You don't have a lot of time, Marine. You need to move out.
-T.布鲁克斯：陆战队员，你时间不多了。你需要出发。
+T.布鲁克斯：陆战队员，你时间不多了。你得出发了。
 
 > #cc_mc_underground_00000000014
 T. Brooks: Hey, watch the shootin'.
@@ -5012,7 +5012,7 @@ I.辛克莱：车库区就在那扇门后面……现在别再烦我了。
 
 > #cc_mc_underground_00000000041
 I. Sinclair: The equipment seems to be affected by something unseen.
-I.辛克莱：设备似乎受到了某种看不见的东西的影响。
+I.辛克莱：设备似乎受到了某种看不见的东西影响。
 
 > #cc_mc_underground_00000000042
 M. Ryan: Hey, you're the new guy headed for the old comm center, right? Better hustle up, pal. This passage doesn't go all the way there.
@@ -5084,7 +5084,7 @@ Fire Team 2: Command HQ this is Fire Team 2.
 
 > #cc_mc_underground_00000000105
 Main power systems down in sublevel, backup and life support systems only, we've got lots of civilian causalities, its a mess!
-下层主电源系统已关闭，仅剩备用和生命支持系统，我们有大量平民伤亡，一团糟！
+下层主电源系统已关闭，仅剩备用和生命支持系统，我们有大量平民伤亡，真是一团糟！
 
 > #cc_mc_underground_00000000057
 Radio: Command HQ attempting to secure the area.
@@ -5096,7 +5096,7 @@ HQ Security Team 2: HQ Sec. Team 2, abandoning positions. Go on my signal!
 
 > #cc_mc_underground_00000000059
 Radio: They're breaking through the walls!!!  I'm hit!!
-无线电：他们正在突破墙壁！！！我中弹了！！
+无线电：他们正在突破墙壁！！！我被击中了！！
 
 > #cc_mc_underground_00000000060
 Code red, we've got a code red!
@@ -5104,7 +5104,7 @@ Code red, we've got a code red!
 
 > #cc_mc_underground_00000000061
 Radio: Massive structural damage in Sector 2. Come in. Wha?...AHUGHHH!
-无线电：2区结构受到大规模损坏。请回复。什么？……啊啊啊啊！
+无线电：2区结构受到大规模损坏。请回复。什？……啊啊啊啊！
 
 > #cc_mc_underground_00000000062
 Female PA System: Warning, filtration arm in motion.  Bridge extension in seven seconds.
@@ -5132,7 +5132,7 @@ Radio: Watch your back, Marine. Fall back now! We gotta get out of here.
 
 > #cc_mc_underground_00000000068
 Radio: Command HQ we've got a situation (GUNFIRE) Move out! Move out!
-无线电：指挥部总部，我们有情况(枪声)撤退！撤退！
+无线电：指挥部总部，我们有情况(枪声)快走！快走！
 
 > #cc_mc_underground_00000000069
 Radio: They've turned to shit on us, fall back!
@@ -5148,7 +5148,7 @@ Scientist Eric: Oh thank you. I'm getting out of here.
 
 > #cc_mc_underground_00000000072
 Scientist Eric (panicked): Nooo! Aarrrggghhh!
-科学家埃里克(惊慌地)：不！！！啊啊啊啊啊！
+科学家埃里克(惊慌地)：不！啊啊啊啊啊！
 
 > #cc_mc_underground_00000000073
 Radio: Lay down suppressing fire!
@@ -5160,7 +5160,7 @@ Radio: Lay down suppressing fire.  Look out!!  I don't know where to go.
 
 > #cc_mc_underground_00000000075
 Mike, behind you! Get everyone out of the corridor now! Now! NOW!
-迈克，你后面！现在把所有人带出走廊！现在！现在！
+迈克，你后面！现在把所有人带出走廊！现！在！
 
 > #cc_mc_underground_00000000076
 Radio: What the fuck is that?! They're all around us. What'd we do? Shoot! Shoot!
@@ -5168,7 +5168,7 @@ Radio: What the fuck is that?! They're all around us. What'd we do? Shoot! Shoot
 
 > #cc_mc_underground_00000000077
 Sgt. Kelly: All Units, this is Sergeant Kelly. We do not know we're up against,
-凯利士官：所有单位，我是凯利士官。我们不知道我们面对的是什么，
+凯利士官：所有单位，我是凯利士官。我们不知道面对的是什么，
 
 > #cc_mc_underground_00000000106
 I repeat we have negative I.D. on the assailing force but they are mean S.O.B.'s.
@@ -5184,7 +5184,7 @@ Radio: Command HQ this is Bravo Team. We've got one man down and several wounded
 
 > #cc_mc_underground_00000000079
 Radio: Command HQ this is Fire Team 2. The monorail track is destroyed, unable to secure safe transportation back to base. Over.
-无线电：指挥部总部，这里是火力小队2。单轨列车轨道被毁，无法确保安全运输返回基地。完毕。
+无线电：指挥部总部，这里是火力小队2。单轨铁路轨道被毁，无法确保安全运输返回基地。完毕。
 
 > #cc_mc_underground_00000000080
 Radio: Roger that, Fire Team 2, fall back to the nearest station and set up a CP there. Out
@@ -5196,7 +5196,7 @@ Sgt. Kelly: All units, this is Sergeant Kelly. Fall back to marine HQ and await 
 
 > #cc_mc_underground_00000000082
 Jonathan: Huh? No! Please, you  must let me get this communication out! They have to be warned while there's still time, I can't let... I ca'...
-乔纳森：嗯？不！求你了，你必须让我把这份通讯发出去！他们必须在还有时间的时候得到警告，我不能让……我不能……
+乔纳森：嗯？不！求你了，你必须让我把这份通讯发出去！还有时间他们必须得到警告，我不能让……我不……
 
 > #cc_mc_underground_00000000083
 Jonathan: You don't know what I've seen. You can't possibly understand or comprehend...
@@ -5228,7 +5228,7 @@ Lord, help us.
 
 > #cc_mc_underground_00000000096
 Warning. Structural integrity at risk.
-警告。结构完整性面临风险。
+警告，结构完整性面临风险。
 
 > #cc_mc_underground_00000000097
 HQ, this is Delta Team One. We've got a major disturbance here.
@@ -5284,7 +5284,7 @@ I'm confident that the layers of protection I added to the code today will preve
 
 > #cc_monorail_00000000009
 I'm off to meet Engineer Jim Tourban at the access doors to the Delta Complex platform
-我正要去德尔塔综合体平台入口门与工程师吉姆·图尔班会合，
+我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会合，
 
 > #cc_monorail_00000000050
 to try and troubleshoot a faulty track sensor that’s been causing the door to stick.
@@ -5304,7 +5304,7 @@ I don't know what the hell's going on, but I bet it has to do with those artifac
 
 > #cc_monorail_00000000012
 I bet they're somehow connected with those... things... in the Delta complex!
-我敢打赌它们与德尔塔综合体里的那些……东西……有某种联系！
+我敢打赌它们与德尔塔综合设施里的那些……东西……有某种联系！
 
 > #cc_monorail_00000000013
 Announcer: Remember, safety first. Please do not exit the vehicle without wearing proper environmental protection.
@@ -5384,7 +5384,7 @@ T.莱恩(受惊地)：我的天！
 
 > #cc_monorail_00000000030
 T. Ryan: The Delta Complex isn't safe! You're crazy if you're going there!
-T.莱恩：德尔塔综合体不安全！你要去那里简直是疯了！
+T.莱恩：德尔塔综合设施不安全！你要去那里简直是疯了！
 
 > #cc_monorail_00000000031
 T. Ryan: Look, I don't think this train is safe either. We don't know what's ahead!
@@ -5416,7 +5416,7 @@ Computer: Airlock security over-ride enabled.
 
 > #cc_monorail_00000000038
 Announcer: Now leaving Site 2. Next Stop, Delta Complex.
-播报员：现在离开2号站点。下一站，德尔塔综合体。
+播报员：现在离开2号站点。下一站，德尔塔综合设施。
 
 > #cc_monorail_00000000039
 Demonic Voice: Metus Dolormus Ac Formidonis...
@@ -5428,7 +5428,7 @@ Demonic Voice: Metus Dolormus Ac Formidonis...
 
 > #cc_monorail_00000000041
 Announcer: Engineering - Please report to Delta Complex access ramp. Track sensor failure detected.
-播报员：工程部——请到德尔塔综合体入口坡道报到。检测到轨道传感器故障。
+播报员：工程部——请到德尔塔综合设施入口坡道报到。检测到轨道传感器故障。
 
 > #cc_monorail_00000000042
 Dr. Betruger: Destroy him!
@@ -5508,7 +5508,7 @@ thanks to Dr. Betruger and his so-called “optimizations” to the energy store
 
 > #cc_pda_00000000011
 I assured the director of ES that I would file a report with Central Authority over this.
-我向环境服务部门主管保证，我会就此事向中央管理部门提交报告。
+我向环境服务部门主管保证，我会就此事向中央管理局提交报告。
 
 > #cc_pda_00000000012
 This is Paul Simons, Security Specialist and IT.
@@ -5528,7 +5528,7 @@ They covered their tracks really well, I just happened to notice some log anomal
 
 > #cc_pda_00000000014
 The intrusion came on an encrypted carrier signal from the Delta Complex.
-入侵来自德尔塔综合体的一个加密载波信号。
+入侵来自德尔塔综合设施的一个加密载波信号。
 
 > #cc_pda_00000000422
 They'd piggy-backed the virus on one of the supercomputer requests and appealed itself from the data stream once it was inside our firewall.
@@ -5980,7 +5980,7 @@ This is the audio log of Charlie Haskell, Delta Labs Technician, dated September
 
 > #cc_pda_00000000085
 We're making good progress and increasing the max range of Chamber 3 in the Delta Complex.
-我们正在取得良好进展，并增加了德尔塔综合体3号腔室的最大射程。
+我们正在取得良好进展，并增加了德尔塔综合设施3号腔室的最大射程。
 
 > #cc_pda_00000000454
 We've been crunching numbers all night and feel that with a few slight modifications, we should be able to boost output to cover all of Delta.
@@ -6488,7 +6488,7 @@ This is the audio log of Counselor Elliot Swann, dated November 16th, 2145.
 
 > #cc_pda_00000000184
 Campbell and I were unable to reach the main portal in the Delta Complex, but that portal may be inconsequential to a more disturbing discovery.
-坎贝尔和我未能到达德尔塔综合体的主传送门，但那个传送门可能与一个更令人不安的发现相比微不足道。
+坎贝尔和我未能到达德尔塔综合设施的主传送门，但那个传送门可能与一个更令人不安的发现相比微不足道。
 
 > #cc_pda_00000000185
 We have uncovered reference to another portal, created by the demons themselves. A passageway between Hell and Mars.
@@ -6920,7 +6920,7 @@ I've increased work shifts to 12 hours a day for all personnel to keep up with d
 
 > #cc_pda_00000000257
 The constant and increasing load from the Delta Complex is causing havoc.
-德尔塔综合体持续增长的负荷正在造成严重破坏。
+德尔塔综合设施持续增长的负荷正在造成严重破坏。
 
 > #cc_pda_00000000553
 We are going to start losing critical systems if we have to sustain these levels much longer.
@@ -6980,7 +6980,7 @@ so we always have the occasional report of strange things, but what is worrying 
 
 > #cc_pda_00000000267
 People are truly frightened. The rumors we're hearing about experiments from the Delta Complex are not helping.
-人们真的感到害怕。我们听到的关于德尔塔综合体实验的谣言也无济于事。
+人们真的感到害怕。我们听到的关于德尔塔综合设施实验的谣言也无济于事。
 
 > #cc_pda_00000000506
 The power fluctuations aren't helping at all either.
@@ -7040,7 +7040,7 @@ I'm confident that the layers of protection I added to the code today will preve
 
 > #cc_pda_00000000277
 I'm off to meet Engineer Jim Tourban at the access doors to the Delta Complex platform to try and troubleshoot a faulty track sensor that’s been causing the door to stick.
-我正要去德尔塔综合体平台入口门与工程师吉姆·图尔班会面，试图排除一个导致门卡住的故障轨道传感器。
+我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会面，试图排除一个导致门卡住的故障轨道传感器。
 
 > #cc_pda_00000000509
 """"""
@@ -9020,7 +9020,7 @@ Options are quickly dwindling.
 
 > #cc_videos_00000000080
 Narrator: Welcome to the Delta Complex Stasis Chambers.
-旁白：欢迎来到德尔塔综合体休眠舱。
+旁白：欢迎来到德尔塔综合设施休眠舱。
 
 > #cc_videos_00000000081
 This facility was constructed to house and study the extra dimensional beings, which were recovered during some of the first teleporter tests originating from Delta Level 3.
@@ -9188,11 +9188,11 @@ Oh God! Forgive me, I blame myself for my part in this, please, someone... never
 
 > #cc_videos_00000000114
 (HIGH ENERGY NEWS REPORT MUSIC)
-(高能量新闻报道音乐)
+(高能新闻报道音乐)
 
 > #cc_videos_00000000115
 IPN News Network. Your Universe Now.
-IPN新闻网。你的宇宙，现在呈现。
+IPN新闻网。您的宇宙，即刻呈现。
 
 > #cc_videos_00000000116
 The Union Aerospace Corporation denied allegations today of several reports showing a growing military presence on Mars.
@@ -9200,7 +9200,7 @@ The Union Aerospace Corporation denied allegations today of several reports show
 
 > #cc_videos_00000000117
 A spokesperson stated that increased activity is simply a *"tactical deployment to outline planetary sectors.*"
-一位发言人表示，活动增加仅仅是“对行星区域进行战术部署”。
+一位发言人表示，活动增加仅仅是“为了划定行星区域的战术部署”。
 
 > #cc_videos_00000000118
 Authorities continue to search for the activists responsible in Monday's bombing of a Biomech production facility, resulting in the destruction of hundreds of Biomech labor units.
@@ -9212,7 +9212,7 @@ Authorities continue to search for the activists responsible in Monday's bombing
 
 > #cc_videos_00000000119
 In space news, mining station Amun is reporting nine dead and twenty eight wounded in what appears to be an ore canopy failure during routine operations.
-在太空新闻方面，阿蒙采矿站报告称，在例行作业中发生矿石顶盖故障，造成9人死亡，28人受伤。
+在太空新闻方面，阿穆恩采矿站报告称，在日常作业中发生了一起疑似矿石顶盖故障，造成9人死亡，28人受伤。
 
 > #cc_videos_00000000120
 This is the fifth incident in a string of mishaps that have plagued asteroid strip-mining facilities in recent months.
@@ -9228,11 +9228,11 @@ The probe's logic core first requested the diversion following yesterday's disco
 
 > #cc_videos_00000000123
 The probe is set to resume its outer system mapping mission next week, following further scans of the fluctuating anomaly.
-在对波动异常进行进一步扫描后，探测器将于下周恢复其外太阳系测绘任务。
+在对波动异常进行进一步扫描后，探测器定于下周恢复其外太阳系测绘任务。
 
 > #cc_videos_00000000124
 Faint signals continue to be received from the failed Europa Orbiter, which is said to be further evidence of survivors in Thursday's crash.
-来自失事的欧罗巴轨道飞行器的微弱信号仍在持续接收，据说这是周四坠机事件中幸存者的进一步证据。
+失事的欧罗巴轨道飞行器继续发出微弱信号，据称这是周四坠毁事件中存在幸存者的进一步证据。
 
 > #cc_videos_00000000125
 Union Aerospace, who funded the privately operated orbiter, stated that there were no survivors and the signal is part of the NavCom system's automated distress beacon.
@@ -9252,7 +9252,7 @@ Critics of the massive corporation say the Europa's signal is undeniably origina
 
 > #cc_videos_00000000127
 In IPN's business news, Mixom corporation has filed suit against rival company Moxim, claiming the company infringed on several pressure-sealed patents utilized in planetary bases.
-在IPN的商业新闻中，米克森公司已对竞争对手莫克西姆公司提起诉讼，声称该公司侵犯了其在行星基地中使用的多项压力密封专利。
+在IPN的商业新闻方面，米克森公司已对竞争对手莫克西姆公司提起诉讼，声称该公司侵犯了其在行星基地中使用的多项压力密封专利。
 
 > #cc_videos_00000000294
 """"""
@@ -9280,19 +9280,19 @@ Gentech firm Groetre met further resistance this week in its plans to introduce 
 
 > #cc_videos_00000000133
 A long-time supplier to military and space sectors, genetically-modified products have seen poor sales in the consumer market.
-作为军事和航天领域的长期供应商，基因改造产品在消费市场销售不佳。
+作为军事和太空领域的长期供应商，基因改造产品在消费市场销售不佳。
 
 > #cc_videos_00000000134
 Groetre's latest *"Medkit*" technology was slated to hit stores next month.
-格罗特最新的“医疗包”技术原定于下个月上市。
+格罗特公司最新的“医疗包”技术原定于下个月上市。
 
 > #cc_videos_00000000135
 (HIGH ENERGY NEWS REPORT MUSIC)
-(高能量新闻报道音乐)
+(高能新闻报道音乐)
 
 > #cc_videos_00000000136
 For IPN news, this is Roger McEllen, listing subspace news on the hour.
-IPN新闻，我是罗杰·麦克伦，为您播报每小时的亚空间新闻。
+IPN新闻，我是罗杰·麦克艾伦，整点播报亚空间新闻。
 
 > #cc_videos_00000000137
 Welcome to Mars marine, this briefing is designed to acquaint you with a few of the standard operating procedures here on the Mars post.

@@ -8407,7 +8407,7 @@ Engineering
 > #str_01235
 ; comm1:电梯.界面参数7 comm1:PDA物品.名 mars_city1:地点.名 mars_city2:地点.名 site3:电梯.界面参数3 site3:界面参数3 doors/elevator3floor.gui doors/elevator3floorpda.gui
 Maintenance
-维护
+维护站
 
 > #str_01236
 ; doors/elevator3floor.gui doors/elevator3floorpda.gui
@@ -9022,7 +9022,7 @@ COLLATERAL BRIEFING
 > #str_01339
 ; delta2/report.gui
 SYSTEMS ACCESS LOG
-系统访问历史
+系统访问日志
 
 > #str_01340
 ; delta2/report.gui
@@ -9692,7 +9692,7 @@ Fuel Storage Compactor. Waste material from the MFS system is also processed her
 > #str_01480
 ; _common/def/maps.def
 Alpha Labs Sector 4 seals and prepares shipments of processed hydrogen fuel for dropship distribution to UAC bases and subspace platforms. The system is fully automated and personnel access is limited due to open machinery hazards.
-阿尔法实验室4区封印并保存着处理过的氢气燃料。这些燃料供UAC基地太空平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。
+阿尔法实验室4区封印并保存着处理过的氢气燃料。这些燃料供UAC基地和亚空间平台上的运输船使用。系统是全自动的，工作人员只有在设备故障时才能介入。
 
 > #str_01481
 Ammo Factory
@@ -15316,7 +15316,7 @@ security clearance
 
 > #str_02520
 Downloaded Video Disks
-已下载视频磁盘
+已下载视频碟片
 
 > #str_02521
 User Audio Logs
@@ -16770,7 +16770,7 @@ Reception
 > #str_02843
 ; mars_city2:门.界面参数1 mars_city2:物品目标完成.内容
 Admin Access
-管理登入
+管理入口
 
 > #str_02844
 ; hellhole:界面参数7 mars_city1:界面参数7 mars_city2:界面参数7
@@ -16828,7 +16828,7 @@ Head toward Alpha Labs
 > #str_02856
 ; mars_city2:物品目标完成.标题
 Head towards Alpha Labs
-直走阿尔法实验室
+前往阿尔法实验室
 
 > #str_02857
 Main Security
@@ -17027,17 +17027,17 @@ some doors  locked
 > #str_02900
 ; mars_city1:目标提示
 When you approach an interactive computer interface, your weapon, if equipped, will lower and you can use _use to interact with the computer.
-当你接近可以进行互动的计算机的时候，如果装备了武器你就会放下武器，按下 _use 来和该计算机进行互动。
+当你接近可以进行互动的计算机时，如果装备了武器你就会放下武器，按下 _use 来和该计算机进行互动。
 
 > #str_02901
 ; mars_city1:目标提示
 When you approach a character that may have something to say, the cursor changes and their name appears, press _use to interact with the character.
-当你接近可能有话要说的角色的时候，指针会发生变化，他们的名字会出现，按下 _use 来和该角色进行互动。
+当你接近可能有话要说的角色时，指针会发生变化，他们的名字会出现，按下 _use 来和该角色进行互动。
 
 > #str_02902
 ; mars_city1:目标提示
 Many objects including boxes, crates, and other items can be moved around. Walk or run into them to push them around.
-你可以移动箱子，盒子这类物品。向它们走动或跑动即可推着走。
+你可以移动盒子、箱子等等许多物体。向它们走动或跑动即可推到一边。
 
 > #str_02903
 ; mars_city1:目标提示
@@ -17046,12 +17046,12 @@ Some interactive computers allow you to download information to your PDA. Just c
 
 > #str_02904
 Your PDA contains personal e-mails, downloads from other PDAs, Video logs, Audio logs, Objectives, and Inventory data. Don't lose it.
-你的PDA里面含有从其它PDA上面下载的个人电子邮件，视频日志，音频日志，目标，以及物品数据。不要丢将它丢失。
+你的PDA里含有从其它PDA下载的个人电子邮件、视频日志、音频日志、任务目标，以及物品数据。别将它丢失。
 
 > #str_02905
 ; mars_city1:目标提示
 Some interactive computers affect equipment around you, this includes doors, shutters, locks, storage cabinets and many other items.
-一些可操作的电脑可以控制你周围的设备，例如门，窗，锁，储藏柜等等。
+一些可操作的电脑可以控制你周围的设备，例如门、窗、锁、储藏柜等等物品。
 
 > #str_02906
 ; mars_city1:目标提示
@@ -17134,7 +17134,7 @@ deafult
 > #str_02922
 ; admin:视频CD物品名 alphalabs1:视频CD物品名 alphalabs2:视频CD物品名 alphalabs4:视频CD物品名 caverns2:视频CD物品名 cpuboss:视频CD物品名 delta2b:视频CD物品名 mars_city1:视频CD物品名 recycling1:视频CD物品名 site3:视频CD物品名
 Video Disk
-视频光碟
+视频碟片
 
 > #str_02923
 ; alphalabs1:物品目标完成.内容
@@ -17596,7 +17596,7 @@ M.艾布拉姆斯主管
 > #str_03015
 ; delta2a:视频CD物品名 le_exis1:视频CD物品名 le_exis2:视频CD物品名
 Video Disk
-视频光碟
+视频碟片
 
 > #str_03016
 ; delta2a:钥匙卡物品名 delta2b:中继触发.需求
@@ -17747,7 +17747,7 @@ Report to Marine Command
 > #str_03046
 ; mars_city1:物品目标.内容
 Speak with Sergeant Kelly in Marine Command HQ
-在海军作战总部与凯利士官谈话
+在陆战队指挥总部与凯利士官谈话
 
 > #str_03047
 ; mars_city1:界面参数1 mars_city1:地点.名 mars_city2:界面参数1 mars_city2:地点.名
@@ -17802,7 +17802,7 @@ Duncan Mathews
 > #str_03057
 ; mars_city2:门.界面参数4
 Sec Ops Access
-SEC行动权限
+安全运维访问
 
 > #str_03058
 ; mars_city2:门.界面参数1
@@ -17822,7 +17822,7 @@ ACO办公室
 > #str_03061
 ; mars_city2:物品目标.内容
 Return to the Command Message Center for a status update from Sergeant Kelly
-返回指挥消息中心好从凯利士官那里获得事态更新
+返回指挥消息中心从凯利士官那里获得事态更新
 
 > #str_03062
 ; mars_city2:物品目标.标题 mars_city2:物品目标完成.标题
@@ -17842,7 +17842,7 @@ Alpha Labs Administration
 > #str_03065
 ; mars_city2:门.界面参数1 d3dm4:地点.位置
 Hangar Bay
-机库主甲板
+机库间
 
 > #str_03066
 ; mars_city2:PDA物品.名
@@ -22630,7 +22630,7 @@ TRACKING COM-SAT 7
 > #str_03846
 ; mc_underground/invasion2.gui
 ESTABLISHING UPLINK
-正在建立上连
+正在建立上链
 
 > #str_03847
 ; erebus1/station4.gui screens/cpu_marsmap4.gui screens/cpu_marsmap3.gui mc_underground/invasion3.gui mc_underground/invasion4.gui mc_underground/invasion5.gui screens/bluescan1.gui screens/bluescan2.gui
@@ -24346,7 +24346,7 @@ Donna Jackson"""
 """Your PDA is CRITICAL to your work at the UAC.  Toggle your PDA with the assigned key bind (TAB is default).  Your PDA contains your security clearance, personal email, audio logs, video disks and other important inventory and mission information.  When you pick up another UAC worker's PDA, their information is downloaded directly to your PDA.  Simply click on a name and navigate the windows accessed through the Data, Email and Video Disk buttons in the upper left portion of the screen, to gain valuable information about your surroundings.
 
 UAC employees store vital information on their PDAs that can be used to unlock the secrets of the facility.  This information includes embedded security access, storage locker codes, and personal information relayed through audio logs and email."""
-"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是Tab键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
+"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是Tab键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频碟片按钮，就能获得关于你周遭的重要信息。
 
 UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施中的秘密。这一信息包括嵌入式安全许可，储物柜密码，以及音频和邮箱中的个人信息。"""
 
@@ -24356,7 +24356,7 @@ UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施�
 UAC employees store vital information on their PDAs that can be used to unlock the secrets of the facility.  This information includes embedded security access, storage locker codes, and personal information relayed through audio logs and email.
 
 Click to Continue"""
-"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是Tab键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频按钮，就能获得关于你周遭的重要信息。
+"""你的PDA对你在UAC中的工作而言和重要。用对应的按键（默认是Tab键）来打开你的PDA。你的PDA带有你的安全许可，个人邮件，音频记录，视频碟片和其它重要的物品和任务信息。当你捡起另一个UAC员工的PDA时，他们的信息会自动下载到你的PDA中。只需要点击名字然后操作窗口，选择屏幕左上区的数据、邮件和视频碟片按钮，就能获得关于你周遭的重要信息。
 
 UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施中的秘密。这一信息包括嵌入式安全许可，储物柜密码，以及音频和邮箱中的个人信息。
 
@@ -24366,7 +24366,7 @@ UAC员工在他们的PDA上储存了重要的信息，可以用来解开设施�
 """This is the primary PDA file navigation allowing access to user information, downloaded video disks, and a link to the user's email inbox.
 
 Accessing a downloaded PDA file will give access to that user's information, email, and personal audio logs."""
-"""这是允许获取用户信息、下载的视频光碟，以及电子邮件收件箱的主要PDA文件导航系统。
+"""这是允许获取用户信息、下载的视频碟片，以及电子邮件收件箱的主要PDA文件导航系统。
 
 获取一份下载的PDA文件将会开放对该用户的信息、邮件，和个人语音记录的访问许可。"""
 
@@ -24380,7 +24380,7 @@ NAVIGATION
 Accessing a downloaded PDA file will give access to that user's information, email, and personal audio logs.
 
 Click to Continue"""
-"""这是允许获取用户信息、下载的视频光碟，以及电子邮件收件箱的主要PDA文件导航系统。
+"""这是允许获取用户信息、下载的视频碟片，以及电子邮件收件箱的主要PDA文件导航系统。
 
 获取一份下载的PDA文件将会开放对该用户的信息、邮件，和个人语音记录的访问许可。
 
@@ -24422,7 +24422,7 @@ Accessing your own PDA allows you to read your email and view video disks that y
 Selecting a downloaded PDA opens that user's email and personal audio logs."""
 """这是你的PDA文件列表。
 
-接入你自己的PDA可以阅读你的邮件，观看你下载的视频。军用PDA还会允许你接入其他UAC雇员的PDA。
+接入你自己的PDA可以阅读你的邮件，观看你下载的视频碟片。军用PDA还会允许你接入其他UAC雇员的PDA。
 
 选择一个下载过的PDA将会打开该用户的邮件和个人语音记录。"""
 
@@ -24436,7 +24436,7 @@ Selecting a downloaded PDA opens that user's email and personal audio logs.
 Click to select Tim Willits downloaded PDA."""
 """这是你的PDA文件列表。
 
-接入你自己的PDA可以阅读你的邮件，观看你下载的视频。军用PDA还会允许你接入其他UAC雇员的PDA。
+接入你自己的PDA可以阅读你的邮件，观看你下载的视频碟片。军用PDA还会允许你接入其他UAC雇员的PDA。
 
 选择一个下载PDA将会打开该用户的邮件和个人语音记录。
 
@@ -24464,7 +24464,7 @@ Selecting a downloaded PDA opens that user's email and personal audio logs.
 Click to Continue"""
 """这是你的PDA文件列表。
 
-接入你自己的PDA可以阅读你的邮件，观看你下载的视频。军用PDA还会允许你接入其他UAC雇员的PDA。
+接入你自己的PDA可以阅读你的邮件，观看你下载的视频碟片。军用PDA还会允许你接入其他UAC雇员的PDA。
 
 选择一个下载过的PDA将会打开该用户的邮件和个人语音记录。
 
@@ -26906,17 +26906,17 @@ Manifest Control Office
 > #str_04713
 ; mars_city2:地点.名
 Security Operations
-安防行动
+安全运维
 
 > #str_04714
 ; mars_city2:地点.名
 Sec Ops Processing
-SEC行动运作中
+安全运维处理
 
 > #str_04715
 ; mars_city2:地点.名
 Sec Ops Junction
-安保行动连接点
+安全运维连接点
 
 > #str_04716
 ; mars_city2:地点.名
@@ -26991,7 +26991,7 @@ Maintenance Area PD1
 > #str_04730
 ; mc_underground:地点.名
 Old Comm Storage
-旧通讯存储
+旧通讯仓库
 
 > #str_04731
 ; mc_underground:地点.名
@@ -27026,7 +27026,7 @@ Airlock CT-1c
 > #str_04737
 ; mc_underground:地点.名
 MCU Storage
-MCS存储
+MCS仓库
 
 > #str_04738
 ; monorail:地点.名
@@ -27988,17 +27988,17 @@ BFG是一种多段武器，按住扳机的时间越长，充能就越多。要�
 > #str_06741
 ; mars_city1:目标提示
 Find Adam Berneche's PDA in the Kitchen to open this cabinet.
-在厨房里面找到亚当·伯内克的PDA来打开这个柜子。
+在厨房里面找到亚当·伯内奇的PDA来打开这个柜子。
 
 > #str_06742
 ; mars_city1:目标提示
 Listen to Adam Berneche's audio log, which was downloaded to your PDA when you picked it up, to open this cabinet.
-收听亚当·伯内克的音频日志，它已经下载至你的PDA，收听后打开这个储物柜。
+收听亚当·伯内奇的音频日志，它已经下载至你的PDA，收听后打开这个储物柜。
 
 > #str_06743
 ; mars_city1:目标提示
 Picking up PDAs is useful. Contents will automatically downloaded to your PDA allowing you to read other people's emails and listen to their audio logs. Many useful things can be found in PDAs.
-拾取PDA很有用。里面的内容会自动下载到你的PDA里，让你能阅读别人的电子邮件，以及收听音频记录。PDA里能发现很多有用的东西。
+拾取PDA很有用。里面的内容会自动下载到你的PDA里，让你能阅读别人的电子邮件，以及收听音频日志。PDA里能发现很多有用的东西。
 
 > #str_06744
 ; mars_city2:目标提示
@@ -28146,7 +28146,7 @@ Search for the Missing Scientist.
 > #str_06772
 ; mars_city1:目标标题
 Perform All Your Duties in a Military Manner.
-像军人一样旅行职责。
+像军人一样履行职责。
 
 > #str_06773
 ; mars_city2:目标标题
@@ -28156,17 +28156,17 @@ Return to Marine Command.
 > #str_06774
 ; mars_city2:目标标题
 Join up with Bravo Team.
-和B小队回合。
+加入B小队。
 
 > #str_06775
 ; mc_underground:目标标题
 Find the Missing Scientist.
-找到失踪的科学家
+找到失踪的科学家。
 
 > #str_06776
 ; mc_underground:目标标题
 Return to Mars City.
-回到火星城
+回到火星城。
 
 > #str_06777
 ; monorail:目标标题 recycling1:目标标题
@@ -33991,7 +33991,7 @@ Bring the Artifact to Dr.McNeil
 > #str_00100893
 ; erebus2:抢夺CD物品名
 Video Disk
-视频光碟
+视频碟片
 
 > #str_00100894
 Use a power cell to start the transfer elevator and call it to this level
@@ -35108,7 +35108,7 @@ OVERLOOK
 > #str_00200069
 ; le_underground:界面参数4
 STATION B18
-B18中心
+B18站点
 
 > #str_00200070
 ; le_enpro1/meyers_contact.gui
@@ -35406,7 +35406,7 @@ Filtration Control
 > #str_00200127
 ; le_underground:地点.位置
 Supply Storage
-补给储藏
+补给仓库
 
 > #str_00200128
 ; le_underground:地点.位置
@@ -37657,7 +37657,7 @@ Example 2
 Date: 11-10-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 亚当·伯内克
+"""来自: 亚当·伯内奇
 日期: 2145-11-10
 打开并更改: 否
 入档: 是"""
@@ -37694,7 +37694,7 @@ Maintenance Supervisor"""
 
 > #str_berneche_email_1_email_to
 Adam Berneche
-亚当·伯内克
+亚当·伯内奇
 
 > #str_berneche_email_2_email_date
 11-10-2145
@@ -37726,7 +37726,7 @@ Maintenance Supervisor"""
 
 > #str_berneche_email_2_email_to
 Adam Berneche
-亚当·伯内克
+亚当·伯内奇
 
 > #str_berneche_email_3_email_date
 11-13-2145
@@ -37751,7 +37751,7 @@ Mr. K. Clearsky
 Delta Future Systems
 
 p.s. Remember, volunteering is the best choice!  I'd hate to invoke clause 12.A of section 543 of your employment contract; which if you are not familiar with, allows us to appoint volunteers."""
-"""伯内克先生，
+"""伯内奇先生，
 
 我要告诉你一些大好消息，我们的上一次管理层会议上，有人提到你作为德尔塔实验室扩展计划的一个潜在候选人。你也应该听说了，我们在德尔塔实验室进行一些非常激动人心的重要实验。
 你的上司建议说你是个优秀的候选人，事实上他坚持认为你最适合这项工作。我审查了你的资料，同意他的评估意见，你将成为完美的实验对象。
@@ -37764,7 +37764,7 @@ K.晴空先生
 
 > #str_berneche_email_3_email_to
 Adam Berneche
-亚当·伯内克
+亚当·伯内奇
 
 > #str_bfg_video_info
 """Creator: UAC Advanced Weapons
@@ -38926,7 +38926,7 @@ As the engineer responsible for the Reactor Upper Level Maintenance, I feel it n
 Sincerely,
 Brian Mora"""
 """莫拉先生，
-你的投诉已经提交给了中央局，从现在开始他们会处理你的案例。
+你的投诉已经提交给了中央管理局，从现在开始他们会处理你的案例。
 
 ----原始邮件----
 发送日期: 2145-11-9
@@ -40545,10 +40545,10 @@ Scientist
 Date: 10/05/45
 
 Central Authority 'Demon Museum'"""
-"""中央机构
+"""中央管理局
 日期: 45-10-05
 
-中央机构“恶魔博物馆”"""
+中央管理局“恶魔博物馆”"""
 
 > #str_demon_museum_video_name
 Specimen Stasis Museum
@@ -46367,7 +46367,7 @@ Mail recipient
 
 > #str_mc1_berneche_pda_fullname
 Adam E. Berneche
-亚当·E.伯内克
+亚当·E.伯内奇
 
 > #str_mc1_berneche_pda_id
 8321-14
@@ -46375,7 +46375,7 @@ Adam E. Berneche
 
 > #str_mc1_berneche_pda_name
 Adam Berneche
-亚当·伯内克
+亚当·伯内奇
 
 > #str_mc1_berneche_pda_post
 Mars City
@@ -47941,7 +47941,7 @@ L4安保部门
 
 > #str_phobos2_noordzy_pda_title
 Security Chief
-安保主管
+安全主管
 
 > #str_phobos2_owens_email_1_email_date
 3-13-2147
@@ -48760,7 +48760,7 @@ Pump Specialist
 Date: 10/05/45
 
 Maintenance Department Safety Video"""
-"""中央机构
+"""中央管理局
 日期: 45-10-05
 
 维护部安保录像"""
@@ -49124,10 +49124,10 @@ Archaeologist
 Date: 10/05/45
 
 Central Authority Research Archive"""
-"""中央机构
+"""中央管理局
 日期: 45-10-05
 
-中央机构研究档案馆"""
+中央管理局研究档案馆"""
 
 > #str_soulcube_video_name
 Soul Cube
@@ -49844,10 +49844,10 @@ Select User
 Date: 10/05/45
 
 Central Authority Research Archive"""
-"""中央机构
+"""中央管理局
 日期: 45-10-05
 
-中央机构研究档案馆"""
+中央管理局研究档案馆"""
 
 > #str_tablets_video_name
 Tablets
