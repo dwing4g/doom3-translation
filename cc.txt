@@ -20,7 +20,7 @@ Swann: The situation is out of control!
 
 > #cc_admin_00000000006
 Betruger: It's not out of control, Swann. You are. I'll manage this. And you and your flunky will be taking control of... nothing. Do you understand?
-贝特鲁格：没有失控，斯旺。失控的是你。我会处理好这一切。而你和你的走狗将什么也……什么也别想控制。你明白吗？
+贝特鲁格：没有失控，斯旺。失控的是你。我会处理好这一切。而你和你的走狗将……什么也别想控制。你明白吗？
 
 > #cc_admin_00000000007
 Swann: Yes, Betruger.
@@ -40,15 +40,15 @@ E.韦伯：别停下，伙计，你帮不了我什么了。他们都完了……
 
 > #cc_admin_00000000011
 E. Webb: There are still a few squads operating... (coughs) but they're all cut off from each other. Try to find them.
-E.韦伯：还有几个小队在行动……(咳嗽)但他们彼此都失联了。试着找到他们。
+E.韦伯：还有几个小队在行动……(咳嗽)但他们彼此都失联了。试着找到他们吧。
 
 > #cc_admin_00000000012
 E. Webb: Aagghh... (with a violent cough, breaths of air exit his body for the last time).
-E.韦伯：啊啊啊……(剧烈咳嗽，最后一口气从身体里呼出)。
+E.韦伯：啊啊啊……(剧烈咳嗽，最后一口气从身体里呼出来)。
 
 > #cc_admin_00000000013
 Sgt. Kelly: Marine, Bravo Team reports that there is some sort of undentified growth taking over parts of the base.
-凯利士官：陆战队员，B小队报告说，基地部分区域正在被某种不明增生物占据。
+凯利士官：陆战队员，B小队报告说，基地的部分区域正在被某种不明的扩增生物占据。
 
 > #cc_admin_00000000019
 I don't know what it is but it can't be good. Stay sharp.
@@ -72,11 +72,11 @@ Campbell: Alright, let's go.
 
 > #cc_admin_00000000017
 Female Computer: Access denied.
-女性电脑语音：访问被拒。
+女性电脑语音：拒绝访问。
 
 > #cc_admin_00000000018
 Female Computer: Access granted.
-女性电脑语音：访问获准。
+女性电脑语音：获准访问。
 
 > #cc_alphalabs1_00000000001
 For generations humankind has lived under the looming specter of slowly dwindling natural resources.
@@ -88,7 +88,7 @@ Our new ventures on planets like Mars have only intensified our need to find fre
 
 > #cc_alphalabs1_00000000003
 To meet that need UAC researches have developed dramatic solutions, solutions that will soon pay off for the UAC, its investors, and indeed entire human race.
-为了满足这一需求，UAC的研究人员开发出了引人注目的解决方案，这些方案很快将为UAC、其投资者乃至全人类带来回报。
+为了满足这一需求，UAC的研究人员开发出了突破性的解决方案，这些方案很快将为UAC、其投资者，乃至全人类带来回报。
 
 > #cc_alphalabs1_00000000030
 """"""
@@ -96,7 +96,7 @@ To meet that need UAC researches have developed dramatic solutions, solutions th
 
 > #cc_alphalabs1_00000000004
 Mars itself is our chief ally and the key to our solution. Look around at its vast red deserts rich in naturally occurring iron oxides. They are the raw materials of our future.
-火星本身就是我们主要的盟友，也是我们解决方案的关键。看看它广阔的红色沙漠，富含天然存在的氧化铁。它们是我们未来的原材料。
+火星本身就是我们的主要盟友，也是我们解决方案的关键。看看它广袤的红色沙漠，富含天然存在的氧化铁。它们是我们未来的原材料。
 
 > #cc_alphalabs1_00000000031
 """"""
@@ -112,7 +112,7 @@ We have developed a process that destabilizing the atomic structure of pulverize
 
 > #cc_alphalabs1_00000000006
 Like alchemists of old, the Elemental Phase Deconstructor allows us to transform red Martian soil into clean air, fresh water, and hydrogen fuel the building blocks for a sustainable human friendly Martian environment.
-就像古代的炼金术士一样，元素相解构器(EPD)使我们能够将火星的红色土壤转化为清洁的空气、新鲜的水和氢燃料，这些都是构建可持续、对人类友好的火星环境的基石。
+就像古代的炼金术士一样，元素相解构器(EPD)使我们能够将火星的红色土壤转化为清洁的空气、洁净的水和氢燃料，这些都是构建可持续的、对人类友好的火星环境的基石。
 
 > #cc_alphalabs1_00000000033
 """"""
@@ -120,7 +120,7 @@ Like alchemists of old, the Elemental Phase Deconstructor allows us to transform
 
 > #cc_alphalabs1_00000000007
 And this is only the beginning. With continued research we envision creating ever more complex molecules, even organic matter itself.
-这仅仅是个开始。随着研究的深入，我们设想创造出更复杂的分子，甚至是生命有机物本身。
+这仅仅是个开始。随着研究的深入，我们设想创造出更复杂的分子，甚至有机物质本身。
 
 > #cc_alphalabs1_00000000008
 Atom by atom the UAC is building an ever brighter future for human kind.
@@ -136,7 +136,7 @@ Safer worlds for everyone. For centuries people on Earth have waged war over two
 
 > #cc_alphalabs1_00000000011
 As part of its ongoing commitment to create safer worlds for everyone the UAC recently unveiled its development of the hydrocon.
-作为其持续致力于为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆(Hydrocon)的开发成果。
+作为其持续承诺为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆(Hydrocon)的研发成果。
 
 > #cc_alphalabs1_00000000012
 Though still in its prototype stages, the hydrocon will in one dramatic move forever end all shortages of water and fuel.
@@ -148,23 +148,23 @@ By splitting iron oxide molecules the hydrocon produces oxygen and hydrogen chea
 
 > #cc_alphalabs1_00000000014
 The hydrogen is then used for hydrogen fuel, a substance so versatile and clean that it can be used in everything
-然后，氢气被用于制造氢燃料，这是一种用途广泛且清洁的物质，可以用于各种用途，
+氢气随后被用作氢燃料，这种物质用途广泛且清洁，可用于从家用电器
 
 > #cc_alphalabs1_00000000034
 from home appliances to today’s most demanding rocket engines.
-从家用电器到当今最严苛的火箭发动机。
+到当今最严苛的火箭引擎的一切设备。
 
 > #cc_alphalabs1_00000000015
 A side benefit to producing this fuel is an endless supply of pure spring like water that is more refined than any Earth bound spring.
-生产这种燃料的一个附带好处是，可以无限量供应纯净如泉水的水，其纯度甚至超过地球上任何天然泉水。
+生产这种燃料的一个附带好处是，可以源源不断地供应纯净泉水，比地球上任何泉水都更纯净。
 
 > #cc_alphalabs1_00000000016
 We envision a world where technologies such as the hydrocon can be used to end drought
-我们设想一个世界，水氢反应堆等技术可以用来结束干旱
+我们设想一个世界，水氢反应堆等技术可以用来结束
 
 > #cc_alphalabs1_00000000035
 and civil strife in impoverished nations where water or fuel have ever been in short supply.
-以及在水或燃料长期短缺的贫困国家中发生的内乱。
+水或燃料一直短缺的贫困国家的干旱和内乱。
 
 > #cc_alphalabs1_00000000017
 While always at the forefront of scientific research and development,
@@ -824,7 +824,7 @@ Sinister Voice: Sarge will destroy you.
 
 > #cc_cpuboss_00000000001
 (PATRIOTIC FANFARE) Representing the pinnacle of UAC research and design, the BFG 9000 is the most advanced firearm ever designed.
-(爱国主义号角声)BFG 9000代表着UAC研究与设计的巅峰，是迄今为止设计出的最先进的枪械。
+(爱国号角声)BFG 9000代表了UAC研究与设计的巅峰，是有史以来最先进的枪械。
 
 > #cc_cpuboss_00000000002
 Fully self-contained and deployed as a hand-held platform, it is capable of and excessive amount of firepower.
@@ -836,11 +836,11 @@ BFG 9000包含复杂的“敌我识别”技术，能够实时区分目标。
 
 > #cc_cpuboss_00000000004
 Each projectile contains a small but very powerful computer core that actively maintains targeting and delivers a stream charge down each beam,
-每枚弹丸都含有一个小型但功能强大的计算机核心，主动维持瞄准，并沿着每束光束输送流电荷，
+每个弹丸都含有一个小型但功能强大的电脑核心，主动维持瞄准，并通过每束光束输送流电荷，
 
 > #cc_cpuboss_00000000031
 to soften targets before detonation.
-在引爆前软化目标。
+在引爆前削弱目标。
 
 > #cc_cpuboss_00000000005
 The detonation stage of the projectile is devastating. Targets within fifteen meters of the flashpoint are not likely to survive.
@@ -848,23 +848,23 @@ The detonation stage of the projectile is devastating. Targets within fifteen me
 
 > #cc_cpuboss_00000000006
 While not recommended for small-quarter combat, the BFG 9000 is ideal in the field and against multiple targets.
-虽然不建议用于近距离作战，但BFG 9000在野外和对抗多个目标时是理想选择。
+虽然不建议用于狭窄空间作战，但BFG 9000在野外和对抗多个目标时是理想选择。
 
 > #cc_cpuboss_00000000007
 The only foreseeable defense is small-arms ballistics.
-唯一可预见的防御是轻武器弹药。
+唯一可预见的防御是轻武器弹道。
 
 > #cc_cpuboss_00000000032
 If the projectile is destroyed before exploding, the computer core cannot process the final fusion reaction, resulting in a less than
-如果弹丸在爆炸前被摧毁，计算机核心将无法处理最终的聚变反应，导致爆炸效果不尽理想。
+如果弹丸在爆炸前被摧毁，电脑核心将无法处理最终的聚变反应，导致爆炸效果不尽理想。
 
 > #cc_cpuboss_00000000008
 optimal detonation. For more information, contact the UAC's Advanced Weapons Department.
-欲了解更多信息，请联系UAC高级武器部门。
+欲了解更多信息，请联系UAC先进武器部门。
 
 > #cc_cpuboss_00000000009
 (PATRIOTIC FANFARE ENDS THE BROADCAST)
-(爱国主义号角声结束广播)
+(爱国号角声结束广播)
 
 > #cc_cpuboss_00000000010
 Campbell: Sarge, find him, gotta find him. My gun, he's got my gun. (He gurgles, and groans his last breath)
@@ -972,27 +972,27 @@ R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营�
 
 > #cc_delta1_00000000005
 Assignment of engineers to the lower Delta Labs has become almost impossible.
-工程师被分配到下层德尔塔实验室几乎变得不可能。
+向下层德尔塔实验室分配工程师几乎变得不可能。
 
 > #cc_delta1_00000000006
 In six months, we’ve gone from a volunteer surplus to a critical deficiency of qualified personnel willing to accept assignment.
-六个月内，我们从志愿者过剩变成了合格人员严重短缺，没人愿意接受分配。
+六个月内，我们从志愿者过剩变成了合格人员严重短缺，没有人愿意接受任务。
 
 > #cc_delta1_00000000007
 Increases in both pay and benefits... have done little to help the situation.
-薪资和福利的增加……对改善情况几乎没有帮助。
+薪资和福利的双重增加……对改善这种情况几乎没有帮助。
 
 > #cc_delta1_00000000008
 Through exit interviews as well as the weekly Delta medical brief, it's become apparent to everyone...
-通过离职面谈以及每周的德尔塔医疗简报，每个人都清楚……
+通过离职面谈以及每周的德尔塔医疗简报，每个人都清楚地看到……
 
 > #cc_delta1_00000000038
 that... the rate of sudden and unexplained mental illness is way beyond acceptable levels, even for Mars.
-突发且不明原因的精神疾病发病率远超可接受水平，即使对火星来说也是如此。
+突发且无法解释的精神疾病发病率远超可接受水平，即使对火星来说也是如此。
 
 > #cc_delta1_00000000009
 They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling this attitude will spread to other parts of the UAC. End of log.
-在这里，他们被贬称为“次级德尔塔”人员，我有一种感觉，这种态度会蔓延到UAC的其他部门。日志结束。
+他们在这里被贬称为“下层德尔塔人”，我有一种感觉，这种态度会蔓延到UAC的其它部门。日志结束。
 
 > #cc_delta1_00000000010
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
@@ -1004,11 +1004,11 @@ Disciplinary Action Report 40C-A, responding to Mars City administration request
 
 > #cc_delta1_00000000012
 Delta Labs 1 is currently addressing a problem concerning theft of security equipment.
-德尔塔实验室1号目前正在处理一起安全设备盗窃问题。
+德尔塔实验室1号目前正在处理一起有关安保设备盗窃的问题。
 
 > #cc_delta1_00000000013
 Four members of the security detail assigned to the Delta Labs have been reprimanded with three others under investigation.
-分配到德尔塔实验室的四名安保人员已受到训斥，另有三人正在接受调查。
+分配给德尔塔实验室的四名安保人员已受到训斥，另有三人正在接受调查。
 
 > #cc_delta1_00000000014
 It seems caches of weapons, armor and ammo have been discovered in various places throughout the Delta Labs.
@@ -1020,7 +1020,7 @@ We’ve located some of the missing equipment and have information that we hope 
 
 > #cc_delta1_00000000016
 I have a team investigating Storage Room 21-D with security code 2-9-8, where I’ve learned stolen items may be located.
-我有一个团队正在调查安全码为2-9-8的21-D储藏室，我得知被盗物品可能就藏在那里。
+我已派一个团队正在调查21-D号储藏室，安全密码是2-9-8，我得知被盗物品可能就藏在那里。
 
 > #cc_delta1_00000000017
 I hope to recover all items and find all personnel responsible. End of log.
@@ -1124,7 +1124,7 @@ I.麦考密克：我打算尝试让传送器系统再次运行。
 
 > #cc_delta2a_00000000006
 The areas are destroyed around us, so it's the only way through this part of the complex.
-我们周围的区域都被摧毁了，所以这是穿过这部分综合体的唯一途径。
+我们周围的区域都被摧毁了，所以这是穿过这部分综合设施的唯一途径。
 
 > #cc_delta2a_00000000007
 You need to find me a working plasma inducer.
@@ -1144,19 +1144,19 @@ We don't have a lot of time. Please hurry.
 
 > #cc_delta2a_00000000011
 P. Raleigh: Medical report 16-8, dated November 2nd, 2145.
-P.罗利：医疗报告16-8，日期为2145年11月2日。
+P.罗利：医疗报告16-8，日期是2145年11月2日。
 
 > #cc_delta2a_00000000012
 Patient 0432, a private Steve Jenson of the UAC Darklight Armoured Core division expired yesterday, at 15:43.
-0432号病人，UAC暗光装甲核心部门的史蒂夫·詹森下士，于昨日15:43去世。
+0432号病人，UAC暗光装甲核心部门的列兵史蒂夫·詹森，于昨日15:43去世。
 
 > #cc_delta2a_00000000013
 Private Jenson was suffering from paranoid delusions and full blown dementia. Treatment was unsuccessful.
-詹森下士患有偏执妄想症和全面性痴呆。治疗无效。
+列兵詹森患有偏执妄想症和全面性痴呆。治疗不成功。
 
 > #cc_delta2a_00000000014
 Initial psychiatric interviews suggested only mild psychosis with speech, motor activity and thought processes within normal range,
-初步精神病学访谈显示仅有轻度精神病，言语、运动活动和思维过程均在正常范围内，
+最初的精神病学访谈表明只有轻度精神病，言语、运动活动和思维过程均在正常范围内，
 
 > #cc_delta2a_00000000110
 paranoia being the only psychotic element directly evident.
@@ -1164,7 +1164,7 @@ paranoia being the only psychotic element directly evident.
 
 > #cc_delta2a_00000000015
 Reference Interview G8a, Private Steve Jenson, October 18th, 2145.
-参考访谈G8a，史蒂夫·詹森下士，2145年10月18日。
+参考访谈G8a，列兵史蒂夫·詹森，2145年10月18日。
 
 > #cc_delta2a_00000000016
 Dr. Hooper: Uac Psychologist Dr. Hooper interviewing Steve Jenson, Male, age 27.
@@ -1188,7 +1188,7 @@ S.詹森：我试过说了。他们认为我疯了，你也认为我疯了。
 
 > #cc_delta2a_00000000021
 Dr. Hooper: They - your colleagues - aren't doctors. Let me help you.
-胡珀博士：他们——你的同事——不是医生。让我来帮你。
+胡珀博士：他们——你的同事——不是医生。让我来帮助你。
 
 > #cc_delta2a_00000000022
 S. Jenson: Help? Nothing can help us!
@@ -1196,7 +1196,7 @@ S.詹森：帮助？没什么能帮得了我们！
 
 > #cc_delta2a_00000000023
 P.Raleigh: Prior sessions over a period of 72 hours revealed rapid deterioration of both physical and mental capacity,
-P.罗利：在72小时内进行的先前会谈显示，患者的身体和精神能力均迅速恶化，
+P.罗利：之前72小时的疗程显示，身心能力迅速恶化，
 
 > #cc_delta2a_00000000111
 with behavior inconsistent with any known patterns.
@@ -1208,7 +1208,7 @@ The patient was responsive for brief periods, and had to be restrained during in
 
 > #cc_delta2a_00000000025
 Reference interview H-3-2, Private Steve Jenson, October 21st 2145.
-参考访谈H-3-2，史蒂夫·詹森下士，2145年10月21日。
+参考访谈H-3-2，列兵史蒂夫·詹森，2145年10月21日。
 
 > #cc_delta2a_00000000026
 Dr. Hooper: Tell me what you see Steve.
@@ -1220,7 +1220,7 @@ S.詹森：我不想再看到了。我不想再感受了。
 
 > #cc_delta2a_00000000028
 Gnnngh... they'll be here soon, and then YOU'LL see it!
-嗯嗯嗯……他们很快就会来了，然后你也会看到的！
+呃嗯……他们很快就会来了，然后你也会看到的！
 
 > #cc_delta2a_00000000029
 Dr. Hooper: Can you talk about what you see?
@@ -1228,7 +1228,7 @@ Dr. Hooper: Can you talk about what you see?
 
 > #cc_delta2a_00000000030
 (S. Jenson laughing despairingly, then growling, and giggling slightly)
-(S.詹森绝望地笑着，然后咆哮，并轻微地咯咯笑着)
+(S.詹森绝望地笑着，然后咆哮，并轻声咯咯笑着)
 
 > #cc_delta2a_00000000031
 Dr. Hooper: Steve? (sighs) Patient unresponsive, terminating interview.
@@ -1236,7 +1236,7 @@ Dr. Hooper: Steve? (sighs) Patient unresponsive, terminating interview.
 
 > #cc_delta2a_00000000032
 P. Raleigh: We have exhausted all known forms of drug treatment, in hopes of finding a way to abate this strange outbreak of dementia,
-P.罗利：我们已经用尽了所有已知的药物治疗方法，希望能找到一种方法来缓解这种奇怪的痴呆症爆发，
+P.罗利：我们已用尽所有已知的药物治疗方法，希望能找到缓解这种奇怪的痴呆症爆发的方法，
 
 > #cc_delta2a_00000000112
 and I have yet to receive any additional data from the psychiatrists back on Earth.
@@ -1248,7 +1248,7 @@ Options are quickly dwindling.
 
 > #cc_delta2a_00000000034
 P. Raleigh: This is the audio log of Medical Supervisor Peter Raleigh, dated October 29th, 2145.
-P.罗利：这是医疗主管彼得·罗利的音频日志，日期为2145年10月29日。
+P.罗利：这是医疗主管彼得·罗利的音频日志，日期是2145年10月29日。
 
 > #cc_delta2a_00000000035
 We have exhausted all known forms of drug treatment in hopes of finding a way to abate this strange outbreak of dementia,
@@ -1276,15 +1276,15 @@ We have isolated these cases in hopes of finding the pathogen.
 
 > #cc_delta2a_00000000039
 As yet, we can find no biological contaminants that can lead to such drastic changes in cognitive processing.
-到目前为止，我们尚未发现任何可能导致认知处理发生如此剧烈变化的生物污染物。
+然而，我们尚未发现任何可能导致认知处理发生如此剧烈变化的生物污染物。
 
 > #cc_delta2a_00000000040
 It seems that whatever this pathogen is, it attacks higher brain functions, and only leaves more basal functions in the lower brain stem.
-看来无论这种病原体是什么，它都攻击高级脑功能，只留下脑干中的基本功能。
+看来无论这种病原体是什么，它都攻击高级脑功能，只留下低级脑干中的基本功能。
 
 > #cc_delta2a_00000000041
 We’ve witnessed that a high percentage of subjects lose ability for rational thought and communication skills.
-我们已经观察到，高比例的受试者失去了理性思维和沟通能力。
+我们已经观察到，很大一部分受试者失去了理性思考和沟通能力。
 
 > #cc_delta2a_00000000042
 And then the physical changes become evident. Subjects in this group appear to... atrophy.
@@ -1296,15 +1296,15 @@ Skin pales, muscles become slack, bone, teeth and fingernails become almost tran
 
 > #cc_delta2a_00000000044
 I have never seen anything like this in my career. Our observations continue.
-在我职业生涯中从未见过这样的事情。我们的观察仍在继续。
+在我的职业生涯中，我从未见过这样的情况。我们的观察仍在继续。
 
 > #cc_delta2a_00000000045
 This is the audio log of Medical Supervisor Peter Raleigh, dated November 1st, 2145.
-这是医疗主管彼得·罗利的音频日志，日期为2145年11月1日。
+这是医疗主管彼得·罗利的音频日志，日期是2145年11月1日。
 
 > #cc_delta2a_00000000046
 Patient 0432, a Private Steve Jenson of the UAC Darklight Armor Corps Division, expired today at 15:43 of a self-inflicted gunshot wound.
-0432号病人，UAC暗光装甲部队部门的史蒂夫·詹森下士，于今日15:43因自杀性枪伤去世。
+0432号病人，UAC暗光装甲部队的史蒂夫·詹森列兵，于今日15:43因自杀性枪伤死亡。
 
 > #cc_delta2a_00000000047
 This is approximately 110 hours after his return from expeditionary missions.
@@ -1312,19 +1312,19 @@ This is approximately 110 hours after his return from expeditionary missions.
 
 > #cc_delta2a_00000000048
 Pvt. Jenson was suffering from paranoid delusions and full-blown dementia.
-詹森下士患有偏执妄想症和全面性痴呆。
+詹森列兵当时正遭受偏执妄想和全面性痴呆的折磨。
 
 > #cc_delta2a_00000000049
 Treatment was unsuccessful. He was the last surviving member of his outfit.
-治疗无效。他是他所在部队的最后一名幸存成员。
+治疗失败了。他是他小队的最后一名幸存成员。
 
 > #cc_delta2a_00000000050
 Four other squad mates, who also came back with Pvt. Jenson, expired from injuries suffered on that last mission shortly after their return.
-其他四名与詹森下士一同归来的小队成员，在归来后不久也因在最后一次任务中受到的伤害而去世。
+其他四名与詹森列兵一同归来的小队成员，在归来后不久也因上次任务中受的伤而死亡。
 
 > #cc_delta2a_00000000051
 Before his death, Pvt. Jenson was heard screaming in both English and other languages. Something about demon hordes feasting on our souls.
-詹森下士去世前，曾用英语和其他语言尖叫。内容是关于恶魔大军吞噬我们的灵魂。
+詹森列兵去世前，曾用英语和其它语言尖叫。内容是关于恶魔大军吞噬我们的灵魂。
 
 > #cc_delta2a_00000000052
 The other language was later discovered to be Aramaic. Due to security concerns in the area, I’ve secured some armaments within my office.
@@ -1332,7 +1332,7 @@ The other language was later discovered to be Aramaic. Due to security concerns 
 
 > #cc_delta2a_00000000053
 Audio log for Phil Wilson, Medical Technician in the Delta Labs, October 20th, 2145.
-菲尔·威尔逊的音频日志，德尔塔实验室医疗技术员，2145年10月20日。
+德尔塔实验室医疗技术员菲尔·威尔逊的音频日志，2145年10月20日。
 
 > #cc_delta2a_00000000054
 Today, I witnessed the third test of the teleporter in the three weeks that I’ve been here.
@@ -1344,7 +1344,7 @@ Volunteers are becoming harder and harder to come by, and it isn’t difficult t
 
 > #cc_delta2a_00000000056
 They all come back screaming like loons about... demons, pools of blood... real fire-and-brimstone stuff.
-他们回来时都像疯子一样尖叫着……恶魔、血池……真正的火与硫磺般的东西。
+他们回来时都像疯子一样尖叫着……恶魔、血池……真正的烈火硫磺般的景象。
 
 > #cc_delta2a_00000000057
 At first, I wasn’t paying much attention,just doing my job, but... the last was Robert Clayton, now, I-I met him my first day here.
@@ -1544,7 +1544,7 @@ Excellent. That will get the teleporter working again.
 
 > #cc_delta2a_00000000101
 You don't have much time. You're going to need to teleport across the containment chamber. It's the only way through this part of the complex.
-你时间不多了。你需要传送到隔离室对面。这是穿过这部分综合体的唯一途径。
+你时间不多了。你需要传送到隔离室对面。这是穿过这部分综合设施的唯一途径。
 
 > #cc_delta2a_00000000102
 Head into the chamber and initiate the sequence on the machine.
@@ -1616,11 +1616,11 @@ This facility was constructed to house and study the extra dimensional beings,
 
 > #cc_delta2b_00000000056
 which were recovered during some of the first teleporter tests originating from Delta Level 3.
-这些生物是在德尔塔3级最初的几次传送器测试中被发现的。
+这些生物是在德尔塔3级最初几次传送器的测试中被发现的。
 
 > #cc_delta2b_00000000009
 While little is known about their native environment, the specimens appear to be carbon based lifeforms, with extremely high heat tolerances.
-虽然对其原生环境知之甚少，但这些样本似乎是碳基生命形式，具有极高的耐热性。
+尽管对其原生环境知之甚少，但这些样本似乎是碳基生命体，具有极高的耐热性。
 
 > #cc_delta2b_00000000010
 The epidermal tissue is extremely resilient to abrasion or inscision which has complicated internal studies.
@@ -1628,7 +1628,7 @@ The epidermal tissue is extremely resilient to abrasion or inscision which has c
 
 > #cc_delta2b_00000000011
 Observational studies have shown incredible strength and agility, as well as the ability for some specimens to manifest and control cohesive plasma masses
-观察研究显示，它们具有惊人的力量和敏捷性，并且一些样本能够显现并控制凝聚的等离子体团。
+观测研究表明，它们具有惊人的力量和敏捷性，并且一些样本能够显现并控制凝聚的等离子体团。
 
 > #cc_delta2b_00000000012
 The method by which these plasma masses are created is yet unknown.
@@ -1748,11 +1748,11 @@ How you attack with it, I’m frankly not certain, indicating that the artifact 
 
 > #cc_delta2b_00000000031
 To date, I’ve only deciphered about... mmm... two-thirds, give or take, of the markings, but...
-迄今为止，我只破译了大约……嗯……三分之二，差不多吧，的标记，但是……
+迄今为止，我只破译了大约……嗯……差不多，三分之二的标记，但是……
 
 > #cc_delta2b_00000000065
 my initial glance at the rest of them indicates it harbors some... far greater power.
-我对其余部分的初步观察表明它蕴藏着……更强大的力量。
+我初步看了一下其余的标记，表明它蕴藏着某种……更强大的力量。
 
 > #cc_delta2b_00000000032
 As you know, at this time we have not seen any reaction from the cube, and it has withstood any...
@@ -1760,15 +1760,15 @@ As you know, at this time we have not seen any reaction from the cube, and it ha
 
 > #cc_delta2b_00000000066
 scanning, abrasion, or other test beyond... picking it up and examining it.
-扫描、磨损或除了……拿起并检查之外的其他测试。
+扫描、磨损或除了……拿起并检查之外的其它测试。
 
 > #cc_delta2b_00000000033
 I suspect that just like the civilization that constructed it, its capabilities are dimished to the point of being useful...
-我怀疑，就像建造它的文明一样，它的能力已经减弱到只能用作……
+我怀疑，就像建造它的文明一样，它的能力已经退化到只能用作……
 
 > #cc_delta2b_00000000067
 only as a paperweight. End of log.
-镇纸的程度。日志结束。
+当镇纸的程度。日志结束。
 
 > #cc_delta2b_00000000034
 Demonic laughter
@@ -1848,11 +1848,11 @@ Dr. Betruger: I have the soulcube in hell, and you will never find it!
 
 > #cc_delta3_00000000001
 This is the personal audio log of Dr. Frank Cerano, dated September 19th, 2145.
-这是弗兰克·塞拉诺博士的个人音频日志，日期为2145年9月19日。
+这是弗兰克·塞拉诺博士的个人音频日志，日期是2145年9月19日。
 
 > #cc_delta3_00000000002
 I’ve been brainstorming on Betruger’s thoughts about achieving sustained, uninterrupted transfers for the teleportation units.
-我一直在思考贝特鲁格关于实现传送单元持续、不间断传输的想法。
+我一直在进行头脑风暴，思考贝特鲁格关于实现传送单元持续、不间断传输的想法。
 
 > #cc_delta3_00000000003
 Currently, our systems can only build enough of a charge to have the portals open for approximately ten to fifteen seconds.
@@ -1864,11 +1864,11 @@ It’s enough time to get a team through, but not enough time to send in some of
 
 > #cc_delta3_00000000005
 Engineering in the EnPro Facility inform me that we can theoretically boost the active portal time to forty-five seconds quite easily.
-恩普罗设施的工程部告诉我，理论上我们可以很容易地将传送门激活时间延长到四十五秒。
+恩普罗设施的工程部告诉我，理论上我们可以相当容易地将传送门的激活时间延长到四十五秒。
 
 > #cc_delta3_00000000006
 But, this will require re-routing power from Central Processing and... we just can’t afford the downtime.
-但是，这将需要从中央处理系统重新布线电力，而……我们根本无法承受停机时间。
+但是，这将需要从中央处理区重新布线电源，而且……我们根本无法承受停机时间。
 
 > #cc_delta3_00000000007
 The power requirements for this system are astronomical.
@@ -1876,7 +1876,7 @@ The power requirements for this system are astronomical.
 
 > #cc_delta3_00000000008
 We’re sucking power from three veins in EnPro just to power Chamber 1.
-我们正在从恩普罗的三条能源线路汲取电力，仅仅是为了给1号舱室供电。
+我们仅为1号舱室供电就得从恩普罗的三条能源线路汲取电力。
 
 > #cc_delta3_00000000009
 I have no idea how we can sustain transfers for longer than sixty seconds without giving serious thoughts to reorganizing the teleport power grid.
@@ -1884,11 +1884,11 @@ I have no idea how we can sustain transfers for longer than sixty seconds withou
 
 > #cc_delta3_00000000010
 I’ll sleep on this. This is Dr. Frank Cerano, signing off.
-我再想想这个问题。我是弗兰克·塞拉诺博士，日志结束。
+我将考虑一晚。我是弗兰克·塞拉诺博士，报告完毕。
 
 > #cc_delta3_00000000011
 This is the audio log of Administrative Assistant Han Lee, dated October 16th, 2145.
-这是行政助理韩·李的音频日志，日期为2145年10月16日。
+这是行政助理韩·李的音频日志，日期是2145年10月16日。
 
 > #cc_delta3_00000000012
 Why is it that I keep getting the crummy jobs?
@@ -1900,19 +1900,19 @@ Armor Corps First Platoon and First Science Team were completely wiped out this 
 
 > #cc_delta3_00000000013
 And I am the one charged with writing up the reports and sending this information back to Earth and next of kin.
-而我就是那个负责撰写报告并将这些信息发回地球并通知近亲的人。
+而我就是那个负责撰写报告并将此信息发回地球和死者家属的人。
 
 > #cc_delta3_00000000014
 (SIGH) So here I am, first cup of coffee of the day, five hours of sleep the night before—no shower—and I have twenty dead bodies to fill out paperwork on.
-(叹气)所以我就在这里，今天的第一杯咖啡，前一晚只睡了五小时——没洗澡——还有二十具尸体需要填写文书。
+(叹气)所以我就在这里，今天的第一杯咖啡，前一晚只睡了五个小时——没洗澡——还有二十具尸体等着我填写文书。
 
 > #cc_delta3_00000000015
 I haven’t seen their actual corpses, but word coming down from the grapevine says that it looks like they have been hacked up pretty good.
-我没见过他们的实际尸体，但小道消息传来，说他们看起来被砍得相当惨。
+我没见过他们的实际尸体，但小道消息说他们被砍得稀烂。
 
 > #cc_delta3_00000000016
 This has everyone on the base spooked. Betruger is nowhere to be found, and there are a lot of questions being asked with no answers from anyone.
-这让基地里所有人都被吓坏了。贝特鲁格不见踪影，有很多问题被提出，但没有人给出答案。
+这让基地里的每个人都吓坏了。贝特鲁格不见踪影，有很多问题被提出，但没有人给出答案。
 
 > #cc_delta3_00000000017
 Last I heard, they were suiting up the next outfit with the new BFG’s.
@@ -1920,11 +1920,11 @@ Last I heard, they were suiting up the next outfit with the new BFG’s.
 
 > #cc_delta3_00000000054
 Sounds like they weren’t taking any chances on this next trip with them packing that kind of firepower.
-听起来他们这次旅行不打算冒任何风险，带着那种火力。
+听起来他们下次旅行带着那种火力，是不想冒任何风险。
 
 > #cc_delta3_00000000018
 This is the audio log of Administrative Assistant Han Lee, dated October 20th, 2145.
-这是行政助理韩·李的音频日志，日期为2145年10月20日。
+这是行政助理韩·李的音频日志，日期是2145年10月20日。
 
 > #cc_delta3_00000000019
 Well, just when I thought this job couldn’t get much worse, it did.
@@ -1932,7 +1932,7 @@ Well, just when I thought this job couldn’t get much worse, it did.
 
 > #cc_delta3_00000000020
 Delta Scientists sent another group of researchers through the portal two days ago and they failed to return at their scheduled time.
-德尔塔科学家两天前又派了一组研究人员穿过传送门，但他们未能在预定时间返回。
+德尔塔科学家两天前又派了一批研究人员穿过传送门，但他们未能在预定时间返回。
 
 > #cc_delta3_00000000021
 Radio transmissions to the research party have gone unanswered.
@@ -1940,7 +1940,7 @@ Radio transmissions to the research party have gone unanswered.
 
 > #cc_delta3_00000000022
 Even our LZ tracking systems can’t find them.
-甚至我们的降落区追踪系统也找不到他们。
+甚至我们的着陆区追踪系统也找不到他们。
 
 > #cc_delta3_00000000023
 We fear... that they are dead.
@@ -2112,7 +2112,7 @@ Now it's so close, they can taste it. It's up to you now. Take my PDA, it's got 
 
 > #cc_delta5_00000000007
 Betruger: Suffering and pain waits for you.
-贝特鲁格：痛苦和折磨在等着你。
+贝特鲁格：痛苦与折磨正等着你。
 
 > #cc_delta5_00000000008
 You are too late. Hell no longer needs that portal to enter this world. The invasion you saw was only the first wave.
@@ -2284,15 +2284,15 @@ GROUND RUMBLES, ROCKS TUMBLE, LAVA CRACKLES AND POPS
 
 > #cc_enemies_00000000036
 (GRUNT)
-(咕哝声)
+(咕哝)
 
 > #cc_enemies_00000000037
 (GRUNT)
-(咕哝声)
+(咕哝)
 
 > #cc_enemies_00000000038
 (GRUNT)
-(咕哝声)
+(咕哝)
 
 > #cc_enemies_00000000039
 (Z-SEC MOAN)
@@ -3636,15 +3636,15 @@ Mysterious whisper: Life...
 
 > #cc_hellhole_00000000001
 Setting new standards in both archaeological discovery and analysis,
-在考古发现和分析领域树立新标准，
+在考古发现和分析方面树立新标杆，
 
 > #cc_hellhole_00000000039
 the UAC is proud to showcase the latest findings on four unique and fascinating artifacts.
-UAC很荣幸能展示关于四件独特而迷人的神器的最新发现。
+UAC自豪地展示了四件独特而迷人的神器的最新发现。
 
 > #cc_hellhole_00000000002
 These tablets were originally discovered in the dig site under what has become known as 'Site 3'.
-这些石板最初是在被称为“3号站点”的挖掘现场地下发现的。
+这些石板最初是在被称为“3号站点”下方的挖掘现场发现的。
 
 > #cc_hellhole_00000000003
 Subsequent examination of the surrounding area and carbon dating of the tablets brought UAC researchers to the conclusion
@@ -3652,19 +3652,19 @@ Subsequent examination of the surrounding area and carbon dating of the tablets 
 
 > #cc_hellhole_00000000004
 that the tablets belonged to a civilization that existed millenia ago, and were placed in a holy burial ground of some sort.
-这些石板属于一个存在于数千年前的文明，并被放置在某种神圣的墓地中。
+这些石板属于数千年前存在的文明，并被放置在某种神圣的墓地中。
 
 > #cc_hellhole_00000000005
 Utilizing the best minds in linguistics and UAC proprietary pattern recognition software,
-借助语言学领域的顶尖人才和UAC专有模式识别软件，
+利用语言学领域的顶尖人才和UAC专有的模式识别软件，
 
 > #cc_hellhole_00000000040
 the tablets were exhaustively examined. What we found was fantastic!
-这些石板得到了详尽的检查。我们的发现令人惊叹！
+对这些石板进行了详尽的检查。我们的发现令人惊叹！
 
 > #cc_hellhole_00000000006
 The first tablet provided us with a wealth of scientific data, specifically detailing the mathematical concepts behind teleportation.
-第一块石板为我们提供了大量的科学数据，特别是详细阐述了传送背后的数学概念。
+第一块石板为我们提供了丰富的科学数据，特别是详细阐述了传送背后的数学概念。
 
 > #cc_hellhole_00000000007
 UAC researchers use this information as the cornerstone for building the Delta teleportation devices.
@@ -3680,11 +3680,11 @@ the ultimate sacrifice of an entire race to achieve victory.
 
 > #cc_hellhole_00000000009
 The fourth tablet details how the essence of each individual was captured and placed in the artifact we now refer to as the 'Soulcube'.
-第四块石板详细描述了每个个体的精髓是如何被捕获并放置在我们现在称为“灵魂魔方”的神器中的。
+第四块石板详细描述了每个个体的精髓是如何被捕获并放置在我们现在称之为“灵魂魔方”的神器中的。
 
 > #cc_hellhole_00000000010
 This device was wielded by their mightiest warrior, and with it he banished the invading horde forever.
-这个装置由他们最强大的战士使用，他用它永远驱逐了入侵的兽群。
+这个装置由他们最强大的战士所掌控，他用它永远驱逐了入侵的部落。
 
 > #cc_hellhole_00000000011
 Our researchers are still analyzing a recently found hidden section of the fourth stone and some related fragments.
@@ -3692,7 +3692,7 @@ Our researchers are still analyzing a recently found hidden section of the fourt
 
 > #cc_hellhole_00000000012
 It goes into detail on the invading force, and indicates the remaining survivors may have teleported somewhere; where, we do not know,
-它详细描述了入侵部队，并指出剩余的幸存者可能已传送到了某个地方；具体是哪里，我们不得而知，
+它详细描述了入侵部队，并指出剩余的幸存者可能已经传送到了某个地方；具体是哪里，我们不得而知，
 
 > #cc_hellhole_00000000013
 although it seems to reference a map we have yet to locate.
@@ -3700,7 +3700,7 @@ although it seems to reference a map we have yet to locate.
 
 > #cc_hellhole_00000000014
 To date, there remains no evidence of any type of invasion at any of the sites. Our assumption is that time has removed all but what we now see.
-迄今为止，在任何站点都没有发现任何入侵的证据。我们的假设是，时间已经抹去了除我们现在所见之外的一切。
+迄今为止，在任何站点都没有发现任何入侵的证据。我们的推测是，时间抹去了一切，只剩下我们现在所见的。
 
 > #cc_hellhole_00000000015
 Echo One this is Recon Zulu, we've got massive damage all over the base.
@@ -3876,7 +3876,7 @@ Security lockdown has been canceled. Sub-level access for authorized personnel p
 
 > #cc_le_underground2_00000000001
 Marine, I'm picking up a lot of movement heading your direction. There should be a Sentry Bot station nearby, if you need assistance.
-陆战队员，我检测到大量移动正朝你方向前进。附近应该有一个哨兵机器人站，如果你需要帮助的话。
+陆战队员，我检测到大量移动正朝你方向前进。附近应该有一个哨兵机器人站点，如果你需要帮助的话。
 
 > #cc_mars_city1_00000000001
 Male robot: Incoming transport detected
@@ -3904,7 +3904,7 @@ S.L.梅德利：我们看到你了，暗星号，你已准备好锁定。欢迎�
 
 > #cc_mars_city1_00000000007
 (CORPORATE INTRO MUSIC)
-(企业宣传音乐)
+(企业开场音乐)
 
 > #cc_mars_city1_00000000008
 On behalf of the UAC, welcome to Mars City.
@@ -3920,7 +3920,7 @@ UAC的首要目标是所有员工和来宾的安全与福祉。
 
 > #cc_mars_city1_00000000011
 To help achieve this goal, we ask for you to follow all UAC corporate procedures at all times.
-为实现此目标，我们要求您始终遵守所有UAC公司规程。
+为实现此目标，我们要求您始终遵守所有的UAC公司规程。
 
 > #cc_mars_city1_00000000012
 This includes restricting your movement to areas for which you have clearance.
@@ -3928,7 +3928,7 @@ This includes restricting your movement to areas for which you have clearance.
 
 > #cc_mars_city1_00000000013
 Always remain alert and aware of what you and others are doing.
-请始终保持警惕，并留意您和他人正在做的事情。
+请始终保持警惕，并留意您和他人的一举一动。
 
 > #cc_mars_city1_00000000014
 If you notice anything out of the ordinary or just have a simple question find the nearest UAC Security Guard.
@@ -3948,11 +3948,11 @@ This ensures our goal of providing a true home away from home experience for eve
 
 > #cc_mars_city1_00000000018
 Keep this in mind as you help pursue our ground breaking research
-请牢记这一点，因为您将协助我们进行突破性研究，
+请牢记这一点，与我们一同开展开创性研究，
 
 > #cc_mars_city1_00000000203
 that is destined to transform the daily lifes of everyone here and throughout the solar system.
-这项研究注定会改变这里以及整个太阳系中每个人的日常生活。
+这些研究注定将改变这里以及整个太阳系中每个人的日常生活。
 
 > #cc_mars_city1_00000000019
 If you need more detailed assistance please see your human resources manager.
@@ -4012,15 +4012,15 @@ Take good care and good luck on your new assignment.
 
 > #cc_mars_city1_00000000030
 This is the audio log of Maintenance Technician Adam Berneche, dated November 10th, 2145.
-这是维修技师亚当·伯内奇的音频日志，日期为2145年11月10日。
+这是维修技师亚当·伯内奇的音频日志，日期是2145年11月10日。
 
 > #cc_mars_city1_00000000031
 I fixed the couplings on the heat shields this morning with no problems. I did, however, have an odd experience while I was down there.
-今天早上我修好了隔热罩上的连接器，一切顺利。不过，我在下面的时候确实有一次奇怪的经历。
+今天早上我顺利地修复了隔热罩上的连接器。不过，我在下面的时候经历了一件奇怪的事情。
 
 > #cc_mars_city1_00000000032
 Shortly after finishing the first coupling adjustment, I distinctly heard... whispering. When I went to investigate the sounds, I found nothing.
-刚完成第一次连接器调整后不久，我清晰地听到了……低语声。当我前去调查这些声音时，却什么也没发现。
+刚完成第一个连接器调整后不久，我清楚地听到了……窃窃私语。当我前去调查这些声音时，却什么也没发现。
 
 > #cc_mars_city1_00000000033
 I’ve checked the work logs, and I was the only person scheduled to be in that area today.
@@ -4028,7 +4028,7 @@ I’ve checked the work logs, and I was the only person scheduled to be in that 
 
 > #cc_mars_city1_00000000034
 That experience, coupled with the stories I’ve heard from some guys over in the Delta Labs has me... pretty freaked out.
-那次经历，再加上我从德尔塔实验室的一些人那里听到的故事，让我……相当不安。
+那次经历，加上我从德尔塔实验室的一些人那里听到的故事，让我……相当不安。
 
 > #cc_mars_city1_00000000035
 I’m really beginning to hate going down to the underground maintenance area.
@@ -4044,7 +4044,7 @@ I’m always expecting someone to jump out at me. I’ve secured my tools and th
 
 > #cc_mars_city1_00000000038
 Technicians should use cabinet code 3-9-6 to access them. End of log.
-技师们可以使用柜子密码3-9-6来取用它们。日志结束。
+技师们可以使用储物柜密码3-9-6来取用它们。日志结束。
 
 > #cc_mars_city1_00000000039
 (HIGH ENERGY NEWS REPORT MUSIC)
@@ -4752,7 +4752,7 @@ Marine, I can't believe you're still alive. I am unable to return to Mars City, 
 
 > #cc_mars_city2_00000000005
 I'm setting up a command post here; I can monitor status reports of the entire base from Delta central authority and communicate with other marine teams.
-我正在这里设立一个指挥所；我可以从德尔塔中央管理局监控整个基地的状态报告，并与其他陆战队小队通信。
+我正在这里设立一个指挥所；我可以从德尔塔中央管理局监控整个基地的状态报告，并与其它陆战队小队通信。
 
 > #cc_mars_city2_00000000006
 It is your mission to link up with Bravo Team and get that transmission sent.
@@ -5248,7 +5248,7 @@ S.哈丁：这是工程师萨姆·哈丁的音频日志，日期是2145年4月5�
 
 > #cc_monorail_00000000002
 I have just completed repairs on the magnetic locks and have significantly reprogrammed the pressure sensors on the monorail systems.
-我刚刚完成了磁力锁的维修，并显著重新编程了单轨列车系统上的压力传感器。
+我刚刚完成了磁力锁的维修，并大幅重新编程了单轨列车系统上的压力传感器。
 
 > #cc_monorail_00000000003
 My fellow engineers and I are confident that the accident of last week will never happen again.
@@ -5256,23 +5256,23 @@ My fellow engineers and I are confident that the accident of last week will neve
 
 > #cc_monorail_00000000048
 The accident should never have happened in the first place. The internal sensors led the computers to believe that there was a vacuum inside the vehicle.
-那次事故本来就不该发生。内部传感器让计算机误以为车厢内部是真空。
+那次事故本来就不该发生。内部传感器让电脑误以为车厢内部是真空。
 
 > #cc_monorail_00000000004
 Unfortunately, the computer decided that the only way to fix this pressure discrepancy
-不幸的是，计算机决定解决这种压力差异的唯一方法
+不幸的是，电脑决定解决这种压力差异的唯一方法
 
 > #cc_monorail_00000000049
 was to open all doors in an attempt to equalize pressure with the outside.
-就是打开所有车门，试图与外部压力平衡。
+是打开所有车门，试图与外部压力平衡。
 
 > #cc_monorail_00000000005
 I'm going over fifteen thousand lines of code today; I can see no reason for this tragic event to have occurred.
-我今天检查了超过一万五千行代码；我看不出这次悲剧事件发生的任何理由。
+我今天检查了超过一万五千行代码；我看不出发生这起悲剧事件的任何理由。
 
 > #cc_monorail_00000000006
 But somehow, the logs show the discrepancy as clear as day.
-但不知为何，日志显示这种差异清晰可见。
+但不知为何，日志却清楚地显示了这种差异。
 
 > #cc_monorail_00000000007
 Honestly, this looks to me like another case of a solid system going to Hell in a hand-basket.
@@ -5280,11 +5280,11 @@ Honestly, this looks to me like another case of a solid system going to Hell in 
 
 > #cc_monorail_00000000008
 I'm confident that the layers of protection I added to the code today will prevent any such occurrences from happening again.
-我确信我今天添加到代码中的多层保护将防止任何此类事件再次发生。
+我确信我今天添加到代码中的多层保护将防止此类事件再次发生。
 
 > #cc_monorail_00000000009
 I'm off to meet Engineer Jim Tourban at the access doors to the Delta Complex platform
-我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会合，
+我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会面，
 
 > #cc_monorail_00000000050
 to try and troubleshoot a faulty track sensor that’s been causing the door to stick.
@@ -5300,7 +5300,7 @@ And now, I... I don't know where he is!
 
 > #cc_monorail_00000000011
 I don't know what the hell's going on, but I bet it has to do with those artifacts we were digging up at Site 2.
-我不知道到底发生了什么，但我敢打赌这和我们在2号站点挖掘出的那些文物有关。
+我不知道到底发生了什么，但我敢打赌这和我们在2号站点挖掘出的那些遗物有关。
 
 > #cc_monorail_00000000012
 I bet they're somehow connected with those... things... in the Delta complex!
@@ -5336,11 +5336,11 @@ the council has made a decision that all environment processors be brought offli
 
 > #cc_monorail_00000000019
 Tomorrow, I will be sending out E-Mails to all team leaders asking for an update on their asset relocation program to Site 3.
-明天，我将向所有团队负责人发送电子邮件，要求更新他们的资产转移计划至3号站点。
+明天，我将向所有团队负责人发送电子邮件，要求他们更新其资产转移至3号站点的计划。
 
 > #cc_monorail_00000000020
 We feel that we have unearthed enough useful material as it pertains to the project from Site 2,
-我们认为我们已从2号站点挖掘出足够与项目相关的有用材料，
+我们认为，我们已经从2号站点挖掘出了足够多与项目相关的有用材料，
 
 > #cc_monorail_00000000053
 and choose to now devote resources in the exploration of Site 3. End log recording.
@@ -5432,7 +5432,7 @@ Announcer: Engineering - Please report to Delta Complex access ramp. Track senso
 
 > #cc_monorail_00000000042
 Dr. Betruger: Destroy him!
-贝特鲁格博士：摧毁他！
+贝特鲁格博士：消灭他！
 
 > #cc_monorail_00000000043
 (Malevolent Laughter)
@@ -5480,7 +5480,7 @@ But, this news is... very disturbing, especially at a time when we have so many 
 
 > #cc_pda_00000000419
 sudden cases of schizophrenia and other psychological disorders.
-突发性精神分裂症和其他心理障碍的时候。
+突发性精神分裂症和其它心理障碍的时候。
 
 > #cc_pda_00000000006
 I hope there is no connection between those cases and these reports of missing personnel.
@@ -5532,11 +5532,11 @@ The intrusion came on an encrypted carrier signal from the Delta Complex.
 
 > #cc_pda_00000000422
 They'd piggy-backed the virus on one of the supercomputer requests and appealed itself from the data stream once it was inside our firewall.
-他们将病毒搭载在其中一个超级计算机请求上，一旦进入我们的防火墙，就从数据流中分离出来。
+他们将病毒搭载在其中一个超级电脑请求上，一旦进入我们的防火墙，就从数据流中分离出来。
 
 > #cc_pda_00000000015
 Someone on the inside there has to be responsible, unfortunately due to security in that complex...
-那里肯定有内鬼，不幸的是，由于那个综合体的安全措施……
+那里肯定有内鬼，不幸的是，由于那个综合设施的安全措施……
 
 > #cc_pda_00000000423
 I can only tell it came from within Delta. There's no way to identify which machine or even which lab it came from.
@@ -5604,7 +5604,7 @@ Uh, the, uh, The Elemental Phase De-constructor is fully operational and the res
 
 > #cc_pda_00000000026
 Unfortunately, we had a terrible accident last week. Research Assistant Patterson was calibrating one of the quark emitters in the chamber,
-不幸的是，上周我们发生了一起可怕的事故。研究助理帕特森当时正在腔室中校准一个夸克发射器，
+不幸的是，上周我们发生了一起可怕的事故。研究助理帕特森当时正在舱室中校准一个夸克发射器，
 
 > #cc_pda_00000000427
 and witnesses say he appeared to... see something.
@@ -5876,7 +5876,7 @@ I'm hopin' the new system will need less and less use, once the source of the re
 
 > #cc_pda_00000000069
 The system is built to handle most other things with its automated recovery systems.
-该系统内置了自动化恢复系统，可以处理大多数其他问题。
+该系统内置了自动化恢复系统，可以处理大多数其它问题。
 
 > #cc_pda_00000000070
 This is the, uh, audio log of officer Ben Wolfe, dated October 7th, 2145.
@@ -5940,7 +5940,7 @@ The recent transport issues from Site 3 have caused the board to call a formal i
 
 > #cc_pda_00000000450
 to study weight limits and suggest better ways to provide protection for Site 3 Artifacts.
-以研究重量限制并提出更好的方法来保护3号站点文物。
+以研究重量限制并提出更好的方法来保护3号站点遗物。
 
 > #cc_pda_00000000079
 Our equipment (DISTORTION) -t fuck... goddamn it, these... PDA's, does anything work on this (DISTORTION) Ah, I'll finish this later.
@@ -5980,7 +5980,7 @@ This is the audio log of Charlie Haskell, Delta Labs Technician, dated September
 
 > #cc_pda_00000000085
 We're making good progress and increasing the max range of Chamber 3 in the Delta Complex.
-我们正在取得良好进展，并增加了德尔塔综合设施3号腔室的最大射程。
+我们正在取得良好进展，并增加了德尔塔综合设施3号舱室的最大射程。
 
 > #cc_pda_00000000454
 We've been crunching numbers all night and feel that with a few slight modifications, we should be able to boost output to cover all of Delta.
@@ -6004,7 +6004,7 @@ This is the audio log for Tony Bates, Mars Security IT Division, October 15th, 2
 
 > #cc_pda_00000000089
 I've resumed my investigation into Case A-10982, the systems intrusion that took place in the CPU Complex yesterday.
-我已恢复对A-10982号案件的调查，即昨天发生在CPU综合体的系统入侵事件。
+我已恢复对A-10982号案件的调查，即昨天发生在CPU综合设施的系统入侵事件。
 
 > #cc_pda_00000000456
 All network traces seem to originate from an old system located in Site 2, Office S2-038.
@@ -6036,7 +6036,7 @@ Assignment of engineers to the lower Delta Labs has become almost impossible.
 
 > #cc_pda_00000000094
 In six months, we’ve gone from a volunteer surplus to a critical deficiency of qualified personnel willing to accept assignment.
-在六个月内，我们从志愿者过剩变成了合格人员严重短缺，没有人愿意接受任务。
+六个月内，我们从志愿者过剩变成了合格人员严重短缺，没有人愿意接受任务。
 
 > #cc_pda_00000000095
 Increases in both pay and benefits... have done little to help the situation.
@@ -6044,7 +6044,7 @@ Increases in both pay and benefits... have done little to help the situation.
 
 > #cc_pda_00000000096
 Through exit interviews as well as the weekly Delta medical brief, it's become apparent to everyone... that... the rate of sudden and unexplained mental illness is way beyond acceptable levels, even for Mars.
-通过离职面谈以及每周的德尔塔医疗简报，每个人都清楚地看到……突发且无法解释的精神疾病发病率远远超出了可接受的水平，即使对火星来说也是如此。
+通过离职面谈以及每周的德尔塔医疗简报，每个人都清楚地看到……突发且无法解释的精神疾病发病率远超可接受水平，即使对火星来说也是如此。
 
 > #cc_pda_00000000459
 """"""
@@ -6052,7 +6052,7 @@ Through exit interviews as well as the weekly Delta medical brief, it's become a
 
 > #cc_pda_00000000097
 They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling this attitude will spread to other parts of the UAC. End of log.
-他们在这里被贬称为“下层德尔塔人”，我感觉这种态度会蔓延到UAC的其他部门。日志结束。
+他们在这里被贬称为“下层德尔塔人”，我有一种感觉，这种态度会蔓延到UAC的其它部门。日志结束。
 
 > #cc_pda_00000000098
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
@@ -6060,11 +6060,11 @@ R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营�
 
 > #cc_pda_00000000099
 Disciplinary Action Report 40C-A, responding to Mars City administration request.
-纪律处分报告40C-A，回应火星城行政部门的请求。
+纪律处分报告40C-A，回应火星城管理部门的请求。
 
 > #cc_pda_00000000100
 Delta Labs 1 is currently addressing a problem concerning theft of security equipment.
-德尔塔实验室1目前正在处理一起有关安保设备盗窃的问题。
+德尔塔实验室1号目前正在处理一起有关安保设备盗窃的问题。
 
 > #cc_pda_00000000101
 Four members of the security detail assigned to the Delta Labs have been reprimanded with three others under investigation.
@@ -6072,11 +6072,11 @@ Four members of the security detail assigned to the Delta Labs have been reprima
 
 > #cc_pda_00000000102
 It seems caches of weapons, armor and ammo have been discovered in various places throughout the Delta Labs.
-似乎在德尔塔实验室的各个地方都发现了藏匿的武器、护甲和弹药。
+似乎在德尔塔实验室的各个地方都发现了武器、护甲和弹药的藏匿处。
 
 > #cc_pda_00000000103
 We’ve located some of the missing equipment and have information that we hope will lead us to more.
-我们已经找回了一些丢失的设备，并掌握了有望帮助我们找到更多线索的信息。
+我们已经找到了一些丢失的设备，并掌握了有望找到更多线索的信息。
 
 > #cc_pda_00000000104
 I have a team investigating Storage Room 21-D with security code 2-9-8, where I’ve learned stolen items may be located.
@@ -6092,7 +6092,7 @@ P.罗利：这是医疗主管彼得·罗利的音频日志，日期是2145年10�
 
 > #cc_pda_00000000107
 We have exhausted all known forms of drug treatment in hopes of finding a way to abate this strange outbreak of dementia, and I have yet to receive any additional data from the psychiatrists back on Earth.
-我们已经用尽所有已知的药物治疗方法，希望能找到遏制这种奇怪痴呆症爆发的方法，但我尚未收到地球上精神病医生提供的任何额外数据。
+我们已经用尽了所有已知的药物治疗方法，希望能找到一种方法来缓解这种奇怪的痴呆症爆发，但我尚未收到地球上精神病学家提供的任何额外数据。
 
 > #cc_pda_00000000460
 """"""
@@ -6112,7 +6112,7 @@ Within 72 hours, 75% of patients exhibit extreme signs of paranoid delusion, and
 
 > #cc_pda_00000000110
 We have isolated these cases in hopes of finding the pathogen.
-我们已将这些病例隔离，希望能找到病原体。
+我们已经隔离了这些病例，希望能找到病原体。
 
 > #cc_pda_00000000111
 As yet, we can find no biological contaminants that can lead to such drastic changes in cognitive processing.
@@ -6124,7 +6124,7 @@ It seems that whatever this pathogen is, it attacks higher brain functions, and 
 
 > #cc_pda_00000000113
 We’ve witnessed that a high percentage of subjects lose ability for rational thought and communication skills.
-我们观察到，很大一部分受试者失去了理性思考和沟通能力。
+我们已经观察到，很大一部分受试者失去了理性思考和沟通能力。
 
 > #cc_pda_00000000114
 And then the physical changes become evident. Subjects in this group appear to... atrophy.
@@ -6144,11 +6144,11 @@ This is the audio log of Medical Supervisor Peter Raleigh, dated November 1st, 2
 
 > #cc_pda_00000000118
 Patient 0432, a Private Steve Jenson of the UAC Darklight Armor Corps Division, expired today at 15:43 of a self-inflicted gunshot wound.
-0432号病人，UAC暗光装甲兵团师的史蒂夫·詹森列兵，于今日15:43因自杀性枪伤死亡。
+0432号病人，UAC暗光装甲部队的史蒂夫·詹森列兵，于今日15:43因自杀性枪伤死亡。
 
 > #cc_pda_00000000119
 This is approximately 110 hours after his return from expeditionary missions.
-这大约是他从远征任务返回后的110小时。
+这大约是他从远征任务归来后的110小时。
 
 > #cc_pda_00000000120
 Pvt. Jenson was suffering from paranoid delusions and full-blown dementia.
@@ -6160,11 +6160,11 @@ Treatment was unsuccessful. He was the last surviving member of his outfit.
 
 > #cc_pda_00000000122
 Four other squad mates, who also came back with Pvt. Jenson, expired from injuries suffered on that last mission shortly after their return.
-其他四名与詹森列兵一同返回的队员，在返回后不久也因上次任务中受的伤而死亡。
+其他四名与詹森列兵一同归来的小队成员，在归来后不久也因上次任务中受的伤而死亡。
 
 > #cc_pda_00000000123
 Before his death, Pvt. Jenson was heard screaming in both English and other languages. Something about demon hordes feasting on our souls.
-在他死前，詹森列兵曾用英语和其他语言尖叫。内容是关于恶魔大军吞噬我们的灵魂。
+詹森列兵去世前，曾用英语和其它语言尖叫。内容是关于恶魔大军吞噬我们的灵魂。
 
 > #cc_pda_00000000124
 The other language was later discovered to be Aramaic. Due to security concerns in the area, I’ve secured some armaments within my office.
@@ -6172,7 +6172,7 @@ The other language was later discovered to be Aramaic. Due to security concerns 
 
 > #cc_pda_00000000125
 Audio log for Phil Wilson, Medical Technician in the Delta Labs, October 20th, 2145.
-德尔塔实验室医疗技师菲尔·威尔逊的音频日志，2145年10月20日。
+德尔塔实验室医疗技术员菲尔·威尔逊的音频日志，2145年10月20日。
 
 > #cc_pda_00000000126
 Today, I witnessed the third test of the teleporter in the three weeks that I’ve been here.
@@ -6188,15 +6188,15 @@ They all come back screaming like loons about... demons, pools of blood... real 
 
 > #cc_pda_00000000129
 At first, I wasn’t paying much attention,just doing my job, but... the last was Robert Clayton, now, I-I met him my first day here.
-起初，我没怎么在意，只是做我的工作，但是……上一个回来的是罗伯特·克莱顿，我——我第一天来这里就认识他了。
+起初，我没怎么在意，只是做我的工作，但是……上一个回来的是罗伯特·克莱顿，我——我在这里的第一天就认识他了。
 
 > #cc_pda_00000000130
 This guy chews up rocks and spits out gravel, he’s as tough as they come.
-这家伙能嚼碎石头吐出碎石，他是个硬汉。
+这家伙能嚼碎石头吐出碎石，他是我见过最强壮的人。
 
 > #cc_pda_00000000131
 Having to sedate him and drag his drooling body to the isolation rooms really freaked me out. I’m gonna put in for a transfer as soon as I’m able.
-不得不给他注射镇静剂，然后把他流着口水的身体拖到隔离室，这真的把我吓坏了。我一能申请就申请调职。
+不得不给他注射镇静剂，然后把他流着口水的身体拖到隔离室，这真的把我吓坏了。我一能调职就申请。
 
 > #cc_pda_00000000132
 F. Cinders: As requested, the following is my initial feedback on my first trip through the portal. 
@@ -6248,7 +6248,7 @@ L.布尔曼：呃，这是研究主管拉里·布尔曼的音频日志，2145年
 
 > #cc_pda_00000000138
 I’ve been examining the glyphs on the cube-shaped artifact, which some are calling the “Soulcube,” and, combined with previous research data, it is my conclusion the device is some sort of weapon.
-我一直在研究那个立方体状文物上的符文，有些人称之为“灵魂魔方”，结合之前的研究数据，我的结论是这个装置是某种武器。
+我一直在研究那个立方体状遗物上的符文，有些人称之为“灵魂魔方”，结合之前的研究数据，我的结论是这个装置是某种武器。
 
 > #cc_pda_00000000466
 """"""
@@ -6256,7 +6256,7 @@ I’ve been examining the glyphs on the cube-shaped artifact, which some are cal
 
 > #cc_pda_00000000139
 If the power fluctuations would stop long enough for me to get the linguistics CPU online, then I am sure my theory would be verified.
-如果电源波动能停止足够长的时间，让我把语言学CPU上线，那么我确信我的理论会得到证实。
+如果电力波动能停止足够长的时间，让我把语言学CPU上线，那么我确信我的理论会得到证实。
 
 > #cc_pda_00000000140
 You know, I’ll take this opportunity to lodge yet another complaint about the continual power problems; living in this god-forsaken base is bad enough without having to watch the lights flicker constantly, it’s just... well, never mind, back to the task at hand.
@@ -6268,11 +6268,11 @@ You know, I’ll take this opportunity to lodge yet another complaint about the 
 
 > #cc_pda_00000000141
 What I’ve deciphered so far is a bit, I must say, disturbing.
-我目前破译出来的一些内容，我必须说，令人不安。
+到目前为止我破译出的一些内容，我必须说，令人不安。
 
 > #cc_pda_00000000142
 It seems that when one has possession of the artifact, if one inflicts damage or possibly kills another being, it extracts power from that event somehow, and once a certain threshold has been reached, the artifact has the ability to kill anything you attack with it.
-似乎当一个人拥有这个文物时，如果他对另一个生物造成伤害或可能杀死它，它就会以某种方式从该事件中提取能量，一旦达到一定阈值，这个文物就能够杀死你用它攻击的任何东西。
+似乎当一个人拥有这个遗物时，如果他对另一个生物造成伤害或可能杀死它，它就会以某种方式从该事件中提取能量，一旦达到一定阈值，这个遗物就能够杀死你用它攻击的任何东西。
 
 > #cc_pda_00000000468
 """"""
@@ -6280,11 +6280,11 @@ It seems that when one has possession of the artifact, if one inflicts damage or
 
 > #cc_pda_00000000143
 How you attack with it, I’m frankly not certain, indicating that the artifact is... autonomous in some way.
-你如何用它攻击，我坦率地说不确定，这表明这个文物……某种程度上是自主的。
+如何用它攻击，坦率地说我并不确定，这表明这件神器在某种程度上是……自主运作的。
 
 > #cc_pda_00000000144
 To date, I’ve only deciphered about... mmm... two-thirds, give or take, of the markings, but... my initial glance at the rest of them indicates it harbors some... far greater power.
-迄今为止，我只破译了大约……嗯……三分之二，上下浮动，的标记，但是……我初步看了一下其余的标记，表明它蕴藏着某种……更强大的力量。
+迄今为止，我只破译了大约……嗯……差不多，三分之二的标记，但是……我初步看了一下其余的标记，表明它蕴藏着某种……更强大的力量。
 
 > #cc_pda_00000000469
 """"""
@@ -6292,7 +6292,7 @@ To date, I’ve only deciphered about... mmm... two-thirds, give or take, of the
 
 > #cc_pda_00000000145
 As you know, at this time we have not seen any reaction from the cube, and it has withstood any... scanning, abrasion, or other test beyond... picking it up and examining it.
-如您所知，目前我们还没有看到魔方有任何反应，它经受住了任何……扫描、磨损或除了……拿起并检查它之外的其他测试。
+如你所知，目前我们还没有看到魔方有任何反应，它经受住了任何……扫描、磨损或除了……拿起并检查它之外的其它测试。
 
 > #cc_pda_00000000470
 """"""
@@ -6300,7 +6300,7 @@ As you know, at this time we have not seen any reaction from the cube, and it ha
 
 > #cc_pda_00000000146
 I suspect that just like the civilization that constructed it, its capabilities are dimished to the point of being useful... only as a paperweight. End of log.
-我怀疑，就像建造它的文明一样，它的功能已经退化到只剩下……当镇纸的程度。日志结束。
+我怀疑，就像建造它的文明一样，它的能力已经退化到只能用作……当镇纸的程度。日志结束。
 
 > #cc_pda_00000000471
 """"""
@@ -6324,7 +6324,7 @@ And I am the one charged with writing up the reports and sending this informatio
 
 > #cc_pda_00000000150
 (SIGH) So here I am, first cup of coffee of the day, five hours of sleep the night before—no shower—and I have twenty dead bodies to fill out paperwork on.
-(叹气)所以我就在这里，喝着今天的第一杯咖啡，前一晚只睡了五个小时——没洗澡——还有二十具尸体等着我填写文书。
+(叹气)所以我就在这里，今天的第一杯咖啡，前一晚只睡了五个小时——没洗澡——还有二十具尸体等着我填写文书。
 
 > #cc_pda_00000000151
 I haven’t seen their actual corpses, but word coming down from the grapevine says that it looks like they have been hacked up pretty good.
@@ -6348,11 +6348,11 @@ This is the audio log of Administrative Assistant Han Lee, dated October 20th, 2
 
 > #cc_pda_00000000155
 Well, just when I thought this job couldn’t get much worse, it did.
-好吧，就在我以为这份工作不会再糟糕的时候，它变得更糟了。
+好吧，就在我以为这份工作不会再糟糕的时候，它却更糟了。
 
 > #cc_pda_00000000156
 Delta Scientists sent another group of researchers through the portal two days ago and they failed to return at their scheduled time.
-德尔塔科学家两天前又派了一批研究人员通过传送门，但他们未能在预定时间返回。
+德尔塔科学家两天前又派了一批研究人员穿过传送门，但他们未能在预定时间返回。
 
 > #cc_pda_00000000157
 Radio transmissions to the research party have gone unanswered. Even our LZ tracking systems can’t find them.
@@ -6368,11 +6368,11 @@ Losing lives is one thing, but losing our proprietary technologies is another. T
 
 > #cc_pda_00000000160
 We fear those guns may have fallen into the hands of those that killed them.
-我们担心那些枪可能已经落入杀害他们的人手中。
+我们担心那些枪可能落入了杀死他们的人手中。
 
 > #cc_pda_00000000161
 We don’t know who or what is behind that portal, but until we find out where our guns are, I’m suggesting we suspend operations to the portal.
-我们不知道传送门后面是谁或是什么，但在我们找到我们的枪在哪里之前，我建议我们暂停传送门操作。
+我们不知道传送门后面是谁或是什么，但在我们找到我们的枪在哪里之前，我建议我们暂停传送门的操作。
 
 > #cc_pda_00000000162
 Thank you. End of log.
@@ -6384,7 +6384,7 @@ This is the personal audio log of Dr. Frank Cerano, dated September 19th, 2145.
 
 > #cc_pda_00000000164
 I’ve been brainstorming on Betruger’s thoughts about achieving sustained, uninterrupted transfers for the teleportation units.
-我一直在就贝特鲁格关于实现传送单元持续、不间断传输的想法进行头脑风暴。
+我一直在进行头脑风暴，思考贝特鲁格关于实现传送单元持续、不间断传输的想法。
 
 > #cc_pda_00000000165
 Currently, our systems can only build enough of a charge to have the portals open for approximately ten to fifteen seconds.
@@ -6396,15 +6396,15 @@ It’s enough time to get a team through, but not enough time to send in some of
 
 > #cc_pda_00000000167
 Engineering in the EnPro Facility inform me that we can theoretically boost the active portal time to forty-five seconds quite easily.
-恩普罗设施的工程部告诉我，理论上我们可以相当容易地将活动传送门时间提升到四十五秒。
+恩普罗设施的工程部告诉我，理论上我们可以相当容易地将传送门的激活时间延长到四十五秒。
 
 > #cc_pda_00000000168
 But, this will require re-routing power from Central Processing and... we just can’t afford the downtime.
-但是，这将需要从中央处理区重新布线电源，而且……我们承担不起停机时间。
+但是，这将需要从中央处理区重新布线电源，而且……我们根本无法承受停机时间。
 
 > #cc_pda_00000000169
 The power requirements for this system are astronomical. We’re sucking power from three veins in EnPro just to power Chamber 1.
-这个系统的电力需求是天文数字。我们仅为1号腔室供电就从恩普罗的三个主线吸取电力。
+这个系统的电力需求是天文数字。我们仅为1号舱室供电就得从恩普罗的三条能源线路汲取电力。
 
 > #cc_pda_00000000170
 I have no idea how we can sustain transfers for longer than sixty seconds without giving serious thoughts to reorganizing the teleport power grid.
@@ -6412,7 +6412,7 @@ I have no idea how we can sustain transfers for longer than sixty seconds withou
 
 > #cc_pda_00000000171
 I’ll sleep on this. This is Dr. Frank Cerano, signing off.
-我将考虑一晚。这里是弗兰克·塞拉诺博士，报告完毕。
+我将考虑一晚。我是弗兰克·塞拉诺博士，报告完毕。
 
 > #cc_pda_00000000172
 This is the audio log of Dr. Marten Shultz, dated August 7th, 2145.
@@ -6424,7 +6424,7 @@ We need to amend the operating procedures to ensure that all target teleport mar
 
 > #cc_pda_00000000174
 We had a tragic accident today in Chamber 1 that led to the death of Susan, one of our female chimps.
-今天1号腔室发生了一起悲剧性事故，导致我们的一只雌性黑猩猩苏珊死亡。
+今天1号舱室发生了一起悲剧性事故，导致我们的一只雌性黑猩猩苏珊死亡。
 
 > #cc_pda_00000000414
 She stepped onto the platform during the calibration phase, and an electrical short gauged the system and literally split her in two.
@@ -6580,7 +6580,7 @@ Steve Hammer, Service Technician.
 
 > #cc_pda_00000000485
 Since Pvt. Swinson wigged out, shot up that drink machine, and lit himself up with a Plasma Gun, we've all been a bit nervous.
-自从斯温森下士发疯，把那台饮料机打烂，然后用等离子枪把自己给烧了之后，我们所有人都变得有点紧张。
+自从列兵斯温森发疯，把那台饮料机打烂，然后用等离子枪把自己给烧了之后，我们所有人都变得有点紧张。
 
 > #cc_pda_00000000197
 All of us in Maintenance knew he was losing it. Finally, when that darn drink machine wouldn't accept his credits, he lost it, started swearin' up and down,
@@ -6656,7 +6656,7 @@ There one second, turn around... and they're gone. I can't raise anyone on the C
 
 > #cc_pda_00000000488
 signs of the team I can find are tools and other personal effects that seem to have been left behind.
-团队痕迹只有工具和其他似乎被遗留下的个人物品。
+团队痕迹只有工具和其它似乎被遗留下的个人物品。
 
 > #cc_pda_00000000209
 Almost as if they had stopped working midway through running experiments. This... place does funny things with your eyes and your perception of time.
@@ -6876,11 +6876,11 @@ This is the audio log of Maintenance Technician Adam Berneche, dated November 10
 
 > #cc_pda_00000000247
 I fixed the couplings on the heat shields this morning with no problems. I did, however, have an odd experience while I was down there.
-今天早上我顺利地修复了隔热罩上的连接器。然而，我在下面的时候经历了一件奇怪的事情。
+今天早上我顺利地修复了隔热罩上的连接器。不过，我在下面的时候经历了一件奇怪的事情。
 
 > #cc_pda_00000000248
 Shortly after finishing the first coupling adjustment, I distinctly heard... whispering. When I went to investigate the sounds, I found nothing.
-刚完成第一个连接器调整后不久，我清楚地听到了……窃窃私语。当我前去调查这些声音时，我什么也没发现。
+刚完成第一个连接器调整后不久，我清楚地听到了……窃窃私语。当我前去调查这些声音时，却什么也没发现。
 
 > #cc_pda_00000000249
 I’ve checked the work logs, and I was the only person scheduled to be in that area today.
@@ -6888,7 +6888,7 @@ I’ve checked the work logs, and I was the only person scheduled to be in that 
 
 > #cc_pda_00000000250
 That experience, coupled with the stories I’ve heard from some guys over in the Delta Labs has me... pretty freaked out.
-那次经历，加上我从德尔塔实验室的一些人那里听到的故事，让我……非常害怕。
+那次经历，加上我从德尔塔实验室的一些人那里听到的故事，让我……相当不安。
 
 > #cc_pda_00000000251
 I’m really beginning to hate going down to the underground maintenance area.
@@ -6900,11 +6900,11 @@ The people down there are... a bit off. The mumbling, the weird looks... the who
 
 > #cc_pda_00000000253
 I’m always expecting someone to jump out at me. I’ve secured my tools and the busted modulator in the storage cabinet next to the maintenance elevator.
-我总是担心有人会突然跳出来吓我。我已将我的工具和坏掉的调制器锁在维修电梯旁边的储物柜里。
+我总是担心有人会突然跳出来吓我。我把我的工具和坏掉的调制器锁在了维修电梯旁边的储物柜里。
 
 > #cc_pda_00000000254
 Technicians should use cabinet code 3-9-6 to access them. End of log.
-技师们应该使用储物柜密码3-9-6来取用它们。日志结束。
+技师们可以使用储物柜密码3-9-6来取用它们。日志结束。
 
 > #cc_pda_00000000255
 This is the audio log of Frank Delahue, Engineering Manager assigned to power production, dated October 18th, 2145.
@@ -6928,7 +6928,7 @@ We are going to start losing critical systems if we have to sustain these levels
 
 > #cc_pda_00000000258
 I request clearance to requisition parts from other departments in order to maintain our equipment.
-我请求批准从其他部门征用零件，以维护我们的设备。
+我请求批准从其它部门征用零件，以维护我们的设备。
 
 > #cc_pda_00000000504
 OK, I don't know what is going on in Delta, but I'm doing all I can down here.
@@ -7004,15 +7004,15 @@ This is the audio log of Engineer Sam Harding, dated April 5th, 2145.
 
 > #cc_pda_00000000270
 I have just completed repairs on the magnetic locks and have significantly reprogrammed the pressure sensors on the monorail systems.
-我刚刚完成了磁力锁的维修，并大幅重新编程了单轨列车系统的压力传感器。
+我刚刚完成了磁力锁的维修，并大幅重新编程了单轨列车系统上的压力传感器。
 
 > #cc_pda_00000000271
 My fellow engineers and I are confident that the accident of last week will never happen again.
-我和我的同事们确信上周的事故不会再发生。
+我和我的同事工程师们相信，上周的事故绝不会再发生。
 
 > #cc_pda_00000000507
 The accident should never have happened in the first place. The internal sensors led the computers to believe that there was a vacuum inside the vehicle.
-那次事故根本就不该发生。内部传感器让电脑误以为车厢内是真空。
+那次事故本来就不该发生。内部传感器让电脑误以为车厢内部是真空。
 
 > #cc_pda_00000000272
 Unfortunately, the computer decided that the only way to fix this pressure discrepancy was to open all doors in an attempt to equalize pressure with the outside.
@@ -7024,23 +7024,23 @@ Unfortunately, the computer decided that the only way to fix this pressure discr
 
 > #cc_pda_00000000273
 I'm going over fifteen thousand lines of code today; I can see no reason for this tragic event to have occurred.
-我今天正在检查一万五千行代码；我看不出发生这起悲剧事件的任何理由。
+我今天检查了超过一万五千行代码；我看不出发生这起悲剧事件的任何理由。
 
 > #cc_pda_00000000274
 But somehow, the logs show the discrepancy as clear as day.
-但不知何故，日志却清楚地显示了这种差异。
+但不知为何，日志却清楚地显示了这种差异。
 
 > #cc_pda_00000000275
 Honestly, this looks to me like another case of a solid system going to Hell in a hand-basket.
-老实说，在我看来，这又是一个好好的系统彻底崩溃的例子。
+老实说，在我看来，这又是一个原本可靠的系统彻底完蛋的案例。
 
 > #cc_pda_00000000276
 I'm confident that the layers of protection I added to the code today will prevent any such occurrences from happening again.
-我确信我今天添加到代码中的保护层将防止此类事件再次发生。
+我确信我今天添加到代码中的多层保护将防止此类事件再次发生。
 
 > #cc_pda_00000000277
 I'm off to meet Engineer Jim Tourban at the access doors to the Delta Complex platform to try and troubleshoot a faulty track sensor that’s been causing the door to stick.
-我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会面，试图排除一个导致门卡住的故障轨道传感器。
+我正要去德尔塔综合设施平台入口门与工程师吉姆·图尔班会面，尝试排除一个导致门卡住的故障轨道传感器。
 
 > #cc_pda_00000000509
 """"""
@@ -7064,7 +7064,7 @@ Tomorrow, I will be sending out E-Mails to all team leaders asking for an update
 
 > #cc_pda_00000000281
 We feel that we have unearthed enough useful material as it pertains to the project from Site 2, and choose to now devote resources in the exploration of Site 3. End log recording.
-我们认为，我们已经从2号站点挖掘出了足够多的与项目相关的有用材料，现在选择将资源投入到3号站点的探索中。日志录音结束。
+我们认为，我们已经从2号站点挖掘出了足够多与项目相关的有用材料，并选择现在将资源投入到3号站点的探索中。日志录音结束。
 
 > #cc_pda_00000000511
 """"""
@@ -7412,7 +7412,7 @@ My recent request for more manpower in Exes Labs was denied.
 
 > #cc_pda_00000000537
 It seems other sectors of Mars City are stretched thin, and the small reserves at the base are already allocated.
-看来火星城其他区域人手紧张，基地的小部分储备也已分配完毕。
+看来火星城其它区域人手紧张，基地的小部分储备也已分配完毕。
 
 > #cc_pda_00000000354
 I need to have faith in my current attachment of Marines that they will turn things around.
@@ -7704,7 +7704,7 @@ If you find this, then it probably...
 
 > #cc_phobos2_00000000005
 Sensors are showing the pumping station offline. That's one down. Now, shut down auxiliary power to the research complex.
-传感器显示泵站离线。一个已关闭。现在，关闭研究综合体的辅助电力。
+传感器显示泵站离线。一个已关闭。现在，关闭研究综合设施的辅助电力。
 
 > #cc_phobos2_00000000006
 Auxiliary power is down. Rerouting.
@@ -7712,7 +7712,7 @@ Auxiliary power is down. Rerouting.
 
 > #cc_phobos2_00000000007
 Good. Now take the Skytram to the reactor complex. You can access the last two systems from there.
-很好。现在乘坐空中轨道车去反应堆综合体。你可以从那里访问最后两个系统。
+很好。现在乘坐空中轨道车去反应堆综合设施。你可以从那里访问最后两个系统。
 
 > #cc_phobos2_00000000008
 The important thing right now is getting the Phobos teleporter online.
@@ -7804,7 +7804,7 @@ I've never seen these types of fluctuations before. This can't be right!
 
 > #cc_phobos3_00000000012
 It's almost like the entire complex is phasing in and out of some kind of electrical exchange reactor.
-这几乎就像整个综合体正在进进出出某种电力交换反应堆。
+这几乎就像整个综合设施正在进进出出某种电力交换反应堆。
 
 > #cc_phobos3_00000000007
 Shutdown in T-minus 10...9...8...7...6...5...4...3...2...1.
@@ -7908,7 +7908,7 @@ Oxygen at dangerous levels. Temperature: -4 degrees and falling. Auxiliary power
 
 > #cc_player_00000000006
 (WHOOSH)
-(嗖)
+(呼啸声)
 
 > #cc_player_00000000007
 (FLESH WOUND)
@@ -8048,27 +8048,27 @@ and research has shown that working in a clean and toxic free environment has a 
 
 > #cc_recycling1_00000000015
 Power generation on Mars produces two by-products; steam and green goo.
-火星上的发电产生两种副产品：蒸汽和绿色黏液。
+火星上发电会产生两种副产品：蒸汽和绿色黏液。
 
 > #cc_recycling1_00000000016
 We vent the steam all over the base through vents, floor grates, cleverly placed pipes and pretty much any place else.
-我们通过通风口、地板格栅、巧妙放置的管道以及几乎所有其他地方将蒸汽排到基地各处。
+我们通过通风口、地板格栅、巧妙布置的管道以及几乎所有其它地方，将蒸汽排到基地各处。
 
 > #cc_recycling1_00000000017
 The goo is a result of the MFS process reacting with core elements in the Martian soil.
-黏液是MFS过程与火星土壤中的核心元素反应的结果。
+黏液是MFS工艺与火星土壤中的核心元素反应的结果。
 
 > #cc_recycling1_00000000018
 It is not radioactive, but it is quite toxic. Remove all toxic spills at once.
-它不具放射性，但毒性很强。请立即清除所有有毒溢出物。
+它不具放射性，但毒性很强。请立即清除所有有毒泄漏物。
 
 > #cc_recycling1_00000000019
 Hazmat suits are the best way to protect yourself when a spill occurs
-防化服是溢出发生时保护自己的最佳方式，
+发生泄漏时，防化服是保护自己的最佳方式，
 
 > #cc_recycling1_00000000032
 and if you happen to come in contact with the goo, report immediately to a medical station for a scrub down.
-如果您不慎接触到黏液，请立即向医疗站报告进行清洗。
+如果您不慎接触到黏液，请立即向医疗站报告进行彻底清洗。
 
 > #cc_recycling1_00000000020
 After a few days in confinement, you should be ready to report back to work.
@@ -8076,15 +8076,15 @@ After a few days in confinement, you should be ready to report back to work.
 
 > #cc_recycling1_00000000021
 Report any rule violations to your immediate supervisor and don’t forget to read your employee handbook for additional rules and information.
-向您的直属主管报告任何违规行为，别忘了阅读您的员工手册以获取额外规定和信息。
+向您的直属主管报告任何违规行为，并且别忘了阅读您的员工手册以获取额外规定和信息。
 
 > #cc_recycling1_00000000022
 Demonic laughter
-恶魔笑声
+恶魔般的笑声
 
 > #cc_recycling1_00000000023
 Demonic laughter echoes down the shaft
-恶魔的笑声在竖井中回荡
+恶魔般的笑声在竖井中回荡
 
 > #cc_recycling1_00000000024
 The air pressure drops
@@ -8576,15 +8576,15 @@ Female PA System: Freight loader, returning to station.
 
 > #cc_videos_00000000001
 For generations humankind has lived under the looming specter of slowly dwindling natural resources.
-世世代代以来，人类一直生活在自然资源缓慢枯竭的日益逼近的阴影之下。
+世世代代以来，人类一直生活在自然资源日益枯竭的阴影之下。
 
 > #cc_videos_00000000002
 Our new ventures on planets like Mars have only intensified our need to find fresh sources for metals, petrochemicals, food, water and even air.
-我们在火星等行星上的新探索，只会加剧我们寻找金属、石化产品、食物、水甚至空气新来源的需求。
+我们在火星等行星上的新探索，只会加剧我们寻找金属、石化产品、食物、水乃至空气新来源的需求。
 
 > #cc_videos_00000000003
 To meet that need UAC researches have developed dramatic solutions, solutions that will soon pay off for the UAC,
-为了满足这一需求，UAC研究人员开发了突破性的解决方案，这些解决方案很快将为UAC、
+为了满足这一需求，UAC的研究人员开发出了突破性的解决方案，这些方案很快将为UAC、
 
 > #cc_videos_00000000256
 its investors, and indeed entire human race.
@@ -8592,7 +8592,7 @@ its investors, and indeed entire human race.
 
 > #cc_videos_00000000004
 Mars itself is our chief ally and the key to our solution. Look around at its vast red deserts rich in naturally occurring iron oxides.
-火星本身是我们的主要盟友，也是我们解决之道。看看它广袤的红色沙漠，富含天然存在的氧化铁。
+火星本身就是我们的主要盟友，也是我们解决方案的关键。看看它广袤的红色沙漠，富含天然存在的氧化铁。
 
 > #cc_videos_00000000257
 They are the raw materials of our future.
@@ -8604,19 +8604,19 @@ We have developed a process that destabilizing the atomic structure of pulverize
 
 > #cc_videos_00000000258
 which are then siphoned off to create new elements.
-然后虹吸出来以创造新元素。
+然后将其虹吸出来以创造新元素。
 
 > #cc_videos_00000000006
 Like alchemists of old, the Elemental Phase Deconstructor allows us to transform red Martian soil into clean air,
-就像古代炼金术士一样，元素相解构器使我们能够将火星红色土壤转化为洁净空气、
+就像古代的炼金术士一样，元素相解构器(EPD)使我们能够将火星的红色土壤转化为清洁的空气、
 
 > #cc_videos_00000000259
 fresh water, and hydrogen fuel the building blocks for a sustainable human friendly Martian environment.
-淡水和氢燃料，这些是构建可持续的、对人类友好的火星环境的基石。
+洁净的水和氢燃料，这些都是构建可持续的、对人类友好的火星环境的基石。
 
 > #cc_videos_00000000007
 And this is only the beginning. With continued research we envision creating ever more complex molecules, even organic matter itself.
-这仅仅是个开始。随着持续的研究，我们设想创造出日益复杂的分子，甚至有机物质本身。
+这仅仅是个开始。随着研究的深入，我们设想创造出更复杂的分子，甚至有机物质本身。
 
 > #cc_videos_00000000008
 Atom by atom the UAC is building an ever brighter future for human kind.
@@ -8624,23 +8624,23 @@ UAC正一原子一原子地为人类构建一个更加光明的未来。
 
 > #cc_videos_00000000009
 (CALMING EXIT MUSIC)
-(平静的结束音乐)
+(舒缓的结束音乐)
 
 > #cc_videos_00000000010
 Safer worlds for everyone. For centuries people on Earth have waged war over two things vital to human existence fuel and water.
-为所有人创造更安全的世界。几个世纪以来，地球上的人们为两件对人类生存至关重要的事情——燃料和水——而战。
+为所有人创造更安全的世界。几个世纪以来，地球上的人们为了人类生存至关重要的两样东西——燃料和水——而发动战争。
 
 > #cc_videos_00000000011
 As part of its ongoing commitment to create safer worlds for everyone the UAC recently unveiled its development of the hydrocon.
-作为其持续承诺为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆的研发成果。
+作为其持续承诺为所有人创造更安全世界的一部分，UAC最近公布了其水氢反应堆(Hydrocon)的研发成果。
 
 > #cc_videos_00000000012
 Though still in its prototype stages, the hydrocon will in one dramatic move forever end all shortages of water and fuel.
-尽管仍处于原型阶段，水氢反应堆将以一个划时代的举动，永远结束水和燃料的所有短缺。
+尽管仍处于原型阶段，水氢反应堆将以一次划时代的举动，永远终结水和燃料的所有短缺。
 
 > #cc_videos_00000000013
 By splitting iron oxide molecules the hydrocon produces oxygen and hydrogen cheaply and safely without the need for large amounts of electricity.
-通过分解氧化铁分子，水氢反应堆可以廉价安全地生产氧气和氢气，而无需大量电力。
+通过分裂氧化铁分子，水氢反应堆能够廉价且安全地生产氧气和氢气，而无需大量电力。
 
 > #cc_videos_00000000014
 The hydrogen is then used for hydrogen fuel, a substance so versatile and clean that it can be used in everything from home appliances to today’s most demanding rocket engines.
@@ -8652,11 +8652,11 @@ The hydrogen is then used for hydrogen fuel, a substance so versatile and clean 
 
 > #cc_videos_00000000015
 A side benefit to producing this fuel is an endless supply of pure spring like water that is more refined than any Earth bound spring.
-生产这种燃料的一个附带好处是源源不断的纯净泉水供应，比地球上任何泉水都更纯净。
+生产这种燃料的一个附带好处是，可以源源不断地供应纯净泉水，比地球上任何泉水都更纯净。
 
 > #cc_videos_00000000016
 We envision a world where technologies such as the hydrocon can be used to end drought and civil strife in impoverished nations where water or fuel have ever been in short supply.
-我们设想一个世界，水氢反应堆等技术可以用于结束贫困国家(水或燃料一直短缺)的干旱和内乱。
+我们设想一个世界，水氢反应堆等技术可以用来结束水或燃料一直短缺的贫困国家的干旱和内乱。
 
 > #cc_videos_00000000261
 """"""
@@ -8672,7 +8672,7 @@ While always at the forefront of scientific research and development, Union Aero
 
 > #cc_videos_00000000018
 (CALMING EXIT MUSIC)
-(平静的结束音乐)
+(舒缓的结束音乐)
 
 > #cc_videos_00000000019
 Since the dawn of the space age, Union Aerospace has been at the forefront of not only developing new technology,
@@ -8724,7 +8724,7 @@ UAC长期以来一直致力于为所有人创造更安全的世界，现在他�
 
 > #cc_videos_00000000025
 (CALMING EXIT MUSIC)
-(平静的结束音乐)
+(舒缓的结束音乐)
 
 > #cc_videos_00000000026
 Welcome to the Alpha Labs. Formerly designated “Phase 1” by the Union Aerospace Off-world research division.
@@ -8756,7 +8756,7 @@ With continued investment and hard work the Union Aerospace Corporation strives 
 
 > #cc_videos_00000000030
 (CALMING EXIT MUSIC)
-(平静的结束音乐)
+(舒缓的结束音乐)
 
 > #cc_videos_00000000031
 This is Dr. Pierce Rogers, lead archaeologist currently stationed on Mars.
@@ -8816,7 +8816,7 @@ Site 3 produced our prized artifact, what we call the... Soul Cube.
 
 > #cc_videos_00000000273
 If you have read or seen the other material, you probably know that this once grand civilization was attacked by some unknown force.
-如果你读过或看过其他材料，你可能知道这个曾经辉煌的文明曾遭到某种未知力量的攻击。
+如果你读过或看过其它材料，你可能知道这个曾经辉煌的文明曾遭到某种未知力量的攻击。
 
 > #cc_videos_00000000039
 And if we can believe what was written in stone, they sacrificed much of their society to drive the invaders back.
@@ -8828,7 +8828,7 @@ There are official reports filed on the Soul Cube, sent to the administration.
 
 > #cc_videos_00000000040
 We also recovered several other device type artifacts. They are not as ornate as the Soul Cube, but each appears unique.
-我们还回收了其他几种设备类神器。它们不如灵魂魔方华丽，但每个都显得独特。
+我们还回收了其它几种设备类神器。它们不如灵魂魔方华丽，但每个都显得独特。
 
 > #cc_videos_00000000041
 We are still learning how to interpret all of the glyphs and hopefully once we have that completed,
@@ -8844,19 +8844,19 @@ These are truly unique and special times for archaeologists.
 
 > #cc_videos_00000000043
 (PATRIOTIC FANFARE) Representing the pinnacle of UAC research and design, the BFG 9000 is the most advanced firearm ever designed.
-(爱国号角声)BFG 9000代表了UAC研发和设计的巅峰，是有史以来最先进的枪械。
+(爱国号角声)BFG 9000代表了UAC研究与设计的巅峰，是有史以来最先进的枪械。
 
 > #cc_videos_00000000044
 Fully self-contained and deployed as a hand-held platform, it is capable of and excessive amount of firepower.
-它完全独立，作为手持平台部署，能够提供过量的火力。
+它完全独立，并作为手持平台部署，能够提供惊人的火力。
 
 > #cc_videos_00000000045
 The BFG 9000 contains sophisticated 'friend-or-foe' technology that discriminates targets in real-time.
-BFG 9000包含复杂的“敌我识别”技术，可实时区分目标。
+BFG 9000包含复杂的“敌我识别”技术，能够实时区分目标。
 
 > #cc_videos_00000000046
 Each projectile contains a small but very powerful computer core that actively maintains targeting and delivers a stream charge down each beam, to soften targets before detonation.
-每个弹丸都包含一个小型但功能强大的计算机核心，主动维持瞄准，并通过每束光束输送流电荷，在引爆前削弱目标。
+每个弹丸都含有一个小型但功能强大的电脑核心，主动维持瞄准，并通过每束光束输送流电荷，在引爆前削弱目标。
 
 > #cc_videos_00000000276
 """"""
@@ -8864,7 +8864,7 @@ Each projectile contains a small but very powerful computer core that actively m
 
 > #cc_videos_00000000047
 The detonation stage of the projectile is devastating. Targets within fifteen meters of the flashpoint are not likely to survive.
-弹丸的引爆阶段是毁灭性的。闪爆点十五米范围内的目标不太可能存活。
+弹丸的引爆阶段具有毁灭性。爆心十五米范围内的目标几乎不可能幸存。
 
 > #cc_videos_00000000048
 While not recommended for small-quarter combat, the BFG 9000 is ideal in the field and against multiple targets.
@@ -8872,7 +8872,7 @@ While not recommended for small-quarter combat, the BFG 9000 is ideal in the fie
 
 > #cc_videos_00000000049
 The only foreseeable defense is small-arms ballistics. If the projectile is destroyed before exploding, the computer core cannot process the final fusion reaction, resulting in a less than optimal detonation.
-唯一可预见的防御是轻武器弹道。如果弹丸在爆炸前被摧毁，计算机核心无法处理最终聚变反应，导致次优的引爆。
+唯一可预见的防御是轻武器弹道。如果弹丸在爆炸前被摧毁，电脑核心将无法处理最终的聚变反应，导致爆炸效果不尽理想。
 
 > #cc_videos_00000000277
 """"""
@@ -8916,15 +8916,15 @@ UAC始终走在技术前沿，通过卓越的火力创造更安全的世界。
 
 > #cc_videos_00000000057
 P. Raleigh: Medical report 16-8, dated November 2nd, 2145.
-P.罗利：医疗报告16-8，日期2145年11月2日。
+P.罗利：医疗报告16-8，日期是2145年11月2日。
 
 > #cc_videos_00000000058
 Patient 0432, a private Steve Jenson of the UAC Darklight Armoured Core division expired yesterday, at 15:43.
-0432号病人，UAC暗光装甲核心部门的列兵史蒂夫·詹森，于昨日15:43死亡。
+0432号病人，UAC暗光装甲核心部门的列兵史蒂夫·詹森，于昨日15:43去世。
 
 > #cc_videos_00000000059
 Private Jenson was suffering from paranoid delusions and full blown dementia. Treatment was unsuccessful.
-列兵詹森患有偏执妄想和全面性痴呆。治疗不成功。
+列兵詹森患有偏执妄想症和全面性痴呆。治疗不成功。
 
 > #cc_videos_00000000060
 Initial psychiatric interviews suggested only mild psychosis with speech, motor activity and thought processes within normal range, paranoia being the only psychotic element directly evident.
@@ -8952,7 +8952,7 @@ S.詹森：我不想说。
 
 > #cc_videos_00000000065
 Dr. Hooper: Well, i'm here to help you Steve.
-胡珀博士：史蒂夫，我来这里是为了帮助你。
+胡珀博士：史蒂夫，我在这里是为了帮助你。
 
 > #cc_videos_00000000066
 S. Jenson: I've tried talking. They think i'm crazy, YOU think i'm crazy.
@@ -8964,11 +8964,11 @@ Dr. Hooper: They - your colleagues - aren't doctors. Let me help you.
 
 > #cc_videos_00000000068
 S. Jenson: Help? Nothing can help us!
-S.詹森：帮助？没什么能帮助我们！
+S.詹森：帮助？没什么能帮得了我们！
 
 > #cc_videos_00000000069
 P.Raleigh: Prior sessions over a period of 72 hours revealled rapid deterioration of both physical and mental capacity, with behaviour inconsistent with any known patterns.
-P.罗利：之前72小时内的疗程显示，身心能力迅速恶化，行为与任何已知模式不符。
+P.罗利：之前72小时的疗程显示，身心能力迅速恶化，其行为与任何已知模式都不符。
 
 > #cc_videos_00000000281
 """"""
@@ -8976,7 +8976,7 @@ P.罗利：之前72小时内的疗程显示，身心能力迅速恶化，行为�
 
 > #cc_videos_00000000070
 The patient was responsive for brief periods, and had to be restrained during interviews.
-病人在短暂的时间内有反应，访谈期间必须被束缚。
+患者在短时间内有反应，但在访谈期间必须被束缚。
 
 > #cc_videos_00000000071
 Reference interview H-3-2, Private Steve Jenson, October 21st 2145.
@@ -8992,7 +8992,7 @@ S.詹森：我不想再看到了。我不想再感受了。
 
 > #cc_videos_00000000074
 Gnnngh... they'll be here soon, and then YOU'LL see it!
-呃啊……他们很快就会来了，然后你也会看到的！
+呃嗯……他们很快就会来了，然后你也会看到的！
 
 > #cc_videos_00000000075
 Dr. Hooper: Can you talk about what you see?
@@ -9000,11 +9000,11 @@ Dr. Hooper: Can you talk about what you see?
 
 > #cc_videos_00000000076
 (S. Jenson laughing despairingly, then growling, and giggling slightly)
-(S.詹森绝望地笑着，然后咆哮着，又轻声傻笑着)
+(S.詹森绝望地笑着，然后咆哮，并轻声咯咯笑着)
 
 > #cc_videos_00000000077
 Dr. Hooper: Steve? (sighs) Patient unresponsive, terminating interview.
-胡珀博士：史蒂夫？(叹气)病人无反应，结束访谈。
+胡珀博士：史蒂夫？(叹气)患者无反应，终止访谈。
 
 > #cc_videos_00000000078
 P. Raleigh: We have exhausted all known forms of drug treatment, in hopes of finding a way to abate this strange outbreak of dementia, and I have yet to recieve any additional data from the psychiatrists back on Earth.
@@ -9020,11 +9020,11 @@ Options are quickly dwindling.
 
 > #cc_videos_00000000080
 Narrator: Welcome to the Delta Complex Stasis Chambers.
-旁白：欢迎来到德尔塔综合设施休眠舱。
+旁白：欢迎来到德尔塔综合设施静滞舱。
 
 > #cc_videos_00000000081
 This facility was constructed to house and study the extra dimensional beings, which were recovered during some of the first teleporter tests originating from Delta Level 3.
-该设施旨在收容和研究异次元生物，这些生物是在德尔塔3级首次传送测试中回收的。
+该设施旨在收容和研究异次元生物，这些生物是在德尔塔3级最初几次传送器的测试中被发现的。
 
 > #cc_videos_00000000283
 """"""
@@ -9380,7 +9380,7 @@ Announcer: Welcome to the UAC Maintenance Department. This video will provide yo
 
 > #cc_videos_00000000151
 A safe worker is a happy worker and your safety is our number one priority at UAC.
-一个安全的员工是快乐的员工，您的安全是UAC的首要任务。
+安全的员工也是快乐的员工，您的安全是UAC的首要任务。
 
 > #cc_videos_00000000152
 Observe all signs and follow all procedures to keep you and your coworkers out of harms way.
@@ -9392,7 +9392,7 @@ Clean up is one the most important aspects of what we do in maintenance.
 
 > #cc_videos_00000000154
 This phase of our job keeps everyone safe, and research has shown that working in a clean and toxic free environment has a positive benefit on overall productivity.
-我们工作的这一阶段确保了每个人的安全，研究表明，在清洁无毒的环境中工作对整体生产力有积极影响。
+我们工作的这一阶段确保了每个人的安全，研究表明，在清洁无毒的环境中工作对整体生产力有着积极的影响。
 
 > #cc_videos_00000000301
 """"""
@@ -9400,11 +9400,11 @@ This phase of our job keeps everyone safe, and research has shown that working i
 
 > #cc_videos_00000000155
 Power generation on Mars produces two by-products; steam and green goo.
-火星上的发电会产生两种副产品：蒸汽和绿色黏液。
+火星上发电会产生两种副产品：蒸汽和绿色黏液。
 
 > #cc_videos_00000000156
 We vent the steam all over the base through vents, floor grates, cleverly placed pipes and pretty much any place else.
-我们通过通风口、地板格栅、巧妙布置的管道以及几乎所有其他地方，将蒸汽排到整个基地。
+我们通过通风口、地板格栅、巧妙布置的管道以及几乎所有其它地方，将蒸汽排到基地各处。
 
 > #cc_videos_00000000157
 The goo is a result of the MFS process reacting with core elements in the Martian soil.
@@ -9424,11 +9424,11 @@ Hazmat suits are the best way to protect yourself when a spill occurs and if you
 
 > #cc_videos_00000000160
 After a few days in confinement, you should be ready to report back to work.
-隔离几天后，您应该就可以回去工作了。
+隔离几天后，您应该就可以返回工作岗位了。
 
 > #cc_videos_00000000161
 Report any rule violations to your immediate supervisor and don’t forget to read your employee handbook for additional rules and information.
-向您的直属上司报告任何违规行为，并且不要忘记阅读您的员工手册以获取更多规章制度和信息。
+向您的直属主管报告任何违规行为，并且别忘了阅读您的员工手册以获取额外规定和信息。
 
 > #cc_videos_00000000162
 Narrator: What you see before you is a relic codenamed U-1 or simply, SoulCube.
@@ -9492,11 +9492,11 @@ Setting new standards in both archaeological discovery and analysis, the UAC is 
 
 > #cc_videos_00000000172
 These tablets were originally discovered in the dig site under what has become known as 'Site 3'.
-这些石板最初是在被称为“3号遗址”下方的挖掘现场发现的。
+这些石板最初是在被称为“3号站点”下方的挖掘现场发现的。
 
 > #cc_videos_00000000173
 Subsequent examination of the surrounding area and carbon dating of the tablets brought UAC researchers to the conclusion that the tablets belonged to a civilization that existed millenia ago,
-随后对周边区域的检查和对石板的碳定年法使UAC研究人员得出结论，这些石板属于数千年前存在的文明，
+随后对周边区域的检查以及对石板的碳定年法分析，使UAC研究人员得出结论，这些石板属于数千年前存在的文明，
 
 > #cc_videos_00000000308
 """"""
@@ -9524,7 +9524,7 @@ The first tablet provided us with a wealth of scientific data, specifically deta
 
 > #cc_videos_00000000176
 The second and third tablets illustrate an epic story: a story of war, and how, faced with impossible odds, the ultimate sacrifice of an entire race to achieve victory.
-第二和第三块石板描绘了一个史诗般的故事：一个关于战争的故事，以及面对不可能的困境，整个种族为取得胜利而做出的最终牺牲。
+第二和第三块石板描绘了一个史诗般的故事：一个关于战争的故事，以及面对绝境时，整个种族为取得胜利而做出的最终牺牲。
 
 > #cc_videos_00000000311
 """"""
@@ -9544,7 +9544,7 @@ Our researchers are still analyzing a recently found hidden section of the fourt
 
 > #cc_videos_00000000180
 It goes into detail on the invading force, and indicates the remaining survivors may have teleported somewhere; where, we do not know, although it seems to reference a map we have yet to locate.
-它详细描述了入侵部队，并指出幸存者可能已经传送到了某个地方；具体是哪里，我们不得而知，尽管它似乎提及了一张我们尚未找到的地图。
+它详细描述了入侵部队，并指出剩余的幸存者可能已经传送到了某个地方；具体是哪里，我们不得而知，尽管它似乎提及了一张我们尚未找到的地图。
 
 > #cc_videos_00000000312
 """"""
@@ -9552,27 +9552,27 @@ It goes into detail on the invading force, and indicates the remaining survivors
 
 > #cc_videos_00000000181
 To date, there remains no evidence of any type of invasion at any of the sites. Our assumption is that time has removed all but what we now see.
-迄今为止，在任何遗址都没有发现任何入侵的证据。我们推测是时间抹去了一切，只剩下我们现在所见的。
+迄今为止，在任何站点都没有发现任何入侵的证据。我们的推测是，时间抹去了一切，只剩下我们现在所见的。
 
 > #cc_videos_00000000182
 (CORPORATE INTRO MUSIC)
-(公司开场音乐)
+(企业开场音乐)
 
 > #cc_videos_00000000183
 On behalf of the UAC, welcome to Mars City.
-UAC谨此欢迎您来到火星城。
+谨代表UAC，欢迎来到火星城。
 
 > #cc_videos_00000000184
 This facility serves as the central hub for all scientific research, archeological study and military operations.
-本设施是所有科学研究、考古探索和军事行动的中心枢纽。
+本设施是所有科学研究、考古学研究和军事行动的中心枢纽。
 
 > #cc_videos_00000000185
 Goal number one of the UAC is the safety and well being of all employees and guests.
-UAC的首要目标是确保所有员工和来宾的安全与福祉。
+UAC的首要目标是所有员工和来宾的安全与福祉。
 
 > #cc_videos_00000000186
 To help achieve this goal, we ask for you to follow all UAC corporate procedures at all times.
-为实现此目标，我们要求您始终遵守UAC的所有公司规程。
+为实现此目标，我们要求您始终遵守所有的UAC公司规程。
 
 > #cc_videos_00000000187
 This includes restricting your movement to areas for which you have clearance.
@@ -9580,23 +9580,23 @@ This includes restricting your movement to areas for which you have clearance.
 
 > #cc_videos_00000000188
 Always remain alert and aware of what you and others are doing.
-请务必保持警惕，留意您和他人的一举一动。
+请始终保持警惕，并留意您和他人的一举一动。
 
 > #cc_videos_00000000189
 If notice anything out of the ordinary or just have a simple question find the nearest UAC Security Guard.
-如果您发现任何异常情况或有任何疑问，请寻找最近的UAC安保人员。
+如果您发现任何异常情况或只是有一个简单的问题，请寻找最近的UAC安保人员。
 
 > #cc_videos_00000000190
 They are here to help no matter how large or small the problem is.
-无论问题大小，他们都会为您提供帮助。
+无论问题大小，他们都会提供帮助。
 
 > #cc_videos_00000000191
 Our station on Mars provides a perfect blend of work habitats, recreational facilities and social support structures.
-我们在火星上的基地完美融合了工作区、娱乐设施和社交支持结构。
+我们在火星上的基地提供了工作居住区、娱乐设施和社会支持结构的完美结合。
 
 > #cc_videos_00000000192
 This ensures our goal of providing a home away from home experience for everyone.
-这确保了我们为每个人提供宾至如归体验的目标。
+这确保了我们为每个人提供真正宾至如归体验的目标。
 
 > #cc_videos_00000000193
 Keep this in mind as you help pursue our ground breaking research that is destined to transform the daily lifes of everyone here and throughout the solar system.
@@ -9612,7 +9612,7 @@ If you need more detailed assistance please see your human resources manager.
 
 > #cc_videos_00000000195
 If you are a guest you may bring up any issue with your appointed UAC liason.
-如果您是来宾，可以将任何问题向您指定的UAC联络员提出。
+如果您是来宾，您可以向您指定的UAC联络员提出任何问题。
 
 > #cc_videos_00000000196
 Thank you, and have a nice day.
@@ -9772,7 +9772,7 @@ It was non-functional, and all attempts to start it proved fruitless.
 
 > #cc_videos_00000000324
 It took many years, but the researchers managed to learn enough from the device and other wall carvings to reverse-engineer it.
-这花费了许多年，但研究员们设法从该装置和其他墙壁雕刻中获得了足够的信息，从而对其进行了逆向工程。
+这花费了许多年，但研究员们设法从该装置和其它墙壁雕刻中获得了足够的信息，从而对其进行了逆向工程。
 
 > #cc_videos_00000000225
 The first prototype teleporter, codenamed Project Mercury, was built in Delta Labs and became operational in 2139.

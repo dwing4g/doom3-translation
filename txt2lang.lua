@@ -33,6 +33,7 @@ end
 local f = io.open(arg[2], 'wb')
 f:write '\xef\xbb\xbf{\r\n'
 local n = 0
+local t = {}
 parseTxt(arg[1], function(k, e, v, c)
 --	v = v:gsub('(%d+%-%d+)%-(214[57])', '%2-%1')
 	if e:gsub('[^\n]+', '') ~= v:gsub('[^\n]+', '') then
@@ -41,6 +42,13 @@ parseTxt(arg[1], function(k, e, v, c)
 --	if e:find '%d' and v:find '%d' and e:gsub('%D', '') ~= v:gsub('%D', '') then
 --		print('WARN: mismatch numbers for key: ' .. k)
 --	end
+	if t[e] then
+		if t[e] ~= v then
+			print('WARN: mismatch translation for key: ' .. k .. '\n\t' .. e .. '\n\t' .. v .. '\n\t' .. t[e])
+		end
+	else
+		t[e] = v
+	end
 	if c then
 		f:write('// ', c, '\r\n')
 	end

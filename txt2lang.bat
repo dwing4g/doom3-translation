@@ -4,6 +4,8 @@ pushd %~dp0
 
 @echo on
 
+chcp 65001
+
 luajit txt2lang.lua base.txt base/strings/english.lang
 luajit txt2lang.lua bfa.txt  base/strings/english_bfa.lang
 luajit txt2lang.lua cc.txt   base/strings/english_cc.lang

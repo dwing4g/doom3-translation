@@ -6369,7 +6369,7 @@ close vents
 
 > #str_00895
 lab computers must be reset and data logged to continue
-必须重置实验室计算机并上传数据才能继续
+必须重置实验室电脑并上传数据才能继续
 
 > #str_00896
 open vents
@@ -12470,7 +12470,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20250914)
+新游戏 (汉化v20250916)
 
 > #str_01867
 Load Game
@@ -17027,7 +17027,7 @@ some doors  locked
 > #str_02900
 ; mars_city1:目标提示
 When you approach an interactive computer interface, your weapon, if equipped, will lower and you can use _use to interact with the computer.
-当你接近可以进行互动的计算机时，如果装备了武器你就会放下武器，按下 _use 来和该计算机进行互动。
+当你接近可以进行互动的电脑时，如果装备了武器你就会放下武器，按下 _use 来和该电脑进行互动。
 
 > #str_02901
 ; mars_city1:目标提示
@@ -49161,7 +49161,7 @@ Ian McCormick
 cc: Research Archive Storage"""
 """伊恩·麦考密克提交的报告:
 
-我研究灵魂魔方已经几周了。这是一件令人着迷的遗物，而且事实证明它具有惊人的特性。昨天我编写了一个新的象形文字模式查询，并让它运行了一整晚。有了新的查询，语言学计算机终于破解了剩余的象形文字！
+我研究灵魂魔方已经几周了。这是一件令人着迷的遗物，而且事实证明它具有惊人的特性。昨天我编写了一个新的象形文字模式查询，并让它运行了一整晚。有了新的查询，语言学电脑终于破解了剩余的象形文字！
 
 灵魂魔方无论从哪个定义来看都是一件武器，而且似乎是为了抵御入侵这个古老文明的任何类型的生物而打造的。如果我没理解错的话，在战斗中，魔方会随着使用者所杀生物数量的增加而增强力量。当它充满能量时，甚至可以杀死最强的生物。更令人惊叹的是，当它杀死一个生物时，会将该生物的生命力转移到使用魔方的人身上！
 
