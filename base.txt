@@ -955,7 +955,7 @@ OPEN VENTILATION ACCESS GRATE 3
 > #str_00134
 ; alphalabs3/vent2.gui cpu/maintenance.gui
 STORAGE AREA OPEN
-存储区:开启
+储藏区:开启
 
 > #str_00135
 ; alphalabs3/vent2.gui
@@ -2444,12 +2444,12 @@ CAMERA STATUS -ONLINE-
 > #str_00256
 ; alphalabs2:地点.名 cameras/alphalabs2_camcontrol.gui cameras/alphalabs2_camera.gui
 Security Checkpoint Junction
-安防检查连接点
+安防检查站连接点
 
 > #str_00257
 ; hellhole:地点.名 mars_city1:地点.名 mc_underground:界面参数1 cameras/alphalabs2_camcontrol.gui cameras/alphalabs2_camera.gui
 Security Checkpoint
-安防检查点
+安防检查站
 
 > #str_00258
 ; alphalabs2:地点.名 cameras/alphalabs2_camcontrol.gui cameras/alphalabs2_camera.gui
@@ -2504,7 +2504,7 @@ ENTERING STANDBY MODE
 > #str_00268
 ; cameras/camera2.gui cameras/camselect.gui cameras/camera2_le_exis.gui cameras/camselect_le_exis.gui
 Entrance Checkpoint
-入口检查点
+入口检查站
 
 > #str_00269
 ; cameras/camera2.gui cameras/camera2_le_exis.gui
@@ -3042,17 +3042,17 @@ Sublevel 1 transfer lift
 > #str_00350
 ; caves/map.gui
 Storage area 1
-仓库区1
+储藏区1
 
 > #str_00351
 ; caves/map.gui
 Storage area 2
-仓库区2
+储藏区2
 
 > #str_00352
 ; caves/map.gui
 Phase 1 excavation
-第1阶段挖掘
+第1阶段挖掘场
 
 > #str_00353
 ; caves/map.gui
@@ -3067,7 +3067,7 @@ align
 > #str_00355
 ; caves/map.gui
 Excavation - Phase 2
-坑道 - 第2阶段
+挖掘场 - 第2阶段
 
 > #str_00356
 ; caves/map.gui
@@ -4412,7 +4412,7 @@ TO STATION 2"""
 > #str_00563
 ; commoutside/co_callstation.gui
 TRANSFER STATION 3
-中转站3
+3号中转站
 
 > #str_00564
 ; commoutside/co_callstation.gui
@@ -4453,7 +4453,7 @@ STATION"""
 > #str_00570
 ; commoutside/co_callstation.gui
 LIFT TRANSFER STATION 3
-升降梯传送站3
+升降梯传送3号站
 
 > #str_00571
 ; commoutside/co_callstation.gui
@@ -4487,7 +4487,7 @@ STATION 2
 > #str_00576
 ; commoutside/co_callstation.gui
 STATION 3
-中心3
+3号站点
 
 > #str_00577
 ; commoutside/co_callstation.gui
@@ -6037,7 +6037,7 @@ MOVE LIFT DOWN
 > #str_00823
 ; controlpanels/mover.gui
 MOVE TO STATION 1 - LOADING
-移动至站点1 - 载入中
+移动至1号站点 - 载入中
 
 > #str_00824
 ; controlpanels/mover.gui
@@ -6052,17 +6052,17 @@ MOVE TO STATION 3 - LIFT EXIT
 > #str_00826
 ; controlpanels/mover.gui
 MOVE TO STATION 1
-移动至站点1
+移动至1号站点
 
 > #str_00827
 ; controlpanels/mover.gui
 MOVE TO STATION 2
-移动至站点2
+移动至2号站点
 
 > #str_00828
 ; controlpanels/mover.gui
 MOVE TO STATION 3
-移动至站点3
+移动至3号站点
 
 > #str_00829
 ; controlpanels/pump1.gui
@@ -7535,12 +7535,12 @@ EFFECTIVE AREA
 > #str_01098
 ; delta2/teleporter2.gui delta3/telecontrol1.gui
 CONTROL STATION 1
-控制台1
+1号控制站
 
 > #str_01099
 ; delta3/telecontrol1.gui delta3/teleport1.gui
 TELEPORTER STATION 1
-传送站1
+1号传送站
 
 > #str_01100
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -7599,7 +7599,7 @@ Bell-State analysis inactive"""
 > #str_01108
 ; delta3/telecontrol1.gui
 Targeting Station 1
-定位站1
+1号定位站
 
 > #str_01109
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -7667,27 +7667,27 @@ Locating active destination pads"""
 > #str_01118
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
 scanning loc 1456,7891
-扫描搜寻 1456,7891
+扫描位置 1456,7891
 
 > #str_01119
 ; delta3/telecontrol1.gui
 scanning loc 1412,8239
-扫描搜寻 1412,8239
+扫描位置 1412,8239
 
 > #str_01120
 ; delta3/telecontrol1.gui
 scanning loc 1361,9187
-扫描搜寻 1361,9187
+扫描位置 1361,9187
 
 > #str_01121
 ; delta3/telecontrol1.gui
 scanning loc 2198,8672
-扫描搜寻 2198,8672
+扫描位置 2198,8672
 
 > #str_01122
 ; delta3/telecontrol1.gui
 scanning loc 2036,8173
-扫描搜寻 2036,8173
+扫描位置 2036,8173
 
 > #str_01123
 ; delta3/telecontrol1.gui
@@ -7726,7 +7726,7 @@ Teleporter Station 1"""
 目标 - 主平台
 
 激活控制准备完毕于
-传送站1"""
+1号传送站"""
 
 > #str_01128
 ; delta3/telecontrol1.gui delta3/teleport1.gui
@@ -7755,7 +7755,7 @@ Teleporter Station 1"""
 目标 - 阳台平台
 
 激活控制准备完毕于
-传送站1"""
+1号传送站"""
 
 > #str_01131
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -7851,12 +7851,12 @@ CHOOSE DESTINATION
 > #str_01146
 ; delta3/telecontrol2.gui
 CONTROL STATION 2
-控制台2
+2号控制站
 
 > #str_01147
 ; delta3/telecontrol2.gui delta3/teleport2.gui
 TELEPORTER STATION 2
-传送站2
+2号传送站
 
 > #str_01148
 ; delta3/telecontrol2.gui
@@ -7866,32 +7866,32 @@ WIDE FOCUS BEAM
 > #str_01149
 ; delta3/telecontrol2.gui
 Targeting Station 2
-定位站2
+2号定位站
 
 > #str_01150
 ; delta3/telecontrol2.gui
 scanning loc 3421,1291
-扫描搜寻 3421,1291
+扫描位置 3421,1291
 
 > #str_01151
 ; delta3/telecontrol2.gui
 scanning loc 3465,1339
-扫描搜寻 3465,1339
+扫描位置 3465,1339
 
 > #str_01152
 ; delta3/telecontrol2.gui
 scanning loc 3382,1487
-扫描搜寻 3382,1487
+扫描位置 3382,1487
 
 > #str_01153
 ; delta3/telecontrol2.gui
 scanning loc 4146,1572
-扫描搜寻 4146,1572
+扫描位置 4146,1572
 
 > #str_01154
 ; delta3/telecontrol2.gui
 scanning loc 4029,1673
-扫描搜寻 4029,1673
+扫描位置 4029,1673
 
 > #str_01155
 ; delta3/telecontrol2.gui
@@ -7918,7 +7918,7 @@ Teleporter Station 2"""
 目标 - 主平台
 
 激活控制准备完毕于
-传送站2"""
+2号传送站"""
 
 > #str_01158
 ; delta3/telecontrol2.gui delta3/teleport2.gui
@@ -7947,7 +7947,7 @@ Teleporter Station 2"""
 目标 - 走廊平台
 
 激活控制准备完毕于
-传送站2"""
+2号传送站"""
 
 > #str_01161
 ; delta3/telecontrol2.gui delta3/telecontrol3.gui delta3/teleport2.gui delta3/teleport3.gui
@@ -7976,7 +7976,7 @@ Teleporter Station 2"""
 目标 - 仓库平台
 
 激活控制准备完毕于
-传送站2"""
+2号传送站"""
 
 > #str_01164
 ; delta3/telecontrol2.gui
@@ -8000,12 +8000,12 @@ Pad serial 4512 located - Pad 3"""
 > #str_01167
 ; delta3/telecontrol3.gui
 CONTROL STATION 3
-控制台3
+3号控制站
 
 > #str_01168
 ; delta3/telecontrol3.gui delta3/teleport3.gui
 TELEPORTER STATION 3
-传送站3
+3号传送站
 
 > #str_01169
 ; delta3/telecontrol3.gui
@@ -8037,7 +8037,7 @@ Teleporter Station 3"""
 目标 - 出口平台
 
 激活控制准备完毕于
-传送站3"""
+3号传送站"""
 
 > #str_01173
 ; delta3/telecontrol3.gui delta3/teleport3.gui
@@ -8073,7 +8073,7 @@ Teleporter Station 3"""
 目标 - 安保平台
 
 激活控制准备完毕于
-传送站3"""
+3号传送站"""
 
 > #str_01177
 ; delta3/telecontrol3.gui
@@ -8090,7 +8090,7 @@ Teleporter Station 3"""
 目标 - 仓库平台
 
 激活控制准备完毕于
-传送站3"""
+3号传送站"""
 
 > #str_01178
 ; delta3/telecontrol3.gui delta3/teleport3.gui
@@ -8114,7 +8114,7 @@ Teleporter Station 3"""
 目标 - 走廊平台
 
 激活控制准备完毕于
-传送站3"""
+3号传送站"""
 
 > #str_01180
 ; delta3/teleport1.gui delta3/teleport2.gui delta3/teleport3.gui
@@ -8124,17 +8124,17 @@ NO TELEPORT DESTINATION SELECTED
 > #str_01181
 ; delta3/teleport1.gui
 SET DESTINATION AT CONTROL STATION 1
-设置终点到控制中心1
+设置终点到1号控制站
 
 > #str_01182
 ; delta3/teleport2.gui
 SET DESTINATION AT CONTROL STATION 2
-设置终点到控制中心2
+设置终点到2号控制站
 
 > #str_01183
 ; delta3/teleport3.gui
 SET DESTINATION AT CONTROL STATION 3
-设置终点到控制中心3
+设置终点到3号控制站
 
 > #str_01184
 ; doors/doorhazard.gui
@@ -8615,7 +8615,7 @@ BIG STUFF
 > #str_01269
 ; enpro/bridge_open.gui
 CHAMBER 1 ACCESS
-房间1通道
+1号房间通道
 
 > #str_01270
 ; enpro/bridge_open.gui
@@ -9725,14 +9725,14 @@ Update: 24 / 10 / 03
 > #str_01484
 ; _common/def/maps.def
 Caverns Area 1 is the location of the original Mars Base. While all research has been moved to newer structures, this aging facility still serves as the primary material transfer point between Area 2 and Site 3.
-洞穴区域1是原有火星基地的所在地。尽管所有研究已经移动到新的建筑中，这个老旧的设施仍然作为区域2和地点3之间主要的物资交换点。
+洞穴区域1是原有火星基地的所在地。尽管所有研究已经移动到新的建筑中，这个老旧的设施仍然作为2号区域和3号站点之间主要的物资交换点。
 
 > #str_01485
 ; _common/def/maps.def
 """Caverns Area 2 is the primary archeological excavation site. All items are processed
 and transported to Site 3 for evaluation and analysis."""
-"""洞穴区域2是主要的考古挖掘场。所有物品经过处理后
-被运输到地点3进行估价和分析。"""
+"""2号洞穴区域是主要的考古挖掘场。所有物品经过处理后
+被运输到3号站点进行估价和分析。"""
 
 > #str_01486
 ; _common/def/maps.def
@@ -9915,7 +9915,7 @@ The Recycling Plant is key to survival on Mars, processing waste products into u
 > #str_01511
 ; _common/def/maps.def
 Site 3 is the ground level access point to the original subterranean Mars base structure. Research objects from the lower levels are analyzed and studied in this facility.
-站点3是原火星地下基地建筑与地面的连接点，这里还进行下层科研项目的研究和分析。
+3号站点是原火星地下基地建筑与地面的连接点，这里还进行下层科研项目的研究和分析。
 
 > #str_01512
 The Edge 2
@@ -11348,7 +11348,7 @@ MONORAIL SECURITY SCANNER
 > #str_01663
 ; xian/monorail/enable.gui
 station 1
-站点1
+1号站点
 
 > #str_01664
 ; xian/monorail/enable.gui
@@ -11525,11 +11525,11 @@ BAY DOORS
 
 > #str_01697
 Chamber 1
-房间1
+1号房间
 
 > #str_01698
 Chamber 2
-房间2
+2号房间
 
 > #str_01699
 Destination Selected
@@ -12470,7 +12470,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20250916)
+新游戏 (汉化v20250917)
 
 > #str_01867
 Load Game
@@ -13980,7 +13980,7 @@ Close load game menu
 
 > #str_02213
 Load a saved game
-载入储存的游戏
+载入游戏存档
 
 > #str_02214
 Close multiplayer section
@@ -14562,7 +14562,7 @@ Close load game section
 
 > #str_02348
 Load a saved game
-载入存档
+载入游戏存档
 
 > #str_02349
 Select Difficulty and start a new game
@@ -15415,7 +15415,7 @@ Self powered chain-blade cutting tool. Part of a shipment incorrectly routed to 
 > #str_02542
 ; _common/def/weapon_soulcube.def
 An artifact discovered in the caverns excavation site. Research of the Cube's origin and function are ongoing.
-在洞穴的挖掘点发现了一个遗物。关于此魔方的功能与来源正在研究。
+在洞穴的挖掘场发现了一个遗物。关于此魔方的功能与来源正在研究。
 
 > #str_02543
 IDENTIFICATION  
@@ -15491,7 +15491,7 @@ Load
 
 > #str_02561
 load a saved game
-载入已保存游戏
+载入游戏存档
 
 > #str_02562
 Q[]
@@ -15876,7 +15876,7 @@ Administration
 > #str_02648
 ; admin:界面参数3 admin:界面参数1 hellhole:门.界面参数4 mars_city1:门.界面参数4 mars_city1:门.界面参数1 mars_city1:界面参数4 mars_city2:门.界面参数4
 Checkpoint
-检查点
+检查站
 
 > #str_02649
 ; admin:界面参数3 admin:物品目标.界面参数2
@@ -16012,7 +16012,7 @@ Find the key card
 > #str_02677
 ; comm1:界面参数4
 Maintenance
-维护
+维护站
 
 > #str_02678
 ; comm1:界面参数2
@@ -16119,7 +16119,7 @@ map_commoutside::lift_call_1
 > #str_02699
 ; commoutside:界面参数4 mc_underground:界面参数4
 AIRLOCK STATION 23
-气闸站23
+23号气闸站
 
 > #str_02700
 ; commoutside:PDA物品.名
@@ -16143,7 +16143,7 @@ LIFT AREA
 > #str_02704
 ; commoutside:界面参数4
 AIRLOCK STATION 24
-气闸站24
+24号气闸站
 
 > #str_02705
 ; commoutside:界面参数7 commoutside:PDA物品.名
@@ -16591,19 +16591,19 @@ Find Alternate Path
 > #str_02802
 ; delta3:界面参数7 delta3:地点.名 delta3:PDA物品.名
 Security Station 3
-安全中心3
+3号安全站
 
 > #str_02803
 Security Camera 3
-安防摄像机3
+3号安防摄像机
 
 > #str_02804
 SECURITY TERMINAL 2
-安全终端2
+2号安全终端
 
 > #str_02805
 TELEPORT 2  ACCESS
-传送器2使用权限
+2号传送器权限
 
 > #str_02806
 ; transfer/exit_delta5.gui marscity/comm1.gui marscity/comm3.gui
@@ -16621,7 +16621,7 @@ map_delta3::decon_cycle_door5
 > #str_02809
 ; delta3:界面参数1 delta3:地点.名 delta3:地点.位置
 Chamber 1 Access
-房间1通道
+1号房间通道
 
 > #str_02810
 map_delta3::teleport1_machine_ready
@@ -16690,7 +16690,7 @@ map_delta3::teleport3_control_up
 > #str_02826
 ; delta3:界面参数1 delta3:地点.名
 Chamber 2 Access
-房间2通道
+2号房间通道
 
 > #str_02827
 ; delta5:PDA物品.名 delta5:PDA物品.界面参数6 delta5:界面参数7
@@ -16785,7 +16785,7 @@ Kitchen Access
 > #str_02846
 ; hellhole:门.界面参数1 mars_city1:门.界面参数1
 Checkpoint
-储存点
+检查站
 
 > #str_02847
 ; mars_city1:界面参数1 mars_city2:界面参数1 marscity/elevatorcall.gui
@@ -16925,7 +16925,7 @@ Enter the Delta Complex
 > #str_02877
 ; monorail:界面参数1 monorail:界面参数2 monorail:界面参数3 monorail:界面参数7
 Site 2
-2号地点
+2号站点
 
 > #str_02878
 lifter2
@@ -17095,7 +17095,7 @@ Data Linker
 > #str_02914
 ; commoutside:界面参数2
 Security Station 01
-安全中心01
+01号安全站
 
 > #str_02915
 ; hellhole:地点.名 mars_city1:门.界面参数1 mars_city1:地点.名
@@ -17238,7 +17238,7 @@ Locate the entrance to Alpha Labs Sector 4.
 > #str_02943
 ; alphalabs3:物品目标.标题
 Alpha Labs Sector 4
-阿尔法实验室4区。
+阿尔法实验室4区
 
 > #str_02944
 ; alphalabs4:物品目标.内容
@@ -17466,7 +17466,7 @@ security_unlock
 > #str_02989
 ; cpuboss:界面参数3 transfer/exit_cpuboss.gui transfer/enter_site3.gui _common/def/maps.def
 Site 3
-站点3
+3号站点
 
 > #str_02990
 ; cpuboss:界面参数4
@@ -17476,7 +17476,7 @@ Sub Level 9
 > #str_02991
 ; cpuboss:界面参数1
 site 3 maintenance elevator
-3号挖掘场维护电梯
+3号站点维护电梯
 
 > #str_02992
 ; cpuboss:界面参数1
@@ -17496,7 +17496,7 @@ Brian Mora
 > #str_02995
 ; delta1:电梯.界面参数4 delta1:界面参数4 delta2b:界面参数1 delta5:电梯.界面参数4 delta5:界面参数4 le_enpro1:界面参数1 mars_city2:地点.位置
 Service Access
-服务通道
+服务访问
 
 > #str_02996
 ; delta1:物品目标.内容
@@ -17635,7 +17635,7 @@ Teleportation
 > #str_03023
 ; delta2b:界面参数4
 Storage 07
-储藏室07
+仓库07
 
 > #str_03024
 ; delta2b:界面参数1 delta2b:PDA物品.名
@@ -17927,12 +17927,12 @@ Reach Old Comm Building
 > #str_03082
 ; mc_underground:物品目标.内容
 Make your way back to the Security Checkpoint.  From there you can take the elevator back up to Mars City.
-设法去安全检查点。在哪里你可以坐电梯回火星城。
+设法去安全检查站。在哪里你可以坐电梯回火星城。
 
 > #str_03083
 ; mc_underground:物品目标.标题 mc_underground:物品目标完成.标题
 Back to security checkpoint
-回到安全检查点
+回到安全检查站
 
 > #str_03084
 ; d3dm4:对战背包物品名 _common/def/d3xp-items.def
@@ -18005,7 +18005,7 @@ Gain security clearance for all Site3 areas
 > #str_03098
 ; site3:电梯.界面参数4 site3:界面参数4
 Site 3 Hub
-站点3中枢
+3号站点中枢
 
 > #str_03099
 ; site3:界面参数7 site3:PDA物品.名
@@ -18463,7 +18463,7 @@ MAINTENANCE REPAIR
 > #str_03175
 ; commoutside/co_unlock.gui
 SECURITY STATION 01
-安全中心01
+01号安全站
 
 > #str_03176
 ; commoutside/co_unlock.gui
@@ -19500,7 +19500,7 @@ UNFOCUS SCANNER
 > #str_03360
 ; delta2b/conveyor_system.gui
 STASIS CHAMBERS
-静滞场
+静滞舱
 
 > #str_03361
 ; delta2b/conveyor_system.gui
@@ -19577,7 +19577,7 @@ ACTIVATE CONVEYOR
 > #str_03373
 ; delta2b/demon1.gui
 STASIS CHAMBER 1 MONITOR
-静滞场1监控
+1号静滞舱监控
 
 > #str_03374
 ; delta2b/demon1.gui
@@ -19596,7 +19596,7 @@ GENOME MAPPING
 STASIS DATE: 07-12-45"""
 """当前研究
 基因组绘制
-稳定日期: 45-07-12"""
+静滞日期: 45-07-12"""
 
 > #str_03377
 ; delta2b/demon1.gui
@@ -19616,7 +19616,7 @@ REPORT SENT TO PDA
 > #str_03380
 ; delta2b/demon2.gui
 STASIS CHAMBER 2 MONITOR
-静滞场2监控
+2号静滞舱监控
 
 > #str_03381
 ; delta2b/demon2.gui
@@ -19631,12 +19631,12 @@ NO FILE
 > #str_03383
 ; delta2b/demon2.gui
 NO CURRENT SPECIMEN REGISTERED FOR CHAMBER 2
-当前2号室没有登记样本
+当前2号舱室没有登记样本
 
 > #str_03384
 ; delta2b/demon3.gui
 STASIS CHAMBER 3 MONITOR
-静滞场3监控
+3号静滞舱监控
 
 > #str_03385
 ; delta2b/demon3.gui
@@ -19650,7 +19650,7 @@ GENOME MAPPING
 STASIS DATE: 11-02-44"""
 """当前研究
 基因组绘制
-稳定日期: 44-11-02"""
+静滞日期: 44-11-02"""
 
 > #str_03387
 ; delta2b/demon3.gui
@@ -19660,7 +19660,7 @@ GCAGCTTTGCCTG
 > #str_03388
 ; delta2b/demon4.gui
 STASIS CHAMBER 4 MONITOR
-静滞场4监控
+4号静滞舱监控
 
 > #str_03389
 ; delta2b/demon4.gui
@@ -19674,7 +19674,7 @@ GENOME MAPPING
 STASIS DATE: 01-15-44"""
 """当前研究
 基因组绘制
-稳定日期: 44-01-15"""
+静滞日期: 44-01-15"""
 
 > #str_03391
 ; delta2b/demon4.gui
@@ -19684,7 +19684,7 @@ CGATCCTGC - - - -
 > #str_03392
 ; delta2b/demon5.gui
 STASIS CHAMBER 5 MONITOR
-静滞场5监控
+5号静滞舱监控
 
 > #str_03393
 ; delta2b/demon5.gui
@@ -19698,7 +19698,7 @@ GENOME MAPPING
 STASIS DATE: 02-05-44"""
 """当前研究
 基因组绘制
-稳定日期: 44-02-05"""
+静滞日期: 44-02-05"""
 
 > #str_03395
 ; delta2b/demon5.gui
@@ -19708,7 +19708,7 @@ TCGTACAGTCGTC
 > #str_03396
 ; delta2b/demon6.gui
 STASIS CHAMBER 6 MONITOR
-静滞场6监控
+6号静滞舱监控
 
 > #str_03397
 ; delta2b/demon6.gui
@@ -19722,7 +19722,7 @@ GENOME MAPPING
 STASIS DATE: 09-27-45"""
 """当前研究
 基因组绘制
-稳定日期: 45-09-27"""
+静滞日期: 45-09-27"""
 
 > #str_03399
 ; delta2b/demon6.gui
@@ -19931,7 +19931,7 @@ Discovered in Caverns archaeological dig Site 3
 Research report filed November 14, 2145"""
 """遗物ID: U1
 
-在洞穴考古挖掘的3号挖掘点发现
+在洞穴考古挖掘的3号挖掘站点发现
 
 研究报告于2145年11月14日送交。"""
 
@@ -20298,7 +20298,7 @@ CAVERNS - AREA 1
 > #str_03479
 ; _common/def/maps.def
 Excavation Transfer
-坑道传输
+挖掘场传输站
 
 > #str_03480
 CAVERNS - AREA 2
@@ -20307,7 +20307,7 @@ CAVERNS - AREA 2
 > #str_03481
 ; _common/def/maps.def
 Artifact Excavation
-遗物挖掘
+遗物挖掘场
 
 > #str_03482
 ; _common/def/maps.def
@@ -20386,11 +20386,11 @@ Energy Processing and Storage
 > #str_03499
 ; _common/def/maps.def
 The primary excavation site houses the ancient burial chamber. The discovery of this chamber unearthed the stone tablets, soul cube, and many other valuable artifacts.
-主发掘地里面包含了古代墓室。由于此墓室的发现，石碑，灵魂魔方以及许多其它很有价值的遗物都被发掘了出来。
+主挖掘场里面包含了古代墓室。由于此墓室的发现，石碑，灵魂魔方以及许多其它很有价值的遗物都被发掘了出来。
 
 > #str_03500
 PRIMARY EXCAVATION
-主要挖掘点
+主挖掘场
 
 > #str_03501
 ; _common/def/maps.def
@@ -20437,7 +20437,7 @@ Waste Recycling Center
 > #str_03510
 ; transfer/exit_site3.gui
 SITE 3
-区域3
+3号站点
 
 > #str_03511
 ; _common/def/maps.def
@@ -21151,7 +21151,7 @@ SCIENCE LAB"""
 
 来自
 德尔塔实验室
-第4站
+4号站
 
 科学实验室"""
 
@@ -21175,7 +21175,7 @@ CLOSED"""
 > #str_03622
 ; marscity/comm1mp.gui marscity/comm1.gui marscity/comm3.gui
 MARS CITY COMM STATION 1
-火星城通讯站1
+火星城1号通讯站
 
 > #str_03623
 ; marscity/comm1mp.gui le_enpro1/meyers_contact.gui marscity/comm1.gui marscity/comm3.gui
@@ -22719,7 +22719,7 @@ CLICK TO ACTIVATE
 > #str_03861
 ; monorail/stop1.gui
 MONORAIL AIRLOCK - SITE 2
-单轨铁路气闸 - 位置2
+单轨铁路气闸 - 2号站点
 
 > #str_03862
 ; monorail/stop1.gui
@@ -22732,14 +22732,14 @@ Work Safe"""
 """管理员安全码授权
 
 已接受安全覆盖
-已移除2号地点封锁
+已移除2号站点封锁
 
 安全工作"""
 
 > #str_03863
 ; monorail/stop1.gui
 Site 2 Airlock sealed by Administrator
-2号地点的气闸被管理员封闭
+2号站点的气闸被管理员封闭
 
 > #str_03864
 ; monorail/stop1.gui
@@ -23498,7 +23498,7 @@ IN TRANSIT
 ; site3/calltransport.gui
 """UNLOCK SITE 3
 FREIGHT LOADER"""
-"""解锁挖掘场3
+"""解锁3号站点
 货物装载器"""
 
 > #str_03995
@@ -23670,7 +23670,7 @@ Enpro Facility
 > #str_04025
 ; transfer/exit_caverns2.gui transfer/enter_hellhole.gui
 Excavation
-坑道
+挖掘场
 
 > #str_04026
 ; transfer/exit_comm1.gui transfer/enter_recycling1.gui
@@ -23774,7 +23774,7 @@ EPR光束未找到"""
 > #str_04045
 ; transfer/hell.gui
 TELEPORTER STATION 6
-传送站6
+6号传送站
 
 > #str_04046
 ; weapons/bfg.gui
@@ -25451,12 +25451,12 @@ EFR脱离
 > #str_04422
 ; alphalabs4:地点.名
 Reactor Sub Station 1
-反应堆分站1
+反应堆地下站1
 
 > #str_04423
 ; alphalabs4:地点.名
 EFR Sub Station 1
-EFR分站1
+EFR地下站1
 
 > #str_04424
 ; alphalabs4:地点.名
@@ -25476,7 +25476,7 @@ EFR远程访问连接点1
 > #str_04427
 ; alphalabs4:地点.名
 EFR Substation 2
-EFR地下站2
+EFR分站2
 
 > #str_04428
 ; alphalabs4:地点.名
@@ -25491,7 +25491,7 @@ EFR远程访问连接点2
 > #str_04430
 ; alphalabs4:地点.名
 EFR Substation 3
-EFR地下站3
+EFR分站3
 
 > #str_04431
 ; alphalabs4:地点.名
@@ -25551,7 +25551,7 @@ Air Lock
 > #str_04442
 ; caverns1:地点.名
 Sub Station 3 Transfer Point
-地下站点3转移点
+3号地下站转移点
 
 > #str_04443
 ; caverns1:地点.名
@@ -25601,7 +25601,7 @@ Sub Chamber 2
 > #str_04452
 ; caverns1:地点.名
 Storage 2D
-储存室2D
+储藏室2D
 
 > #str_04453
 ; caverns1:地点.名
@@ -25671,7 +25671,7 @@ Levitation Site
 > #str_04466
 ; caverns2:地点.名
 Excavation Transfer Lift
-坑道运输升降梯
+挖掘场传输升降梯
 
 > #str_04467
 ; caverns2:地点.名
@@ -25681,12 +25681,12 @@ Main Excavation
 > #str_04468
 ; caverns2:地点.名
 Sub Station 3
-地下站点3
+3号地下站
 
 > #str_04469
 ; caverns2:地点.名
 Station 3 Storage
-站点3存储
+3号站仓库
 
 > #str_04470
 ; caverns2:地点.名
@@ -25981,7 +25981,7 @@ CPU
 > #str_04528
 ; cpuboss:地点.名
 Storage 1
-储存室1
+仓库1
 
 > #str_04529
 ; cpuboss:地点.名
@@ -25991,7 +25991,7 @@ Armory
 > #str_04530
 ; cpuboss:地点.名
 Main Storage
-主储藏室
+主仓库
 
 > #str_04531
 ; cpuboss:地点.名
@@ -26081,7 +26081,7 @@ Delta Service Warehouse
 > #str_04548
 ; delta1:地点.名
 Storage Room 21-D
-储存室21-D
+储藏室21-D
 
 > #str_04549
 ; delta1:地点.名
@@ -26346,7 +26346,7 @@ Research Control
 > #str_04601
 ; delta2b:地点.名
 Stasis Chamber
-淤积室
+静滞舱
 
 > #str_04602
 ; delta2b:地点.名
@@ -26376,7 +26376,7 @@ Upper Office Corridor
 > #str_04607
 ; delta2b:地点.名
 Stasis Control Junction
-淤积控制连接点
+静滞控制连接点
 
 > #str_04608
 ; delta2b:地点.名
@@ -26386,17 +26386,17 @@ Maintenance Area 4
 > #str_04609
 ; delta2b:地点.名
 Stasis Transfer
-淤积转移
+静滞传送
 
 > #str_04610
 ; delta2b:地点.名
 Stasis Transfer 002
-淤积转移002
+静滞传送002
 
 > #str_04611
 ; delta2b:地点.名
 Stasis Transfer Control
-淤积转移控制
+静滞传送控制
 
 > #str_04612
 ; delta2b:地点.名
@@ -26421,7 +26421,7 @@ Analysis Corridor
 > #str_04616
 ; delta2b:地点.名
 Secure Storage
-安全仓库
+安保仓库
 
 > #str_04617
 ; delta2b:地点.名
@@ -26456,12 +26456,12 @@ Lift floor1
 > #str_04623
 ; delta3:地点.名
 Security Station 1
-安全站1
+1号安全站
 
 > #str_04624
 ; delta3:地点.名
 Decon Chamber 1- lower
-净化舱1-下层
+1号净化舱-下层
 
 > #str_04625
 ; delta3:地点.名
@@ -26471,7 +26471,7 @@ Lower Terminal Office
 > #str_04626
 ; delta3:地点.名
 Chamber 1 Terminal - lower
-房间1终点 - 下层
+1号房间终点 - 下层
 
 > #str_04627
 ; delta3:地点.名
@@ -26486,17 +26486,17 @@ T1观察区 - 低层
 > #str_04629
 ; delta3:地点.名
 Teleport Station 1
-传送站1
+1号传送站
 
 > #str_04630
 ; delta3:地点.名
 Decon Chamber 1- upper
-净化舱1-上层
+1号净化舱-上层
 
 > #str_04631
 ; delta3:地点.名
 Chamber 1 Storage
-房间1仓库
+1号房间仓库
 
 > #str_04632
 ; delta3:地点.名
@@ -26516,22 +26516,22 @@ Terminal Processing
 > #str_04635
 ; delta3:地点.名
 Chamber 2 Terminal
-房间2终点
+2号房间终点
 
 > #str_04636
 ; delta3:地点.名
 Security Station 2
-安全中心2
+2号安全站
 
 > #str_04637
 ; delta3:地点.名
 Chamber 2 Storage
-房间2仓库
+2号房间仓库
 
 > #str_04638
 ; delta3:地点.名
 Teleport Station 2
-传送站2
+2号传送站
 
 > #str_04639
 ; delta3:地点.名
@@ -26561,22 +26561,22 @@ HST观察
 > #str_04644
 ; delta3:地点.名
 Chamber 3 Control Access
-房间3控制通道
+3号房间控制通道
 
 > #str_04645
 ; delta3:地点.名
 Chamber 3 Control
-房间3控制
+3号房间控制
 
 > #str_04646
 ; delta3:地点.名
 Decon Chamber 3
-净化舱3
+3号净化舱
 
 > #str_04647
 ; delta3:地点.名
 Teleport Station 3
-传送站3
+3号传送站
 
 > #str_04648
 ; delta3:地点.名 delta5:地点.名
@@ -26606,12 +26606,12 @@ Terminal Office Storage
 > #str_04653
 ; delta3:地点.名
 Chamber 2 Control
-房间2控制
+2号房间控制
 
 > #str_04654
 ; delta3:地点.名
 Chamber 1 Control
-房间1控制
+1号房间控制
 
 > #str_04655
 ; delta3:地点.名
@@ -26626,7 +26626,7 @@ Lower Storage
 > #str_04657
 ; delta3:地点.名
 Chamber 1 Terminal - upper
-房间1终点 - 上层
+1号房间终点 - 上层
 
 > #str_04658
 ; delta3:地点.名
@@ -26636,12 +26636,12 @@ T2平台1
 > #str_04659
 ; delta3:地点.名
 Chamber 3 Access
-房间3通道
+3号房间通道
 
 > #str_04660
 ; delta3:地点.名
 Chamber 3 Terminal
-房间3终点
+3号房间终点
 
 > #str_04661
 ; delta3:地点.名
@@ -26751,12 +26751,12 @@ Maintenance 1
 > #str_04682
 ; enpro:地点.名
 Chamber 1 Upper
-房间1上层
+1号房间上层
 
 > #str_04683
 ; enpro:地点.名
 Chamber 2
-房间2
+2号房间
 
 > #str_04684
 ; enpro:地点.名
@@ -26766,12 +26766,12 @@ Control 2
 > #str_04685
 ; enpro:地点.名
 Storage
-储存室
+仓库
 
 > #str_04686
 ; enpro:地点.名
 Plasma Storage
-等离子储存
+等离子仓库
 
 > #str_04687
 ; enpro:地点.名
@@ -26816,7 +26816,7 @@ Transfer Bay
 > #str_04695
 ; enpro:地点.名
 Chamber 1 Lower
-房间1下层
+1号房间下层
 
 > #str_04696
 ; enpro:地点.名
@@ -26841,7 +26841,7 @@ Chamber of the Hero
 > #str_04700
 ; hellhole:地点.名
 Sub Level 4 Excavation
-地下4层发掘地
+地下4层挖掘场
 
 > #str_04701
 ; hellhole:地点.名
@@ -26951,7 +26951,7 @@ Infirmary Access Junction
 > #str_04722
 ; mc_underground:地点.名
 Underground Security Checkpoint
-地下安保检查点
+地下安保检查站
 
 > #str_04723
 ; mc_underground:地点.名
@@ -26966,12 +26966,12 @@ Energy Stabilization Unit
 > #str_04725
 ; mc_underground:地点.名
 Convergence Chamber 1
-收敛舱1
+1号收敛舱
 
 > #str_04726
 ; mc_underground:地点.名
 Convergence Chamber 2
-收敛舱2
+2号收敛舱
 
 > #str_04727
 ; mc_underground:地点.名
@@ -27076,7 +27076,7 @@ MR气闸04
 > #str_04747
 ; monorail:地点.名
 Site 2 Boarding Platform
-站点2站台
+2号站点站台
 
 > #str_04748
 ; monorail:地点.名
@@ -27086,7 +27086,7 @@ MR气闸05
 > #str_04749
 ; monorail:地点.名
 Site 2 Access Walkway
-站点2连接步道
+2号站点入口步道
 
 > #str_04750
 ; monorail:地点.名
@@ -27121,7 +27121,7 @@ Monorail Waiting Area
 > #str_04756
 ; monorail:地点.名
 Monorail Security Checkpoint
-单轨安全检查点
+单轨安保检查站
 
 > #str_04757
 ; monorail:地点.名
@@ -27156,7 +27156,7 @@ Engineering Access Hatch 08
 > #str_04763
 ; monorail:地点.名
 Site 2 Transfer Area
-站点2传送区
+2号站点传送区
 
 > #str_04764
 PDA Room
@@ -27280,7 +27280,7 @@ Underground Hazard Disposal
 > #str_04788
 ; recycling2:地点.名
 Storage Room1
-储存室1
+储藏室1
 
 > #str_04789
 ; recycling2:地点.名
@@ -27494,22 +27494,22 @@ OVERRIDE
 > #str_04831
 ; controlpanels/epd1a.gui
 MONITOR STATION 1
-监控站1
+1号监控站
 
 > #str_04832
 ; controlpanels/epd1b.gui
 MONITOR STATION 2
-监控站2
+2号监控站
 
 > #str_04833
 ; controlpanels/epd2b.gui
 MONITOR STATION 3
-监控站3
+3号监控站
 
 > #str_04834
 ; controlpanels/epd2a.gui
 MONITOR STATION 4
-监控站4
+4号监控站
 
 > #str_04835
 ; controlpanels/epd1b.gui controlpanels/epd2b.gui
@@ -27712,7 +27712,7 @@ Delta Authority Lobby
 > #str_06686
 ; delta1:地点.位置 delta5:地点.位置
 Lift Access and Storage
-升降梯通道和储藏室
+升降梯通道和仓库
 
 > #str_06687
 ; delta1:地点.位置 delta5:地点.位置
@@ -28045,7 +28045,7 @@ Connecting to %s
 > #str_06752
 """Can't connect to the pure server at %s:
 """
-"""无法在%s内连接到pure服务器
+"""无法在%s连接到纯净服务器
 """
 
 > #str_06753
@@ -28908,7 +28908,7 @@ Caverns Area 2
 > #str_07169
 ; _common/def/maps.def
 Primary Excavation Site
-主要撤离点
+主挖掘场
 
 > #str_07170
 ; _common/def/maps.def
@@ -29001,7 +29001,7 @@ Checking
 
 > #str_07190
 N/A
-N/A
+无
 
 > #str_07191
 Logging in to authorize server
@@ -29263,7 +29263,7 @@ d3ctf1 - 空洞交叉口
 
 > #str_11114
 d3ctf2 - Pump Station 02
-d3ctf2 - 泵站02
+d3ctf2 - 02号泵站
 
 > #str_11115
 d3ctf3 - Power-Up Lab
@@ -29734,7 +29734,7 @@ SITE ONE IN NEED OF BACKUP
 """--消息开始--
 立即请求支援
 
-1号挖掘点请求支援
+一号站点需要支援
 """
 
 > #str_00100005
@@ -29745,7 +29745,7 @@ SITE ONE IN NEED OF BACKUP
 BETRU"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁"""
 
@@ -29757,7 +29757,7 @@ SITE ONE IN NEED OF BACKUP
 BETRUGER AP"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁格似"""
 
@@ -29769,7 +29769,7 @@ SITE ONE IN NEED OF BACKUP
 BETRUGER APPEARS TO"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁格似乎"""
 
@@ -29781,7 +29781,7 @@ SITE ONE IN NEED OF BACKUP
 BETRUGER APPEARS TO HAVE"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁格似乎已经"""
 
@@ -29793,7 +29793,7 @@ SITE ONE IN NEED OF BACKUP
 BETRUGER APPEARS TO HAVE ESTABLI"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁格似乎已经建"""
 
@@ -29805,7 +29805,7 @@ SITE ONE IN NEED OF BACKUP
 BETRUGER APPEARS TO HAVE ESTABLISHED CONTACT"""
 """已立即请求增援
 
-1号站点需要支援
+一号站点需要支援
 
 贝特鲁格似乎已经建立了联络"""
 
@@ -29851,20 +29851,20 @@ ZA11 0SLGGHQ SGRG TM |
 
 > #str_00100015
 SITE ONE ACCESS STATION
-区域一访问站
+一号站点访问站
 
 > #str_00100016
 ; erebus1:物品目标完成.标题 erebus1:物品目标.标题
 Excavation Elevator
-坑道电梯
+挖掘场电梯
 
 > #str_00100017
 Excavation One
-坑道一
+一号挖掘场
 
 > #str_00100018
 Excavation Two
-坑道二
+二号挖掘场
 
 > #str_00100019
 Medical Server Room
@@ -29873,12 +29873,12 @@ Medical Server Room
 > #str_00100020
 ; erebus3:物品目标.标题 erebus3:物品目标完成.标题 erebus3:地点.名 erebus3:界面参数1
 Artifact Storage
-遗物存储区
+遗物储藏区
 
 > #str_00100021
 ; erebus3:地点.界面参数1 erebus3:地点.位置
 Artifact Storage Control
-遗物存储区控制
+遗物储藏区控制
 
 > #str_00100022
 Receiving
@@ -29887,18 +29887,18 @@ Receiving
 > #str_00100023
 ; erebus3/vent_storage.gui erebus3/vent_storage2.gui
 ARTIFACT STORAGE
-遗物存储区
+遗物储藏区
 
 > #str_00100024
 ; erebus3/vent_storage.gui
 """VENT ARTIFACT
 STORAGE"""
-"""遗物存储区
+"""遗物储藏区
 出口"""
 
 > #str_00100025
 Main Storage
-主存储区
+主仓库
 
 > #str_00100026
 Hangar
@@ -29916,7 +29916,7 @@ INITIATE STARTUP SEQUENCE
 
 > #str_00100029
 D3XPDM1 - EXCAVATION
-D3XPDM1 - 挖掘点
+D3XPDM1 - 挖掘场
 
 > #str_00100030
 D3XPDM2 - HELL'S PLAYGROUND
@@ -29942,7 +29942,7 @@ Union Aerospace Research Division
 > #str_00100035
 ; _common/def/maps.def
 This excavation site is the focal point of the archeological dig at Site 1. Here, deep inside the surface of Mars, numerous alien caves and artifacts have been discovered.
-这个发掘地是1号站里面考古挖掘的焦点。在这里，火星表面地下深层，发掘出了许多的外星人洞窟和遗物。
+这个挖掘场是1号站点里面考古挖掘的焦点。在这里，火星表面地下深层，发掘出了许多的外星人洞窟和遗物。
 
 > #str_00100036
 ; _common/def/maps.def
@@ -29957,7 +29957,7 @@ Main Excavation
 > #str_00100038
 ; _common/def/maps.def
 Located just past the ancient caverns, the Artifact Storage facility is a depository for the wide variety of objects discovered within Site 1. Seismic activity is prevalent in the area, so the storage facility is protected using patented UAC shock reduction technology.
-找到刚经过的古老洞穴，遗物储存设施填满了各种各样在1号地区发现的挖掘物。地震活动在此地区时有发生，所以储存设施使用了UAC特有的专利减震技术来保护。
+找到刚经过的古老洞穴，遗物储存设施填满了各种各样在1号站点发现的挖掘物。地震活动在此地区时有发生，所以储存设施使用了UAC特有的专利减震技术来保护。
 
 > #str_00100039
 ; _common/def/maps.def
@@ -29995,7 +29995,7 @@ Waste Management
 > #str_00100046
 ; _common/def/maps.def
 Site 1 is comprised of two major facilities, the Erebus Complex and Phobos Labs. Monorails leave from Erebus Station to Phobos - Sector 1 at regularly scheduled intervals.
-站点1包含两个主要设施，厄瑞玻斯综合设施和火卫一实验室。在厄瑞玻斯站和火卫一第1区之间有定时的单轨列车通行。
+1号站点包含两个主要设施，厄瑞玻斯综合设施和火卫一实验室。在厄瑞玻斯站和火卫一第1区之间有定时的单轨列车通行。
 
 > #str_00100047
 ; transfer/exit_erebus6.gui
@@ -30005,7 +30005,7 @@ EREBUS STATION
 > #str_00100048
 ; _common/def/maps.def
 While the Phobos Labs play host to a wide array of research, Sector 1 is primarily concerned with the advancement of teleportation technology. A sister teleportation facility has been constructed in the Delta Labs, located at Site 3.
-火卫一实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于站点3的德尔塔实验室内建造了一个姊妹传送设施。
+火卫一实验室里面进行着多项研究，而1区则主要集中在传送技术的开发改良上。位于3号站点的德尔塔实验室内建造了一个姊妹传送设施。
 
 > #str_00100049
 PHOBOS LABS - SECTOR 1
@@ -30019,7 +30019,7 @@ Teleportation
 > #str_00100051
 ; _common/def/maps.def
 In addition to providing state of the art lab facilities for renowned scientist Dr. Elizabeth McNeil and her team, this sector also contains many of Site 1's important sub-systems.
-除了提供著名科学家伊丽莎白·麦克内尔博士和她的团队最先进的实验室设施，该部门还包含了1号地区的重要子系统。
+除了提供著名科学家伊丽莎白·麦克内尔博士和她的团队最先进的实验室设施，该部门还包含了1号站点的重要子系统。
 
 > #str_00100052
 PHOBOS LABS - SECTOR 2
@@ -30033,7 +30033,7 @@ Molecular Research
 > #str_00100054
 ; _common/def/maps.def
 Power requirements for Site 1 are enormous and are generated in Sector 3 by an extremely efficient Plasma Reactor. This revolutionary technology was developed by UAC scientists within the Phobos Labs.
-挖掘场1号所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在火卫一实验室内完成。
+1号站点所需电力巨大，由挖掘场3号的高效等离子反应堆供电。这项革命性技术由UAC科学家在火卫一实验室内完成。
 
 > #str_00100055
 PHOBOS LABS - SECTOR 3
@@ -30112,7 +30112,7 @@ CURRENT LOCATION
 > #str_00100070
 ; transfer/enter_erebus2.gui transfer/enter_erebus3.gui transfer/enter_erebus4.gui transfer/enter_erebus5.gui transfer/enter_erebus6.gui transfer/enter_phobos1.gui transfer/enter_phobos2.gui transfer/enter_phobos3.gui transfer/enter_phobos4.gui
 TRANSFER SUCCESSFUL
-中转成功
+传送成功
 
 > #str_00100071
 ; erebus4:界面参数3 erebus5:界面参数3 transfer/exit_erebus4.gui transfer/enter_erebus5.gui _common/def/maps.def
@@ -30769,7 +30769,7 @@ Medical
 > #str_00100220
 ; erebus2:界面参数1 erebus3:界面参数4 erebus3:电梯.界面参数4
 Excavation
-坑道
+挖掘场
 
 > #str_00100221
 Artifact Tablet
@@ -30782,7 +30782,7 @@ P.格伦
 
 > #str_00100223
 Two powercells should be all you need to clear the Artifact Storage.
-你应该只需要2块电池来清空遗物储存室。
+你应该只需要2块电池来清空遗物储藏室。
 
 > #str_00100224
 ; erebus3:物品目标.标题 erebus3:物品目标完成.标题
@@ -30795,7 +30795,7 @@ Blahblahblah
 
 > #str_00100226
 Erebus Excavation Two
-厄瑞玻斯二号遗迹
+厄瑞玻斯二号挖掘场
 
 > #str_00100227
 Escape the Erebus Complex
@@ -30821,7 +30821,7 @@ Storage Control
 
 > #str_00100232
 Excavation Two Access
-坑道二通路
+二号挖掘场通道
 
 > #str_00100233
 Level 2 Medical
@@ -30844,7 +30844,7 @@ Door PDA
 > #str_00100237
 ; erebus3:界面参数7 erebus3:界面参数1 erebus3:PDA物品.名
 Site 1 Research
-站点1调查
+1号站点研究
 
 > #str_00100238
 ; erebus3:PDA物品.名 phobos2:界面参数1
@@ -30859,7 +30859,7 @@ B.詹姆斯
 > #str_00100240
 ; erebus3:地点.位置 erebus4:地点.位置
 Excavation Receiving
-坑道接收室
+挖掘场接收室
 
 > #str_00100241
 ; erebus3:地点.位置 phobos1:地点.名
@@ -30884,11 +30884,11 @@ Medical Ward
 > #str_00100245
 ; erebus3:地点.位置 erebus4:地点.位置
 Excavation Systems
-坑道系统
+挖掘系统
 
 > #str_00100246
 Excavation Support
-坑道支持室
+挖掘场支持
 
 > #str_00100247
 ; erebus3:地点.位置
@@ -30897,7 +30897,7 @@ Artifact Storage Observation
 
 > #str_00100248
 Excavation Maintenance
-坑道维护室
+挖掘场维护
 
 > #str_00100249
 ; erebus3:地点.位置
@@ -30978,12 +30978,12 @@ Nicolas Haag
 > #str_00100265
 ; erebus6:界面参数4 phobos2:界面参数4 phobos3:界面参数4 phobos4:界面参数4
 AIRLOCK STATION 23
-气闸站23
+23号气闸站
 
 > #str_00100266
 ; phobos2:界面参数4 phobos3:界面参数4
 AIRLOCK STATION 24
-气闸站24
+24号气闸站
 
 > #str_00100267
 Reroute power to the Phobos Labs experimental teleporter and travel to Delta Complex.
@@ -31147,7 +31147,7 @@ Enviro Suit
 > #str_00100301
 ; phobos3:地点.位置
 Plasma Storage
-等离子储存
+等离子仓库
 
 > #str_00100302
 Step through teleporter..
@@ -31169,27 +31169,27 @@ Hydrogen Storage Transfer
 > #str_00100306
 ; deltax:地点.名
 Security Station 3
-安全中心3
+3号安全站
 
 > #str_00100307
 ; deltax:地点.名
 Decon Chamber 3
-净化舱3
+3号净化舱
 
 > #str_00100308
 ; deltax:地点.名
 Teleport Station 3
-传送站3
+3号传送站
 
 > #str_00100309
 ; deltax:地点.名
 Chamber 3 Access
-房间3通道
+3号房间通道
 
 > #str_00100310
 ; deltax:地点.名
 Chamber 3 Terminal
-房间3终点
+3号房间终点
 
 > #str_00100311
 info_location_1
@@ -31227,12 +31227,12 @@ Analysis Control
 
 > #str_00100319
 Security Storage
-安全仓库
+安保仓库
 
 > #str_00100320
 ; deltax:界面参数4
 Storage 07
-储存室07
+仓库07
 
 > #str_00100321
 ; deltax:界面参数4 deltax:界面参数1
@@ -31272,7 +31272,7 @@ Research Control
 > #str_00100328
 ; deltax:地点.名
 Stasis Chamber
-淤积室
+静滞舱
 
 > #str_00100329
 ; deltax:地点.名
@@ -31319,7 +31319,7 @@ The Seal
 > #str_00100338
 ; erebus2:PDA物品.名 erebus2:界面参数7
 Site One
-站点一
+一号站点
 
 > #str_00100339
 ; erebus1:地点.名 erebus2:地点.名 d3xpdm1:地点.位置
@@ -31329,7 +31329,7 @@ Ancient Portal
 > #str_00100340
 ; erebus2:目标提示
 AUDIO LOG - Head of Excavation
-音频日志 - 挖掘只会
+音频日志 - 挖掘场负责人
 
 > #str_00100341
 ; erebus2:目标提示
@@ -31353,12 +31353,12 @@ Elevator Bay
 > #str_00100345
 ; erebus2:地点.位置
 Excavation Control
-坑道控制
+挖掘场控制
 
 > #str_00100346
 ; erebus1:地点.位置 erebus2:地点.名
 Central Excavation
-中央掘探
+中央挖掘场
 
 > #str_00100347
 Access Hallway
@@ -31386,12 +31386,12 @@ Mechanical Support
 
 > #str_00100352
 Storage Access
-进入储存室
+仓库通道
 
 > #str_00100353
 ; erebus2:地点.位置
 Upper Storage
-上层储存室
+上层仓库
 
 > #str_00100354
 ; erebus2:PDA物品.名
@@ -31428,7 +31428,7 @@ Elevator Maintenance
 
 > #str_00100361
 Excavation Four
-坑道四
+四号挖掘场
 
 > #str_00100362
 ; erebus3:界面参数2
@@ -31447,7 +31447,7 @@ Sarge's Office
 
 > #str_00100365
 Excavation Three
-坑道三
+三号挖掘场
 
 > #str_00100366
 Ancient Trap
@@ -31518,7 +31518,7 @@ Administration Processing
 
 > #str_00100380
 Excavation Central Transfer
-坑道中央传输站
+挖掘场中央传输站
 
 > #str_00100381
 ; erebus4:地点.位置 erebus4:界面参数1
@@ -31547,16 +31547,16 @@ erebus4 exit
 
 > #str_00100386
 Trans Level 2
-转移等级2
+转移级别2
 
 > #str_00100387
 Trans Level 1
-转移等级1
+转移级别1
 
 > #str_00100388
 ; erebus4:地点.位置
 Administration Checkpoint
-管理部门检查点
+管理部门检查站
 
 > #str_00100389
 ; erebus4:地点.位置
@@ -31657,7 +31657,7 @@ General Access
 > #str_00100409
 ; erebus5:界面参数1 phobos1:电梯.界面参数3 phobos1:界面参数3 phobos1:地点.位置 phobos2:地点.位置
 Storage
-储存室
+仓库
 
 > #str_00100410
 ; erebus5:界面参数4 erebus5:界面参数2
@@ -31715,7 +31715,7 @@ Erebus Cargo Storage
 > #str_00100421
 ; erebus5:地点.位置
 Upper Cargo Storage
-上层货物储存室
+上层货物仓库
 
 > #str_00100422
 ; erebus5:地点.位置
@@ -31788,7 +31788,7 @@ Monorail Storage
 > #str_00100436
 ; erebus6:地点.位置
 Site One Surface
-站点1表面
+一号站点表面
 
 > #str_00100437
 ; erebus6:界面参数1
@@ -31803,7 +31803,7 @@ MAINTENANCE
 > #str_00100439
 ; erebus6:界面参数7 erebus6:PDA物品.名 phobos3:电梯.界面参数3 phobos3:界面参数3
 Maintenance
-维护
+维护站
 
 > #str_00100440
 ; erebus6:界面参数2
@@ -31907,7 +31907,7 @@ Teleporter Mechanical
 
 > #str_00100461
 Storage A
-储存室A
+仓库A
 
 > #str_00100462
 ; phobos1:地点.位置
@@ -31916,7 +31916,7 @@ Utility Closet
 
 > #str_00100463
 Storage B
-储存室B
+仓库B
 
 > #str_00100464
 ; phobos1:地点.位置
@@ -32012,7 +32012,7 @@ P4研究小队
 > #str_00100483
 ; phobos2:地点.位置
 Reception
-接受
+接待
 
 > #str_00100484
 ; phobos2:地点.位置
@@ -32213,7 +32213,7 @@ CALL LIFT
 > #str_00100525
 ; erebus2/e2_pda_ladder.gui erebus2/e2_pda_ladder_green.gui
 EXCAVATION LADDER
-坑道楼梯
+挖掘场楼梯
 
 > #str_00100526
 DEBRIS PROCESSING
@@ -32230,7 +32230,7 @@ MACHINERY OFFLINE
 > #str_00100529
 ; erebus4/e4_bridge_release.gui
 RELEASE BRIDGE
-放开桥梁
+放出桥梁
 
 > #str_00100530
 ; erebus5/erebus5_mcneil.gui
@@ -32278,7 +32278,7 @@ EREBUS - LEVEL ONE
 
 > #str_00100539
 Main Excavation - Site One
-主挖掘场 - 一号地点
+主挖掘场 - 一号站点
 
 > #str_00100540
 ; _common/def/maps.def
@@ -32460,7 +32460,7 @@ Medical Labs
 > #str_00100578
 ; erebus3:地点.位置
 Excavation Utility
-坑道设施
+挖掘场设施
 
 > #str_00100579
 ; erebus3:地点.位置
@@ -32470,7 +32470,7 @@ Level One
 > #str_00100580
 ; erebus3:地点.位置
 Site 1 Research Access
-站点1研究通道
+1号站点研究通道
 
 > #str_00100581
 ; erebus3:地点.位置
@@ -32581,7 +32581,7 @@ D3XPDM4 - 日食
 > #str_00100603
 ; _common/def/maps.def
 The Delta Complex is the most advanced research facility on Mars. Sector 1 contains the power systems, energy core distribution center, and services the administrative functions of the entire Delta Complex.
-德尔塔综合设施时火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
+德尔塔综合设施是火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。
 
 > #str_00100604
 Apply video and sound setting changes
@@ -32602,7 +32602,7 @@ You're going to need a couple of Power Cells in order to filter out the gas with
 > #str_00100608
 ; erebus3:物品目标.内容 erebus3:物品目标完成.内容
 Inside this facility is a tablet that Dr. McNeil needs to further her study. Make your way to Artifact Storage.
-这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储存室。
+这个设置里面有一部石板，麦克内尔博士需要它做深入研究。找到路去遗物储藏室。
 
 > #str_00100609
 ; erebus3:遗物板物品名 erebus3:目标标题 erebus4:移除物品名 _common/def/d3xp-items.def
@@ -32721,7 +32721,7 @@ Deployment Video
 > #str_00100636
 ; erebus1:地点.位置 d3xpdm1:地点.位置
 Excavation Hall
-坑道大厅
+挖掘场大厅
 
 > #str_00100637
 ; erebus1:地点.位置
@@ -32736,7 +32736,7 @@ Tunnel Access
 > #str_00100639
 ; erebus3:地点.位置
 Excavation Transfer Lift
-坑道运输升降梯
+挖掘场传输升降梯
 
 > #str_00100640
 ; erebus3:地点.位置 d3xpdm1:地点.位置
@@ -33160,7 +33160,7 @@ Locate two power cells to enable the Artifact Storage toxin filter system
 
 > #str_00100727
 Locate a power cell to start the lift in Excavation Central Transfer
-找到一个能量电池启动升降梯通往洞穴中心换乘站
+找到一个能量电池启动升降梯通往挖掘场中心传输站
 
 > #str_00100728
 ; erebus4:物品目标完成.标题 erebus4:物品目标.标题
@@ -33317,7 +33317,7 @@ Bell-State analysis inactive"""
 > #str_00100751
 ; phobos/teleporter_falsestart.gui
 Targeting Station 1
-定位站1
+1号定位站
 
 > #str_00100752
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33385,27 +33385,27 @@ Locating active destination pads"""
 > #str_00100761
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 scanning loc 1456,7891
-扫描地区 1456,7891
+扫描位置 1456,7891
 
 > #str_00100762
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 scanning loc 1412,8239
-扫描地区 1412,8239
+扫描位置 1412,8239
 
 > #str_00100763
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 scanning loc 1361,9187
-扫描地区 1361,9187
+扫描位置 1361,9187
 
 > #str_00100764
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 scanning loc 2198,8672
-扫描地区 2198,8672
+扫描位置 2198,8672
 
 > #str_00100765
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 scanning loc 2036,8173
-扫描地区 2036,8173
+扫描位置 2036,8173
 
 > #str_00100766
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33466,12 +33466,12 @@ ACTIVE PADS"""
 > #str_00100774
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 TARGETING
-瞄准
+定位
 
 > #str_00100775
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 TARGETING AREA
-目标区域
+定位区域
 
 > #str_00100776
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33481,7 +33481,7 @@ Targeting Stati
 > #str_00100777
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 Targeting St
-定位站
+定位
 
 > #str_00100778
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33496,12 +33496,12 @@ Targe
 > #str_00100780
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 Ta
-石
+定
 
 > #str_00100781
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 Lo
-载
+已
 
 > #str_00100782
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33564,7 +33564,7 @@ Teleporter Station 1"""
 目标 - 主平台
 
 激活控制准备完毕于
-传送站1"""
+1号传送站"""
 
 > #str_00100790
 RESEARCH AUXILIARY POWER
@@ -33741,7 +33741,7 @@ CLOSE MAINTENENCE HATCH
 
 > #str_00100831
 Site 1 contains numerous caverns and is the location of the latest UAC excavation.  The dig site has produced many new findings, including tablets that have provided UAC archeologists with important information on the Ancient race that once inhabited Mars.
-站点1分布着大量的洞穴，是UAC最新挖掘的地点。这里有很多新发现，包括那些为UAC考古学家提供信息用来研究火星远古物种的石碑。
+1号站点分布着大量的洞穴，是UAC最新的挖掘场。这里有很多新发现，包括那些为UAC考古学家提供信息用来研究火星远古物种的石碑。
 
 > #str_00100832
 ; _common/def/maps.def
@@ -33761,11 +33761,11 @@ TRANSFERING
 > #str_00100835
 ; transfer/exit_erebus1.gui
 MAIN EXCAVATION
-主洞穴
+主挖掘场
 
 > #str_00100840
 Pump Station 02 is one of the oldest surviving mechanical systems on Mars. Originally exposed to the Martian elements, human losses prompted its enclosure during the Delta Labs initiative.
-泵站02是火星上现存最古老的机器系统之一。最初暴露于火星元素，人员损失导致了这里的关闭。
+02号泵站是火星上现存最古老的机器系统之一。最初暴露于火星元素，人员损失导致了这里的关闭。
 
 > #str_00100841
 ; erebus2/e2_cavelift2.gui
@@ -33800,7 +33800,7 @@ ARTIFACT RESEARCH
 > #str_00100847
 ; erebus3/artifact.gui
 SITE 1 TABLET FRAGMENT
-区域1板子碎片
+1号站点板子碎片
 
 > #str_00100848
 ; erebus3/artifact.gui
@@ -33837,7 +33837,7 @@ UAC的研究基地在一次秘密的研究实验当中发生了灾难性的机�
 
 > #str_00100855
 An orbital probe records a faint unidentified signal broadcast from the abandoned Mars Site 1 complex.
-一个轨道探测器记录了一条未知信号，这条信号是由废弃的火星1号综合设施发来的。
+一个轨道探测器记录了一条未知信号，这条信号是由废弃的火星1号站点综合设施发来的。
 
 > #str_00100856
 The UAC announces the renewal of its Mars research program. Dr. Elizabeth McNeil is chosen to lead the primary assessment team.
@@ -34004,16 +34004,16 @@ Crane's PDA
 
 > #str_00100896
 Locate a power cell to start the lift in Excavation Central
-找到一个能量电池启动升降梯通往洞穴中心
+找到一个能量电池启动升降梯通往挖掘场中心
 
 > #str_00100897
 Locate a power cell to start the lift in Excavation Transfer
-找到一个能量电池启动升降梯通往洞穴换乘站
+找到一个能量电池启动升降梯通往挖掘场传输站
 
 > #str_00100898
 ; erebus4:地点.位置 erebus4:界面参数1
 Excavation Transfer
-坑道传输站
+挖掘场传输站
 
 > #str_00100899
 ; _common/def/d3xp-items.def
@@ -34062,7 +34062,7 @@ BRIDGE RELEASED
 > #str_00100911
 ; phobos/teleporter_startup.gui
 Targeting Station 3
-定位站3
+3号定位站
 
 > #str_00100912
 ; phobos/teleporter_startup.gui
@@ -34079,7 +34079,7 @@ Teleporter Station 3"""
 目标 - 主平台
 
 激活控制准备完毕于
-传送站3"""
+3号传送站"""
 
 > #str_00100913
 ; erebus4:界面参数2
@@ -34274,7 +34274,7 @@ Hell
 > #str_00100956
 ; _common/def/maps.def
 Excavation
-坑道
+挖掘场
 
 > #str_00100957
 ; _common/def/maps.def
@@ -34313,12 +34313,12 @@ Portal Junction
 > #str_00100964
 ; erebus2:地点.名
 Excavation Access
-坑道通路
+挖掘场通道
 
 > #str_00100965
 ; erebus2:地点.名
 Transfer Control
-转移控制
+传送控制
 
 > #str_00100966
 ; erebus1:目标标题
@@ -34680,7 +34680,7 @@ Locate two power cells to enable the Artifact Storage filtration system and acti
 > #str_00101039
 ; erebus4:物品目标完成.内容 erebus4:物品目标.内容
 Locate a power cell to start the lift in Excavation Transfer.
-找到一个能量电池启动升降梯通往洞穴换乘站
+找到一个能量电池启动挖掘场传输站内的升降梯
 
 > #str_00101040
 ; erebus4:物品目标.内容 erebus4:物品目标完成.内容
@@ -34739,7 +34739,7 @@ Programmer
 > #str_00101052
 ; erebus1:物品目标.内容
 Gain access to Excavation Elevator.
-进入挖掘电梯。
+进入挖掘场电梯。
 
 > #str_00101053
 ; erebus1:目标标题
@@ -35068,7 +35068,7 @@ CURRENT LOCATION
 > #str_00200061
 ; controlpanels/powerswitch_useonce.gui transfer/enter_le_underrgound2.gui
 TRANSFER SUCCESSFUL
-中转成功
+传送成功
 
 > #str_00200062
 ; le_underground2:界面参数1
@@ -35123,7 +35123,7 @@ TELEPORT CONTROL"""
 
 来自
 艾克西斯实验室
-站点1
+1号站点
 
 瞬间传送控制"""
 
@@ -35167,12 +35167,12 @@ Service Hall
 > #str_00200079
 ; le_enpro1:地点.位置
 Canister Fill Station 3
-罐装站3
+3号罐装站
 
 > #str_00200080
 ; le_enpro1:地点.位置
 Canister Fill Station 4
-罐装站4
+4号罐装站
 
 > #str_00200081
 ; le_enpro1:地点.位置 le_enpro2:地点.位置
@@ -35197,7 +35197,7 @@ Maintenance Access
 > #str_00200085
 ; le_enpro1:地点.位置
 Maintenance
-维护
+维护站
 
 > #str_00200086
 ; le_enpro1:地点.位置 le_enpro2:地点.位置
@@ -35386,7 +35386,7 @@ Transfer Overlook
 > #str_00200123
 ; le_underground:地点.位置
 Service Access
-服务访问
+服务通道
 
 > #str_00200124
 ; le_underground:地点.位置
@@ -35646,12 +35646,12 @@ Molecular Engineering Lab
 > #str_00200175
 ; le_exis2:地点.名
 Engineering Substation 1
-工程处变电站1
+工程处分站1
 
 > #str_00200176
 ; le_exis2:地点.名
 Engineering Access 6
-工程处通路6
+工程处通道6
 
 > #str_00200177
 ; le_exis2:地点.名
@@ -35694,7 +35694,7 @@ Environmental Systems
 > #str_00200185
 ; le_exis2:地点.名
 Systems Substation B
-系统变电站B
+系统分站B
 
 > #str_00200186
 ; le_exis2:地点.名
@@ -35749,7 +35749,7 @@ Main Level
 > #str_00200196
 ; le_exis2:界面参数4
 Substation A
-变电所A
+分站A
 
 > #str_00200197
 ; le_exis1:界面参数1
@@ -35900,7 +35900,7 @@ But the day of doom shall be the end of this time…
 > #str_00200226
 ; transfer/le_hell_post.gui
 OUTPOST STATION 1
-岗哨站1
+1号岗哨站
 
 > #str_adil_exis_pda_01_audio_info
 """Made by: Nasir Adil
@@ -38144,7 +38144,7 @@ Ben Wolfe
 
 > #str_comm1_wolfe_email_2_email_from
 Security Authority
-安全管理层
+安全局
 
 > #str_comm1_wolfe_email_2_email_subject
 RE: Request Security Access
@@ -38165,7 +38165,7 @@ Ben Wolfe"""
 
 ----原始邮件----
 发送日期: 2145-11-11
-收件人: 安全管理层
+收件人: 安全局
 
 本人特此正式请求进入通信设施的保密区域。作为一名军官，我认为这是必要的。
 
@@ -38252,7 +38252,7 @@ Shipping Authority
 
 > #str_commoutside_holiday_email_2_email_subject
 Site 1 needs
-需要站点1
+需要1号站点
 
 > #str_commoutside_holiday_email_2_email_text
 """The UAC has terminated all research at site 1.  This includes the McNeil Projects.  Arrangements for transportation and storage of useful equipment should be made immediately.
@@ -39832,7 +39832,7 @@ Thank You,
 Thomas Franks
 Delta Security, Clerk"""
 """雅各布，
-我们最近更改了停滞传输控制室附近储物箱的密码为: 3 7 1。请一定把这项作为本地安全细节注释在报告上。
+我们最近更改了静滞传送控制室附近储物箱的密码为: 3 7 1。请一定把这项作为本地安全细节注释在报告上。
 
 谢谢，
 托马斯·弗兰克斯
@@ -39848,7 +39848,7 @@ Jacob Stemmons
 
 > #str_delta2b_stemmons_email_2_email_from
 Maintenance
-维护
+维护站
 
 > #str_delta2b_stemmons_email_2_email_subject
 RE: Power out!!
@@ -40552,7 +40552,7 @@ Central Authority 'Demon Museum'"""
 
 > #str_demon_museum_video_name
 Specimen Stasis Museum
-物种血瘀博物馆
+物种静滞博物馆
 
 > #str_demonicinfo1_email_date
 11-16-2145
@@ -41882,7 +41882,7 @@ Erebus Labs
 
 > #str_erebus2_gregory_pda_security
 Site One
-站点一
+一号站点
 
 > #str_erebus2_gregory_pda_title
 Security
@@ -41900,7 +41900,7 @@ Set for Archive: Yes"""
 
 > #str_erebus2_tanner_audio_1_audio_name
 Excavation Anomalies
-坑道异常
+挖掘场异常
 
 > #str_erebus2_tanner_email_1_email_date
 3-14-2147
@@ -41970,7 +41970,7 @@ Director of Security - Site One"""
 如果还有问题，随时可以来联系我们。
 
 伊文斯
-安全主管 - 一号地点"""
+安全主管 - 一号站点"""
 
 > #str_erebus2_tanner_email_2_email_to
 Marcus Tanner
@@ -41994,7 +41994,7 @@ Erebus Labs
 
 > #str_erebus2_tanner_pda_security
 Site One
-站点一
+一号站点
 
 > #str_erebus2_tanner_pda_title
 Team Coordinator
@@ -42072,7 +42072,7 @@ Erebus Labs
 
 > #str_erebus2_weston_pda_security
 Site One
-站点一
+一号站点
 
 > #str_erebus2_weston_pda_title
 Security
@@ -42356,7 +42356,7 @@ Director of Security - Site One"""
 如果有问题请联系我们。
 
 伊文斯
-安全主管 - 一号地点"""
+安全主管 - 一号站点"""
 
 > #str_erebus3_glenn_email_3_email_to
 Preston Glenn
@@ -42568,7 +42568,7 @@ I will see you soon.
 发送日期: 2147-3-13
 收件人: 凯瑟琳·哈尔科夫 (k.kharkov@kpjNET)
 Kathrine,
-但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在麦克内尔博士下的一个项目内加班工作。据我所知，一号站获得了最高的优先度。我昨晚又打了斯托克一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。
+但愿家里一切都好。很期待几周内能够回去见你。对不起没有接到你的电话，但我一直在麦克内尔博士下的一个项目内加班工作。据我所知，一号站点获得了最高的优先度。我昨晚又打了斯托克一次，他真的得开始努力工作了！但愿下一轮的征兵能够真正地带来点挑战。
 
 我得回去工作了。也许我多加班一点他们能够让我提前回去。
 
@@ -42602,7 +42602,7 @@ Thanks again,
 -VK"""
 """我在外面发送和接收邮件都很麻烦。看来你们系统遇到的问题都反弹回来了。
 
-一号地区的其它地方最近也在报告同样的事情。你能为我们去看看吗？
+一号站点的其它地方最近也在报告同样的事情。你能为我们去看看吗？
 
 再次感谢，
 
@@ -42633,7 +42633,7 @@ To: Elizabeth McNeil
 The report is on the network. What is this about.. we don't have much time?
 
 -VK"""
-"""我刚才网上收到了你的报告。感谢你专心为之。我明天下午应该在一号地点。
+"""我刚才网上收到了你的报告。感谢你专心为之。我明天下午应该在一号站点。
 
 ----原始邮件----
 发送日期: 2147-3-14
@@ -42758,7 +42758,7 @@ Mac Smith
 
 > #str_erebus4_mac_pda_post
 Erebus Excavation
-厄瑞玻斯遗迹
+厄瑞玻斯挖掘场
 
 > #str_erebus4_mac_pda_security
 Offices
@@ -42826,7 +42826,7 @@ Nathan Reynolds
 
 > #str_erebus4_nathan_pda_post
 Erebus Excavation
-厄瑞玻斯遗迹
+厄瑞玻斯挖掘场
 
 > #str_erebus4_nathan_pda_security
 Offices
@@ -42864,7 +42864,7 @@ Director of Security - Site One"""
 如果还有问题，随时可以来联系我们。
 
 伊文斯
-安全主管 - 一号地点"""
+安全主管 - 一号站点"""
 
 > #str_erebus4_ron_email_1_email_to
 Ron Gibbons
@@ -42912,7 +42912,7 @@ Ron Gibbons
 
 > #str_erebus4_ron_pda_post
 Erebus Excavation
-厄瑞玻斯遗迹
+厄瑞玻斯挖掘场
 
 > #str_erebus4_ron_pda_security
 Offices
@@ -43212,7 +43212,7 @@ Director of Security - Site One"""
 如果还有问题，随时可以来联系我们。
 
 伊文斯
-安全主管 - 一号地点"""
+安全主管 - 一号站点"""
 
 > #str_erebus6_grossman_email_3_email_to
 Fred Grossman
@@ -44789,7 +44789,7 @@ Energy Processing Sector Two
 
 > #str_le_enpro_voss_pda_title
 Security Officer
-安防长官
+安防人员
 
 > #str_le_exis_adil_email_0_email_date
 11-13-2145
@@ -46657,7 +46657,7 @@ Mars City Underground
 
 > #str_mcunderground_ryan_pda_title
 Security Officer
-安防长官
+安防人员
 
 > #str_mcunderground_young_email_1_email_date
 11-15-2145
@@ -47087,7 +47087,7 @@ Set for Archive: No"""
 
 > #str_monorail_hollies_audio_1_audio_name
 EAP Policy Modification :: Site 2
-EAP政策更改 :: 2号地点
+EAP政策更改 :: 2号站点
 
 > #str_monorail_hollies_email_1_email_date
 10-11-2145
@@ -47099,7 +47099,7 @@ Yon Brady
 
 > #str_monorail_hollies_email_1_email_subject
 Site 2 Closure
-站点2关闭
+2号站点关闭
 
 > #str_monorail_hollies_email_1_email_text
 """Mr. Hollies,
@@ -47111,7 +47111,7 @@ Thank You,
 Yon Brady"""
 """霍利斯先生，
 
-我想汇报一下，2号地点的主隧道通道被封闭了。今天我会把室门密码移交给考古学部。
+我想汇报一下，2号站点的主隧道通道被封闭了。今天我会把室门密码移交给考古学部。
 从实用角度考虑，那些挖掘地点现在已经永远关闭了。
 
 谢谢，
@@ -47142,7 +47142,7 @@ Thank You,
 Yon Brady"""
 """霍利斯先生，
 
-按照你的要求，我已经把驻扎在2号地点的安保小队的所有弹药放在054号储物锁柜中了，密码是142。
+按照你的要求，我已经把驻扎在2号站点的安保小队的所有弹药放在054号储物锁柜中了，密码是142。
 
 谢谢，
 约恩·布雷迪"""
@@ -47172,7 +47172,7 @@ Phil Wilson
 Delta Research Team"""
 """查尔斯·霍利斯，
 
-我们已经收到了一些来自地点2的遗物，但未带有发掘地点以及时间的信息。不知道这些遗物发现于何处以及何时，我们很难处理这些碎片。请检查你们关于遗物: 34-x91，21-x23，和86-y12的记录，并将所需的相关信息发送给我。
+我们已经收到了一些来自2号站点的遗物，但未带有发掘地点以及时间的信息。不知道这些遗物发现于何处以及何时，我们很难处理这些碎片。请检查你们关于遗物: 34-x91，21-x23，和86-y12的记录，并将所需的相关信息发送给我。
 
 菲尔·威尔逊
 德尔塔研究队"""
@@ -47259,7 +47259,7 @@ Subject: Airlock Request
 The Site 2 engineering team will be conducting a few tests on the J5 airlock system next week.  We will need to manually override the ARSS for these tests, and request the input code be updated to 826, to conduct the tests.
 
 Thank You."""
-"""按你的需求，5号连接点，2区的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。
+"""按你的需求，5号连接点，2号站点的气闸密码已被更新为826，这可以让你手动打开所有自动轨道探测器系统，并使你能够打开所有的轨道门。
 
 ----原始邮件----
 发送日期: 2145-11-03
@@ -47267,7 +47267,7 @@ Thank You."""
 发件人:   加里·罗斯
 主题:     气闸要求
 
-2区的工程组将会在下周对J5气闸系统做一系列测试。我们需要手动操作ARSS来进行这些测试，我们希望将密码更新为826，以便进行测试。
+2号站点的工程组将会在下周对J5气闸系统做一系列测试。我们需要手动操作ARSS来进行这些测试，我们希望将密码更新为826，以便进行测试。
 
 谢谢配合。"""
 
@@ -47289,7 +47289,7 @@ Gary Ross
 
 > #str_monorail_ross_pda_post
 Site 2
-站点2
+2号站点
 
 > #str_monorail_ross_pda_security
 Monorail Security
@@ -47479,7 +47479,7 @@ W.班克斯主管
 
 > #str_personal_email_subject
 Welcome Message
-欢迎信息
+欢迎消息
 
 > #str_personal_email_text
 """Welcome to Mars Marine.
@@ -47694,7 +47694,7 @@ We are planning another big game this Friday here at Site One. I have already ta
 Take care,
 -VK"""
 """你好，戴维！
-我们计划这星期五在一号地区再搞一次大比赛。我已经自己邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！
+我们计划这星期五在一号站点再搞一次大比赛。我已经自己邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！
 
 保重，
 -VK"""
@@ -47726,7 +47726,7 @@ Elizabeth McNeil
 Director of Research - Phobos Labs"""
 """戴夫，
 
-有UAC哨站发来的，关于从新一批货物中一号挖掘点的遗物的消息吗？今天早晨应该有一批货送往这里的。如果货物抵达请立刻告诉我。这非常重要！
+有UAC哨站发来的，关于从新一批货物中一号站点的遗物消息吗？今天早晨应该有一批货送往这里的。如果货物抵达请立刻告诉我。这非常重要！
 
 谢谢！
 
@@ -47759,7 +47759,7 @@ P4安保部门
 
 > #str_phobos2_edens_pda_title
 Security Officer
-安保长官
+安防人员
 
 > #str_phobos2_killian_audio_1_audio_info
 """Made by: Seth Killian
@@ -47998,7 +47998,7 @@ We are planning another big game this Friday here at Site One. You and your rese
 P.S.
 Do you guys up at Phobos still get the free shipments of soda delivered? If you could bring a couple cans down with you that would be great!"""
 """你好，詹姆斯！
-我们计划这星期五在一号地区再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨铁路已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！
+我们计划这星期五在一号站点再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨铁路已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！
 
 -VK
 
@@ -48295,7 +48295,7 @@ Elizabeth McNeil
 
 > #str_phobos4_jolson_email_2_email_from
 Viktor Kharkov
-维克多·哈科夫
+维克多·哈尔科夫
 
 > #str_phobos4_jolson_email_2_email_subject
 RE: New Discoveries
@@ -48957,7 +48957,7 @@ Richard Davis
 
 > #str_site3_davis_pda_post
 Site 3
-站点3
+3号站点
 
 > #str_site3_davis_pda_security
 """"""
@@ -49109,7 +49109,7 @@ Pierce Rogers
 
 > #str_site3_rogers_pda_post
 Site 3
-站点3
+3号站点
 
 > #str_site3_rogers_pda_security
 """"""
