@@ -124,7 +124,7 @@ And this is only the beginning. With continued research we envision creating eve
 
 > #cc_alphalabs1_00000000008
 Atom by atom the UAC is building an ever brighter future for human kind.
-UAC正一原子一原子地为人类构建一个更加光明的未来。
+UAC正一个原子一个原子地为人类构建一个更加光明的未来。
 
 > #cc_alphalabs1_00000000009
 (CALMING EXIT MUSIC)
@@ -404,7 +404,7 @@ Warning: Toxins present. Please execute cleanup procedure.
 
 > #cc_alphalabs4_00000000001
 Sgt. Kelly (RADIO STATIC): Marine, base schematics show all passages out of your area blocked.
-凯利士官(无线电静电)：陆战队员，基地示意图显示你所在区域的所有通道都被堵住了。
+凯利士官(无线电噪声)：陆战队员，基地示意图显示你所在区域的所有通道都被堵住了。
 
 > #cc_alphalabs4_00000000010
 The only way through is by traversing the EFR; a mechanical subsystem with two possible routes through it.
@@ -420,7 +420,7 @@ Make your choice marine and good luck.
 
 > #cc_alphalabs4_00000000004
 Sgt. Kelly (RADIO STATIC): Marine, I was able to locate your position, core comm. systems are beginning to malfunction and shutdown.
-凯利士官(无线电静电)：陆战队员，我已定位你的位置，核心通讯系统开始出现故障并关闭。
+凯利士官(无线电噪声)：陆战队员，我已定位你的位置，核心通讯系统开始出现故障并关闭。
 
 > #cc_alphalabs4_00000000005
 Massive service disruptions throughout the entire base. I don't know how long I'll be able to track you. Bravo Team has just entered the Enpro plant.
@@ -968,7 +968,7 @@ It's not far from your position. We'll meet there.
 
 > #cc_delta1_00000000004
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_delta1_00000000005
 Assignment of engineers to the lower Delta Labs has become almost impossible.
@@ -996,7 +996,7 @@ They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling th
 
 > #cc_delta1_00000000010
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_delta1_00000000011
 Disciplinary Action Report 40C-A, responding to Mars City administration request.
@@ -5004,11 +5004,11 @@ Everyone is already on edge down here with all the strange things that have been
 
 > #cc_mc_underground_00000000100
 You want to head down to the garage area... It's through that door.
-你想去车库区……穿过那扇门就是。
+你想去机库区……穿过那扇门就是。
 
 > #cc_mc_underground_00000000040
 I. Sinclair: The garage area is right through that door... Now stop bothering me.
-I.辛克莱：车库区就在那扇门后面……现在别再烦我了。
+I.辛克莱：机库区就在那扇门后面……现在别再烦我了。
 
 > #cc_mc_underground_00000000041
 I. Sinclair: The equipment seems to be affected by something unseen.
@@ -5064,7 +5064,7 @@ Sgt. Kelly (radio): I say again fall back to marine HQ to await further orders.
 
 > #cc_mc_underground_00000000052
 Radio: Command HQ we've got a situation... (static)
-无线电：指挥部总部，我们有情况……(静电声)
+无线电：指挥部总部，我们有情况……(噪声)
 
 > #cc_mc_underground_00000000053
 Sgt. Kelly (radio): Squad leaders give SIT reps. Over
@@ -5184,7 +5184,7 @@ Radio: Command HQ this is Bravo Team. We've got one man down and several wounded
 
 > #cc_mc_underground_00000000079
 Radio: Command HQ this is Fire Team 2. The monorail track is destroyed, unable to secure safe transportation back to base. Over.
-无线电：指挥部总部，这里是火力小队2。单轨铁路轨道被毁，无法确保安全运输返回基地。完毕。
+无线电：指挥部总部，这里是火力小队2。单轨轨道被毁，无法确保安全运输返回基地。完毕。
 
 > #cc_mc_underground_00000000080
 Radio: Roger that, Fire Team 2, fall back to the nearest station and set up a CP there. Out
@@ -6028,7 +6028,7 @@ I will make another report once I've personally investigated the suspect office 
 
 > #cc_pda_00000000092
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_pda_00000000093
 Assignment of engineers to the lower Delta Labs has become almost impossible.
@@ -6056,7 +6056,7 @@ They’re derogatorily being called 'Sub-Delts' up here, and I have a feeling th
 
 > #cc_pda_00000000098
 R. Price: This is the audio log of Robert Price, Delta Operational Director in charge of personnel, recruitment, evaluation and placement.
-R.普莱斯：这是罗伯特·普莱斯的音频日志，他是德尔塔运营主管，负责人员、招聘、评估和安置。
+R.普莱斯：这是罗伯特·普莱斯的音频日志，德尔塔运营主管，负责人员、招聘、评估和安置。
 
 > #cc_pda_00000000099
 Disciplinary Action Report 40C-A, responding to Mars City administration request.
@@ -6908,7 +6908,7 @@ Technicians should use cabinet code 3-9-6 to access them. End of log.
 
 > #cc_pda_00000000255
 This is the audio log of Frank Delahue, Engineering Manager assigned to power production, dated October 18th, 2145.
-这是弗兰克·德拉休的音频日志，他是负责电力生产的工程经理，日期是2145年10月18日。
+这是弗兰克·德拉休的音频日志，负责电力生产的工程经理，日期是2145年10月18日。
 
 > #cc_pda_00000000256
 The current operational status of the grid is 23% over nominal capacity.
@@ -6944,7 +6944,7 @@ And I've gotta tell ya, if things don't get better soon, all hell is going to br
 
 > #cc_pda_00000000260
 This is the audio log of Frank Delahue, Engineering Manager assigned to power production, dated October 24th, 2145.
-这是弗兰克·德拉休的音频日志，他是负责电力生产的工程经理，日期是2145年10月24日。
+这是弗兰克·德拉休的音频日志，负责电力生产的工程经理，日期是2145年10月24日。
 
 > #cc_pda_00000000261
 Reclamation problems continue to plague the main processor. Two more valve overloads in that unit in just the past week.
@@ -8292,7 +8292,7 @@ ELECTRICITY BUZZES
 
 > #cc_sfx_00000000017
 STATIC BLIP REPEATING
-静电脉冲重复声
+重复的脉冲噪声
 
 > #cc_sfx_00000000018
 (MYSTERIOUS MUSIC)
@@ -8620,7 +8620,7 @@ And this is only the beginning. With continued research we envision creating eve
 
 > #cc_videos_00000000008
 Atom by atom the UAC is building an ever brighter future for human kind.
-UAC正一原子一原子地为人类构建一个更加光明的未来。
+UAC正一个原子一个原子地为人类构建一个更加光明的未来。
 
 > #cc_videos_00000000009
 (CALMING EXIT MUSIC)

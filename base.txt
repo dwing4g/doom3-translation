@@ -71,7 +71,7 @@ SECURITY OVERRIDE
 > #str_00010
 ; admin/admincontrol.gui doors/admin_pda_door.gui doors/pda_door.gui alphalabs1/securitystation.gui delta2/securityswitch.gui enpro/bridge_open.gui erebus2/e2_pda_ladder.gui doors/pda_door_trigger.gui
 SECURE AREA
-安全地带
+防守区域
 
 > #str_00011
 ; admin/admincontrol2.gui
@@ -534,7 +534,7 @@ EXTINGUISHED"""
 """ACCESS WHILE EPD IS
 RUNNING CAN BE FATAL"""
 """在EPD运行时
-登录会产生致命后果"""
+通过会产生致命后果"""
 
 > #str_00080
 ; alphalabs1/opengate.gui
@@ -3102,7 +3102,7 @@ Filter chamber shutdown - Brad Stevens"""
 > #str_00358
 ; caves/resetcrane.gui mc_underground/resetcrane.gui
 LOAD POSITION
-载入位置
+装载位置
 
 > #str_00359
 ; caves/resetcrane.gui mc_underground/resetcrane.gui
@@ -3543,7 +3543,7 @@ ENGAGEMENT POINT DELTA, REMAINING SQUADS AWAIT RENDEZVOUS
 请求整个舰队参与行动
 标准人员地面推进
 无需轨道轰炸
-接战地点德尔塔，剩余小队等候集结
+交战地点德尔塔，剩余小队等候集结
 ——传输结束——"""
 
 > #str_00428
@@ -4117,7 +4117,7 @@ AREA LOCKED EXTERNALLY
 > #str_00516
 ; comm1/securitylock.gui
 MONORAIL ACCESS
-单轨铁路通道
+单轨通道
 
 > #str_00517
 ; comm1/sentrybot.gui
@@ -4492,7 +4492,7 @@ STATION 3
 > #str_00577
 ; commoutside/co_callstation.gui
 loading
-正在载入
+载入中
 
 > #str_00578
 ; commoutside/co_callstation.gui
@@ -4561,7 +4561,7 @@ Contact the Maintenance administrator for security override permission."""
 > #str_00589
 ; commoutside/co_unlock2.gui commoutside/co_unlock3.gui
 Scheduled transfers
-安排好的转移
+已安排转移
 
 > #str_00590
 ; commoutside/co_unlock2.gui commoutside/co_unlock3.gui
@@ -5766,7 +5766,7 @@ STATION ID : 219 - UAC HEALTH STATION
 > #str_00773
 ; controlpanels/healthstation.gui erebus2/e2_healthstation.gui phobos/p1_healthstation.gui
 INJECTION CHARGES
-注射充能
+注射量
 
 > #str_00774
 ; controlpanels/healthstation.gui erebus2/e2_healthstation.gui phobos/p1_healthstation.gui
@@ -5777,8 +5777,8 @@ CHARGES DEPLETED
 ; controlpanels/healthstation.gui erebus2/e2_healthstation.gui phobos/p1_healthstation.gui
 """ADMINISTER
 TREATMENT"""
-"""管理员
-措施"""
+"""给予
+治疗"""
 
 > #str_00776
 CONTAINMENT CONTROL
@@ -5887,14 +5887,14 @@ Calibrate
 ; controlpanels/hydrocon.gui
 """Unit
 1335"""
-"""部门
+"""单元
 1335"""
 
 > #str_00795
 ; controlpanels/hydrocon.gui
 """Unit
 1336"""
-"""部门
+"""单元
 1336"""
 
 > #str_00796
@@ -5977,12 +5977,12 @@ GENERATOR
 > #str_00811
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
 POWER ON
-打开
+开电源
 
 > #str_00812
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
 POWER OFF
-关闭
+关电源
 
 > #str_00813
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
@@ -6037,7 +6037,7 @@ MOVE LIFT DOWN
 > #str_00823
 ; controlpanels/mover.gui
 MOVE TO STATION 1 - LOADING
-移动至1号站点 - 载入中
+移动至1号站点 - 装载
 
 > #str_00824
 ; controlpanels/mover.gui
@@ -6459,7 +6459,8 @@ Leak detection
 """DCL Processing Failure
 Cl2 levels are above acceptable threshold. Flush and vent area immediately."""
 """DCL处理失败
-Cl2水准高于可接受临界点。立即对该区域进行灌水和排放。"""
+Cl2水准高于可接受临界点。
+立即对该区域进行灌水和排放。"""
 
 > #str_00911
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -6527,7 +6528,7 @@ Vent Type
 > #str_00922
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
 4 Flex Liner, Fan-Assisted
-4曲线绘制，由爱好者协助
+4个柔性烟囱衬垫，由风扇辅助
 
 > #str_00923
 ; erebus3/vent_storage.gui controlpanels/vent.gui recycle2/vent1.gui recycle2/vent2.gui recycle2/vent3.gui
@@ -7339,7 +7340,7 @@ Open Emergency Hatch
 > #str_01055
 ; doors/keycard.gui delta2b/keycard.gui
 keycard access lock
-钥匙卡通行锁
+钥匙卡访问锁
 
 > #str_01056
 ; doors/keycard.gui delta2/officelock.gui delta2b/keycard.gui
@@ -8156,7 +8157,7 @@ hazardous waste disposal
 > #str_01187
 ; doors/doorhazard.gui
 TOXIC LEVELS NOMINAL
-标称毒素等级
+少量毒素等级
 
 > #str_01188
 ; delta2a:界面参数3
@@ -11343,7 +11344,7 @@ GARAGE ACCESS
 > #str_01662
 ; xian/monorail/enable.gui
 MONORAIL SECURITY SCANNER
-单轨铁路安全扫描室
+单轨安全扫描室
 
 > #str_01663
 ; xian/monorail/enable.gui
@@ -11393,18 +11394,18 @@ Accepted"""
 Weapon
 Turrents"""
 """关闭
-武器
-塔楼"""
+武装
+炮塔"""
 
 > #str_01670
 ; xian/monorail/monorail.gui
 ACTIVATE MONORAIL
-激活单轨铁路
+激活单轨
 
 > #str_01671
 ; erebus6/erebus6_monorail.gui xian/monorail/monorail.gui
 MONORAIL CONTROL
-单轨铁路控制
+单轨控制
 
 > #str_01672
 HEALTH STATION ACTIVITY
@@ -11428,7 +11429,7 @@ Armoury
 
 > #str_01676
 ADMINISTER TREATMENT
-管理员措施
+给予治疗
 
 > #str_01677
 UAC-M 5318003
@@ -11646,7 +11647,7 @@ TRIGGERED GUI+TRIGGER
 > #str_01723
 ; screens/cpu_top.gui screens/cpu_mars.gui screens/cpu_seven.gui screens/commstation.gui erebus1/station7.gui phobos2/p2_mcneil_ancient2.gui phobos2/p2_mcneil_ancient3.gui
 c::Tracking access > file scan
-c::追踪通行 > 档案扫描
+c::追踪访问 > 档案扫描
 
 > #str_01724
 ; screens/cpu_top.gui screens/commstation.gui phobos2/p2_mcneil_ancient2.gui phobos2/p2_mcneil_ancient3.gui
@@ -11826,7 +11827,7 @@ SATELLITE RELAY OFFLINE
 > #str_01753
 ; screens/laptop.gui
 STATION LOCKED
-中心锁定
+站点已锁定
 
 > #str_01754
 ; screens/malfunction7.gui
@@ -15284,7 +15285,7 @@ ID匹配
 > #str_02513
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 name
-名称
+姓名
 
 > #str_02514
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
@@ -15294,7 +15295,7 @@ i.d.编号
 > #str_02515
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
 post
-邮寄
+位置
 
 > #str_02516
 location
@@ -15307,7 +15308,7 @@ title
 
 > #str_02518
 rank
-等级
+职位
 
 > #str_02519
 ; pda/pda_world.gui pda/pda_npc.gui pda/tablet_npc.gui
@@ -15911,7 +15912,7 @@ Data Library
 > #str_02655
 ; admin:界面参数1
 Terminal 3
-终点3
+终端3
 
 > #str_02656
 D. Shaviro
@@ -15962,7 +15963,7 @@ Alpha Labs Level 1
 
 > #str_02666
 HC Level 1
-HC级别1
+HC第1层
 
 > #str_02667
 ; alphalabs1:界面参数1
@@ -15972,12 +15973,12 @@ ALPHA RED
 > #str_02668
 ; alphalabs2:界面参数3 alphalabs3:界面参数3 caverns1:界面参数3 commoutside:界面参数3 delta1:界面参数3 delta2b:界面参数3 delta5:界面参数3 deltax:界面参数3 le_enpro1:界面参数3 le_exis1:界面参数3 le_exis2:界面参数3 recycling2:界面参数3
 Trans Level 2
-转移级别2
+转移到2层
 
 > #str_02669
 ; alphalabs2:界面参数4 alphalabs3:界面参数4 caverns1:界面参数4 commoutside:界面参数4 delta1:界面参数4 delta2b:界面参数4 delta5:界面参数4 deltax:界面参数4 le_enpro1:界面参数4 le_exis1:界面参数4 le_exis2:界面参数4 recycling2:界面参数4
 Trans Level 1
-转移级别1
+转移到1层
 
 > #str_02670
 map_alphalabs3::crane_left
@@ -16080,7 +16081,7 @@ Message Sent
 > #str_02691
 ; comm1:物品目标.内容
 Return to lobby and head for the monorail station
-回到大厅并前往索道站
+回到大厅并前往单轨站
 
 > #str_02692
 ; comm1:物品目标.标题
@@ -17006,7 +17007,7 @@ Containment Chamber Clear
 > #str_02895
 ; recycling2:界面参数1 transfer/exit_monorail.gui recycle2/top_door_monorail.gui
 MONORAIL
-单轨铁路
+单轨
 
 > #str_02896
 operate freight cart return switch
@@ -17080,7 +17081,7 @@ You can open many locked doors with your PDA or an authentic ACO keycard. Your P
 
 > #str_02911
 Unidentified
-未确认
+未知
 
 > #str_02912
 ; mc_underground:目标提示
@@ -17496,7 +17497,7 @@ Brian Mora
 > #str_02995
 ; delta1:电梯.界面参数4 delta1:界面参数4 delta2b:界面参数1 delta5:电梯.界面参数4 delta5:界面参数4 le_enpro1:界面参数1 mars_city2:地点.位置
 Service Access
-服务访问
+服务通道
 
 > #str_02996
 ; delta1:物品目标.内容
@@ -17807,7 +17808,7 @@ Sec Ops Access
 > #str_03058
 ; mars_city2:门.界面参数1
 Infirmary access
-医院访问
+医务室通道
 
 > #str_03059
 ; mars_city2:门.界面参数4
@@ -17867,7 +17868,7 @@ Underground Junction
 > #str_03070
 ; mc_underground:界面参数4 mc_underground:电梯.界面参数4
 Surface Access
-地表进入权限
+地表进入通道
 
 > #str_03071
 ; mc_underground:界面参数1
@@ -17965,7 +17966,7 @@ Hazard Door Sealed
 > #str_03090
 ; recycling2:物品目标.内容
 Reactivate Air Filtration System to gain access to the Monorail Station
-重新激活空气过滤系统进入索道站
+重新激活空气过滤系统以进入单轨站
 
 > #str_03091
 ; site3:物品目标完成.标题 site3:物品目标.标题
@@ -18473,7 +18474,7 @@ LIFT AREA EXIT
 > #str_03177
 ; commoutside/co_unlock.gui transfer/exit_commoutside.gui transfer/exit_mc_underground.gui
 COMM TRANSFER
-通信转移
+通信传送
 
 > #str_03178
 ; doors/aco_door.gui commoutside/co_unlock.gui controlpanels/securitylock.gui doors/aco_door_green.gui doors/aco_door_open.gui doors/aco_door_open_click.gui
@@ -18612,7 +18613,8 @@ GRIP CONTROL
 > #str_03202
 ; cranegame/crane_control.gui
 TRANSFER ITEM TO INCINERATOR
-中转物品至焚化炉
+"""传送物品至
+焚化炉"""
 
 > #str_03203
 ; cranegame/crane_control.gui
@@ -18624,7 +18626,7 @@ DOWN"""
 > #str_03204
 ; cranegame/crane_control.gui
 LATERAL CONTROL
-侧控制
+水平控制
 
 > #str_03205
 ; delta1/airsys.gui
@@ -20419,11 +20421,11 @@ Facility Transport
 > #str_03506
 ; _common/def/maps.def
 The Monorail Skybridge crosses over the primary recycling station, a key element in processing waste products into useable resources.
-单轨铁路天桥跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。
+单轨天桥跨过主回收站，这里是将废弃物品加工成可用资源的重要设施。
 
 > #str_03507
 MONORAIL SKYBRIDGE
-单轨铁路天桥
+单轨天桥
 
 > #str_03508
 RECYCLING - SECTOR 2
@@ -21342,7 +21344,7 @@ SUPPLEMENTAL
 > #str_03653
 ; marscity/kellyrequest.gui phobos2/mcneil_touchscreen.gui
 I would also like to add that this new transfer is exceedingly rude. He has hovered over me reading everything I type. STOP IT
-我还想补充一点就是这个新来的家伙非常粗鲁。他在我头顶上一直念我打的东西。住手
+我还想补充一点就是这个新来的家伙非常粗鲁。他在我头顶上一直念我打的东西。别念了
 
 > #str_03654
 ; marscity/kellyrequest.gui phobos2/mcneil_touchscreen.gui
@@ -21352,7 +21354,7 @@ NEW REPORT
 > #str_03655
 ; marscity/kellyrequest.gui phobos2/mcneil_touchscreen.gui
 I have processed all incoming personnel from flight 4409. PDA was issued to the marine on board and I sent him directly to Marine Command at Seargent Kelly's request. The other 2 UAC reps were sent to the conference room at Betruger's request.
-我已经对乘坐4409号航班来新来的人员进行了处理。在甲板上我把PDA发给了陆战队员让他直接去陆战队司令部找凯利中士报道。还有2个UAC人员应贝特鲁格的要求送到了会议室。
+我已经对乘坐4409号航班来新来的人员进行了处理。我把PDA发给了来支援的陆战队员让他直接去陆战队司令部找凯利中士报道。还有2个UAC人员应贝特鲁格的要求送到了会议室。
 
 > #str_03656
 ; marscity/kellyrequest.gui phobos2/mcneil_touchscreen.gui
@@ -22719,7 +22721,7 @@ CLICK TO ACTIVATE
 > #str_03861
 ; monorail/stop1.gui
 MONORAIL AIRLOCK - SITE 2
-单轨铁路气闸 - 2号站点
+单轨气闸 - 2号站点
 
 > #str_03862
 ; monorail/stop1.gui
@@ -23680,7 +23682,7 @@ Monorail Skybridge
 > #str_04027
 ; transfer/exit_recycling1.gui transfer/enter_recycling2.gui
 Recycling 2
-循环2
+回收区2
 
 > #str_04028
 ; transfer/exit_admin.gui transfer/exit_alphalabs1.gui transfer/exit_alphalabs2.gui transfer/exit_alphalabs3.gui transfer/exit_alphalabs4.gui transfer/exit_caverns1.gui transfer/exit_caverns2.gui transfer/exit_comm1.gui transfer/exit_commoutside.gui transfer/exit_cpu.gui transfer/exit_cpuboss.gui transfer/exit_delta1.gui transfer/exit_delta2b.gui transfer/exit_delta3.gui transfer/exit_delta5.gui transfer/exit_enpro.gui transfer/exit_le_enpro1.gui transfer/exit_le_enpro2.gui transfer/exit_mars_city1.gui transfer/exit_mars_city2.gui transfer/exit_mc_underground.gui transfer/exit_monorail.gui transfer/exit_recycling1.gui transfer/exit_recycling2.gui transfer/exit_site3.gui
@@ -23745,12 +23747,12 @@ DELTA LABS 3
 > #str_04040
 ; transfer/exit_recycling1.gui
 RECYCLING 1
-回收1
+回收区1
 
 > #str_04041
 ; transfer/exit_recycling2.gui
 RECYCLING 2
-回收2
+回收区2
 
 > #str_04042
 ; transfer/hell.gui transfer/le_hell_post.gui
@@ -25381,7 +25383,7 @@ Boiler Room Monitoring
 > #str_04408
 ; alphalabs3:地点.名
 Storage and Enpro Facility Access
-访问存储与恩普罗电站设施
+仓库与恩普罗电站设施通道
 
 > #str_04409
 ; alphalabs3:地点.名
@@ -25741,7 +25743,7 @@ Thermal Control
 > #str_04480
 ; comm1:地点.名
 Communications Garage
-通讯车库
+通讯机库
 
 > #str_04481
 ; comm1:地点.名
@@ -25951,7 +25953,7 @@ Elevator3
 > #str_04522
 ; cpuboss:地点.名 enpro:地点.名
 Storage Hall
-储存大厅
+仓库大厅
 
 > #str_04523
 ; cpuboss:地点.名 cpuboss:地点.位置
@@ -26471,7 +26473,7 @@ Lower Terminal Office
 > #str_04626
 ; delta3:地点.名
 Chamber 1 Terminal - lower
-1号房间终点 - 下层
+1号房间终端 - 下层
 
 > #str_04627
 ; delta3:地点.名
@@ -26516,7 +26518,7 @@ Terminal Processing
 > #str_04635
 ; delta3:地点.名
 Chamber 2 Terminal
-2号房间终点
+2号房间终端
 
 > #str_04636
 ; delta3:地点.名
@@ -26626,7 +26628,7 @@ Lower Storage
 > #str_04657
 ; delta3:地点.名
 Chamber 1 Terminal - upper
-1号房间终点 - 上层
+1号房间终端 - 上层
 
 > #str_04658
 ; delta3:地点.名
@@ -26641,7 +26643,7 @@ Chamber 3 Access
 > #str_04660
 ; delta3:地点.名
 Chamber 3 Terminal
-3号房间终点
+3号房间终端
 
 > #str_04661
 ; delta3:地点.名
@@ -26791,7 +26793,7 @@ Maintenance 3
 > #str_04690
 ; enpro:地点.名
 Power Core Access
-电力核心通行
+电力核心通道
 
 > #str_04691
 ; enpro:地点.名 le_enpro1:地点.名
@@ -26821,7 +26823,7 @@ Chamber 1 Lower
 > #str_04696
 ; enpro:地点.名
 Power Core Access Hall
-电力核心通行大厅
+电力核心大厅通道
 
 > #str_04697
 ; enpro:地点.名
@@ -26901,7 +26903,7 @@ Ventilation Shaft
 > #str_04712
 ; mars_city2:地点.名
 Manifest Control Office
-发现控制办公室
+清单管控办公室
 
 > #str_04713
 ; mars_city2:地点.名
@@ -26926,7 +26928,7 @@ Reception Processing
 > #str_04717
 ; mars_city2:地点.名
 Manifest Control Entrance
-发现控制入口
+清单管控入口
 
 > #str_04718
 ; mars_city2:地点.名
@@ -27036,7 +27038,7 @@ Transfer Chamber
 > #str_04739
 ; monorail:地点.名
 Recycling Facility Boarding Platform
-循环设施平台
+回收设施平台
 
 > #str_04740
 ; monorail:地点.名
@@ -27175,12 +27177,12 @@ Underground Tunnel1
 > #str_04767
 ; recycling1:地点.名
 Secondary Level Maintenance1
-副层保修1 
+副层维护1 
 
 > #str_04768
 ; recycling1:地点.名
 Secondary Levels Access
-副层权限
+副层通道
 
 > #str_04769
 ; recycling1:地点.名
@@ -27200,7 +27202,7 @@ Central Maintenance
 > #str_04772
 ; recycling1:地点.名
 Storage1
-储藏1
+仓库1
 
 > #str_04773
 ; recycling1:地点.名
@@ -27220,7 +27222,7 @@ Outside
 > #str_04776
 ; recycling1:地点.名
 Storage2
-储藏2
+仓库2
 
 > #str_04777
 ; recycling1:地点.名
@@ -27245,7 +27247,7 @@ Secondary Pump Room
 > #str_04781
 ; recycling1:地点.名
 Secondary Level Maintenance2
-副层保修2
+副层维护2
 
 > #str_04782
 ; recycling1:地点.名
@@ -27622,7 +27624,7 @@ Network Access
 > #str_06668
 ; admin:地点.位置
 Processing Access
-正在处理通行
+处理通道
 
 > #str_06669
 ; admin:地点.位置 delta2b:地点.位置
@@ -27637,7 +27639,7 @@ Executive Office Access
 > #str_06671
 ; admin:地点.位置
 Global Network Terminal
-全球网络中断
+全球网络终端
 
 > #str_06672
 ; admin:地点.位置 delta3:地点.位置 delta5:地点.位置 le_underground:地点.位置
@@ -27702,7 +27704,7 @@ Comm Engineering Unit 2
 > #str_06684
 ; cpuboss:地点.位置
 Sarge's Garage
-士官的车库
+士官的机库
 
 > #str_06685
 ; delta1:地点.位置 delta5:地点.位置
@@ -28176,7 +28178,7 @@ Reach Delta Labs.
 > #str_06778
 ; recycling2:目标标题
 Locate the entrance to the monorail station.
-找到单轨铁路车站的入口。
+找到单轨站的入口。
 
 > #str_06779
 ; site3:目标标题
@@ -28853,7 +28855,7 @@ Monorail Skybridge
 > #str_07158
 ; _common/def/maps.def
 Recycling Sector
-循环区
+回收区
 
 > #str_07159
 ; _common/def/maps.def
@@ -30136,7 +30138,7 @@ Erebus Station
 > #str_00100075
 ; transfer/exit_erebus6.gui transfer/enter_phobos1.gui
 MONORAIL STATION
-单轨铁路站点
+单轨站
 
 > #str_00100076
 ; transfer/exit_erebus6.gui transfer/enter_phobos1.gui transfer/exit_phobos3.gui transfer/enter_phobos4.gui
@@ -31189,7 +31191,7 @@ Chamber 3 Access
 > #str_00100310
 ; deltax:地点.名
 Chamber 3 Terminal
-3号房间终点
+3号房间终端
 
 > #str_00100311
 info_location_1
@@ -31547,11 +31549,11 @@ erebus4 exit
 
 > #str_00100386
 Trans Level 2
-转移级别2
+转移到2层
 
 > #str_00100387
 Trans Level 1
-转移级别1
+转移到1层
 
 > #str_00100388
 ; erebus4:地点.位置
@@ -31730,7 +31732,7 @@ Waste Tunnels
 > #str_00100424
 ; erebus5:物品目标完成.标题 erebus5:物品目标.标题 erebus5:地点.位置
 Surface Access
-地表进入权限
+地表进入通道
 
 > #str_00100425
 ; erebus5:地点.位置
@@ -33689,7 +33691,7 @@ INITIATING STARTUP SEQUENCE
 > #str_00100819
 ; erebus6/erebus6_monorail.gui
 MONORAIL TRACK 4 ONLINE
-单轨铁路4号轨道在线
+单轨4号轨道在线
 
 > #str_00100820
 ; erebus6/erebus6_monorail.gui
@@ -34475,7 +34477,7 @@ Levitation Site Beta
 > #str_00100998
 ; d3xpdm1:地点.位置
 Portal Access
-传送门通行
+传送门通道
 
 > #str_00100999
 ; d3xpdm1:地点.位置
@@ -35769,7 +35771,7 @@ Service Area
 > #str_00200200
 ; le_exis1:界面参数1
 Service Access 1
-服务访问1
+服务通道1
 
 > #str_00200201
 ; le_exis1:界面参数1
@@ -36186,7 +36188,7 @@ Administration Complex
 
 > #str_admin_dorweiler_pda_title
 Controller Spec.
-控制器规格
+管理专员
 
 > #str_admin_moses_email_1_email_date
 10-09-2145
@@ -36198,7 +36200,7 @@ Controller Spec.
 
 > #str_admin_moses_email_1_email_subject
 Free Stuff!!
-是免费的东西！！
+免费的东西！！
 
 > #str_admin_moses_email_1_email_text
 """Mr. Moses,
@@ -36308,7 +36310,7 @@ Administration
 
 > #str_admin_moses_pda_title
 Asset Coordinator
-资产定位器
+资产定位者
 
 > #str_admin_simons_audio_1_audio_info
 """Made by: Paul Simons
@@ -36439,7 +36441,7 @@ Bill Landow
 """
 """伯格博士，
 
-我们在准备EPD进行下一轮测试时一切都进行得非常顺利。罗伊·帕特森正在设定基线，我们应该今天下午就能开始测试。如果你的安排允许的话，欢迎在2: 00左右光临实验室进行指导。应该会很令人兴奋的！
+我们在准备EPD进行下一轮测试时一切都进行得非常顺利。罗伊·帕特森正在设定基线，我们应该今天下午就能开始测试。如果你的安排允许的话，欢迎在2:00左右光临实验室进行指导。应该会很令人兴奋的！
 
 比尔·兰多
 """
@@ -36568,7 +36570,7 @@ John McDermott
 
 > #str_alphalabs1_lipsitz_email_1_email_subject
 Time off
-时间暂停
+休息时间
 
 > #str_alphalabs1_lipsitz_email_1_email_text
 """Hey Bern,
@@ -36578,7 +36580,7 @@ Some of the boys and I are headed over to Mars City tonight after the shift for 
 John
 
 """
-"""嘿，伯尔尼，
+"""嘿，伯，
 
 我和一些兄弟今晚要在转移后去火星城喝几杯。你，还跟以前一样，很欢迎你和我们一起去，兄弟。我会在那等你！
 
@@ -36868,7 +36870,7 @@ The repairs to storage cabinet 038 have been completed.  The door is no longer s
 
 Maintenance"""
 """陈先生，
-038号储物柜的修理已经完成。柜门不会再卡住了，我们已经从内侧处理好了凹痕。以来你最好记住你的橱柜密码，而不是用扳手硬把柜门撬开。再提醒你一下，038号橱柜的新密码是409，最好把它写下来。
+038号储物柜的修理已经完成。柜门不会再卡住了，我们已经从内侧处理好了凹痕。看来你最好记住你的橱柜密码，而不是用扳手硬把柜门撬开。再提醒你一下，038号橱柜的新密码是409，最好把它写下来。
 
 维护部"""
 
@@ -36931,7 +36933,7 @@ Collection
 Need to remember to get my eight-sided die back from Chin.  Should never have lent it to him in the first place.  He never invited me to play.  He is not my friend.
 """
 """备忘:
-别忘了从陈那里拿回八面骰子。早知道就不借给他了。他从没邀请我去玩。他不是我的朋友。
+别忘了从陈那里拿回《八面骰子》。早知道就不借给他了。他从没邀请我去玩。他不是我的朋友。
 """
 
 > #str_alphalabs2_connors_email_1_email_to
@@ -36987,7 +36989,7 @@ Good luck on your next review :)
 
 我想要私下感谢你，感谢你最后那次关于扩大模型的修改建议。这些管CPU的人弄乱了你的数字，经过一些考虑之后，我们一致认为这是我们见过最厉害的不知所云的理论。
 
-如果你在远方对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。
+如果你在远程对此感兴趣，又不想让你的饭碗被端掉的话，我建议你停下角色扮演然后学一点基础数学。
 
 祝你下一次评审愉快:)
 -德里克"""
@@ -37089,7 +37091,7 @@ Director Kellsie Krisch
 Human Resources....'We make working on Mars feel like home'"""
 """安全主管艾布拉姆斯
 
-照你的要求我们已经派遣更多的安防人员去你的安防部队。郭门的死是一场悲剧，我们希望以后可以更加安全的去处理这些事情。
+照你的要求我们已经派遣更多的安防人员去你的安防部队。戈门的死是一场悲剧，我们希望以后可以更加安全的去处理这些事情。
 
 在10个工作日里新的工作人员就会到达。
 
@@ -37324,7 +37326,7 @@ Dusty Welch
 
 > #str_alphalabs3_lamia_email_4_email_subject
 Crates moved
-已移动板条箱
+箱子已搬移
 
 > #str_alphalabs3_lamia_email_4_email_text
 """Mr. Lamia,
@@ -37553,13 +37555,13 @@ John Okonkwo
 """
 """你好
 
-我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱的提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体的社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
+我是约翰·奥孔沃博士。我是卫生部的公务人员。我明白这项提议可能会让你非常惊讶，因为我们之前从来没有会过面或者进行过通信。我从尼日利亚这里的商会里面得到了你的联系方式，并且对你应对这个涉及到巨大数额金钱提议的能力毫不质疑。我的父亲是主管伊萨马·奥孔沃。(他不久前)成为了我的团体社区首脑，我的社区是在尼日利亚的埃莱梅（一个石油储量丰富的小镇）。我的社区的原油产量占尼日利亚总产量的5.8%，而每桶原油的价格的0.5%则作为提成由联邦政府支付给我的父亲。我的父亲也是伊萨马特殊石油信托基金的主席。担当荣誉首脑和石油信托基金的主席期间，他赚取了一些金钱并留给我，让我做唯一的继承人。
 
-这笔钱的数目是一千八百五十万美金。(US$18.5)这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间安保公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
+这笔钱的数目是一千八百五十万美金(US$18.5)。这笔钱来自于1976-1998年间所积蓄的提成。考虑到尼日利亚糟糕的银行系统以及过去（1985-1999）的军事政策带来的不稳政局，他以开放受益人的方式将这笔钱存放到了一间安保公司的保险库/金库当中，以待做好将这笔钱汇往国外的安排。他去年由于心脏病发而死去时就计划着这件事情。
 
-就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大的目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色的描述。
+就在我父亲临死之前他将这笔钱的事情告诉了我并让我寻找一个外国人来协助将这笔钱汇往海外或在海外进行投资。因此，如果你能够帮助我达成这个伟大目标的话，我会非常感激的。我承诺支付给你过户到你主要银行账户上面的金额总数的25%作为你协助的报酬。金额的5%已经被预留出来用来覆盖在转账过程中可能产生的一切费用。如果你感到有兴趣的话，就请尽快并秘密地和我联系，来获得更多的信息以及对你在这笔交易当中所要扮演的角色描述。
 
-关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系老讨论。
+关于这笔钱的所有法律文档将在我们达成协议之后立即发送到你手里。请把你的电话/传真号码发送给我让我能够立刻和你进行联系讨论。
 
 你真诚的，
 
@@ -38128,7 +38130,7 @@ If you feel this is for you, please respond immediately.
 Martian Buddy - Where you save!!"""
 """亲爱的雷达爱好者，
 
-你现在有了一个一生一次的，成为太阳系雷达科技最令人兴奋的项目的一部分的机会。请利用这次机会来节省我们20%的通常费用。
+你现在有了一个一生一次，成为太阳系雷达科技最令人兴奋的一部分项目机会。请利用这次机会来节省我们20%的正常费用。
 
 如果你觉得心动，请立即回复。
 
@@ -38362,7 +38364,7 @@ What are we gonna do with all those chainsaws?  We've got two shipments of exces
 Thanks,
 -RR"""
 """罗恩，
-我一点都不知道要怎么用这些东西，不如你好像上次一样丢那些东西下恩普罗附近的鸿沟。
+我完全不知道该拿那些东西怎么办。你干嘛不把它们像上次处理那堆破烂一样扔到恩普罗附近的深坑里去？
 
 詹姆斯
 
@@ -38371,9 +38373,9 @@ Thanks,
 收件人: 詹姆斯·哈利德
 
 嘿，詹姆斯，
-我们要怎么处理那些链锯？很快就有两批多余的治疗器具运过来而我们不够空间。我简直不敢相信有人会误运那些东西。在火星还有没有比链锯更没用的东西了！？！话说你快点来帮我搞定这些东西。
+这些电锯我们怎么处理？我们最近刚刚接收了两批额外的我们正好需要的医疗装备。我不敢相信有人把这些东西误运过来了。我真想不出还有什么装备比电锯在火星上更没用了！？！反正你得帮我把这些操蛋玩意儿处理掉。
 
-多谢，
+谢谢，
 -RR"""
 
 > #str_commoutside_ridge_email_2_email_to
@@ -38900,7 +38902,7 @@ Map Location
 
 > #str_default_pda_title
 Title
-标题
+职位
 
 > #str_delta1_mora_email_1_email_date
 11-14-2145
@@ -39248,7 +39250,7 @@ Delta Labs, Level 2
 
 > #str_delta2a_cinders_pda_title
 Private First Class
-私人一级
+一等兵
 
 > #str_delta2a_raleigh_audio_1_audio_info
 """Made by: Peter Raleigh
@@ -39945,7 +39947,7 @@ Recently, Delta science team members have reported serious cases of irrational b
 
 Thank You
 """
-"""切拉诺博士，
+"""切拉诺医生，
 
 最近的报告中提到，德尔塔科学团队成员出现严重的失去理性和失眠症。他们认为这些问题与最近的传送实验有直接关联。请到德尔塔3层报到，尽快，并协助医疗需求。
 
@@ -39975,7 +39977,7 @@ We currently cannot process your request for additional medical personnel in Del
 
 Delta Control
 """
-"""切拉诺博士，
+"""切拉诺医生，
 
 我们目前无法处理你关于在德尔塔3层增加医疗人员的请求。如你所知，在过去的两周内医疗人员严重短缺，无法承受额外的工作负担。在储藏室D3-1有剩下的医疗包，就在下层终端办公室的对面。317号储藏柜的密码是841.
 
@@ -39988,7 +39990,7 @@ Frank Cerano
 
 > #str_delta3_cerano_pda_fullname
 Frank Z. Cerano, Ph.D
-弗兰克·Z.切拉诺，博士
+弗兰克·Z.切拉诺，医生
 
 > #str_delta3_cerano_pda_id
 2001-78
@@ -40008,7 +40010,7 @@ Delta Labs, Level 3
 
 > #str_delta3_cerano_pda_title
 Doctor
-博士
+医生
 
 > #str_delta3_lee_audio_1_audio_info
 """Made by: Han Lee
@@ -40318,7 +40320,7 @@ CPU综合设施
 
 > #str_delta5_jackson_pda_title
 Security Guard
-看守
+安保人员
 
 > #str_delta5_swann_audio_1_audio_info
 """Made by: Elliot Swann
@@ -41384,7 +41386,7 @@ Weapon Research
 
 > #str_enpro_chasar_email_1_email_from
 Lloyd Renstrom
-劳埃德·伦斯特姆
+罗伊德·伦斯特姆
 
 > #str_enpro_chasar_email_1_email_subject
 Plasma Storage Capacity
@@ -41399,12 +41401,12 @@ As you know, security has been tight lately with all the accidents and as a resu
 Great Job,
 Lloyd"""
 """特雷莎，
-请在之后的几天里面花几分钟创建一份基于你的等自己储存方面的发现的音频报告。董事会想要了解你的进展。
+请在之后的几天里面花几分钟创建一份基于你的等离子储存方面的发现的音频报告。董事会想要了解你的进展。
 
 正像你知道的那样，由于最近发生的事故安保部门都很紧张，所以我们绝对要千万小心。请保证把实验武器锁好并在报告中包括你的柜子密码。
 
 干得好，
-劳埃德"""
+罗伊德"""
 
 > #str_enpro_chasar_email_1_email_to
 Theresa Chasar
@@ -41416,7 +41418,7 @@ Theresa Chasar
 
 > #str_enpro_chasar_email_2_email_from
 Lloyd Renstrom
-劳埃德·伦斯特姆
+罗伊德·伦斯特姆
 
 > #str_enpro_chasar_email_2_email_subject
 Your Work
@@ -41436,7 +41438,7 @@ Lloyd"""
 无论如何，我会时不时到下面去，如果你想要谈谈或者找点吃的就来找我吧。你可能已经听腻了，但是我想每天能看到你比我在这里赚到的钱更加重要。相信我，作为一名管理人员我赚的很多！
 
 你的伙计，
-劳埃德"""
+罗伊德"""
 
 > #str_enpro_chasar_email_2_email_to
 Theresa Chasar
@@ -41474,7 +41476,7 @@ Lloyd has really outdone himself this time.  He's moved me into the office next 
 
 Ok, I've got to get back to work.
 -T."""
-"""-T。
+"""-T.
 我知道你的意思，当我还在那的时候，我觉得自己就是狼群中的一只羊。我怀念那的工作但绝不怀念那里的人，我觉得能出来十分幸运。
 
 要注意不要惹麻烦，我不信任某些高管。
@@ -41491,7 +41493,7 @@ Ok, I've got to get back to work.
 利兹，
 罗伊德这次真的是变本加厉了。他把我转移到了恩普罗沟渠旁边的办公室。他真的以为这样我就能对他有好感了？等等……或许这真的有用。被长时间孤立在这真的让我很难受。我现在一有机会与人交谈就滔滔不绝。
 
-好了，我得开始干活了
+好了，我得开始干活了。
 -T."""
 
 > #str_enpro_chasar_email_3_email_to
@@ -45821,11 +45823,11 @@ I will miss you terribly and will think of you often.  I'm sure the friendships 
 I hope you will join me in the Mars City kitchen for a drink tomorrow evening.  My shuttle leaves first thing on 11/16 and I'd hate to miss my last chance to see you... until next time.
 
 Ray Gerhardt"""
-"""如果你收到了这封邮件，你一定是我在火星工作时留下深刻印象的人。我要你知道我明天在德尔塔实验室接收最后一项指派以后就要离开火星和UAC去另寻他路了。
+"""如果你收到了这封邮件，那你就是我在火星工作期间共事过的人，并且给我留下了很不错的印象。我想让你知道，明天在德尔塔实验室完成最后一项任务后，我就要离开火星和UAC另寻他路了。
 
-我会非常挂念你并且经常想着你的。我敢肯定我在这里建立的友谊会支撑我的余生并且我会保持联系。我一有了新地址就会马上告诉你。
+我会非常挂念你，也会常常想起你。我确信在这里结交的友谊会伴随我的一生，我一定会保持联系。一旦我有了新地址，就会马上告诉你。
 
-我希望你明晚能来火星城厨房咱们喝一杯。我的飞船会在11/16离开并且我不想错过最后见你的机会……直到下次。
+希望你明天晚上能来火星城的厨房和我喝一杯。我的穿梭机将于11月16日一早就要出发了，真不想错过见你的最后机会……下次见。
 
 雷·格哈特"""
 
@@ -45843,7 +45845,7 @@ UAC安保部
 
 > #str_marscity2_duncan_email_2_email_subject
 RE: Equipment request
-回复: 设备请求
+回复: 装备请求
 
 > #str_marscity2_duncan_email_2_email_text
 """We understand the pressures and concerns of civilians in Mars City.  I want to assure you that there is nothing to worry about.  We in UAC Security have everything under control.
@@ -45865,7 +45867,7 @@ If it would be easier, I could always just help myself to some of the armor I've
 
 你要求的盔甲我已经放在你桌上了。希望这能让你安心一些。目前我们无法满足你对等离子枪的要求。借此机会我想提醒你，平民是不允许持有武器的。如果你再提出这种要求，我将别无选择，只能向UAC人力资源部门报告你。
 
-如果你确实发现了设备，你有责任立即将其归还给UAC安保部。
+如果你确实发现了装备，你有责任立即将其归还给UAC安保部。
 
 诚挚地，
 UAC安保部
@@ -45929,7 +45931,7 @@ David Robbins
 
 > #str_marscity2_stanton_email_1_email_subject
 Would you believe - chainsaws?
-你相信——链锯吗？
+你相信——电锯吗？
 
 > #str_marscity2_stanton_email_1_email_text
 """Marcus,
@@ -45971,11 +45973,11 @@ I will miss you terribly and will think of you often.  I'm sure the friendships 
 I hope you will join me in the Mars City kitchen for a drink tomorrow evening.  My shuttle leaves first thing on 11/16 and I'd hate to miss my last chance to see you... until next time.
 
 Ray Gerhardt"""
-"""如果你收到了这封邮件，你一定是我在火星工作时留下深刻印象的人。我要你知道我明天在德尔塔实验室接收最后一项指派以后就要离开火星和UAC去另寻他路了。
+"""如果你收到了这封邮件，那你就是我在火星工作期间共事过的人，并且给我留下了很不错的印象。我想让你知道，明天在德尔塔实验室完成最后一项任务后，我就要离开火星和UAC另寻他路了。
 
-我会非常挂念你并且经常想着你的。我敢肯定我在这里建立的友谊会支撑我的余生并且我会保持联系。我一有了新地址就会马上告诉你。
+我会非常挂念你，也会常常想起你。我确信在这里结交的友谊会伴随我的一生，我一定会保持联系。一旦我有了新地址，就会马上告诉你。
 
-我希望你明晚能来火星城厨房咱们喝一杯。我的飞船会在11/16离开并且我不想错过最后见你的机会……直到下次。
+希望你明天晚上能来火星城的厨房和我喝一杯。我的穿梭机将于11月16日一早就要出发了，真不想错过见你的最后机会……下次见。
 
 雷·格哈特"""
 
@@ -46011,7 +46013,7 @@ I will miss you terribly and will think of you often.  I'm sure the friendships 
 I hope you will join me in the Mars City kitchen for a drink tomorrow evening.  My shuttle leaves first thing on 11/16 and I'd hate to miss my last chance to see you... until next time.
 
 Ray Gerhardt"""
-"""知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字是阿兰。
+"""知道这个家伙是谁吗？我想这个看起来很搞笑的呆子是从阿尔法实验室来的，可我一直以为他的名字叫阿兰。
 
 你会和他出去喝一杯吗？我是不会的……但如果他付账而且有其他人在场的话，可能会很有趣。
 
@@ -46019,11 +46021,11 @@ Ray Gerhardt"""
 发送日期: 2145-11-14
 收件人: 邓肯·马修斯
 
-如果你收到了这封邮件，那么证明你是我在火星上的一个同事，并且你给我留下了很不错的印象。我想告诉你，在明天执行最后一项任务之后，我将离开火星和UAC去寻找其它的机会。
+如果你收到了这封邮件，那你就是我在火星工作期间共事过的人，并且给我留下了很不错的印象。我想让你知道，明天在德尔塔实验室完成最后一项任务后，我就要离开火星和UAC另寻他路了。
 
-我会十分想念你们的。我确信在这里建立的友谊会伴我一生，我也将和你们保持联络。一旦我有了新地址之后我将立即告诉你们。
+我会非常挂念你，也会常常想起你。我确信在这里结交的友谊会伴随我的一生，我一定会保持联系。一旦我有了新地址，就会马上告诉你。
 
-我希望你明晚能到火星城厨房来一起喝一杯。我的摆渡船将于11-16离开，而我十分想和你们再见一面。
+希望你明天晚上能来火星城的厨房和我喝一杯。我的穿梭机将于11月16日一早就要出发了，真不想错过见你的最后机会……下次见。
 
 雷·格哈特"""
 
@@ -46053,7 +46055,7 @@ Mars City
 
 > #str_marscity2_stanton_pda_title
 Manifest Controller
-发现控制器
+清单管控者
 
 > #str_marscity2_tyson_audio_1_audio_info
 """Made by: Bill Tyson
@@ -46901,7 +46903,7 @@ Also, as you know there are plenty of rumors about our specimens.  I do not want
 Thank you for your cooperation in this."""
 """库伦先生，
 
-我们准备从德尔塔运送一个大型物种。一般来说我们不会使用单轨铁路，但我们要把它送到火卫一实验室去，所以只能使用单轨铁路。
+我们准备从德尔塔运送一个大型物种。一般来说我们不会使用单轨，但我们要把它送到火卫一实验室去，所以只能使用单轨。
 
 该物种会作镇静处理，但是基于它的重要性和危险性，我们认为应该加强安保措施。你和你的手下应该准备好充足的护甲和等离子枪械。然而，只能把致命武力当作最后的手段。把这东西通过传送器活抓回来，牺牲了7条人命，如果浪费的话就太可惜了。
 
@@ -47998,7 +48000,7 @@ We are planning another big game this Friday here at Site One. You and your rese
 P.S.
 Do you guys up at Phobos still get the free shipments of soda delivered? If you could bring a couple cans down with you that would be great!"""
 """你好，詹姆斯！
-我们计划这星期五在一号站点再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨铁路已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！
+我们计划这星期五在一号站点再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！
 
 -VK
 
@@ -48497,7 +48499,7 @@ Anthony Garza
 
 > #str_recycling1_garza_pda_post
 Recycling Sector 1
-循环区1
+回收区1
 
 > #str_recycling1_garza_pda_security
 """"""
@@ -48571,7 +48573,7 @@ We urgently need a new pump here before this one fails.
 Thank You,
 Henry"""
 """杰夫，
-1号扇区的主要废弃物处理单元的运行压力正在超负荷升高。我非常担心整个系统的稳定性。一个错误或一个管线的压力损坏都有可能造成整个系统的灭顶之灾。整套系统的废弃物处理能力远没有他们一直运来的这么大。
+1号区域的主要废弃物处理单元的运行压力正在超负荷升高。我非常担心整个系统的稳定性。一个错误或一个管线的压力损坏都有可能造成整个系统的灭顶之灾。整套系统的废弃物处理能力远没有他们一直运来的这么大。
 我们马上需要新的泵来阻止系统失效。
 
 谢谢，
@@ -48675,7 +48677,7 @@ We can't be too careful; I've locked some ammunition and combat armor in the cab
 """萨多瓦伊先生，
 
 我一直听到的谣言，恐怕是真的。有一天，我的一个队员在德尔塔清理毒性喷洒物时，说确实看见那下面有某种生物，他不知道那是什么东西，但把他吓得不轻，也引起了我们的猜测。
-此时必须小心谨慎。我已经在第2区的单轨铁路气阀门附近的一个锁柜中存放有一些弹药和战斗护甲。有需要的话可以输入密码483拿取。
+此时必须小心谨慎。我已经在第2区的单轨气阀门附近的一个锁柜中存放有一些弹药和战斗护甲。有需要的话可以输入密码483拿取。
 
 -斯科特"""
 
@@ -48697,7 +48699,7 @@ Nick Sadowayj
 
 > #str_recycling1_sadowayj_pda_post
 Recycling Sector 1
-循环区1
+回收区1
 
 > #str_recycling1_sadowayj_pda_security
 """"""
@@ -48721,7 +48723,7 @@ Scott Johnson
 
 > #str_recycling2_johnson_pda_post
 Recycling Sector 2
-循环区2
+回收区2
 
 > #str_recycling2_johnson_pda_security
 """"""
@@ -48745,7 +48747,7 @@ Jeffery Moen
 
 > #str_recycling2_moen_pda_post
 Recycling Sector 2
-循环区2
+回收区2
 
 > #str_recycling2_moen_pda_security
 """"""
@@ -50209,11 +50211,11 @@ Dr. Betruger
 
 > Dr. Betruger                                                                                                                          001
 Dr. Betruger                                                                                                                          001
-贝特鲁格博士
+贝特鲁格博士001
 
 > Dr. Betruger                                                                                                                          002
 Dr. Betruger                                                                                                                          002
-贝特鲁格博士
+贝特鲁格博士002
 
 > Dr. Michaels
 Dr. Michaels
@@ -50351,3 +50353,18 @@ T.华盛顿
 V. King
 V.金
 
+> EnPro
+EnPro
+恩普罗
+
+> James Holiday
+James Holiday
+詹姆斯·霍利戴
+
+> Seamus Blake
+Seamus Blake
+谢默斯·布雷克
+
+> Roger Stenson
+Roger Stenson
+罗杰·斯坦森
