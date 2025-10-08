@@ -7364,7 +7364,7 @@ disabled"""
 > #str_01059
 ; doors/keycard.gui delta2b/keycard.gui
 Work safe
-安全生产
+安全工作
 
 > #str_01060
 ; doors/keycard.gui delta2b/keycard.gui
@@ -7705,12 +7705,12 @@ Pad serial 4765 located - Pad 1
 """PAD 1
 MAIN"""
 """平台1
-主要"""
+主平台"""
 
 > #str_01126
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui
 MAIN PAD SELECTED
-已选择主要平台
+已选择主平台
 
 > #str_01127
 ; delta3/telecontrol1.gui
@@ -7734,12 +7734,12 @@ Teleporter Station 1"""
 """PAD 2
 BALCONY"""
 """平台2
-阳台"""
+楼座"""
 
 > #str_01129
 ; delta3/telecontrol1.gui
 BALCONY PAD SELECTED
-已选择阳台平台
+已选择楼座平台
 
 > #str_01130
 ; delta3/telecontrol1.gui
@@ -7753,7 +7753,7 @@ Teleporter Station 1"""
 """EPR源控制在线
 传送器 - 准备激活
 
-目标 - 阳台平台
+目标 - 楼座平台
 
 激活控制准备完毕于
 1号传送站"""
@@ -7841,8 +7841,8 @@ Bell-State analysis waiting"""
 
 目标 - 选择目标平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_01145
 ; delta3/telecontrol1.gui delta3/telecontrol2.gui delta3/telecontrol3.gui
@@ -7960,7 +7960,7 @@ STORAGE"""
 > #str_01162
 ; delta3/telecontrol2.gui delta3/telecontrol3.gui
 STORAGE PAD SELECTED
-仓库平台已选定
+已选择仓库平台
 
 > #str_01163
 ; delta3/telecontrol2.gui
@@ -8021,7 +8021,7 @@ EXTENDED FOCUS BEAM
 > #str_01171
 ; delta3/telecontrol3.gui
 EXIT PAD SELECTED
-退出所选面板
+已选择出口平台
 
 > #str_01172
 ; delta3/telecontrol3.gui
@@ -8057,7 +8057,7 @@ SECURITY"""
 > #str_01175
 ; delta3/telecontrol3.gui
 SECURITY PAD SELECTED
-安全平台选定
+已选择安保平台
 
 > #str_01176
 ; delta3/telecontrol3.gui
@@ -9764,12 +9764,12 @@ The Delta Complex is the most advanced research facility on Mars. Sector 1 conta
 > #str_01490
 ; _common/def/maps.def
 Delta Labs Research Facility - Sector 2 South contains the Matter Transfer division focusing on human experimentation and other biological testing. The prototype transfer platform is contained in the upper research hall. Teleporter distance is limited, serving only to test biological effects of matter transference.
-德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。
+德尔塔实验室研究设施 - 2区南侧包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。
 
 > #str_01491
 ; _common/def/maps.def
 Delta Labs Research Facility - Sector 2 North contains the Biological Research division, focusing on studying various specimens from matter transfer tests. All specimens are catalogued and stored locally.
-德尔塔实验室研究设施 - 北2区包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。
+德尔塔实验室研究设施 - 2区北侧包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。
 
 > #str_01492
 ; _common/def/maps.def
@@ -16303,7 +16303,7 @@ Terminate Lockdown
 > #str_02740
 ; delta2a:界面参数3
 Ops Archives
-行动档案
+运营档案
 
 > #str_02741
 ; delta2a:界面参数1
@@ -16327,7 +16327,7 @@ Retrieve the plasma conduit from the Ops storage closet
 > #str_02745
 ; delta2a:界面参数3
 Operations Tech
-操作技术
+运营技术
 
 > #str_02746
 ; delta2a:界面参数1
@@ -16337,7 +16337,7 @@ OFFICE D2-14
 > #str_02747
 ; delta2a:界面参数2
 Hooper, Matt  M1-6367132
-胡伯，麦特  M1-6367132
+胡珀，马特  M1-6367132
 
 > #str_02748
 ; delta2a:界面参数4
@@ -16394,7 +16394,7 @@ Antkow, Christian M1-6021337
 
 > #str_02759
 Operations Admin
-操作管理
+运营管理
 
 > #str_02760
 ; delta2a:界面参数1
@@ -16408,12 +16408,12 @@ Willits, Tim  M1-6945534
 > #str_02762
 ; delta2a:界面参数3
 Ops Level 2
-2级行动
+运营2层
 
 > #str_02763
 ; delta2a:界面参数4
 Ops Lobby
-行动大厅
+运营大厅
 
 > #str_02764
 ; delta2a:界面参数3
@@ -17572,7 +17572,7 @@ Level1-Lobby
 > #str_03010
 ; delta2a:电梯.界面参数3 delta2a:界面参数3
 Level2-Archives
-2层 - 档案馆
+2层 - 档案室
 
 > #str_03011
 ; delta2a:界面参数2
@@ -17684,7 +17684,7 @@ Security Supplies
 > #str_03033
 ; delta2b:界面参数1
 Lift Access
-升降梯访问
+升降梯通道
 
 > #str_03034
 ; delta2b:界面参数4 delta2b:界面参数1 delta2b:地点.名
@@ -17708,7 +17708,7 @@ Dr. Shultz
 > #str_03038
 ; delta3:PDA物品.名
 Han Lee
-汉·李
+韩·李
 
 > #str_03039
 ; delta5:物品目标.内容
@@ -18449,7 +18449,7 @@ AUTHORIZED PERSONNEL ONLY
 """MAINTENANCE HATCH OPEN
  WORK SAFE"""
 """维护站舱口打开
- 安全生产"""
+ 安全工作"""
 
 > #str_03173
 ; comm1/maintenance.gui commoutside/maintenance.gui ctf/mainthatch.gui
@@ -18657,22 +18657,22 @@ REACTOR OFFLINE
 ; delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
 """Reactor shutdown initiated by power surge in primary coupling.
 Detected cause: Missing datalinker"""
-"""反应堆关闭启动
-启动原因: 却是数据连接器"""
+"""主耦合器功率激增导致反应堆停机。
+检测到的原因：缺失数据链路器"""
 
 > #str_03211
 ; delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
 """Datalinker power processing active.
 Primary coupling status verified.
 Static rings are fully engaged."""
-"""数据连接器电源处理激活。
-主要配对状态确认。
-状态环已完全连接。"""
+"""数据链路器电源处理已启动。
+主耦合状态已验证。
+静环已完全啮合。"""
 
 > #str_03212
 ; delta1/airsys.gui delta1/datalink.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
 REACTOR ONLINE
-反应堆离线
+反应堆在线
 
 > #str_03213
 ; delta1/airsys.gui delta1/power1.gui delta1/power2.gui
@@ -18682,17 +18682,17 @@ rps
 > #str_03214
 ; delta1/datalink.gui
 UAC-GUI ID 12899 -- DATA LINK PROCESSOR
-UAC-GUI ID 12899 -- 数据连接处理器
+UAC-GUI ID 12899 -- 数据链接处理器
 
 > #str_03215
 ; delta1/datalink.gui delta1/holocontrol.gui
 DEFAULTS LOADED
-已独具默认值
+已加载默认值
 
 > #str_03216
 ; delta1/datalink.gui delta1/holocontrol.gui
 LOAD COMPLETE
-载入完成
+加载完成
 
 > #str_03217
 ; delta1/datalink.gui delta1/holocontrol.gui
@@ -18702,7 +18702,7 @@ INITIATING INTERFACE
 > #str_03218
 ; delta1/datalink.gui
 DATALINKER ROUTING
-数据连接器路由
+数据链路器路由
 
 > #str_03219
 ; delta1/datalink.gui
@@ -18724,7 +18724,7 @@ ROUTING
 """WARNING: DATA LINKER REMOVED
 
 REPLACE TO RESTART POWER"""
-"""警告: 数据连接被移除
+"""警告: 数据链路器被移除
 
 替换以重启电力"""
 
@@ -18821,7 +18821,7 @@ MONDAY 11/15
 ; delta1/info.gui
 """21:00 - Off Duty Employees Only: Jim's
                   Birthday Party in Delta Access Lobby"""
-"""21:00 - 仅限非值班人员: Jim
+"""21:00 - 仅限非值班人员: 吉姆
                  在德尔塔入口大厅召开生日派对"""
 
 > #str_03241
@@ -18857,12 +18857,12 @@ STAIRS
 > #str_03247
 ; delta1/map.gui
 AUTHORITY
-管理层
+管理区
 
 > #str_03248
 ; delta1/map.gui
 AUTHORITY ARCHIVES
-管理层档案
+管理档案区
 
 > #str_03249
 ; delta1/map.gui
@@ -18887,12 +18887,12 @@ ACCESS LOBBY
 > #str_03253
 ; delta1/map.gui
 YOU ARE HERE
-你来了
+你在这里
 
 > #str_03254
 ; delta1/map.gui
 DELTA 1 DIRECTORY
-德尔塔1目录
+德尔塔1指引
 
 > #str_03255
 ; delta1/power1.gui
@@ -18932,7 +18932,7 @@ UAC武器研究
 > #str_03262
 ; delta2/door_control.gui
 OPEN CHAMBER
-打开房间
+打开舱室
 
 > #str_03263
 ; delta2/door_control.gui
@@ -19006,17 +19006,17 @@ DELTA LABS 2 - SCIENCE TEAM 7
 > #str_03276
 ; delta2/report.gui delta2/report2.gui
 11-15-45 REPORT
-11-15-45 报告
+45-11-15 报告
 
 > #str_03277
 ; delta2/report.gui delta2/report2.gui
 11-9-45 REPORT
-11-9-45 报告
+45-11-9 报告
 
 > #str_03278
 ; delta2/report.gui delta2/report2.gui
 11-02-45 REPORT
-11-02-45 报告
+45-11-02 报告
 
 > #str_03279
 ; delta2/report.gui
@@ -19036,17 +19036,17 @@ Test Subject 4 attacked an inspector today. I want to know who was responsible f
 > #str_03282
 ; delta2/report.gui
 10-29-45 REPORT
-10-29-45 报告
+45-10-29 报告
 
 > #str_03283
 ; delta2/report.gui
 10-12-45 REPORT
-10-12-45 报告
+45-10-12 报告
 
 > #str_03284
 ; delta2/report.gui
 10-01-45 REPORT
-10-01-45 报告
+45-10-01 报告
 
 > #str_03285
 ; delta2/report.gui
@@ -19105,7 +19105,7 @@ NEW REPORT FILED
 REPORT UPLOAD ACCEPTED 11-14-45"""
 """罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个安保小组成员今天递送了补给并安置在116号柜。密码设置为972。
 
-报告上传已接受11-14-45"""
+报告上传已接受 45-11-14"""
 
 > #str_03296
 ; delta2/report2.gui
@@ -19316,7 +19316,7 @@ SINGLE TARGET BEAM
 > #str_03334
 ; delta2/teleporter2.gui
 RECEIVING PAD ERROR
-取回PAD错误
+取回平台错误
 
 > #str_03335
 ; delta2/teleporter2.gui
@@ -19991,8 +19991,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 主平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03429
 ; delta3/telecontrol1.gui
@@ -20006,10 +20006,10 @@ Bell-State analysis waiting"""
 """EPR源控制在线
 传送器 - 等待目的地
 
-上个目标 - 阳台平台
+上个目标 - 楼座平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03430
 ; delta3/telecontrol2.gui delta3/telecontrol3.gui
@@ -20025,8 +20025,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 走廊平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03431
 ; delta3/telecontrol2.gui delta3/telecontrol3.gui
@@ -20042,8 +20042,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 仓库平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03432
 ; delta3/telecontrol3.gui
@@ -20059,8 +20059,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 出口平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03433
 ; delta3/telecontrol3.gui
@@ -20076,8 +20076,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 安保平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_03434
 ; delta4/cabinetcode.gui
@@ -24512,7 +24512,7 @@ Click to Continue"""
 Work safe, and have a nice day."""
 """记住，UAC个人数据助理是你在火星上每天活动中的重要部分。
 
-安全生产，祝你愉快。"""
+安全工作，祝你愉快。"""
 
 > #str_04207
 """Remember, the UAC Personal Data Assistant is an important part of your everyday activities here on Mars.
@@ -24522,7 +24522,7 @@ Work safe, and have a nice day.
 Click to Exit"""
 """记住，UAC个人数据助理是你在火星上每天活动中的重要部分。
 
-安全生产，祝你愉快。
+安全工作，祝你愉快。
 
 点击来退出"""
 
@@ -26283,7 +26283,7 @@ Elevator
 > #str_04588
 ; delta2a:地点.名
 Shaft 2
-轴2
+井2
 
 > #str_04589
 ; delta2b:地点.名
@@ -26723,7 +26723,7 @@ Teleporter 4 Main Chamber
 > #str_04676
 ; delta5:地点.名 d3dm4:地点.位置
 Elevator Shaft
-电梯通道
+电梯井
 
 > #str_04677
 ; enpro:地点.名
@@ -31124,7 +31124,7 @@ Shutdown Reactor
 > #str_00100296
 ; phobos3:地点.位置
 Maintenance Shaft
-维护竖井
+维护井
 
 > #str_00100297
 ; phobos3:地点.位置
@@ -33217,8 +33217,8 @@ Bell-State analysis waiting"""
 
 上个目标 - 主平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_00100737
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33232,10 +33232,10 @@ Bell-State analysis waiting"""
 """EPR源控制在线
 传送器 - 等待目的地
 
-上个目标 - 阳台平台
+上个目标 - 楼座平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_00100738
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -33534,8 +33534,8 @@ Bell-State analysis waiting"""
 
 目标 - 选择目标平台
 
-程度/延迟追踪等待中
-钟态分析等待中"""
+度数/延迟追踪等待中
+贝尔态分析等待中"""
 
 > #str_00100786
 ; phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -35672,7 +35672,7 @@ Maintenance Access 9
 > #str_00200180
 ; le_exis2:地点.名
 Elevator Shaft
-电梯通道
+电梯井
 
 > #str_00200181
 ; le_exis2:地点.名
@@ -39577,7 +39577,7 @@ Ian"""
 
 灵魂魔方在使用以前一定要充能。要使潜在精神矩阵达到正电子抑制幅度之前它里面的灵魂必须至少感应到五起死亡才可以。基于我们已经解读出的象形文字显示，魔方有一种传达自身意志行动的方法，但是具体的目前还不清楚。更重要的是，我还不知道它发出指令后会怎么样。
 
-这已经超越了火星站甚至UAC的职能范围。我们不能信任贝特拉格，他疯了！我准备给地球上最高层发一份报告。
+这已经超越了火星站甚至UAC的职能范围。我们不能信任贝特鲁格，他疯了！我准备给地球上最高层发一份报告。
 
 祝你好运，愿天助我们。
 伊恩"""
@@ -39716,7 +39716,7 @@ Elliot Swann
 UAC Executive Counsel"""
 """麦克内尔小姐，
 
-我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣付或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。
+我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣言或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。
 
 谢谢，
 埃利奥特·斯旺
@@ -40017,7 +40017,7 @@ Doctor
 Date: 10-16-2145
 Open for Amendment: Yes
 Set for Archive: Yes"""
-"""来自: 汉·李
+"""来自: 韩·李
 日期: 2145-10-16
 打开并更改: 是
 入档: 是"""
@@ -40031,7 +40031,7 @@ Expedition Team Report
 Date: 10-20-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 汉·李
+"""来自: 韩·李
 日期: 2145-10-20
 打开并更改: 否
 入档: 是"""
@@ -40060,7 +40060,7 @@ Due to the incident last week, the Delta Security team will be storing additiona
 Thank You,
 Thomas Palena
 Delta Security Clerk"""
-"""汉，
+"""韩，
 
 由于上周发生的事故，德尔塔安全小组将会把额外的补给品储存在传送室附近的386和387储物柜。我们将在装备抵达以后尽快将安全密码升级为836。
 
@@ -40070,11 +40070,11 @@ Delta Security Clerk"""
 
 > #str_delta3_lee_email_1_email_to
 Han Lee
-汉·李
+韩·李
 
 > #str_delta3_lee_pda_fullname
 Han M. Lee
-汉·M.李
+韩·M.李
 
 > #str_delta3_lee_pda_id
 1567-77
@@ -40082,7 +40082,7 @@ Han M. Lee
 
 > #str_delta3_lee_pda_name
 Han Lee
-汉·李
+韩·李
 
 > #str_delta3_lee_pda_post
 Delta Labs, Level 3
@@ -43348,7 +43348,7 @@ Heather"""
 最后，通过传送门进行旅行会发生各种不适反应，我们建议你把一切发现用音频日志记录下来以便日后分析。
 
 祝你旅途平安。
-希瑟"""
+海瑟"""
 
 > #str_hell_garlick_email_1_email_to
 Simon Garlick
@@ -46827,7 +46827,7 @@ Karl Cullen
 
 > #str_monorail_cullen_email_3_email_from
 Lee Pommeroy
-李·帕姆罗伊
+李·帕默罗伊
 
 > #str_monorail_cullen_email_3_email_subject
 Extra Medical Supplies

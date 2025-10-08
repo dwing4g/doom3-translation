@@ -1902,7 +1902,7 @@
 // doors/keycard.gui delta2b/keycard.gui
 	"#str_01058"	"安全警报\n已关闭"
 // doors/keycard.gui delta2b/keycard.gui
-	"#str_01059"	"安全生产"
+	"#str_01059"	"安全工作"
 // doors/keycard.gui delta2b/keycard.gui
 	"#str_01060"	"尝试进入\n已记录"
 // doors/keycard.gui
@@ -2007,17 +2007,17 @@
 // delta3/telecontrol1.gui
 	"#str_01124"	"已发现平台序列号4765 - 平台1"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui delta3/teleport1.gui delta3/teleport2.gui
-	"#str_01125"	"平台1\n主要"
+	"#str_01125"	"平台1\n主平台"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
-	"#str_01126"	"已选择主要平台"
+	"#str_01126"	"已选择主平台"
 // delta3/telecontrol1.gui
 	"#str_01127"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 主平台\n\n激活控制准备完毕于\n1号传送站"
 // delta3/telecontrol1.gui delta3/teleport1.gui
-	"#str_01128"	"平台2\n阳台"
+	"#str_01128"	"平台2\n楼座"
 // delta3/telecontrol1.gui
-	"#str_01129"	"已选择阳台平台"
+	"#str_01129"	"已选择楼座平台"
 // delta3/telecontrol1.gui
-	"#str_01130"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 阳台平台\n\n激活控制准备完毕于\n1号传送站"
+	"#str_01130"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 楼座平台\n\n激活控制准备完毕于\n1号传送站"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
 	"#str_01131"	"扫描\n可用平台"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
@@ -2045,7 +2045,7 @@
 // delta3/telecontrol1.gui
 	"#str_01143"	"已发现平台序列4765 - 平台1\n已发现平台序列6919 - 平台2"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
-	"#str_01144"	"EPR源控制在线\n传送器 - 等待目的地\n\n目标 - 选择目标平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_01144"	"EPR源控制在线\n传送器 - 等待目的地\n\n目标 - 选择目标平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui delta3/telecontrol3.gui
 	"#str_01145"	"选择目的地"
 // delta3/telecontrol2.gui
@@ -2081,7 +2081,7 @@
 // delta3/telecontrol2.gui delta3/telecontrol3.gui delta3/teleport2.gui delta3/teleport3.gui
 	"#str_01161"	"平台3\n仓库"
 // delta3/telecontrol2.gui delta3/telecontrol3.gui
-	"#str_01162"	"仓库平台已选定"
+	"#str_01162"	"已选择仓库平台"
 // delta3/telecontrol2.gui
 	"#str_01163"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 仓库平台\n\n激活控制准备完毕于\n2号传送站"
 // delta3/telecontrol2.gui
@@ -2099,7 +2099,7 @@
 // delta3/telecontrol3.gui
 	"#str_01170"	"延伸聚焦光束"
 // delta3/telecontrol3.gui
-	"#str_01171"	"退出所选面板"
+	"#str_01171"	"已选择出口平台"
 // delta3/telecontrol3.gui
 	"#str_01172"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 出口平台\n\n激活控制准备完毕于\n3号传送站"
 // delta3/telecontrol3.gui delta3/teleport3.gui
@@ -2107,7 +2107,7 @@
 // delta3/telecontrol3.gui delta3/teleport3.gui
 	"#str_01174"	"PAD 2\n安保"
 // delta3/telecontrol3.gui
-	"#str_01175"	"安全平台选定"
+	"#str_01175"	"已选择安保平台"
 // delta3/telecontrol3.gui
 	"#str_01176"	"EPR源控制在线\n传送器 - 准备激活\n\n目标 - 安保平台\n\n激活控制准备完毕于\n3号传送站"
 // delta3/telecontrol3.gui
@@ -2563,9 +2563,9 @@
 // _common/def/maps.def
 	"#str_01489"	"德尔塔综合设施是火星上面最为先进的研究设施。1区包含动力系统，能量核心分派中心，并对整个德尔塔综合设施进行管理。"
 // _common/def/maps.def
-	"#str_01490"	"德尔塔实验室研究设施 - 南2区包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。"
+	"#str_01490"	"德尔塔实验室研究设施 - 2区南侧包含物质传送部门，致力于研究人类实验和其它生物测试。传输平台原型机在研究大厅的上层。传送器距离有限，只能用于测试物质传输的生物效果。"
 // _common/def/maps.def
-	"#str_01491"	"德尔塔实验室研究设施 - 北2区包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。"
+	"#str_01491"	"德尔塔实验室研究设施 - 2区北侧包含生物研究部门，致力于研究多个样本的物质传输测试。所有样本都被分类并储存在本地。"
 // _common/def/maps.def
 	"#str_01492"	"德尔塔实验室 - 3区包含第二代传输平台，可以在可变距离内传送物体至小型可移动接收平台。测试舱必须优先保留给实验使用。所有出入受到安保监控。"
 // _common/def/maps.def
@@ -4208,7 +4208,7 @@
 // delta2a:物品目标完成.标题 delta2a:物品目标.标题
 	"#str_02739"	"终止封锁"
 // delta2a:界面参数3
-	"#str_02740"	"行动档案"
+	"#str_02740"	"运营档案"
 // delta2a:界面参数1
 	"#str_02741"	"记录"
 // delta2a:界面参数2
@@ -4217,11 +4217,11 @@
 	"#str_02743"	"状态: 关闭"
 	"#str_02744"	"从操作区储藏柜回收等离子诱导器"
 // delta2a:界面参数3
-	"#str_02745"	"操作技术"
+	"#str_02745"	"运营技术"
 // delta2a:界面参数1
 	"#str_02746"	"办公室D2-14"
 // delta2a:界面参数2
-	"#str_02747"	"胡伯，麦特  M1-6367132"
+	"#str_02747"	"胡珀，马特  M1-6367132"
 // delta2a:界面参数4
 	"#str_02748"	"状态: 进入"
 	"#str_02749"	"2层 - 档案馆"
@@ -4242,14 +4242,14 @@
 	"#str_02757"	"办公室D2-16"
 // delta2a:界面参数2
 	"#str_02758"	"安特科，克里斯蒂安 M1-6021337"
-	"#str_02759"	"操作管理"
+	"#str_02759"	"运营管理"
 // delta2a:界面参数1
 	"#str_02760"	"办公室D2-17"
 	"#str_02761"	"威利茨，蒂姆 M1-6945534"
 // delta2a:界面参数3
-	"#str_02762"	"2级行动"
+	"#str_02762"	"运营2层"
 // delta2a:界面参数4
-	"#str_02763"	"行动大厅"
+	"#str_02763"	"运营大厅"
 // delta2a:界面参数3
 	"#str_02764"	"操作员"
 // delta2a:界面参数1
@@ -4667,7 +4667,7 @@
 // delta2a:电梯.界面参数4 delta2a:界面参数4
 	"#str_03009"	"1层 - 大厅"
 // delta2a:电梯.界面参数3 delta2a:界面参数3
-	"#str_03010"	"2层 - 档案馆"
+	"#str_03010"	"2层 - 档案室"
 // delta2a:界面参数2
 	"#str_03011"	"基恩，杰瑞"
 // delta2a:界面参数2
@@ -4710,7 +4710,7 @@
 	"#str_03031"	"sound/VO/video/video_soulcube.roq"
 	"#str_03032"	"安防供给"
 // delta2b:界面参数1
-	"#str_03033"	"升降梯访问"
+	"#str_03033"	"升降梯通道"
 // delta2b:界面参数4 delta2b:界面参数1 delta2b:地点.名
 	"#str_03034"	"3层入口"
 // delta2b:界面参数1
@@ -4719,7 +4719,7 @@
 // delta3:界面参数4
 	"#str_03037"	"舒尔茨博士"
 // delta3:PDA物品.名
-	"#str_03038"	"汉·李"
+	"#str_03038"	"韩·李"
 // delta5:物品目标.内容
 	"#str_03039"	"使用斯旺的PDA来获取进入CPU综合设施的入口"
 // enpro:物品目标完成.标题 enpro:物品目标.标题
@@ -4966,7 +4966,7 @@
 // comm1/maintenance.gui commoutside/maintenance.gui ctf/mainthatch.gui
 	"#str_03171"	"仅限授权工作人员"
 // comm1/maintenance.gui commoutside/maintenance.gui
-	"#str_03172"	"维护站舱口打开\n 安全生产"
+	"#str_03172"	"维护站舱口打开\n 安全工作"
 // comm1/maintenance.gui commoutside/maintenance.gui ctf/mainthatch.gui
 	"#str_03173"	"打开维护舱"
 // comm1/maintenance.gui commoutside/maintenance.gui ctf/mainthatch.gui
@@ -5042,23 +5042,23 @@
 // delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
 	"#str_03209"	"反应堆离线"
 // delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
-	"#str_03210"	"反应堆关闭启动\n启动原因: 却是数据连接器"
+	"#str_03210"	"主耦合器功率激增导致反应堆停机。\n检测到的原因：缺失数据链路器"
 // delta1/airsys.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
-	"#str_03211"	"数据连接器电源处理激活。\n主要配对状态确认。\n状态环已完全连接。"
+	"#str_03211"	"数据链路器电源处理已启动。\n主耦合状态已验证。\n静环已完全啮合。"
 // delta1/airsys.gui delta1/datalink.gui delta1/power1.gui delta1/power2.gui delta1/power_trigger.gui
-	"#str_03212"	"反应堆离线"
+	"#str_03212"	"反应堆在线"
 // delta1/airsys.gui delta1/power1.gui delta1/power2.gui
 	"#str_03213"	"rps"
 // delta1/datalink.gui
-	"#str_03214"	"UAC-GUI ID 12899 -- 数据连接处理器"
+	"#str_03214"	"UAC-GUI ID 12899 -- 数据链接处理器"
 // delta1/datalink.gui delta1/holocontrol.gui
-	"#str_03215"	"已独具默认值"
+	"#str_03215"	"已加载默认值"
 // delta1/datalink.gui delta1/holocontrol.gui
-	"#str_03216"	"载入完成"
+	"#str_03216"	"加载完成"
 // delta1/datalink.gui delta1/holocontrol.gui
 	"#str_03217"	"正在启动界面"
 // delta1/datalink.gui
-	"#str_03218"	"数据连接器路由"
+	"#str_03218"	"数据链路器路由"
 // delta1/datalink.gui
 	"#str_03219"	"配电监视器"
 // delta1/datalink.gui
@@ -5066,7 +5066,7 @@
 // delta1/datalink.gui
 	"#str_03221"	"定位"
 // delta1/datalink.gui delta1/holocontrol.gui
-	"#str_03222"	"警告: 数据连接被移除\n\n替换以重启电力"
+	"#str_03222"	"警告: 数据链路器被移除\n\n替换以重启电力"
 // delta1/datalink.gui delta1/holocontrol.gui
 	"#str_03223"	"初始化电力系统"
 // delta1/holocontrol.gui
@@ -5102,7 +5102,7 @@
 // delta1/info.gui
 	"#str_03239"	"17:30 - 第2轮能源及管理部门\n                 会议"
 // delta1/info.gui
-	"#str_03240"	"21:00 - 仅限非值班人员: Jim\n                 在德尔塔入口大厅召开生日派对"
+	"#str_03240"	"21:00 - 仅限非值班人员: 吉姆\n                 在德尔塔入口大厅召开生日派对"
 // delta1/info.gui
 	"#str_03241"	"德尔塔1事件"
 // delta1/info.gui delta1/map.gui marscity/flightschedule.gui movies/uac_welcome.gui
@@ -5116,9 +5116,9 @@
 // delta1/map.gui
 	"#str_03246"	"楼梯"
 // delta1/map.gui
-	"#str_03247"	"管理层"
+	"#str_03247"	"管理区"
 // delta1/map.gui
-	"#str_03248"	"管理层档案"
+	"#str_03248"	"管理档案区"
 // delta1/map.gui
 	"#str_03249"	"系统控制"
 // delta1/map.gui
@@ -5128,9 +5128,9 @@
 // delta1/map.gui
 	"#str_03252"	"登入大厅"
 // delta1/map.gui
-	"#str_03253"	"你来了"
+	"#str_03253"	"你在这里"
 // delta1/map.gui
-	"#str_03254"	"德尔塔1目录"
+	"#str_03254"	"德尔塔1指引"
 // delta1/power1.gui
 	"#str_03255"	"圆环区1监控站"
 // delta1/power2.gui
@@ -5146,7 +5146,7 @@
 // delta2/door_control.gui
 	"#str_03261"	"UAC武器研究"
 // delta2/door_control.gui
-	"#str_03262"	"打开房间"
+	"#str_03262"	"打开舱室"
 // delta2/door_control.gui
 	"#str_03263"	"测试室开启"
 // delta2/door_control.gui
@@ -5174,11 +5174,11 @@
 // delta2/report.gui delta2/report2.gui
 	"#str_03275"	"德尔塔实验室2 - 7号科学队"
 // delta2/report.gui delta2/report2.gui
-	"#str_03276"	"11-15-45 报告"
+	"#str_03276"	"45-11-15 报告"
 // delta2/report.gui delta2/report2.gui
-	"#str_03277"	"11-9-45 报告"
+	"#str_03277"	"45-11-9 报告"
 // delta2/report.gui delta2/report2.gui
-	"#str_03278"	"11-02-45 报告"
+	"#str_03278"	"45-11-02 报告"
 // delta2/report.gui
 	"#str_03279"	"在更严重的自残事件发生之后，我们将8号护送到医学实验室。我已经允许对他进行最后实验，并且在实验之后可以抛弃，他已经不再是一个有用的数据对象了。由于更严重的功率波动，今天的测试暂停了很久，然而伊恩认为他可以绕过故障保护来提高我们的输出，这样我们就可以获得足够的电力继续11号测试的最后一个环节。他现在正在解决主电路路线。处于安全考虑，我要封锁此区域直到测试得以继续进行。"
 // delta2/report.gui
@@ -5186,11 +5186,11 @@
 // delta2/report.gui
 	"#str_03281"	"实验体4今天攻击了一名检察员。我想知道是谁的责任让他们进入了休息区，尤其是在这个所有人都知道非UAC的员工今天不会到来的时候。我们最不想看到的就是另一场事故。贝特鲁格向我保证了这件事情不会归档，但是直到我们把这些检查员隔离在安全区外之前我们都是有暴露的危险的。我们收回了4号并让其它的实验体进入空闲的2区办公室以待进一步的观察。"
 // delta2/report.gui
-	"#str_03282"	"10-29-45 报告"
+	"#str_03282"	"45-10-29 报告"
 // delta2/report.gui
-	"#str_03283"	"10-12-45 报告"
+	"#str_03283"	"45-10-12 报告"
 // delta2/report.gui
-	"#str_03284"	"10-01-45 报告"
+	"#str_03284"	"45-10-01 报告"
 // delta2/report.gui
 	"#str_03285"	"詹姆逊完成了对未知测试对象的详细物理分析。我上传了一份报告申请新的志愿者，所以我们应该能找一些新来的想吃干饭的人。我正在把桑德拉复制到此日志条目上，务必检查所有潜在候选人的直系亲属或当地的社会关系。确保他们不会迷路，公司可不希望再打官司。"
 // delta2/report.gui
@@ -5212,7 +5212,7 @@
 // delta2/report2.gui
 	"#str_03294"	"已提交新报告"
 // delta2/report2.gui
-	"#str_03295"	"罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个安保小组成员今天递送了补给并安置在116号柜。密码设置为972。\n\n报告上传已接受11-14-45"
+	"#str_03295"	"罗利博士要求将军事补给放置在一个仓储柜中以备紧急情况。一个安保小组成员今天递送了补给并安置在116号柜。密码设置为972。\n\n报告上传已接受 45-11-14"
 // delta2/report2.gui
 	"#str_03296"	"研究目标的精神状态持续恶化。我已经请求上层派遣一位安保人员来对我进行现场保护，在近距离对这些实验体进行研究的时候我已经开始担心自己的安危。8号实验体一直不停地吼叫。我已经通知安保人员收留实验体的办公室必须时刻保持关闭状态。我让布拉斯基在安保室的柜子里面放置一些军事补给，如果事态失控我想要能够有所准备。"
 // delta2/report2.gui
@@ -5288,7 +5288,7 @@
 // delta2/teleporter2.gui
 	"#str_03333"	"单次瞄准光束"
 // delta2/teleporter2.gui
-	"#str_03334"	"取回PAD错误"
+	"#str_03334"	"取回平台错误"
 // delta2/teleporter2.gui
 	"#str_03335"	"EPR源控制离线\n传送器 - 无法获取目标\n\n在等离子导管发现错误\n\n在初始化传送器前更换等离子感应器"
 // delta2/teleporter2.gui
@@ -5476,17 +5476,17 @@
 // delta3/decon_malfunction.gui
 	"#str_03427"	"净化舱门控制错误"
 // delta3/telecontrol1.gui delta3/telecontrol2.gui
-	"#str_03428"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 主平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03428"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 主平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol1.gui
-	"#str_03429"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 阳台平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03429"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 楼座平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol2.gui delta3/telecontrol3.gui
-	"#str_03430"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 走廊平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03430"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 走廊平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol2.gui delta3/telecontrol3.gui
-	"#str_03431"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 仓库平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03431"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 仓库平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol3.gui
-	"#str_03432"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 出口平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03432"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 出口平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta3/telecontrol3.gui
-	"#str_03433"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 安保平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_03433"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 安保平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta4/cabinetcode.gui
 	"#str_03434"	"设置命令ID锁104"
 // delta5/info.gui
@@ -6842,8 +6842,8 @@
 	"#str_04203"	"音频日志"
 	"#str_04204"	"这里列出了用户的个人音频日志。\n查看用户的音频日志和电子邮件能够让你了解在UAC火星基地上发生的神奇事件。"
 	"#str_04205"	"这里列出了用户的个人音频日志。\n查看用户的音频日志和电子邮件能够让你了解在UAC火星基地上发生的神奇事件。\n点击已继续"
-	"#str_04206"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全生产，祝你愉快。"
-	"#str_04207"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全生产，祝你愉快。\n\n点击来退出"
+	"#str_04206"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全工作，祝你愉快。"
+	"#str_04207"	"记住，UAC个人数据助理是你在火星上每天活动中的重要部分。\n\n安全工作，祝你愉快。\n\n点击来退出"
 	"#str_04208"	"[]"
 	"#str_04209"	"主[]"
 	"#str_04210"	"主[]"
@@ -7460,7 +7460,7 @@
 // delta2a:地点.位置
 	"#str_04587"	"电梯"
 // delta2a:地点.名
-	"#str_04588"	"轴2"
+	"#str_04588"	"井2"
 // delta2b:地点.名
 	"#str_04589"	"分析控制"
 // delta2b:地点.名
@@ -7636,7 +7636,7 @@
 // delta5:地点.名
 	"#str_04675"	"传送器4主舱"
 // delta5:地点.名 d3dm4:地点.位置
-	"#str_04676"	"电梯通道"
+	"#str_04676"	"电梯井"
 // enpro:地点.名
 	"#str_04677"	"主电梯井"
 // enpro:地点.名
@@ -9082,7 +9082,7 @@
 // phobos3:物品目标.标题 phobos3:物品目标完成.标题
 	"#str_00100295"	"关闭反应堆"
 // phobos3:地点.位置
-	"#str_00100296"	"维护竖井"
+	"#str_00100296"	"维护井"
 // phobos3:地点.位置
 	"#str_00100297"	"人行天桥访问"
 // phobos3:物品目标.内容 phobos3:物品目标完成.内容
@@ -9836,9 +9836,9 @@
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 	"#str_00100735"	"#选择目的地"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
-	"#str_00100736"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 主平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_00100736"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 主平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
-	"#str_00100737"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 阳台平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_00100737"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 楼座平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 	"#str_00100738"	"德尔塔综合设施"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
@@ -9934,7 +9934,7 @@
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 	"#str_00100784"	"区域 - 1号房间"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
-	"#str_00100785"	"EPR源控制在线\n传送器 - 等待目的地\n\n目标 - 选择目标平台\n\n程度/延迟追踪等待中\n钟态分析等待中"
+	"#str_00100785"	"EPR源控制在线\n传送器 - 等待目的地\n\n目标 - 选择目标平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // phobos/teleporter_falsestart.gui phobos/teleporter_startup.gui
 	"#str_00100786"	"选择目的地"
 // erebus2/e2_cavelift2.gui phobos/teleporter_falsestart.gui
@@ -10695,7 +10695,7 @@
 	"#str_00200178"	"维护入口9"
 	"#str_00200179"	"维护入口9"
 // le_exis2:地点.名
-	"#str_00200180"	"电梯通道"
+	"#str_00200180"	"电梯井"
 // le_exis2:地点.名
 	"#str_00200181"	"环境电梯大厅"
 // le_exis2:地点.名
@@ -11422,7 +11422,7 @@
 	"#str_delta2b_bullman_email_4_email_date"	"2145-11-14"
 	"#str_delta2b_bullman_email_4_email_from"	"伊恩·麦考密克"
 	"#str_delta2b_bullman_email_4_email_subject"	"是一把武器！"
-	"#str_delta2b_bullman_email_4_email_text"	"拉里，\n你是对的灵魂魔方是一种武器。我翻译出那些象形文字才弄明白它是怎么工作的！\n\n灵魂魔方在使用以前一定要充能。要使潜在精神矩阵达到正电子抑制幅度之前它里面的灵魂必须至少感应到五起死亡才可以。基于我们已经解读出的象形文字显示，魔方有一种传达自身意志行动的方法，但是具体的目前还不清楚。更重要的是，我还不知道它发出指令后会怎么样。\n\n这已经超越了火星站甚至UAC的职能范围。我们不能信任贝特拉格，他疯了！我准备给地球上最高层发一份报告。\n\n祝你好运，愿天助我们。\n伊恩"
+	"#str_delta2b_bullman_email_4_email_text"	"拉里，\n你是对的灵魂魔方是一种武器。我翻译出那些象形文字才弄明白它是怎么工作的！\n\n灵魂魔方在使用以前一定要充能。要使潜在精神矩阵达到正电子抑制幅度之前它里面的灵魂必须至少感应到五起死亡才可以。基于我们已经解读出的象形文字显示，魔方有一种传达自身意志行动的方法，但是具体的目前还不清楚。更重要的是，我还不知道它发出指令后会怎么样。\n\n这已经超越了火星站甚至UAC的职能范围。我们不能信任贝特鲁格，他疯了！我准备给地球上最高层发一份报告。\n\n祝你好运，愿天助我们。\n伊恩"
 	"#str_delta2b_bullman_email_4_email_to"	"拉里·布曼"
 	"#str_delta2b_bullman_pda_fullname"	"拉里·A.布曼"
 	"#str_delta2b_bullman_pda_id"	"5145-84"
@@ -11449,7 +11449,7 @@
 	"#str_delta2b_mcneil_email_1_email_date"	"2145-10-02"
 	"#str_delta2b_mcneil_email_1_email_from"	"埃利奥特·斯旺"
 	"#str_delta2b_mcneil_email_1_email_subject"	"调查报告"
-	"#str_delta2b_mcneil_email_1_email_text"	"麦克内尔小姐，\n\n我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣付或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。\n\n谢谢，\n埃利奥特·斯旺\nUAC执行法律顾问"
+	"#str_delta2b_mcneil_email_1_email_text"	"麦克内尔小姐，\n\n我收到了你关于查询火星活动的正式请求。按照董事会的要求，我很快会前去调查你声称的问题。我们相当重视你对马尔科姆·贝特鲁格博士的指控。你也可能知道，按照政策，UAC不会承认或评论关于新闻媒体就谣言或异端邪说提出的问题或声明。有人要我向你说明，不得与我们法务部之外的人谈论这个状况。\n\n谢谢，\n埃利奥特·斯旺\nUAC执行法律顾问"
 	"#str_delta2b_mcneil_email_1_email_to"	"利兹·麦克内尔"
 	"#str_delta2b_mcneil_email_2_email_date"	"2145-10-08"
 	"#str_delta2b_mcneil_email_2_email_from"	"迈克尔·艾布拉姆斯"
@@ -11501,18 +11501,18 @@
 	"#str_delta3_cerano_pda_post"	"德尔塔实验室，3层"
 	"#str_delta3_cerano_pda_security"	""
 	"#str_delta3_cerano_pda_title"	"医生"
-	"#str_delta3_lee_audio_1_audio_info"	"来自: 汉·李\n日期: 2145-10-16\n打开并更改: 是\n入档: 是"
+	"#str_delta3_lee_audio_1_audio_info"	"来自: 韩·李\n日期: 2145-10-16\n打开并更改: 是\n入档: 是"
 	"#str_delta3_lee_audio_1_audio_name"	"探索小队报告"
-	"#str_delta3_lee_audio_2_audio_info"	"来自: 汉·李\n日期: 2145-10-20\n打开并更改: 否\n入档: 是"
+	"#str_delta3_lee_audio_2_audio_info"	"来自: 韩·李\n日期: 2145-10-20\n打开并更改: 否\n入档: 是"
 	"#str_delta3_lee_audio_2_audio_name"	"没有BFG枪"
 	"#str_delta3_lee_email_1_email_date"	"2145-10-23"
 	"#str_delta3_lee_email_1_email_from"	"德尔塔安保部门"
 	"#str_delta3_lee_email_1_email_subject"	"安防队伍资料"
-	"#str_delta3_lee_email_1_email_text"	"汉，\n\n由于上周发生的事故，德尔塔安全小组将会把额外的补给品储存在传送室附近的386和387储物柜。我们将在装备抵达以后尽快将安全密码升级为836。\n\n谢谢，\n托马斯·佩尔纳\n德尔塔安全小组办事员"
-	"#str_delta3_lee_email_1_email_to"	"汉·李"
-	"#str_delta3_lee_pda_fullname"	"汉·M.李"
+	"#str_delta3_lee_email_1_email_text"	"韩，\n\n由于上周发生的事故，德尔塔安全小组将会把额外的补给品储存在传送室附近的386和387储物柜。我们将在装备抵达以后尽快将安全密码升级为836。\n\n谢谢，\n托马斯·佩尔纳\n德尔塔安全小组办事员"
+	"#str_delta3_lee_email_1_email_to"	"韩·李"
+	"#str_delta3_lee_pda_fullname"	"韩·M.李"
 	"#str_delta3_lee_pda_id"	"1567-77"
-	"#str_delta3_lee_pda_name"	"汉·李"
+	"#str_delta3_lee_pda_name"	"韩·李"
 	"#str_delta3_lee_pda_post"	"德尔塔实验室，3层"
 	"#str_delta3_lee_pda_security"	""
 	"#str_delta3_lee_pda_title"	"管理助手"
@@ -12097,7 +12097,7 @@
 	"#str_hell_garlick_email_1_email_date"	"2145-08-06"
 	"#str_hell_garlick_email_1_email_from"	"海瑟·伊莱恩"
 	"#str_hell_garlick_email_1_email_subject"	"探索的预期"
-	"#str_hell_garlick_email_1_email_text"	"西蒙，\n如你所知，你已被派遣到14A-2探险队。这里有几个任务希望你们能在探险时达成。我知道你对发现的石碑很了解，我们希望你能在主传送门的另一边找到些相关的证据——相似的手迹或者其它任何发现都要拍照并收集。\n\n最重要的是，我们想捕捉更多的生物物种，我们已经收集到了不少小型的“幼魔”生物，这次我希望你能带回些更大的一种被称为“地狱骑士”的生物回来。之前的探险队曾报告说在主传送门终点站看到过这种生物，这次你的任务地点就在那里。你可以携带多种武器，但是我们不希望你使用致命武器，尽量活捉。\n\n最后，通过传送门进行旅行会发生各种不适反应，我们建议你把一切发现用音频日志记录下来以便日后分析。\n\n祝你旅途平安。\n希瑟"
+	"#str_hell_garlick_email_1_email_text"	"西蒙，\n如你所知，你已被派遣到14A-2探险队。这里有几个任务希望你们能在探险时达成。我知道你对发现的石碑很了解，我们希望你能在主传送门的另一边找到些相关的证据——相似的手迹或者其它任何发现都要拍照并收集。\n\n最重要的是，我们想捕捉更多的生物物种，我们已经收集到了不少小型的“幼魔”生物，这次我希望你能带回些更大的一种被称为“地狱骑士”的生物回来。之前的探险队曾报告说在主传送门终点站看到过这种生物，这次你的任务地点就在那里。你可以携带多种武器，但是我们不希望你使用致命武器，尽量活捉。\n\n最后，通过传送门进行旅行会发生各种不适反应，我们建议你把一切发现用音频日志记录下来以便日后分析。\n\n祝你旅途平安。\n海瑟"
 	"#str_hell_garlick_email_1_email_to"	"西蒙·加里克"
 	"#str_hell_garlick_email_2_email_date"	"2145-08-06"
 	"#str_hell_garlick_email_2_email_from"	"厄尔·贝什"
@@ -12666,7 +12666,7 @@
 	"#str_monorail_cullen_email_2_email_text"	"多谢，我真的非常讨厌装备带有自动敌我识别的枪械。\n\n----原始邮件----\n发送日期: 2145-11-11\n收件人: 所有安保人员\n\n伙计们，\n我已经把机枪塔的关闭序列编码到我的PDA里面了，如果这些枪械发生了什么问题，你可以在金属探测器旁边的安防终端使用这个关闭序列。\n要是机枪塔会滥杀无辜的话，我还不如就把它关掉……\n\n多谢，\n卡尔"
 	"#str_monorail_cullen_email_2_email_to"	"卡尔·库伦"
 	"#str_monorail_cullen_email_3_email_date"	"2145-11-02"
-	"#str_monorail_cullen_email_3_email_from"	"李·帕姆罗伊"
+	"#str_monorail_cullen_email_3_email_from"	"李·帕默罗伊"
 	"#str_monorail_cullen_email_3_email_subject"	"额外药物补给"
 	"#str_monorail_cullen_email_3_email_text"	"卡尔，\n\n作为本地区的医疗主管我觉得我有责任对于主动防范安全措施做出行动。特别是在我们交通繁忙地段有一座炮塔。作为预防措施，我已把医疗用品放在安全办公室附近的储存柜中。两个柜子的密码都是364. 我希望不要用到它们。\n\n李·帕默罗伊\n医疗室"
 	"#str_monorail_cullen_email_3_email_to"	"卡尔·库伦"
