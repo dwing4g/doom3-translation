@@ -2992,7 +2992,7 @@ It's the fastest way. Move quickly. I'll explain more when you get here.
 
 > #cc_erebus1_00000000001
 There's some sort of chamber beyond this wall. Point, we need a charge here.
-这堵墙后面有某种舱室。注意，我们需要在这里充电。
+这堵墙后面有某种舱室。注意，我们需要在这里爆破。
 
 > #cc_erebus1_00000000002
 Roger that, on my way.

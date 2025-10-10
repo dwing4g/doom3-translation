@@ -48,3 +48,7 @@ end
 f:close()
 
 print('DONE! ' .. fn .. ' files')
+
+-- change subtitle font size:
+-- 1. extract generated/swf/hud.bswf from _common.resources
+-- 2. modify uint16be at 0x272fe from default 480 to other size
