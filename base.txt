@@ -4019,7 +4019,7 @@ Online"""
 """ 
 一切状态
 正常
-所有基站
+所有站点
 连线"""
 
 > #str_00503
@@ -4032,7 +4032,7 @@ Online"""
 """ 
  
 正常
-所有基站
+所有站点
 连线"""
 
 > #str_00504
@@ -4045,7 +4045,7 @@ Online"""
 """ 
  
  
-所有基站
+所有站点
 连线"""
 
 > #str_00505
@@ -8626,7 +8626,7 @@ BRIDGE CLAMPS ENGAGED
 > #str_01271
 ; enpro/bridge_open.gui
 RELEASE BRIDGE
-放出桥梁
+放出舰桥
 
 > #str_01272
 ; enpro/cam.gui
@@ -9733,7 +9733,7 @@ Caverns Area 1 is the location of the original Mars Base. While all research has
 """Caverns Area 2 is the primary archeological excavation site. All items are processed
 and transported to Site 3 for evaluation and analysis."""
 """2号洞穴区域是主要的考古挖掘场。所有物品经过处理后
-被运输到3号站点进行估价和分析。"""
+被运输到3号站点进行评估和分析。"""
 
 > #str_01486
 ; _common/def/maps.def
@@ -9878,7 +9878,7 @@ The Monorail serves as transportation between the low level access sectors of th
 
 > #str_01506
 Processor Of Elimination
-灭除教授
+排除处理器
 
 > #str_01507
 Update: 06 / 10 / 03
@@ -17423,7 +17423,7 @@ CPU库K-T
 > #str_02980
 ; cpu:电梯.界面参数3
 Routing
-路线
+路由
 
 > #str_02981
 ; cpu:界面参数4 cpu:界面参数3
@@ -18041,7 +18041,7 @@ SECURITY STORAGE ACCESS
 > #str_03105
 ; alphalabs3/liftcall.gui
 ACCESS STATION
-登入基站
+访问站点
 
 > #str_03106
 ; alphalabs3/liftcall.gui
@@ -18504,7 +18504,7 @@ CPU桥呼叫站台
 > #str_03181
 ; controlpanels/bridgecallb.gui controlpanels/bridgecontrol.gui controlpanels/bridgesignb.gui
 SERVER BANK
-服务器存库
+服务器库
 
 > #str_03182
 ; controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui
@@ -18590,7 +18590,7 @@ OPEN MAINTENANCE STORAGE HATCH
 ; cpu/secure.gui
 """SECURE LOCKER ITEMS ARE FOR EMERGENCY
 USE ONLY"""
-"""安全锁柜的物品
+"""安保锁柜的物品
 仅供紧急状态使用"""
 
 > #str_03199
@@ -18602,8 +18602,8 @@ REPORT USE OF SECURITY SUPPLIES
 ; cpu/secure.gui
 """OPEN SECURITY
 LOCKER"""
-"""打开安保
-锁"""
+"""打开
+安保锁"""
 
 > #str_03201
 ; cranegame/crane_control.gui
@@ -20102,12 +20102,12 @@ Pointers to remember when opening sacrificial portals
 > #str_03438
 ; delta5/ventshaft_ladder.gui recycle1/ladder.gui
 MAINTENANCE ACCESS LADDER DEPLOYED
-维护站安全电梯已展开
+维护通道梯子已展开
 
 > #str_03439
 ; delta5/ventshaft_ladder.gui recycle1/ladder.gui
 DEPLOYING MAINTENANCE ACCESS LADDER
-正在部署维护通路阶梯
+正在部署维护通道梯子
 
 > #str_03440
 ; doors/aco_door.gui doors/aco_door_green.gui doors/aco_door_open.gui doors/aco_door_open_click.gui
@@ -20171,7 +20171,7 @@ guiset
 > #str_03452
 ; doors/elevator2floorsub.gui
 SUB
-替补
+地下
 
 > #str_03453
 ; doors/elevator2floorsub.gui
@@ -32232,7 +32232,7 @@ MACHINERY OFFLINE
 > #str_00100529
 ; erebus4/e4_bridge_release.gui
 RELEASE BRIDGE
-放出桥梁
+放出舰桥
 
 > #str_00100530
 ; erebus5/erebus5_mcneil.gui
@@ -38520,9 +38520,9 @@ This should probably be reported to Dr. Betruger at once."""
 
 我找机会测试了一下你给我们的公式。结果已经上传到了你的邮箱当中。
 
-请特别留意一下12页的F段的第2部分。左侧的图标显示除了过去3周中的不寻常的峰值，这只可能是发生了对恩普罗电网进行的非法接入。
+请特别留意一下12页的F段的第2部分。左侧的图表显示除了过去3周中的不寻常的峰值，这只可能是发生了对恩普罗电网进行的非法接入。
 
-如果不超过你们区域的电力限制的话，根本就没有办法获得你提供的图标。
+如果不超过你们区域的电力限制的话，根本就没有办法获得你提供的图表。
 
 或许应该立即将这件事情汇报给贝特鲁格博士。"""
 
@@ -38706,7 +38706,7 @@ Thanks,
 Henry"""
 """史蒂夫，
 
-我在A12服务器上发现文件系统正在逐步劣化。你能去三楼帮我看看发生了什么吗？我正在研究德尔塔那群家伙的转移问题，我所有的数据都在那台服务器上。
+我在A12服务器上发现文件系统正在逐步劣化。你能去三楼帮我看看发生了什么吗？我正在研究德尔塔那群家伙的传送问题，我所有的数据都在那台服务器上。
 如果今晚备份可用的话可以帮我把他们重新存到A17服务器上吗？我可以用补丁进入服务器继续我的研究。
 
 谢谢，
@@ -38714,7 +38714,7 @@ Henry"""
 
 > #str_cpu_tooloose_email_1_email_to
 Steve Tooloose
-史蒂夫·土鲁斯
+史蒂夫·图鲁斯
 
 > #str_cpu_tooloose_email_2_email_date
 11-14-2145
@@ -38746,11 +38746,11 @@ Fire me an email when it's up, I can't wait to see it.
 
 > #str_cpu_tooloose_email_2_email_to
 Steve Tooloose
-史蒂夫·土鲁斯
+史蒂夫·图鲁斯
 
 > #str_cpuboss_tooloose_pda_fullname
 Steve H. Tooloose
-史蒂夫·H.土鲁斯
+史蒂夫·H.图鲁斯
 
 > #str_cpuboss_tooloose_pda_id
 1736-16
@@ -38758,7 +38758,7 @@ Steve H. Tooloose
 
 > #str_cpuboss_tooloose_pda_name
 Steve Tooloose
-史蒂夫·土鲁斯
+史蒂夫·图鲁斯
 
 > #str_cpuboss_tooloose_pda_post
 Central Processing
@@ -40373,7 +40373,7 @@ Anticipate a formal briefing and itinerary in the next few days.
 
 Sincerely,
 UAC Board Chairman"""
-"""亲爱的斯旺参事，
+"""亲爱的斯旺顾问，
 
 理事会统一通过了一项全面复核火星研究设施的决议。你被任命为我们此次的官方代表，我们建议从今天起进行全面准备。
 
@@ -40409,7 +40409,7 @@ I hope your intervention won't be too late. I look forward to meeting with you b
 
 Sincerely,
 Elizabeth McNeil"""
-"""斯旺参事，
+"""斯旺顾问，
 
 我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心贝特鲁格博士的研究方向，希望你的介入能带来急需的转变。我还听说贝特鲁格博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。
 
@@ -40445,13 +40445,13 @@ Don't waste your time coming here, Swann.  You will only get in my way and imped
 
 Sincerely,
 Malcolm Betruger"""
-"""斯旺参事，
+"""斯旺顾问，
 
 我至今为止对理事会都非常有耐心，但进行全面行动复核的决定让我很难接受。
 
 你没有必要到火星来，也没有必要进行这次复核。我所需要的就是更多的钱和时间。这里进行的研究将以前所未有的方式改变人类。我们的研究正开始带来惊人的成果，而这些成果我不能允许它们泄漏出去。
 
-不要浪费你的时间往这里来了，斯旺。你只会妨碍我，妨碍我们在这里进行的杰出的工作。
+不要浪费你的时间到这里来了，斯旺。你只会妨碍我，妨碍我们在这里进行杰出的工作。
 
 诚挚地，
 马尔科姆·贝特鲁格"""
@@ -40482,7 +40482,7 @@ CPU综合设施
 
 > #str_delta5_swann_pda_title
 Counselor
-参事
+顾问
 
 > #str_deltax_hook_email_1_email_date
 3-13-2147
@@ -40582,14 +40582,14 @@ When opening sacrificial portals, it is important to remember:
 Most important - pentagrams must be drawn from the center to the outside and left to right.
 
 """
-"""时候到了！很快，人类就会想预言里记载的那样受到永世的折磨。我们会享用他们的灵魂！
+"""时候到了！很快，人类就会像预言里记载的那样受到永世的折磨。我们会享用他们的灵魂！
 
 开启献祭传送门后，要记住:
 
  - 处女的血是最好的
  - 山羊血必须用出生3天以内的羊羔
- - 必须在死前后死后30分钟后取出并分派内脏
- - 蜡烛排放方式为高的在后矮的在前——别弄反了！
+ - 必须在死前或死后30分钟内取出并分派内脏
+ - 蜡烛排放方式为高的在后、矮的在前 - 别弄反了！
 
 
 最重要的一点——画五角星时要从中间往外画，从左往右画。
@@ -49042,9 +49042,9 @@ P.S. Mom says HI!"""
 
 妈妈说我们下个月就能见到你了。我等不及了。你离开好久了。我希望你的项目进展顺利。我知道你不能跟我说，但你的工作总是听起来兴奋又神秘。在火星上工作肯定很酷。
 
-谢谢你送给我作生日礼物的游戏。你玩过了吗？新款《Quake-43》太好玩了，比《超级涡轮火鸡拳》要好玩多了。自从你给我新游戏以后我就没有再玩过了。
+谢谢你送给我作为生日礼物的游戏。你玩过了吗？新款《Quake-43》太好玩了，比《超级涡轮火鸡拳》要好玩多了。自从你给我新游戏以后我就没有再玩过了。
 
-我爱你，我们一直很相抵！！！
+我爱你，我们一直很想你！！！
 蒂米
 
 附言: 妈妈向你问好！"""
@@ -49086,7 +49086,7 @@ Pierce"""
 收件人: 伊丽莎白·麦克内尔
 
 现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。
-博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
+博士已经疯了，一切都变得比你想象的还要糟糕。你被从火星流放恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。
 
 警告所有人。千万不要让地球遭受同样的灾难。
 
@@ -50368,3 +50368,7 @@ Seamus Blake
 > Roger Stenson
 Roger Stenson
 罗杰·斯坦森
+
+> Counselor Swann
+Counselor Swann
+斯旺顾问

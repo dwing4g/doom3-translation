@@ -962,11 +962,11 @@
 // controlpanels/epd1.gui comm1/dishvid.gui commoutside/thermal1.gui screens/sat1_1.gui delta2/teleporter4.gui delta2b/artifact_analyzer.gui erebus1/station12.gui erebus1/station14.gui erebus1/station9.gui pda/pda_npc.gui pda/tablet_npc.gui mc_underground/invasion1.gui mc_underground/invasion2.gui
 	"#str_00501"	"系统版本201\n全部状态\n正常\n所有站点\n上线"
 // comm1/dishvid.gui
-	"#str_00502"	" \n一切状态\n正常\n所有基站\n连线"
+	"#str_00502"	" \n一切状态\n正常\n所有站点\n连线"
 // comm1/dishvid.gui
-	"#str_00503"	" \n \n正常\n所有基站\n连线"
+	"#str_00503"	" \n \n正常\n所有站点\n连线"
 // comm1/dishvid.gui
-	"#str_00504"	" \n \n \n所有基站\n连线"
+	"#str_00504"	" \n \n \n所有站点\n连线"
 // comm1/dishvid.gui
 	"#str_00505"	" \n \n \n \n连线"
 // comm1/dishvid.gui commoutside/thermal1.gui commoutside/thermal2.gui marscity/ship.gui
@@ -2268,7 +2268,7 @@
 // enpro/bridge_open.gui
 	"#str_01270"	"舰桥钳具已占用"
 // enpro/bridge_open.gui
-	"#str_01271"	"放出桥梁"
+	"#str_01271"	"放出舰桥"
 // enpro/cam.gui
 	"#str_01272"	"安全入口"
 // enpro/cam.gui
@@ -2553,7 +2553,7 @@
 // _common/def/maps.def
 	"#str_01484"	"洞穴区域1是原有火星基地的所在地。尽管所有研究已经移动到新的建筑中，这个老旧的设施仍然作为2号区域和3号站点之间主要的物资交换点。"
 // _common/def/maps.def
-	"#str_01485"	"2号洞穴区域是主要的考古挖掘场。所有物品经过处理后\n被运输到3号站点进行估价和分析。"
+	"#str_01485"	"2号洞穴区域是主要的考古挖掘场。所有物品经过处理后\n被运输到3号站点进行评估和分析。"
 // _common/def/maps.def
 	"#str_01486"	"通信塔是星球外通信的最主要的连接。\n广播天线盘整齐排列来和UAC-地球分部进行直接通信以及\n为通过火卫一路由站上行线路的深层空间通信提供中转桥接。"
 // _common/def/maps.def
@@ -2587,7 +2587,7 @@
 	"#str_01504"	"火星城第下层是火星上最初建造的多功能设施之一。其中包含了库房、环境系统、本地化能源生产、通讯阵列以及基础的研究系统，这个古老的设施对火星城的正常运转至关重要。"
 // _common/def/maps.def
 	"#str_01505"	"单轨是连接UAC综合设施下层人员准入区域和上层准入的研究设施的交通手段。请准备好所有的证件和安全调查数据来接受检查。"
-	"#str_01506"	"灭除教授"
+	"#str_01506"	"排除处理器"
 	"#str_01507"	"更新: 06 / 10 / 03"
 	"#str_01508"	"记录:\n-利用中央房间里的狂战士强化道具。\n-当心别在燃烧周期进入房间。\n\n改动记录:\n- 调整了布局，优化了传送门，改良了性能\n- 改善了灯光性能。"
 	"#str_01509"	"回收站对火星上的生存至关重要，它将废弃物品加工成\n可用资源。1区主要清洁和纯化空气和水源贮藏\n来进行再分配。"
@@ -4608,7 +4608,7 @@
 // cpu:电梯.界面参数4 cpu:电梯.界面参数3
 	"#str_02979"	"CPU库K-T"
 // cpu:电梯.界面参数3
-	"#str_02980"	"路线"
+	"#str_02980"	"路由"
 // cpu:界面参数4 cpu:界面参数3
 	"#str_02981"	"CPU 2层"
 // cpu:界面参数3
@@ -4851,7 +4851,7 @@
 // alphalabs1/security.gui delta2/security.gui
 	"#str_03104"	"安保仓库通道"
 // alphalabs3/liftcall.gui
-	"#str_03105"	"登入基站"
+	"#str_03105"	"访问站点"
 // alphalabs3/liftcall.gui
 	"#str_03106"	"控制器"
 // alphalabs3/liftcall.gui
@@ -4984,7 +4984,7 @@
 // controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui
 	"#str_03180"	"CPU桥呼叫站台"
 // controlpanels/bridgecallb.gui controlpanels/bridgecontrol.gui controlpanels/bridgesignb.gui
-	"#str_03181"	"服务器存库"
+	"#str_03181"	"服务器库"
 // controlpanels/bridgecallb.gui controlpanels/bridgecallg.gui controlpanels/bridgecallr.gui controlpanels/bridgecally.gui
 	"#str_03182"	"呼叫舰桥"
 // controlpanels/bridgecallg.gui controlpanels/bridgecontrol.gui controlpanels/bridgesigng.gui mc_underground/security.gui
@@ -5018,11 +5018,11 @@
 // cpu/maintenance.gui
 	"#str_03197"	"打开维护储藏舱"
 // cpu/secure.gui
-	"#str_03198"	"安全锁柜的物品\n仅供紧急状态使用"
+	"#str_03198"	"安保锁柜的物品\n仅供紧急状态使用"
 // cpu/secure.gui
 	"#str_03199"	"安保补给使用报告"
 // cpu/secure.gui
-	"#str_03200"	"打开安保\n锁"
+	"#str_03200"	"打开\n安保锁"
 // cranegame/crane_control.gui
 	"#str_03201"	"握把控制"
 // cranegame/crane_control.gui
@@ -5496,9 +5496,9 @@
 // delta5/info.gui
 	"#str_03437"	"开启献祭传送门时需要注意的地方"
 // delta5/ventshaft_ladder.gui recycle1/ladder.gui
-	"#str_03438"	"维护站安全电梯已展开"
+	"#str_03438"	"维护通道梯子已展开"
 // delta5/ventshaft_ladder.gui recycle1/ladder.gui
-	"#str_03439"	"正在部署维护通路阶梯"
+	"#str_03439"	"正在部署维护通道梯子"
 // doors/aco_door.gui doors/aco_door_green.gui doors/aco_door_open.gui doors/aco_door_open_click.gui
 	"#str_03440"	"联合航天\n火星城区"
 // doors/aco_door.gui
@@ -5521,7 +5521,7 @@
 	"#str_03450"	"移动状态"
 	"#str_03451"	"guiset"
 // doors/elevator2floorsub.gui
-	"#str_03452"	"替补"
+	"#str_03452"	"地下"
 // doors/elevator2floorsub.gui
 	"#str_03453"	"当前位于S1层"
 // doors/elevator2floorsub.gui
@@ -9487,7 +9487,7 @@
 	"#str_00100527"	"机械在线"
 	"#str_00100528"	"机械离线"
 // erebus4/e4_bridge_release.gui
-	"#str_00100529"	"放出桥梁"
+	"#str_00100529"	"放出舰桥"
 // erebus5/erebus5_mcneil.gui
 	"#str_00100530"	"UAC战斗系统"
 // erebus5/erebus5_mcneil.gui
@@ -11243,7 +11243,7 @@
 	"#str_cpu_bates_email_3_email_date"	"2145-11-08"
 	"#str_cpu_bates_email_3_email_from"	"爱德华·索伦森"
 	"#str_cpu_bates_email_3_email_subject"	"你的测试结果"
-	"#str_cpu_bates_email_3_email_text"	"托尼，\n\n我找机会测试了一下你给我们的公式。结果已经上传到了你的邮箱当中。\n\n请特别留意一下12页的F段的第2部分。左侧的图标显示除了过去3周中的不寻常的峰值，这只可能是发生了对恩普罗电网进行的非法接入。\n\n如果不超过你们区域的电力限制的话，根本就没有办法获得你提供的图标。\n\n或许应该立即将这件事情汇报给贝特鲁格博士。"
+	"#str_cpu_bates_email_3_email_text"	"托尼，\n\n我找机会测试了一下你给我们的公式。结果已经上传到了你的邮箱当中。\n\n请特别留意一下12页的F段的第2部分。左侧的图表显示除了过去3周中的不寻常的峰值，这只可能是发生了对恩普罗电网进行的非法接入。\n\n如果不超过你们区域的电力限制的话，根本就没有办法获得你提供的图表。\n\n或许应该立即将这件事情汇报给贝特鲁格博士。"
 	"#str_cpu_bates_email_3_email_to"	"托尼·贝茨"
 	"#str_cpu_bates_pda_fullname"	"托尼·F.贝茨"
 	"#str_cpu_bates_pda_id"	"1733-86"
@@ -11272,16 +11272,16 @@
 	"#str_cpu_tooloose_email_1_email_date"	"2145-11-04"
 	"#str_cpu_tooloose_email_1_email_from"	"亨利·贝勒菲尔特"
 	"#str_cpu_tooloose_email_1_email_subject"	"服务器存储问题"
-	"#str_cpu_tooloose_email_1_email_text"	"史蒂夫，\n\n我在A12服务器上发现文件系统正在逐步劣化。你能去三楼帮我看看发生了什么吗？我正在研究德尔塔那群家伙的转移问题，我所有的数据都在那台服务器上。\n如果今晚备份可用的话可以帮我把他们重新存到A17服务器上吗？我可以用补丁进入服务器继续我的研究。\n\n谢谢，\n亨利"
-	"#str_cpu_tooloose_email_1_email_to"	"史蒂夫·土鲁斯"
+	"#str_cpu_tooloose_email_1_email_text"	"史蒂夫，\n\n我在A12服务器上发现文件系统正在逐步劣化。你能去三楼帮我看看发生了什么吗？我正在研究德尔塔那群家伙的传送问题，我所有的数据都在那台服务器上。\n如果今晚备份可用的话可以帮我把他们重新存到A17服务器上吗？我可以用补丁进入服务器继续我的研究。\n\n谢谢，\n亨利"
+	"#str_cpu_tooloose_email_1_email_to"	"史蒂夫·图鲁斯"
 	"#str_cpu_tooloose_email_2_email_date"	"2145-11-14"
 	"#str_cpu_tooloose_email_2_email_from"	"布莱恩·弗兰科"
 	"#str_cpu_tooloose_email_2_email_subject"	"BFG信息视频"
 	"#str_cpu_tooloose_email_2_email_text"	"史蒂夫，\n\n公司需要把我新上传到你办公室的BFG视频放到我们的内部网络上。不要忘了把它转换成“.uacmov”格式以便于所有终端都能播放。\n\n完成后给我发个邮件，我等不及要看它了。\n\n-布莱恩"
-	"#str_cpu_tooloose_email_2_email_to"	"史蒂夫·土鲁斯"
-	"#str_cpuboss_tooloose_pda_fullname"	"史蒂夫·H.土鲁斯"
+	"#str_cpu_tooloose_email_2_email_to"	"史蒂夫·图鲁斯"
+	"#str_cpuboss_tooloose_pda_fullname"	"史蒂夫·H.图鲁斯"
 	"#str_cpuboss_tooloose_pda_id"	"1736-16"
-	"#str_cpuboss_tooloose_pda_name"	"史蒂夫·土鲁斯"
+	"#str_cpuboss_tooloose_pda_name"	"史蒂夫·图鲁斯"
 	"#str_cpuboss_tooloose_pda_post"	"中央处理"
 	"#str_cpuboss_tooloose_pda_security"	"中央处理"
 	"#str_cpuboss_tooloose_pda_title"	"C.P.控制器"
@@ -11563,24 +11563,24 @@
 	"#str_delta5_swann_email_1_email_date"	"2145-09-23"
 	"#str_delta5_swann_email_1_email_from"	"UAC董事会"
 	"#str_delta5_swann_email_1_email_subject"	"火星研究站"
-	"#str_delta5_swann_email_1_email_text"	"亲爱的斯旺参事，\n\n理事会统一通过了一项全面复核火星研究设施的决议。你被任命为我们此次的官方代表，我们建议从今天起进行全面准备。\n\n我们希望你全面评估所有研究发展。当前和未来方向都应当符合理事会的期望。我们必须能控制贝特鲁格博士。他的特别位面研究对于传送实验来说是个潜在威胁，这是我们无法接受的。理事会认为传送是UAC最重要的科学成果，坚决不能破坏它在这个研究领域的统治地位。\n\n我们期待你能在未来几天内给出一份正式的简报和日程表。\n\n诚挚地，\nUAC理事会主席"
+	"#str_delta5_swann_email_1_email_text"	"亲爱的斯旺顾问，\n\n理事会统一通过了一项全面复核火星研究设施的决议。你被任命为我们此次的官方代表，我们建议从今天起进行全面准备。\n\n我们希望你全面评估所有研究发展。当前和未来方向都应当符合理事会的期望。我们必须能控制贝特鲁格博士。他的特别位面研究对于传送实验来说是个潜在威胁，这是我们无法接受的。理事会认为传送是UAC最重要的科学成果，坚决不能破坏它在这个研究领域的统治地位。\n\n我们期待你能在未来几天内给出一份正式的简报和日程表。\n\n诚挚地，\nUAC理事会主席"
 	"#str_delta5_swann_email_1_email_to"	"埃利奥特·斯旺"
 	"#str_delta5_swann_email_2_email_date"	"2145-10-02"
 	"#str_delta5_swann_email_2_email_from"	"利兹·麦克内尔"
 	"#str_delta5_swann_email_2_email_subject"	"盼望你的到达"
-	"#str_delta5_swann_email_2_email_text"	"斯旺参事，\n\n我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心贝特鲁格博士的研究方向，希望你的介入能带来急需的转变。我还听说贝特鲁格博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。\n\n我希望你的介入不会太迟。等你的调查有结论后，我很希望能和你在地球会面。\n\n诚挚地，\n伊丽莎白·麦克内尔"
+	"#str_delta5_swann_email_2_email_text"	"斯旺顾问，\n\n我听说理事会决定由你来调查火星上UAC的当前情况后感到很高兴。我越来越担心贝特鲁格博士的研究方向，希望你的介入能带来急需的转变。我还听说贝特鲁格博士把我重新分配到了地球上的一个哨站。虽然这有点让人失望，但我确实担心如果我还留在这里的话我的人身安全和神志清醒会不会有什么问题。\n\n我希望你的介入不会太迟。等你的调查有结论后，我很希望能和你在地球会面。\n\n诚挚地，\n伊丽莎白·麦克内尔"
 	"#str_delta5_swann_email_2_email_to"	"埃利奥特·斯旺"
 	"#str_delta5_swann_email_3_email_date"	"2145-10-03"
 	"#str_delta5_swann_email_3_email_from"	"马尔科姆·贝特鲁格"
 	"#str_delta5_swann_email_3_email_subject"	"UAC董事会审查"
-	"#str_delta5_swann_email_3_email_text"	"斯旺参事，\n\n我至今为止对理事会都非常有耐心，但进行全面行动复核的决定让我很难接受。\n\n你没有必要到火星来，也没有必要进行这次复核。我所需要的就是更多的钱和时间。这里进行的研究将以前所未有的方式改变人类。我们的研究正开始带来惊人的成果，而这些成果我不能允许它们泄漏出去。\n\n不要浪费你的时间往这里来了，斯旺。你只会妨碍我，妨碍我们在这里进行的杰出的工作。\n\n诚挚地，\n马尔科姆·贝特鲁格"
+	"#str_delta5_swann_email_3_email_text"	"斯旺顾问，\n\n我至今为止对理事会都非常有耐心，但进行全面行动复核的决定让我很难接受。\n\n你没有必要到火星来，也没有必要进行这次复核。我所需要的就是更多的钱和时间。这里进行的研究将以前所未有的方式改变人类。我们的研究正开始带来惊人的成果，而这些成果我不能允许它们泄漏出去。\n\n不要浪费你的时间到这里来了，斯旺。你只会妨碍我，妨碍我们在这里进行杰出的工作。\n\n诚挚地，\n马尔科姆·贝特鲁格"
 	"#str_delta5_swann_email_3_email_to"	"埃利奥特·斯旺"
 	"#str_delta5_swann_pda_fullname"	"埃利奥特·斯旺"
 	"#str_delta5_swann_pda_id"	"7992-13"
 	"#str_delta5_swann_pda_name"	"埃利奥特·斯旺"
 	"#str_delta5_swann_pda_post"	"UAC企业"
 	"#str_delta5_swann_pda_security"	"CPU综合设施"
-	"#str_delta5_swann_pda_title"	"参事"
+	"#str_delta5_swann_pda_title"	"顾问"
 	"#str_deltax_hook_email_1_email_date"	"2147-3-13"
 	"#str_deltax_hook_email_1_email_from"	"security@EC.net"
 	"#str_deltax_hook_email_1_email_subject"	"回复: 仓库锁柜"
@@ -11597,7 +11597,7 @@
 	"#str_demonicinfo1_email_date"	"2145-11-16"
 	"#str_demonicinfo1_email_from"	"研究档案"
 	"#str_demonicinfo1_email_subject"	"宝贵的牺牲指示者"
-	"#str_demonicinfo1_email_text"	"时候到了！很快，人类就会想预言里记载的那样受到永世的折磨。我们会享用他们的灵魂！\n\n开启献祭传送门后，要记住:\n\n - 处女的血是最好的\n - 山羊血必须用出生3天以内的羊羔\n - 必须在死前后死后30分钟后取出并分派内脏\n - 蜡烛排放方式为高的在后矮的在前——别弄反了！\n\n\n最重要的一点——画五角星时要从中间往外画，从左往右画。\n\n"
+	"#str_demonicinfo1_email_text"	"时候到了！很快，人类就会像预言里记载的那样受到永世的折磨。我们会享用他们的灵魂！\n\n开启献祭传送门后，要记住:\n\n - 处女的血是最好的\n - 山羊血必须用出生3天以内的羊羔\n - 必须在死前或死后30分钟内取出并分派内脏\n - 蜡烛排放方式为高的在后、矮的在前 - 别弄反了！\n\n\n最重要的一点——画五角星时要从中间往外画，从左往右画。\n\n"
 	"#str_demonicinfo1_email_to"	"收件人"
 	"#str_deployment_video_info"	"创建者: UAC公关部\n日期: 08/06/46\n\n火星: 任务目标"
 	"#str_deployment_video_name"	"火星: 任务目标及安全"
@@ -13040,12 +13040,12 @@
 	"#str_site3_rogers_email_2_email_date"	"2145-11-02"
 	"#str_site3_rogers_email_2_email_from"	"蒂米·罗杰斯"
 	"#str_site3_rogers_email_2_email_subject"	"多谢！"
-	"#str_site3_rogers_email_2_email_text"	"皮尔斯叔叔，\n\n妈妈说我们下个月就能见到你了。我等不及了。你离开好久了。我希望你的项目进展顺利。我知道你不能跟我说，但你的工作总是听起来兴奋又神秘。在火星上工作肯定很酷。\n\n谢谢你送给我作生日礼物的游戏。你玩过了吗？新款《Quake-43》太好玩了，比《超级涡轮火鸡拳》要好玩多了。自从你给我新游戏以后我就没有再玩过了。\n\n我爱你，我们一直很相抵！！！\n蒂米\n\n附言: 妈妈向你问好！"
+	"#str_site3_rogers_email_2_email_text"	"皮尔斯叔叔，\n\n妈妈说我们下个月就能见到你了。我等不及了。你离开好久了。我希望你的项目进展顺利。我知道你不能跟我说，但你的工作总是听起来兴奋又神秘。在火星上工作肯定很酷。\n\n谢谢你送给我作为生日礼物的游戏。你玩过了吗？新款《Quake-43》太好玩了，比《超级涡轮火鸡拳》要好玩多了。自从你给我新游戏以后我就没有再玩过了。\n\n我爱你，我们一直很想你！！！\n蒂米\n\n附言: 妈妈向你问好！"
 	"#str_site3_rogers_email_2_email_to"	"皮尔斯·罗杰斯"
 	"#str_site3_rogers_email_3_email_date"	"2145-11-15"
 	"#str_site3_rogers_email_3_email_from"	"服务器: 邮递失败"
 	"#str_site3_rogers_email_3_email_subject"	"灵魂魔方就是答案"
-	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被流放到火星恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
+	"#str_site3_rogers_email_3_email_text"	"服务器: 发送失败，无法连接轨道通信卫星。请联系I.T.系统管理员（代码504）\n\n----原始邮件----\n发送日期: 2145-11-15\n收件人: 伊丽莎白·麦克内尔\n\n现在我只能祈求你的原谅。你说的一切都是对的。但我多么希望你是错的，而这一切只是一场将醒的噩梦，我能做的就是祈祷你能收到这条信息。\n博士已经疯了，一切都变得比你想象的还要糟糕。你被从火星流放恰好救了你的命。你必须把情况散播出去。关键是灵魂魔方对象，永远都是。随时关注我的报告，我会把我的发现上传到数据库。\n\n警告所有人。千万不要让地球遭受同样的灾难。\n\n愿上帝保佑你，\n皮尔斯"
 	"#str_site3_rogers_email_3_email_to"	"皮尔斯·罗杰斯"
 	"#str_site3_rogers_pda_fullname"	"皮尔斯·M.罗杰斯，博士"
 	"#str_site3_rogers_pda_id"	"5304-29"
@@ -13349,4 +13349,5 @@
 	"James Holiday"	"詹姆斯·霍利戴"
 	"Seamus Blake"	"谢默斯·布雷克"
 	"Roger Stenson"	"罗杰·斯坦森"
+	"Counselor Swann"	"斯旺顾问"
 }

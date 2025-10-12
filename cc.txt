@@ -2096,19 +2096,19 @@ Sarge is gone. They've got to him. I don't know how long he's been working again
 
 > #cc_delta5_00000000003
 He's no longer human. Campbell went after him. He's got to be stopped. (pained coughs)
-他不再是人类了。坎贝尔去追他了。他必须被阻止。(痛苦的咳嗽)
+他不再是人类了。坎贝尔去追他了。必须阻止他。(痛苦的咳嗽)
 
 > #cc_delta5_00000000004
 Hell is breaking through in the caverns. If that portal isn't closed before those ships arrive, Earth will be destroyed.
-地狱正在洞穴中突破。如果那些飞船抵达前传送门没有关闭，地球将被摧毁。
+地狱正在从洞穴中突破。如果传送门没在那些飞船抵达前关闭，地球将被摧毁。
 
 > #cc_delta5_00000000005
 Earth. That's what they've always wanted. They were there once. Lost it in the dawn of time.
-地球。那一直是他们想要的。他们曾经在那里。在远古时代失去了它。
+地球。那一直是它们想要的。它们曾经在那里。在远古时代失去了它。
 
 > #cc_delta5_00000000006
 Now it's so close, they can taste it. It's up to you now. Take my PDA, it's got what you need. Good luck.
-现在它如此接近，他们几乎能尝到它的滋味。现在就看你的了。拿走我的掌上电脑，里面有你需要的东西。祝你好运。
+现在它如此接近，它们几乎能尝到它的滋味。现在就看你的了。拿走我的PDA，里面有你需要的东西。祝你好运。
 
 > #cc_delta5_00000000007
 Betruger: Suffering and pain waits for you.
@@ -5960,7 +5960,7 @@ Man, this is proving to be a real... bitch of a glitch to work out.
 
 > #cc_pda_00000000082
 I've traced through every system I can think of and, access to Lab A continues to be problematic for the time being.
-我已经追踪了我能想到的每一个系统，目前A实验室的访问仍然有问题。
+我已经追踪了我能想到的每一个系统，目前实验室A的访问仍然有问题。
 
 > #cc_pda_00000000452
 All the regular access codes seem to be working fine, but the database won't allow access rights to be granted to new visitors.
@@ -5972,7 +5972,7 @@ In the meantime, I'm adding a backdoor code into the systems for IT staff and th
 
 > #cc_pda_00000000453
 so if they need access to Lab A while the systems are on the fritz, they can use the code six-twenty-seven to bypass door security. End of log.
-这样如果系统出故障时他们需要访问A实验室，他们可以使用代码6-2-7绕过门禁安全。日志结束。
+这样如果系统出故障时他们需要访问实验室A，他们可以使用代码6-2-7绕过门禁安全。日志结束。
 
 > #cc_pda_00000000084
 This is the audio log of Charlie Haskell, Delta Labs Technician, dated September 23rd, 2145.
@@ -5992,7 +5992,7 @@ The latest schedule changes are wreaking havoc on our current systems, and it's 
 
 > #cc_pda_00000000087
 We understand that Lab A has finally received the Enrex 6809 systems.
-我们了解到A实验室终于收到了恩瑞克斯6809系统。
+我们了解到实验室A终于收到了恩瑞克斯6809系统。
 
 > #cc_pda_00000000455
 Please consider this a formal request for a block of two hours to run our latest formulas at the soonest available time.
@@ -9484,7 +9484,7 @@ Our research continues and we hope with continued investiment and research we ca
 
 > #cc_videos_00000000171
 Setting new standards in both archaeological discovery and analysis, the UAC is proud to showcase the latest findings on four unique and fascinating artifacts.
-在考古发现和分析方面树立新标杆，UAC自豪地展示了四件独特而迷人的神器的最新发现。
+在考古发现和分析方面树立新标杆，UAC自豪地展示了四件独特而迷人的遗物最新发现。
 
 > #cc_videos_00000000307
 """"""
