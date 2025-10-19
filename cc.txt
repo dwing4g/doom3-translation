@@ -3020,7 +3020,7 @@ Ok. We are in.
 
 > #cc_erebus1_00000000008
 Red team we're showing your position less than 100 meters from the signal. There's no existing data suggesting any ancient civ development in that area.
-红队，我们显示你们的位置距离信号不到100米。没有现有数据表明该区域有任何古代文明发展。
+红队，我们显示你们的位置距离信号不到100米。现在还没有数据表明该区域有任何古代文明发展。
 
 > #cc_erebus1_00000000009
 We're having trouble with your transmission. I need that stream brought back online now. Damnit, I can't see anything.
@@ -3132,7 +3132,7 @@ Red team! What's going on down there?
 
 > #cc_erebus1_00000000035
 Victor Team, what is your location? Somebody, talk to us!
-维克托小队，你们的位置在哪里？有人，跟我们说话！
+维克托小队，你们的位置在哪里？有没有人，跟我们说话！
 
 > #cc_erebus1_00000000036
 No! No! Aaaaaa!
@@ -3176,7 +3176,7 @@ Up until now, we hadn't seen any artifacts in what must have been their original
 
 > #cc_erebus2_00000000005
 attacking those godforsaken creatures. Why did the gate open? The amount of chaos and movement within is new to all of us, all of us that are left.
-攻击那些被诅咒的生物。为什么大门会打开？内部的混乱和活动对我们所有人，所有幸存者来说都是新的。
+攻击那些被诅咒的生物。为什么大门会打开？内部的混乱和活动对我们所有人，所有幸存者来说都是前所未有的。
 
 > #cc_erebus2_00000000006
 Our team leader didn't make it. He was pinned down by something. What it was, I can't even describe.

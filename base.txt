@@ -2874,7 +2874,7 @@ Error
 ; caves/ladder.gui caves/ladder2.gui
 """DO NOT HANDLE DURING
 HYDRAULIC OPERATION"""
-"""在水压操作时
+"""在液压操作时
 不要碰"""
 
 > #str_00325
@@ -3088,12 +3088,12 @@ Generator shutdown - Ty Leeson
 Security lockdown - Brad Stevens
 Filter chamber shutdown - Brad Stevens"""
 """由于结构不稳的问题，这个区域将会被关闭来等待将所有的遗物移出。在科学小队将研究遗物转移到上层之后，关闭程序将会开始。请确保全部
-工作人员明了最终封锁日期
+工作人员明确最终封锁日期
 我们不想重复进行第1阶段。
 
-下面的这个任务列表的更加详细的版本将会发送给恰当的当班主管。
+下面的这个任务列表的更详细版本将会发送给合适的当班主管。
 
-封闭建设集装箱 - 第2小队
+封闭建筑集装箱 - 第2小队
 便携设备移出 - 第7小队
 发电机关闭 - 泰·利森
 安防封锁 - 布拉德·史蒂夫
@@ -13092,7 +13092,7 @@ Tim Willits...Project Director"""
  
 唐娜·杰克逊……id妈咪
  
-塞尼卡·梅娜德……3D艺术家
+塞尼卡·梅纳德……3D艺术家
  
 弗雷德·尼尔森……动画师
  
@@ -14146,7 +14146,7 @@ Jerry Keehan
 > #str_02248
 ; credits.gui
 Seneca Menard
-塞尼卡·梅娜德
+塞尼卡·梅纳德
 
 > #str_02249
 ; credits.gui
@@ -15072,7 +15072,7 @@ Tim Willits...Project Director"""
 马特·胡珀……设计师
 唐娜·杰克逊……id妈咪
 埃德·利马……声音工程师
-塞尼卡·梅娜德……3D艺术家
+塞尼卡·梅纳德……3D艺术家
 弗雷德·尼尔森……动画师
 史蒂夫·莱斯科……设计师
 肯尼斯·斯科特……艺术家
@@ -18255,7 +18255,7 @@ POWER DISTRIBUTION
 > #str_03140
 ; caves/generic2.gui
 CARGO TRANSFER LOGS
-货物转移记录
+货物转运记录
 
 > #str_03141
 ; caves/generic2.gui
@@ -18266,9 +18266,9 @@ This shipment contains various small artifacts packaged in the lower level resea
 Authorized by Transfer coordinator Bill Kirtley"""
 """运输清单
 -------
-此货件中包含在较低水平的研究所打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。
+此货件包含在低层研究区域打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。
 -------- 
-审批员: 传输协调员比尔·柯特利"""
+审批员: 转运协调员比尔·柯特利"""
 
 > #str_03142
 ; caves/generic3.gui
@@ -18300,7 +18300,7 @@ In need of immediate assistance. Multiple injury reports coming in following an 
 > #str_03147
 ; caves/generic4.gui
 TRANSFER SCHEDULE
-中转日程安排
+转运日程安排
 
 > #str_03148
 ; caves/generic4.gui
@@ -18311,7 +18311,7 @@ TRANSFER SCHEDULE
 18:30 - PORTABLE EQUIPMENT REMOVAL"""
 """08:00 - 最终遗物移除
 
-12:00 - 建造容器转移
+12:00 - 建造容器转运
 
 18:30 - 便携装备移除"""
 
@@ -23687,7 +23687,7 @@ Recycling 2
 > #str_04028
 ; transfer/exit_admin.gui transfer/exit_alphalabs1.gui transfer/exit_alphalabs2.gui transfer/exit_alphalabs3.gui transfer/exit_alphalabs4.gui transfer/exit_caverns1.gui transfer/exit_caverns2.gui transfer/exit_comm1.gui transfer/exit_commoutside.gui transfer/exit_cpu.gui transfer/exit_cpuboss.gui transfer/exit_delta1.gui transfer/exit_delta2b.gui transfer/exit_delta3.gui transfer/exit_delta5.gui transfer/exit_enpro.gui transfer/exit_le_enpro1.gui transfer/exit_le_enpro2.gui transfer/exit_mars_city1.gui transfer/exit_mars_city2.gui transfer/exit_mc_underground.gui transfer/exit_monorail.gui transfer/exit_recycling1.gui transfer/exit_recycling2.gui transfer/exit_site3.gui
 TRANSFER DESTINATION
-中转目的地
+传送目的地
 
 > #str_04029
 ; transfer/exit_admin.gui transfer/exit_alphalabs1.gui transfer/exit_alphalabs2.gui transfer/exit_alphalabs3.gui transfer/exit_alphalabs4.gui transfer/exit_caverns1.gui transfer/exit_caverns2.gui transfer/exit_comm1.gui transfer/exit_commoutside.gui transfer/exit_cpu.gui transfer/exit_cpuboss.gui transfer/exit_delta1.gui transfer/exit_delta2b.gui transfer/exit_delta3.gui transfer/exit_delta5.gui transfer/exit_enpro.gui transfer/exit_le_enpro1.gui transfer/exit_le_enpro2.gui transfer/exit_mars_city1.gui transfer/exit_mars_city2.gui transfer/exit_mc_underground.gui transfer/exit_monorail.gui transfer/exit_recycling1.gui transfer/exit_recycling2.gui transfer/exit_site3.gui
@@ -25698,7 +25698,7 @@ Main Dig Junction
 > #str_04471
 ; caverns2:地点.名
 Room of Stars
-繁星之间
+繁星之室
 
 > #str_04472
 ; caverns2:地点.名
@@ -30167,7 +30167,7 @@ CHANGE FLOORS
 > #str_00100081
 ; transfer/exit_erebus1.gui transfer/exit_erebus2.gui transfer/exit_erebus3.gui transfer/exit_erebus4.gui transfer/exit_erebus5.gui transfer/exit_erebus6.gui transfer/exit_phobos1.gui transfer/exit_phobos2.gui transfer/exit_phobos3.gui transfer/exit_phobos4.gui
 TRANSFER DESTINATION
-中转目的地
+传送目的地
 
 > #str_00100082
 ; transfer/exit_erebus2.gui transfer/exit_erebus3.gui
@@ -31403,12 +31403,12 @@ Weston
 > #str_00100355
 ; erebus2:PDA物品.名 erebus2:界面参数7
 Gregory's PDA
-格雷戈里的PDA
+格雷格里的PDA
 
 > #str_00100356
 ; erebus2:界面参数2
 Gregory Martin
-格雷戈里·马丁
+格雷格里·马丁
 
 > #str_00100357
 Equipment
@@ -34212,7 +34212,7 @@ Sean Mitchell
 
 > #str_00100942
 Gregory Stone
-格雷戈里·斯通
+格雷格里·斯通
 
 > #str_00100943
 Nerve Software is
@@ -34487,7 +34487,7 @@ Ancient Teleporter
 > #str_00101000
 ; d3xpdm1:地点.位置
 Room of Stars
-繁星之间
+繁星之室
 
 > #str_00101001
 ; d3xpdm1:地点.位置
@@ -35060,7 +35060,7 @@ TRANSFER BAY
 > #str_00200059
 ; transfer/exit_le_underground1.gui
 TRANSFER DESTINATION
-中转目的地
+传送目的地
 
 > #str_00200060
 ; transfer/enter_le_underrgound2.gui
@@ -41786,13 +41786,13 @@ Greg"""
 
 嘿，杰克，
 
-看来我没法赶在妈妈的生日前回去了。我不是很清楚她到底想要什么礼物。你能帮我个忙从替我们两个一起送份礼物吗？我晚些会付给你钱的。在这里真是太无聊了。我想念大家。
+看来我没法赶在妈妈的生日前回去了。我不是很清楚她到底想要什么礼物。你能帮我个忙替我们两个一起送份礼物吗？我晚些会付给你钱的。在这里真是太无聊了。我想念大家。
 
 格雷格"""
 
 > #str_erebus2_gregory_email_1_email_to
 Gregory R. Martin
-格雷戈里·R.马丁
+格雷格里·R.马丁
 
 > #str_erebus2_gregory_email_2_email_date
 3-14-2147
@@ -41836,7 +41836,7 @@ Greg"""
 
 > #str_erebus2_gregory_email_2_email_to
 Gregory R. Martin
-格雷戈里·R.马丁
+格雷格里·R.马丁
 
 > #str_erebus2_gregory_email_3_email_date
 3-12-2147
@@ -41864,11 +41864,11 @@ Ryan"""
 
 > #str_erebus2_gregory_email_3_email_to
 Gregory R. Martin
-格雷戈里·R.马丁
+格雷格里·R.马丁
 
 > #str_erebus2_gregory_pda_fullname
 Gregory R. Martin
-格雷戈里·R.马丁
+格雷格里·R.马丁
 
 > #str_erebus2_gregory_pda_id
 2304-13
@@ -41876,7 +41876,7 @@ Gregory R. Martin
 
 > #str_erebus2_gregory_pda_name
 Gregory Martin
-格雷戈里·马丁
+格雷格里·马丁
 
 > #str_erebus2_gregory_pda_post
 Erebus Labs
@@ -41936,7 +41936,7 @@ Marcus"""
 发送日期: 2147-3-13
 收件人: 维克多·哈尔科夫
 
-是的……我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。
+是的……我知道我得完成我的开幕辞。当然，如果不多玩玩我是学不到什么的。今晚我会尽量去实验室。
 
 马库斯"""
 
@@ -42048,7 +42048,7 @@ All hell has broken loose here in the Erebus Complex!
 收件人: security@EC.net
 我需要储物锁柜028号和029号的安保密码，现在就要！
 
-厄瑞玻斯综合设施中的所有东西都逃脱了！
+厄瑞玻斯综合设施中的所有东西都坏掉了！
 
 """
 
@@ -43724,7 +43724,7 @@ Todd Hollenshead
 CEO, Co-Owner"""
 """哇。我们终于完成了！
 
-我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她无论多晚我回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。
+我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她我无论多晚回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。
 
 感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。
 
@@ -43828,7 +43828,7 @@ It's been a wild ride .. I look forward to the future.
 TTimo
 Paris, France"""
 """感谢我最好的妻子克里斯汀能够多年来一直忍受我
-感谢我的父母——妈妈，你玩儿了那么远读到我的话了吗？？
+感谢我的父母——妈妈，你玩儿了那么久读到这些话了吗？？
 感谢我的朋友帮助我摆脱电脑上瘾。
 还有一个给#qeradiant regulars的巨大的BELH！
 
@@ -43836,7 +43836,7 @@ Paris, France"""
 
 这真是一场狂野之旅……我期望未来能够更好。
 
-TTimo
+蒂莫
 巴黎，法国。"""
 
 > #str_id_7_email_to
@@ -43908,7 +43908,7 @@ Mesquite, TX, USA, Earth"""
 很好，游戏通关了。你坚持不懈，水平很高，不然就是找到了作弊代码。不管怎么说，感谢你玩了这么久。实际上，我觉得应该给你点奖励，告诉你艺术团队的一些秘密。
 
 肯尼斯·斯科特: 浏览日本书店网页的速度比大多数日本人都快。
-塞尼卡·梅娜德: 如果餐馆员工穿橙色莱卡热裤，就不会进去吃饭。
+塞尼卡·梅纳德: 如果餐馆员工穿橙色莱卡热裤，就不会进去吃饭。
 弗雷德·尼尔森: 能背诵他制作的动画电影的台词。
 帕特·达菲: 曾受电影明星的邀请去旅馆房间里见面，但没去。
 帕特里克·托马斯: 笑了就停不下。
@@ -43981,7 +43981,7 @@ Enjoy the rest of the game!
 patd"""
 """希望你喜欢我们精心在《Doom 3》里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。
 
-还要谢谢我的妻子克里斯丁娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)
+还要谢谢我的妻子克里斯蒂娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)
 
 享受接下来的游戏吧！
 
@@ -44151,7 +44151,7 @@ Doom玩家
 
 > #str_id_17_email_from
 Seneca Menard
-塞尼卡·梅娜德
+塞尼卡·梅纳德
 
 > #str_id_17_email_subject
 Thank You
@@ -44160,7 +44160,7 @@ Thank You
 > #str_id_17_email_text
 """Seneca Menard
 Artist"""
-"""塞尼卡·梅娜德
+"""塞尼卡·梅纳德
 艺术家"""
 
 > #str_id_17_email_to
@@ -44346,7 +44346,7 @@ Did you find the MrE behind DOOM 3 ?
 
 MrElusive,
 Programmer"""
-"""我要感谢自己以及那个我深爱的双胞胎兄弟，虽然很不幸地他在娘胎中就被分解掉了。
+"""我要感谢自己以及那个我深爱的双胞胎兄弟，虽然很不幸他在娘胎中就被分解掉了。
 
 MrElusive，
 程序员"""
@@ -44375,7 +44375,7 @@ Most of all, I have to thank my 'bagel-chick' Emmy! Thank you for all those nigh
 -eric"""
 """感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。
 
-最重要的，我要感谢我的“煮饭婆”艾米！我为了那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好的女友而感谢你！
+最重要的，我要感谢我的“煮饭婆”艾米！我为那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好女友而感谢你！
 
 -埃里克"""
 
@@ -47352,7 +47352,7 @@ Sincerely,
 Dr. Elizabeth McNeil"""
 """至所有在1号探险站的人员:
 
-我想要占用一点你们的时间，来欢迎你们参与这项至关重要的任务。你们的志愿参与使我钦佩万分。在如此长的一段时间内离开朋友和家人，离开我们熟悉的地球的蓝天白云绿草红花，以及最重要的——清新的空气，是十分困难的
+我想要占用你们的一点时间，来欢迎你们参与这项至关重要的任务。你们的志愿参与使我钦佩万分。在如此长的一段时间内离开朋友和家人，离开我们熟悉的地球的蓝天白云绿草红花，以及最重要的——清新的空气，是十分困难的
 
 然而，我们有机会成就历史。我相信我们正处于一项意义重大的考古发现的边缘，它将永远改变的，不仅仅是我们对火星以及曾经栖居于此的古老文明的看法，还有对处于这个宇宙中的我们自身的看法。
 

@@ -633,7 +633,7 @@
 // caves/keycard.gui caves/keycard2.gui
 	"#str_00323"	"错误"
 // caves/ladder.gui caves/ladder2.gui
-	"#str_00324"	"在水压操作时\n不要碰"
+	"#str_00324"	"在液压操作时\n不要碰"
 // caves/ladder.gui
 	"#str_00325"	"打开接入舱口"
 // caves/ladder.gui
@@ -696,7 +696,7 @@
 // caves/map.gui
 	"#str_00356"	"警告: 所有轮岗人员"
 // caves/map.gui
-	"#str_00357"	"由于结构不稳的问题，这个区域将会被关闭来等待将所有的遗物移出。在科学小队将研究遗物转移到上层之后，关闭程序将会开始。请确保全部\n工作人员明了最终封锁日期\n我们不想重复进行第1阶段。\n\n下面的这个任务列表的更加详细的版本将会发送给恰当的当班主管。\n\n封闭建设集装箱 - 第2小队\n便携设备移出 - 第7小队\n发电机关闭 - 泰·利森\n安防封锁 - 布拉德·史蒂夫\n过滤室关闭 - 布拉德·史蒂夫"
+	"#str_00357"	"由于结构不稳的问题，这个区域将会被关闭来等待将所有的遗物移出。在科学小队将研究遗物转移到上层之后，关闭程序将会开始。请确保全部\n工作人员明确最终封锁日期\n我们不想重复进行第1阶段。\n\n下面的这个任务列表的更详细版本将会发送给合适的当班主管。\n\n封闭建筑集装箱 - 第2小队\n便携设备移出 - 第7小队\n发电机关闭 - 泰·利森\n安防封锁 - 布拉德·史蒂夫\n过滤室关闭 - 布拉德·史蒂夫"
 // caves/resetcrane.gui mc_underground/resetcrane.gui
 	"#str_00358"	"装载位置"
 // caves/resetcrane.gui mc_underground/resetcrane.gui
@@ -3336,7 +3336,7 @@
 	"#str_01996"	"玩家决定继续杀"
 	"#str_01997"	"工具提示区域1"
 	"#str_01998"	"工具提示区域2"
-	"#str_01999"	"阿德里安·卡马克……艺术家\n \n约翰·卡马克……技术总监\n \n凯文·克劳德……艺术家\n \n克里斯蒂安·安特科……设计师\n \n马尔·布莱克韦尔……设计师\n \n安迪·张……艺术家\n \n格雷姆·德文……程序员\n \n吉姆·道斯……程序员\n \n帕特·达菲……媒体艺术家\n \n罗伯特·达菲……程序员\n \n陶德·霍伦斯黑德……首席执行官\n \n马特·胡珀……设计师\n \n唐娜·杰克逊……id妈咪\n \n塞尼卡·梅娜德……3D艺术家\n \n弗雷德·尼尔森……动画师\n \n史蒂夫·莱斯科……设计师\n \n肯尼斯·斯科特……艺术家\n \n马蒂·斯特拉顿……商务开发总监\n \n埃里克·韦伯……开发助理\n \n扬·保罗·范·瓦韦伦……程序员\n \n蒂姆·威利茨……项目总监"
+	"#str_01999"	"阿德里安·卡马克……艺术家\n \n约翰·卡马克……技术总监\n \n凯文·克劳德……艺术家\n \n克里斯蒂安·安特科……设计师\n \n马尔·布莱克韦尔……设计师\n \n安迪·张……艺术家\n \n格雷姆·德文……程序员\n \n吉姆·道斯……程序员\n \n帕特·达菲……媒体艺术家\n \n罗伯特·达菲……程序员\n \n陶德·霍伦斯黑德……首席执行官\n \n马特·胡珀……设计师\n \n唐娜·杰克逊……id妈咪\n \n塞尼卡·梅纳德……3D艺术家\n \n弗雷德·尼尔森……动画师\n \n史蒂夫·莱斯科……设计师\n \n肯尼斯·斯科特……艺术家\n \n马蒂·斯特拉顿……商务开发总监\n \n埃里克·韦伯……开发助理\n \n扬·保罗·范·瓦韦伦……程序员\n \n蒂姆·威利茨……项目总监"
 	"#str_02000"	"大房间"
 	"#str_02001"	"小房间"
 // mars_city2:地点.位置
@@ -3615,7 +3615,7 @@
 // credits.gui
 	"#str_02247"	"杰瑞·基恩"
 // credits.gui
-	"#str_02248"	"塞尼卡·梅娜德"
+	"#str_02248"	"塞尼卡·梅纳德"
 // credits.gui
 	"#str_02249"	"艺术家"
 // credits.gui
@@ -3844,7 +3844,7 @@
 	"#str_02461"	"推荐品质"
 	"#str_02462"	"安全模式"
 	"#str_02463"	"应用视频更改"
-	"#str_02464"	"阿德里安·卡马克……艺术家\n约翰·卡马克……技术总监\n凯文·克劳德……艺术家\n克里斯蒂安·安特科……设计师\n马尔·布莱克韦尔……设计师\n安迪·张……艺术家\n格雷姆·德文……程序员\n吉姆·道斯……程序员\n帕特·达菲……媒体艺术家\n罗伯特·达菲……程序员\n陶德·霍伦斯黑德……首席执行官\n马特·胡珀……设计师\n唐娜·杰克逊……id妈咪\n埃德·利马……声音工程师\n塞尼卡·梅娜德……3D艺术家\n弗雷德·尼尔森……动画师\n史蒂夫·莱斯科……设计师\n肯尼斯·斯科特……艺术家\n马蒂·斯特拉顿……商务开发总监\n埃里克·韦伯……开发助理\n扬·保罗·范·瓦韦伦……程序员\n蒂姆·威利茨……项目总监"
+	"#str_02464"	"阿德里安·卡马克……艺术家\n约翰·卡马克……技术总监\n凯文·克劳德……艺术家\n克里斯蒂安·安特科……设计师\n马尔·布莱克韦尔……设计师\n安迪·张……艺术家\n格雷姆·德文……程序员\n吉姆·道斯……程序员\n帕特·达菲……媒体艺术家\n罗伯特·达菲……程序员\n陶德·霍伦斯黑德……首席执行官\n马特·胡珀……设计师\n唐娜·杰克逊……id妈咪\n埃德·利马……声音工程师\n塞尼卡·梅纳德……3D艺术家\n弗雷德·尼尔森……动画师\n史蒂夫·莱斯科……设计师\n肯尼斯·斯科特……艺术家\n马蒂·斯特拉顿……商务开发总监\n埃里克·韦伯……开发助理\n扬·保罗·范·瓦韦伦……程序员\n蒂姆·威利茨……项目总监"
 	"#str_02465"	"你确定要退出吗？"
 	"#str_02466"	"是"
 	"#str_02467"	"否"
@@ -4902,9 +4902,9 @@
 // caves/door_movehell.gui
 	"#str_03139"	"配电"
 // caves/generic2.gui
-	"#str_03140"	"货物转移记录"
+	"#str_03140"	"货物转运记录"
 // caves/generic2.gui
-	"#str_03141"	"运输清单\n-------\n此货件中包含在较低水平的研究所打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。\n-------- \n审批员: 传输协调员比尔·柯特利"
+	"#str_03141"	"运输清单\n-------\n此货件包含在低层研究区域打包的各种小型遗物。由于锁定期限物品都打包的很仓促，但是受到的伤害应该是最小的。\n-------- \n审批员: 转运协调员比尔·柯特利"
 // caves/generic3.gui
 	"#str_03142"	"管理员访问"
 // caves/generic3.gui
@@ -4916,9 +4916,9 @@
 // caves/generic3.gui
 	"#str_03146"	"需要紧急援助。未知地点发生爆炸后有多起伤亡报告。在我的位置可以听到枪声"
 // caves/generic4.gui
-	"#str_03147"	"中转日程安排"
+	"#str_03147"	"转运日程安排"
 // caves/generic4.gui
-	"#str_03148"	"08:00 - 最终遗物移除\n\n12:00 - 建造容器转移\n\n18:30 - 便携装备移除"
+	"#str_03148"	"08:00 - 最终遗物移除\n\n12:00 - 建造容器转运\n\n18:30 - 便携装备移除"
 // caves/generic4.gui
 	"#str_03149"	"06:30 - 大型遗物移除 - 已完成 07:38"
 // caves/keycard2.gui
@@ -6641,7 +6641,7 @@
 // transfer/exit_recycling1.gui transfer/enter_recycling2.gui
 	"#str_04027"	"回收区2"
 // transfer/exit_admin.gui transfer/exit_alphalabs1.gui transfer/exit_alphalabs2.gui transfer/exit_alphalabs3.gui transfer/exit_alphalabs4.gui transfer/exit_caverns1.gui transfer/exit_caverns2.gui transfer/exit_comm1.gui transfer/exit_commoutside.gui transfer/exit_cpu.gui transfer/exit_cpuboss.gui transfer/exit_delta1.gui transfer/exit_delta2b.gui transfer/exit_delta3.gui transfer/exit_delta5.gui transfer/exit_enpro.gui transfer/exit_le_enpro1.gui transfer/exit_le_enpro2.gui transfer/exit_mars_city1.gui transfer/exit_mars_city2.gui transfer/exit_mc_underground.gui transfer/exit_monorail.gui transfer/exit_recycling1.gui transfer/exit_recycling2.gui transfer/exit_site3.gui
-	"#str_04028"	"中转目的地"
+	"#str_04028"	"传送目的地"
 // transfer/exit_admin.gui transfer/exit_alphalabs1.gui transfer/exit_alphalabs2.gui transfer/exit_alphalabs3.gui transfer/exit_alphalabs4.gui transfer/exit_caverns1.gui transfer/exit_caverns2.gui transfer/exit_comm1.gui transfer/exit_commoutside.gui transfer/exit_cpu.gui transfer/exit_cpuboss.gui transfer/exit_delta1.gui transfer/exit_delta2b.gui transfer/exit_delta3.gui transfer/exit_delta5.gui transfer/exit_enpro.gui transfer/exit_le_enpro1.gui transfer/exit_le_enpro2.gui transfer/exit_mars_city1.gui transfer/exit_mars_city2.gui transfer/exit_mc_underground.gui transfer/exit_monorail.gui transfer/exit_recycling1.gui transfer/exit_recycling2.gui transfer/exit_site3.gui
 	"#str_04029"	"点击离开"
 // transfer/exit_alphalabs1.gui
@@ -7226,7 +7226,7 @@
 // caverns2:地点.名
 	"#str_04470"	"主挖掘连接点"
 // caverns2:地点.名
-	"#str_04471"	"繁星之间"
+	"#str_04471"	"繁星之室"
 // caverns2:地点.名
 	"#str_04472"	"房间连接点2"
 // caverns2:地点.名
@@ -8770,7 +8770,7 @@
 // transfer/exit_erebus1.gui transfer/exit_erebus2.gui transfer/exit_erebus4.gui
 	"#str_00100080"	"改变楼层"
 // transfer/exit_erebus1.gui transfer/exit_erebus2.gui transfer/exit_erebus3.gui transfer/exit_erebus4.gui transfer/exit_erebus5.gui transfer/exit_erebus6.gui transfer/exit_phobos1.gui transfer/exit_phobos2.gui transfer/exit_phobos3.gui transfer/exit_phobos4.gui
-	"#str_00100081"	"中转目的地"
+	"#str_00100081"	"传送目的地"
 // transfer/exit_erebus2.gui transfer/exit_erebus3.gui
 	"#str_00100082"	"厄瑞玻斯实验室"
 // transfer/exit_erebus1.gui transfer/exit_erebus2.gui transfer/exit_erebus3.gui transfer/exit_erebus4.gui transfer/exit_erebus5.gui transfer/exit_erebus6.gui transfer/exit_phobos1.gui transfer/exit_phobos2.gui transfer/exit_phobos3.gui transfer/exit_phobos4.gui
@@ -9184,9 +9184,9 @@
 // erebus2:PDA物品.名
 	"#str_00100354"	"韦斯顿"
 // erebus2:PDA物品.名 erebus2:界面参数7
-	"#str_00100355"	"格雷戈里的PDA"
+	"#str_00100355"	"格雷格里的PDA"
 // erebus2:界面参数2
-	"#str_00100356"	"格雷戈里·马丁"
+	"#str_00100356"	"格雷格里·马丁"
 	"#str_00100357"	"设备"
 	"#str_00100358"	"弹药"
 // erebus1:地点.位置 erebus2:地点.位置
@@ -10137,7 +10137,7 @@
 	"#str_00100939"	"布莱恩·马特"
 	"#str_00100940"	"达林·麦克内尔"
 	"#str_00100941"	"肖恩·米切尔"
-	"#str_00100942"	"格雷戈里·斯通"
+	"#str_00100942"	"格雷格里·斯通"
 	"#str_00100943"	"Nerve软件是"
 // _common/def/maps.def
 	"#str_00100944"	"主挖掘场"
@@ -10236,7 +10236,7 @@
 // d3xpdm1:地点.位置
 	"#str_00100999"	"古代传送器"
 // d3xpdm1:地点.位置
-	"#str_00101000"	"繁星之间"
+	"#str_00101000"	"繁星之室"
 // d3xpdm1:地点.位置
 	"#str_00101001"	"悬浮室通道"
 // d3xpdm2:地点.位置
@@ -10458,7 +10458,7 @@
 // transfer/exit_le_underground1.gui transfer/enter_le_underrgound2.gui
 	"#str_00200058"	"传送台"
 // transfer/exit_le_underground1.gui
-	"#str_00200059"	"中转目的地"
+	"#str_00200059"	"传送目的地"
 // transfer/enter_le_underrgound2.gui
 	"#str_00200060"	"当前位置"
 // controlpanels/powerswitch_useonce.gui transfer/enter_le_underrgound2.gui
@@ -11855,21 +11855,21 @@
 	"#str_erebus2_gregory_email_1_email_date"	"2147-3-13"
 	"#str_erebus2_gregory_email_1_email_from"	"杰克·马丁"
 	"#str_erebus2_gregory_email_1_email_subject"	"生日"
-	"#str_erebus2_gregory_email_1_email_text"	"格雷格，\n我们也都很想念你。在上面注意安全。\n杰克\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 杰克·马丁\n\n嘿，杰克，\n\n看来我没法赶在妈妈的生日前回去了。我不是很清楚她到底想要什么礼物。你能帮我个忙从替我们两个一起送份礼物吗？我晚些会付给你钱的。在这里真是太无聊了。我想念大家。\n\n格雷格"
-	"#str_erebus2_gregory_email_1_email_to"	"格雷戈里·R.马丁"
+	"#str_erebus2_gregory_email_1_email_text"	"格雷格，\n我们也都很想念你。在上面注意安全。\n杰克\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 杰克·马丁\n\n嘿，杰克，\n\n看来我没法赶在妈妈的生日前回去了。我不是很清楚她到底想要什么礼物。你能帮我个忙替我们两个一起送份礼物吗？我晚些会付给你钱的。在这里真是太无聊了。我想念大家。\n\n格雷格"
+	"#str_erebus2_gregory_email_1_email_to"	"格雷格里·R.马丁"
 	"#str_erebus2_gregory_email_2_email_date"	"2147-3-14"
 	"#str_erebus2_gregory_email_2_email_from"	"肖恩·H.韦斯顿"
 	"#str_erebus2_gregory_email_2_email_subject"	"回复: 目标练习"
 	"#str_erebus2_gregory_email_2_email_text"	"在实验室的军火库里面应该有足够的弹药。我会在那里和你汇合的。\n\n肖恩\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 肖恩·韦斯顿\n\n肖恩，\n\n不知道你怎么想的，但是我想要开上几枪发泄一下。我们能把目标训练用的弹药分出来吗？\n\n格雷格"
-	"#str_erebus2_gregory_email_2_email_to"	"格雷戈里·R.马丁"
+	"#str_erebus2_gregory_email_2_email_to"	"格雷格里·R.马丁"
 	"#str_erebus2_gregory_email_3_email_date"	"2147-3-12"
 	"#str_erebus2_gregory_email_3_email_from"	"莱恩·欧其"
 	"#str_erebus2_gregory_email_3_email_subject"	"嘿"
 	"#str_erebus2_gregory_email_3_email_text"	"嘿，格雷格，\n就是给你发封邮件看看你过得怎么样。这里很冷，伊恩和我昨天去滑雪了。这些日子火星上的天气是怎么了？等不及你马上回家了。哦也，伊恩向你问好了。\n\n多保重，\n莱恩"
-	"#str_erebus2_gregory_email_3_email_to"	"格雷戈里·R.马丁"
-	"#str_erebus2_gregory_pda_fullname"	"格雷戈里·R.马丁"
+	"#str_erebus2_gregory_email_3_email_to"	"格雷格里·R.马丁"
+	"#str_erebus2_gregory_pda_fullname"	"格雷格里·R.马丁"
 	"#str_erebus2_gregory_pda_id"	"2304-13"
-	"#str_erebus2_gregory_pda_name"	"格雷戈里·马丁"
+	"#str_erebus2_gregory_pda_name"	"格雷格里·马丁"
 	"#str_erebus2_gregory_pda_post"	"厄瑞玻斯实验室"
 	"#str_erebus2_gregory_pda_security"	"一号站点"
 	"#str_erebus2_gregory_pda_title"	"安保"
@@ -11878,7 +11878,7 @@
 	"#str_erebus2_tanner_email_1_email_date"	"2147-3-14"
 	"#str_erebus2_tanner_email_1_email_from"	"维克多·哈尔科夫"
 	"#str_erebus2_tanner_email_1_email_subject"	"回复: 好名字"
-	"#str_erebus2_tanner_email_1_email_text"	"麦克内尔博士今晚让我负责一个项目，她很想在我们晚上收工前得到一份报告。也许我们能明天再试着玩玩。\n\n-VK\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 维克多·哈尔科夫\n\n是的……我知道我得完成我的开幕辞。当然，我们如果不多玩玩我是学不到什么的。我会想办法今晚转让给实验室的的。\n\n马库斯"
+	"#str_erebus2_tanner_email_1_email_text"	"麦克内尔博士今晚让我负责一个项目，她很想在我们晚上收工前得到一份报告。也许我们能明天再试着玩玩。\n\n-VK\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 维克多·哈尔科夫\n\n是的……我知道我得完成我的开幕辞。当然，如果不多玩玩我是学不到什么的。今晚我会尽量去实验室。\n\n马库斯"
 	"#str_erebus2_tanner_email_1_email_to"	"马库斯·坦纳"
 	"#str_erebus2_tanner_email_2_email_date"	"2147-3-13"
 	"#str_erebus2_tanner_email_2_email_from"	"security@EC.net"
@@ -11894,7 +11894,7 @@
 	"#str_erebus2_weston_email_1_email_date"	"2147-3-15"
 	"#str_erebus2_weston_email_1_email_from"	"mail.admin@elNET"
 	"#str_erebus2_weston_email_1_email_subject"	"无法送达: 安全密码！"
-	"#str_erebus2_weston_email_1_email_text"	"你的信息未送达部分或全部选定的收件人。\n\n    主题: 安保密码！\n      已发送于: 2147-3-15\n\n无法找到下列收件人:\n\n    'security@EC.net'\n      550 security@EC.net 无法递送\n\n----原始邮件----\n发送日期: 2147-3-15\n收件人: security@EC.net\n我需要储物锁柜028号和029号的安保密码，现在就要！\n\n厄瑞玻斯综合设施中的所有东西都逃脱了！\n\n"
+	"#str_erebus2_weston_email_1_email_text"	"你的信息未送达部分或全部选定的收件人。\n\n    主题: 安保密码！\n      已发送于: 2147-3-15\n\n无法找到下列收件人:\n\n    'security@EC.net'\n      550 security@EC.net 无法递送\n\n----原始邮件----\n发送日期: 2147-3-15\n收件人: security@EC.net\n我需要储物锁柜028号和029号的安保密码，现在就要！\n\n厄瑞玻斯综合设施中的所有东西都坏掉了！\n\n"
 	"#str_erebus2_weston_email_1_email_to"	"肖恩·韦斯顿"
 	"#str_erebus2_weston_pda_fullname"	"肖恩·H.韦斯顿"
 	"#str_erebus2_weston_pda_id"	"2304-11"
@@ -12168,7 +12168,7 @@
 	"#str_id_4_email_date"	"2145-11-16"
 	"#str_id_4_email_from"	"陶德·霍伦斯黑德"
 	"#str_id_4_email_subject"	"搞定了，宝贝！"
-	"#str_id_4_email_text"	"哇。我们终于完成了！\n\n我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她无论多晚我回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。\n\n感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。\n\n当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！\n\n陶德·霍伦斯黑德\n首席执行官，公司所有人"
+	"#str_id_4_email_text"	"哇。我们终于完成了！\n\n我要感谢塔拉，感谢她对我长时间工作的耐心，感谢她对我频繁出差的包容，感谢她我无论多晚回家都能在那儿等着我。感谢塔菲、钱普、巴尼、布、塔齐、查姆、艾丽、安妮、纳迪玛、火狐、阿米拉、沙希拉、米斯蒂和霍普（在我们的记忆中），在我不在的时候照顾塔拉。感谢我的家人多年来给予我的支持和鼓励。\n\n感谢id公司的全体团队成员，感谢你们为打造《DOOM 3》这款游戏所付出的辛勤努力，它正是我们从一开始所期望的样子。\n\n当然，还要感谢各位粉丝，是你们让所有的努力最终都变得值得。在QuakeCon以及《DOOM 3》服务器上见，到时候我会很乐意通过“Toddh”这个账号给你们送上火箭弹！\n\n陶德·霍伦斯黑德\n首席执行官，公司所有人"
 	"#str_id_4_email_to"	"Doom玩家"
 	"#str_id_5_email_date"	"2145-11-16"
 	"#str_id_5_email_from"	"蒂姆·威利茨"
@@ -12183,7 +12183,7 @@
 	"#str_id_7_email_date"	"2145-11-16"
 	"#str_id_7_email_from"	"蒂莫泰·贝塞"
 	"#str_id_7_email_subject"	"多谢啦……"
-	"#str_id_7_email_text"	"感谢我最好的妻子克里斯汀能够多年来一直忍受我\n感谢我的父母——妈妈，你玩儿了那么远读到我的话了吗？？\n感谢我的朋友帮助我摆脱电脑上瘾。\n还有一个给#qeradiant regulars的巨大的BELH！\n\n感谢各地的Id粉丝……尤其是Mac/Linux玩家和欧洲的玩家。\n\n这真是一场狂野之旅……我期望未来能够更好。\n\nTTimo\n巴黎，法国。"
+	"#str_id_7_email_text"	"感谢我最好的妻子克里斯汀能够多年来一直忍受我\n感谢我的父母——妈妈，你玩儿了那么久读到这些话了吗？？\n感谢我的朋友帮助我摆脱电脑上瘾。\n还有一个给#qeradiant regulars的巨大的BELH！\n\n感谢各地的Id粉丝……尤其是Mac/Linux玩家和欧洲的玩家。\n\n这真是一场狂野之旅……我期望未来能够更好。\n\n蒂莫\n巴黎，法国。"
 	"#str_id_7_email_to"	"Doom玩家"
 	"#str_id_8_email_date"	"2145-11-16"
 	"#str_id_8_email_from"	"马尔·布莱克韦尔"
@@ -12193,7 +12193,7 @@
 	"#str_id_9_email_date"	"2145-11-16"
 	"#str_id_9_email_from"	"安迪·张"
 	"#str_id_9_email_subject"	"尘土"
-	"#str_id_9_email_text"	"玩家，\n\n很好，游戏通关了。你坚持不懈，水平很高，不然就是找到了作弊代码。不管怎么说，感谢你玩了这么久。实际上，我觉得应该给你点奖励，告诉你艺术团队的一些秘密。\n\n肯尼斯·斯科特: 浏览日本书店网页的速度比大多数日本人都快。\n塞尼卡·梅娜德: 如果餐馆员工穿橙色莱卡热裤，就不会进去吃饭。\n弗雷德·尼尔森: 能背诵他制作的动画电影的台词。\n帕特·达菲: 曾受电影明星的邀请去旅馆房间里见面，但没去。\n帕特里克·托马斯: 笑了就停不下。\n詹姆斯·豪斯卡: 被闪电击中好几次都没死。\n埃里克·韦伯: 曾对女孩说自己喜欢一首很糟的歌，想打动女孩。\n阿德里安·卡马克: 喜欢汤，但不喜欢饼干。\n凯文·克劳德: 只吃搅拌机里的东西。\n\n感谢我的家人、朋友、还有你。\n\n完毕，\n安迪·张\n梅斯基特，德州，美国，地球"
+	"#str_id_9_email_text"	"玩家，\n\n很好，游戏通关了。你坚持不懈，水平很高，不然就是找到了作弊代码。不管怎么说，感谢你玩了这么久。实际上，我觉得应该给你点奖励，告诉你艺术团队的一些秘密。\n\n肯尼斯·斯科特: 浏览日本书店网页的速度比大多数日本人都快。\n塞尼卡·梅纳德: 如果餐馆员工穿橙色莱卡热裤，就不会进去吃饭。\n弗雷德·尼尔森: 能背诵他制作的动画电影的台词。\n帕特·达菲: 曾受电影明星的邀请去旅馆房间里见面，但没去。\n帕特里克·托马斯: 笑了就停不下。\n詹姆斯·豪斯卡: 被闪电击中好几次都没死。\n埃里克·韦伯: 曾对女孩说自己喜欢一首很糟的歌，想打动女孩。\n阿德里安·卡马克: 喜欢汤，但不喜欢饼干。\n凯文·克劳德: 只吃搅拌机里的东西。\n\n感谢我的家人、朋友、还有你。\n\n完毕，\n安迪·张\n梅斯基特，德州，美国，地球"
 	"#str_id_9_email_to"	"Doom玩家"
 	"#str_id_10_email_date"	"2145-11-16"
 	"#str_id_10_email_from"	"吉姆·道斯"
@@ -12203,7 +12203,7 @@
 	"#str_id_11_email_date"	"2145-11-16"
 	"#str_id_11_email_from"	"帕特·达菲"
 	"#str_id_11_email_subject"	"我看到你找到了砖块……"
-	"#str_id_11_email_text"	"希望你喜欢我们精心在《Doom 3》里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。\n\n还要谢谢我的妻子克里斯丁娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)\n\n享受接下来的游戏吧！\n\n帕特·D"
+	"#str_id_11_email_text"	"希望你喜欢我们精心在《Doom 3》里设置的一切，创造它们真是很棒。你是我们制作出伟大游戏的动力，我们也很感谢你的支持。\n\n还要谢谢我的妻子克里斯蒂娜最近在我最忙的时候对我们要出生的孩子无微不至的照顾。约书亚，你肯定在妈妈肚子里多踢了几下 ;)\n\n享受接下来的游戏吧！\n\n帕特·D"
 	"#str_id_11_email_to"	"Doom玩家"
 	"#str_id_12_email_date"	"2145-11-16"
 	"#str_id_12_email_from"	"罗伯特·达菲"
@@ -12231,9 +12231,9 @@
 	"#str_id_16_email_text"	"你花费了宝贵的时间终于来到了这里，战士！……=)\n\n首先最重要的是，诚挚地感谢你进行《Doom 3》的游戏！我知道这个游戏已经制作了几年了，并且相信你完全体验了这个游戏标题之下所蕴藏的奉献和辛勤劳作。\n*******\n万分感谢id的所有者——让我能够成为他们大家庭的一员。能和一些游戏产业里面最富有天分的人一起工作真的是非常大的荣幸。\n*******\n最后，但同样重要的是，感谢我的妻子——缇娜。感谢多年来你的耐心，感谢你的爱和理解，你真的是最好的。\n*******\n\n好了，乱七八糟的话就到这里了，现在回到你的目标上来吧——封印那个地狱洞穴，战士！哦，对了，记住，要活着回来，不要受伤——通话结束！\n\nJ.基恩\n设计师"
 	"#str_id_16_email_to"	"Doom玩家"
 	"#str_id_17_email_date"	"2145-11-16"
-	"#str_id_17_email_from"	"塞尼卡·梅娜德"
+	"#str_id_17_email_from"	"塞尼卡·梅纳德"
 	"#str_id_17_email_subject"	"谢谢"
-	"#str_id_17_email_text"	"塞尼卡·梅娜德\n艺术家"
+	"#str_id_17_email_text"	"塞尼卡·梅纳德\n艺术家"
 	"#str_id_17_email_to"	"Doom玩家"
 	"#str_id_18_email_date"	"2145-11-16"
 	"#str_id_18_email_from"	"弗雷德里克·尼尔森"
@@ -12263,12 +12263,12 @@
 	"#str_id_23_email_date"	"2145-11-16"
 	"#str_id_23_email_from"	"JMP·范·瓦韦伦"
 	"#str_id_23_email_subject"	"你找到DOOM 3所隐藏的MrE了吗？"
-	"#str_id_23_email_text"	"我要感谢自己以及那个我深爱的双胞胎兄弟，虽然很不幸地他在娘胎中就被分解掉了。\n\nMrElusive，\n程序员"
+	"#str_id_23_email_text"	"我要感谢自己以及那个我深爱的双胞胎兄弟，虽然很不幸他在娘胎中就被分解掉了。\n\nMrElusive，\n程序员"
 	"#str_id_23_email_to"	"Doom玩家"
 	"#str_id_24_email_date"	"2145-11-16"
 	"#str_id_24_email_from"	"埃里克·韦伯"
 	"#str_id_24_email_subject"	"特别感谢"
-	"#str_id_24_email_text"	"感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。\n\n最重要的，我要感谢我的“煮饭婆”艾米！我为了那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好的女友而感谢你！\n\n-埃里克"
+	"#str_id_24_email_text"	"感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。\n\n最重要的，我要感谢我的“煮饭婆”艾米！我为那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好女友而感谢你！\n\n-埃里克"
 	"#str_id_24_email_to"	"Doom玩家"
 	"#str_id_25_email_date"	"2145-11-16"
 	"#str_id_25_email_from"	"布莱恩·哈里斯"
@@ -12756,7 +12756,7 @@
 	"#str_new_personal2_email_date"	"2146-9-12"
 	"#str_new_personal2_email_from"	"伊丽莎白·麦克内尔"
 	"#str_new_personal2_email_subject"	"欢迎消息"
-	"#str_new_personal2_email_text"	"至所有在1号探险站的人员:\n\n我想要占用一点你们的时间，来欢迎你们参与这项至关重要的任务。你们的志愿参与使我钦佩万分。在如此长的一段时间内离开朋友和家人，离开我们熟悉的地球的蓝天白云绿草红花，以及最重要的——清新的空气，是十分困难的\n\n然而，我们有机会成就历史。我相信我们正处于一项意义重大的考古发现的边缘，它将永远改变的，不仅仅是我们对火星以及曾经栖居于此的古老文明的看法，还有对处于这个宇宙中的我们自身的看法。\n\n正如所有值得付出的事情一样，这次探险将是困难重重的，但我们会尽一切所能，来保证舒适和安全。请坚守旅途中展示的所有安全步骤，并且在发生任何问题时，立即向你的上级主管汇报。\n\n感谢各位。\n\n诚挚地，\n伊丽莎白·麦克内尔博士"
+	"#str_new_personal2_email_text"	"至所有在1号探险站的人员:\n\n我想要占用你们的一点时间，来欢迎你们参与这项至关重要的任务。你们的志愿参与使我钦佩万分。在如此长的一段时间内离开朋友和家人，离开我们熟悉的地球的蓝天白云绿草红花，以及最重要的——清新的空气，是十分困难的\n\n然而，我们有机会成就历史。我相信我们正处于一项意义重大的考古发现的边缘，它将永远改变的，不仅仅是我们对火星以及曾经栖居于此的古老文明的看法，还有对处于这个宇宙中的我们自身的看法。\n\n正如所有值得付出的事情一样，这次探险将是困难重重的，但我们会尽一切所能，来保证舒适和安全。请坚守旅途中展示的所有安全步骤，并且在发生任何问题时，立即向你的上级主管汇报。\n\n感谢各位。\n\n诚挚地，\n伊丽莎白·麦克内尔博士"
 	"#str_new_personal2_email_to"	"所有工作人员"
 	"#str_no_saves_found"	"未找到存档"
 	"#str_online_confirm_quit_game"	"你确定要离开吗？你的结果不会被上传至积分榜。"
