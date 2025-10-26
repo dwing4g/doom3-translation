@@ -30871,7 +30871,7 @@ Elevator
 > #str_00100242
 ; erebus3:地点.位置
 Chemical Storage
-化学品仓
+化学品仓库
 
 > #str_00100243
 ; erebus3:地点.位置
@@ -32467,7 +32467,7 @@ Excavation Utility
 > #str_00100579
 ; erebus3:地点.位置
 Level One
-一级
+一层
 
 > #str_00100580
 ; erebus3:地点.位置
@@ -32487,7 +32487,7 @@ Lab Administration
 > #str_00100583
 ; erebus3:地点.位置
 Level Two
-二级
+二层
 
 > #str_00100584
 ; erebus4:地点.位置
