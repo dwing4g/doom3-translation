@@ -1512,9 +1512,9 @@
 // controlpanels/lightswitch3.gui controlpanels/powerswitch.gui multiplayer/generator.gui controlpanels/powerswitch_off.gui
 	"#str_00810"	"发电机"
 // controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
-	"#str_00811"	"开电源"
+	"#str_00811"	"打开电源"
 // controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
-	"#str_00812"	"关电源"
+	"#str_00812"	"关闭电源"
 // controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
 	"#str_00813"	"激活中"
 // controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui controlpanels/powerswitch_useonce.gui
@@ -3202,7 +3202,7 @@
 	"#str_01863"	"选项"
 	"#str_01864"	"制作人员"
 	"#str_01865"	"退出"
-	"#str_01866"	"新游戏 (汉化v20251008)"
+	"#str_01866"	"新游戏 (汉化v20251029)"
 	"#str_01867"	"载入游戏"
 	"#str_01868"	"试玩"
 	"#str_01869"	"位置: 德尔塔"
@@ -8054,7 +8054,7 @@
 // d3dm2:地点.位置
 	"#str_06706"	"观察室"
 // d3dm3:地点.位置
-	"#str_06707"	"冷却转移"
+	"#str_06707"	"冷却传输"
 // d3dm3:地点.位置
 	"#str_06708"	"纳米螺旋稳定器"
 // d3dm3:地点.位置
@@ -8102,7 +8102,7 @@
 // d3dm4:地点.位置
 	"#str_06730"	"压力监控大厅"
 // d3dm4:地点.位置
-	"#str_06731"	"冷却转移室"
+	"#str_06731"	"冷却传输室"
 	"#str_06732"	"玩家在最后时刻追平了得分！"
 	"#str_06733"	"未选择服务器\n"
 	"#str_06734"	"无法解析服务器名“%s”\n"
@@ -8991,7 +8991,7 @@
 // erebus3:地点.位置 phobos1:地点.名
 	"#str_00100241"	"电梯"
 // erebus3:地点.位置
-	"#str_00100242"	"化学品仓"
+	"#str_00100242"	"化学品仓库"
 // erebus3:地点.位置
 	"#str_00100243"	"X光实验室"
 // erebus3:地点.位置
@@ -9568,7 +9568,7 @@
 // erebus3:地点.位置
 	"#str_00100578"	"挖掘场设施"
 // erebus3:地点.位置
-	"#str_00100579"	"一级"
+	"#str_00100579"	"一层"
 // erebus3:地点.位置
 	"#str_00100580"	"1号站点研究通道"
 // erebus3:地点.位置
@@ -9576,7 +9576,7 @@
 // erebus3:地点.位置
 	"#str_00100582"	"实验室管理部门"
 // erebus3:地点.位置
-	"#str_00100583"	"二级"
+	"#str_00100583"	"二层"
 // erebus4:地点.位置
 	"#str_00100584"	"未知"
 // erebus6:机器人NPC名
@@ -10489,7 +10489,7 @@
 // le_enpro1:地点.位置
 	"#str_00200075"	"控制房"
 // le_enpro1:地点.位置
-	"#str_00200076"	"冷却转移"
+	"#str_00200076"	"冷却传输"
 // le_enpro1:地点.位置
 	"#str_00200077"	"主要冷却剂传输"
 // le_enpro1:地点.位置 le_enpro2:地点.位置
@@ -10606,7 +10606,7 @@
 // le_underground2:地点.位置
 	"#str_00200134"	"泵站E7"
 // le_underground2:地点.位置
-	"#str_00200135"	"冷却转移连接点"
+	"#str_00200135"	"冷却传输连接点"
 // le_underground2:地点.位置
 	"#str_00200136"	"服务通道"
 // le_underground2:地点.位置
@@ -12305,7 +12305,7 @@
 	"#str_le_enpro_rhodes_email_2_email_date"	"2145-10-31"
 	"#str_le_enpro_rhodes_email_2_email_from"	"莎朗·罗德斯"
 	"#str_le_enpro_rhodes_email_2_email_subject"	"万圣节快乐！"
-	"#str_le_enpro_rhodes_email_2_email_text"	"我刚刚让孩子去睡觉他们还嚼着糖活蹦乱跳呢！鲍比又在扮演牛仔了。莎莉扮演魔鬼。我觉得她以后还会扮演公主的。她用在你车间里找到的废料做了一把最可爱的干草叉。没有你万圣节过的根本没滋味，我们也盼着你快回来。\n\n爱你的，\n-莎伦"
+	"#str_le_enpro_rhodes_email_2_email_text"	"我刚刚让孩子去睡觉，他们还嚼着糖活蹦乱跳呢！鲍比又在扮演牛仔了。莎莉扮演魔鬼。我觉得她以后还会扮演公主的。她用在你车间里找到的废料做了一把最可爱的干草叉。没有你万圣节过的根本没滋味，我们也盼着你快回来。\n\n爱你的，\n-莎伦"
 	"#str_le_enpro_rhodes_email_2_email_to"	"艾伦·罗德斯"
 	"#str_le_enpro_rhodes_pda_fullname"	"艾伦·R·罗德斯"
 	"#str_le_enpro_rhodes_pda_id"	"0712-01"
@@ -13350,4 +13350,5 @@
 	"Seamus Blake"	"谢默斯·布雷克"
 	"Roger Stenson"	"罗杰·斯坦森"
 	"Counselor Swann"	"斯旺顾问"
+	"Administration Clearance"	"管理员许可"
 }

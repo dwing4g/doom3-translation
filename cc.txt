@@ -7256,7 +7256,7 @@ Following that transmission, his radio went dead, and I've not heard from him si
 
 > #cc_pda_00000000326
 A few of my other technicians reported seeing strange creatures appearing out of thin air, and none of them have reported back yet.
-我其他几名技术员报告说看到了奇怪的生物凭空出现，他们也都没有回来报告。
+我的其他几名技术员报告说看到了奇怪的生物凭空出现，他们也都没有回来报告。
 
 > #cc_pda_00000000527
 The rest of my team and myself, we just barricaded ourselves into

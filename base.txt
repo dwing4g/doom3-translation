@@ -5977,12 +5977,12 @@ GENERATOR
 > #str_00811
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
 POWER ON
-开电源
+打开电源
 
 > #str_00812
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
 POWER OFF
-关电源
+关闭电源
 
 > #str_00813
 ; controlpanels/lightswitch3.gui controlpanels/powerswitch.gui controlpanels/powerswitch_off.gui
@@ -12471,7 +12471,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20251008)
+新游戏 (汉化v20251029)
 
 > #str_01867
 Load Game
@@ -27819,7 +27819,7 @@ Observation Room
 > #str_06707
 ; d3dm3:地点.位置
 Coolant Transfer
-冷却转移
+冷却传输
 
 > #str_06708
 ; d3dm3:地点.位置
@@ -27939,7 +27939,7 @@ Pressure Monitoring Hall
 > #str_06731
 ; d3dm4:地点.位置
 Coolant Transfer Room
-冷却转移室
+冷却传输室
 
 > #str_06732
 Players got even at the last second!
@@ -35154,7 +35154,7 @@ Control Room
 > #str_00200076
 ; le_enpro1:地点.位置
 Coolant Transfer
-冷却转移
+冷却传输
 
 > #str_00200077
 ; le_enpro1:地点.位置
@@ -35448,7 +35448,7 @@ Pumping Station E7
 > #str_00200135
 ; le_underground2:地点.位置
 Coolant Transfer Junction
-冷却转移连接点
+冷却传输连接点
 
 > #str_00200136
 ; le_underground2:地点.位置
@@ -44570,7 +44570,7 @@ HAPPY HALLOWEEN!
 
 Love,
 -Sharon"""
-"""我刚刚让孩子去睡觉他们还嚼着糖活蹦乱跳呢！鲍比又在扮演牛仔了。莎莉扮演魔鬼。我觉得她以后还会扮演公主的。她用在你车间里找到的废料做了一把最可爱的干草叉。没有你万圣节过的根本没滋味，我们也盼着你快回来。
+"""我刚刚让孩子去睡觉，他们还嚼着糖活蹦乱跳呢！鲍比又在扮演牛仔了。莎莉扮演魔鬼。我觉得她以后还会扮演公主的。她用在你车间里找到的废料做了一把最可爱的干草叉。没有你万圣节过的根本没滋味，我们也盼着你快回来。
 
 爱你的，
 -莎伦"""
