@@ -7272,7 +7272,7 @@ I'll update soon. That's Chief Rhodes, signing off.
 
 > #cc_pda_00000000328
 Chris Vargas, November 5th, 2145. Our initial testing on the primary alignment module indicated excessive stress fracturing.
-克里斯·瓦加斯，2145年11月5日。我们对主对准模块的初步测试显示存在过度应力断裂。
+克里斯·瓦尔加斯，2145年11月5日。我们对主对准模块的初步测试显示存在过度应力断裂。
 
 > #cc_pda_00000000329
 I immediately ordered the team to discontinue the tests, and they've been working around the clock to repair the damaged module.
@@ -7308,7 +7308,7 @@ Personally, I heard he failed the Marine entrance exams and resents being relega
 
 > #cc_pda_00000000531
 I sent an email off to the guy with the new code. Vargas, signing off.
-我给那家伙发了一封带有新密码的电子邮件。瓦加斯，通话结束。
+我给那家伙发了一封带有新密码的电子邮件。瓦尔加斯，通话结束。
 
 > #cc_pda_00000000335
 This is Nasser Adil, security chief for the Exis Labs facility. Log entry November 3, 2145.

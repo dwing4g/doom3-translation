@@ -3202,7 +3202,7 @@
 	"#str_01863"	"选项"
 	"#str_01864"	"制作人员"
 	"#str_01865"	"退出"
-	"#str_01866"	"新游戏 (汉化v20251029)"
+	"#str_01866"	"新游戏 (汉化v20251031)"
 	"#str_01867"	"载入游戏"
 	"#str_01868"	"试玩"
 	"#str_01869"	"位置: 德尔塔"
@@ -5599,7 +5599,7 @@
 	"#str_03501"	"遗物挖掘"
 // _common/def/maps.def
 	"#str_03502"	"火星城通往联合航天的所有火星基地。所有到达的人员前往指定岗位之前都在这里处理。火星城里有陆战队行动主控制室，以及总管理员办公室。"
-	"#str_03503"	"火星城地下区"
+	"#str_03503"	"火星城地下"
 // _common/def/maps.def
 	"#str_03504"	"联合航天子系统"
 // _common/def/maps.def
@@ -8936,7 +8936,7 @@
 	"#str_00100205"	"电锯"
 	"#str_00100206"	"双管"
 // _common/def/weapon_grabber.def
-	"#str_00100207"	"爪钩"
+	"#str_00100207"	"抓取器"
 	"#str_00100208"	"双管"
 // _common/def/weapon_bloodstone_passive.def
 	"#str_00100209"	"神器"
@@ -10402,7 +10402,7 @@
 // transfer/exit_le_underground.gui
 	"#str_00200028"	"中转接待"
 // le_enpro2:界面参数4 transfer/exit_le_enpro2.gui transfer/enter_le_underground.gui transfer/exit_le_underground.gui
-	"#str_00200029"	"服务地下区"
+	"#str_00200029"	"服务地下层"
 // transfer/exit_le_underground.gui
 	"#str_00200030"	"改变楼层"
 // transfer/exit_le_underground.gui
@@ -10464,7 +10464,7 @@
 // controlpanels/powerswitch_useonce.gui transfer/enter_le_underrgound2.gui
 	"#str_00200061"	"传送成功"
 // le_underground2:界面参数1
-	"#str_00200062"	"地下层访问"
+	"#str_00200062"	"地下层通道"
 // le_underground2:界面参数1
 	"#str_00200063"	"中转控制"
 // le_underground/security_lockdown.gui
@@ -10476,7 +10476,7 @@
 // le_underground/security_lockdown.gui
 	"#str_00200067"	"地下层安全管理"
 // le_underground:界面参数3
-	"#str_00200068"	"俯瞰"
+	"#str_00200068"	"检查"
 // le_underground:界面参数4
 	"#str_00200069"	"B18站点"
 // le_enpro1/meyers_contact.gui
@@ -10535,7 +10535,7 @@
 // le_enpro2:物品目标完成.标题 le_enpro2:物品目标.标题
 	"#str_00200098"	"准备好核心"
 // le_enpro2:物品目标.内容
-	"#str_00200099"	"使用IPL也就是“抓取者枪”将等离子粒子直接射入没有工作的原始管道。"
+	"#str_00200099"	"使用IPL也就是“抓取枪”将等离子粒子直接射入没有工作的原始管道。"
 // le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
 	"#str_00200100"	"转换功率"
 // le_enpro2:物品目标.内容
@@ -12339,7 +12339,7 @@
 	"#str_le_enpro_voss_email_2_email_date"	"2145-10-27"
 	"#str_le_enpro_voss_email_2_email_from"	"安德鲁·陈"
 	"#str_le_enpro_voss_email_2_email_subject"	"足球周末"
-	"#str_le_enpro_voss_email_2_email_text"	"芬奇和通信部门的人谈过了，很确定能在周日受到足球比赛的信号。我也准备好了许多的啤酒。脱水辣鸡翅还没有送到吗？\n\n上啊，德克萨斯！\n\n- 安迪"
+	"#str_le_enpro_voss_email_2_email_text"	"芬奇和通信部门的人谈过了，很确定能在周日收到足球比赛的信号。我也准备好了许多的啤酒。脱水辣鸡翅还没有送到吗？\n\n上啊，德克萨斯！\n\n- 安迪"
 	"#str_le_enpro_voss_email_2_email_to"	"戴维·沃斯"
 	"#str_le_enpro_voss_email_3_email_date"	"2145-10-26"
 	"#str_le_enpro_voss_email_3_email_from"	"罗恩·里奇"
@@ -12422,7 +12422,7 @@
 	"#str_le_exis_tooley_email_2_email_date"	"2145-10-04"
 	"#str_le_exis_tooley_email_2_email_from"	"哈罗德·蒙奇"
 	"#str_le_exis_tooley_email_2_email_subject"	"回复: 雇员"
-	"#str_le_exis_tooley_email_2_email_text"	"波尼斯，\n\n你认为你如痴如醉？有一次我在通讯传输室抓到一群技术员在用多出来的电锯玩真人角色扮演。什么东西让他们这么入迷到干这种蠢事？你把我上个月启动的冰淇淋社区当成员工发泄的最好地方。\n\n哈罗德·蒙奇\n运营协助\n\n----原始邮件----\n发送日期: 2145-10-03\n收件人: 哈罗德·蒙奇\n\n嗨，哈罗德，\n\n你绝对没法理解这里和我共事的白痴。今天有个员工抢到了一把掠夺者枪，然后开始扔运营部办公室里的凳子。我等不及在季度回顾的时候骂他们中的几个了。\n\n-波尼斯"
+	"#str_le_exis_tooley_email_2_email_text"	"波尼斯，\n\n你认为你如痴如醉？有一次我在通讯传输室抓到一群技术员在用多出来的电锯玩真人角色扮演。什么东西让他们这么入迷到干这种蠢事？你把我上个月启动的冰淇淋社区当成员工发泄的最好地方。\n\n哈罗德·蒙奇\n运营协助\n\n----原始邮件----\n发送日期: 2145-10-03\n收件人: 哈罗德·蒙奇\n\n嗨，哈罗德，\n\n你绝对没法理解这里和我共事的白痴。今天有个员工抢到了一把抓取枪，然后开始扔运营部办公室里的凳子。我等不及在季度回顾的时候骂他们中的几个了。\n\n-波尼斯"
 	"#str_le_exis_tooley_email_2_email_to"	"波尼斯·图雷"
 	"#str_le_exis_tooley_pda_fullname"	"波尼斯·F·图雷"
 	"#str_le_exis_tooley_pda_id"	"3361-03"
@@ -12433,22 +12433,22 @@
 	"#str_le_undgrnd_anders_email_0_email_date"	"2145-11-13"
 	"#str_le_undgrnd_anders_email_0_email_from"	"莱斯利·沃特斯"
 	"#str_le_undgrnd_anders_email_0_email_subject"	"补给柜使用权限"
-	"#str_le_undgrnd_anders_email_0_email_text"	"高级技师安德斯，\n\n鉴于最近发生的事件，我们决定把储存柜的限制等级提高到高级职员。储存柜密码已被重置。公司不想再让类似事件再次发生。我们希望这只是权宜之计。\n\n全新的完整补给柜#108已投入使用。根据上述新规定密码设置为847。如果再次发生意外事件，我们把选择权交给高级职让他们决定是否愿意冒风险派发武器补给。\n\n莱斯利·沃特斯\n火星城管理员"
+	"#str_le_undgrnd_anders_email_0_email_text"	"高级技师安德斯，\n\n鉴于最近发生的事件，我们决定把储存柜的限制等级提高到高级职员。储存柜密码已被重置。公司不想再让类似事件再次发生。我们希望这只是权宜之计。\n\n全新的完整补给柜#108已投入使用。根据上述新规定密码设置为847。如果再次发生意外事件，我们把选择权交给高级职员让他们决定是否愿意冒风险派发武器补给。\n\n莱斯利·沃特斯\n火星城管理员"
 	"#str_le_undgrnd_anders_email_0_email_to"	"菲利普·安德斯"
 	"#str_le_undgrnd_anders_email_1_email_date"	"2145-11-09"
 	"#str_le_undgrnd_anders_email_1_email_from"	"罗杰·哈里斯"
 	"#str_le_undgrnd_anders_email_1_email_subject"	"回复: 卡宾枪108"
-	"#str_le_undgrnd_anders_email_1_email_text"	"菲尔，\n\n我没听说贮藏柜的密码发生过变动。上周珍妮那件事后，公司决定更改政策我一点都不觉得奇怪。\n\n我先到处问问再联系你。\n\n罗杰\n\n----原始邮件----\n发送日期: 2145-11-18\n收件人: 罗杰·哈里斯\n\n罗杰，\n\n这里一个技术人员想从补给柜里拿点东西出来，他说密码不对。我有机会时自己去看了下。108号柜密码确实不工作了。如果他们重新设置密码，能知道的话就太好了。如果真有紧急情况，不知道我们会怎么样呢，更别提在发生安检站一样的事了。\n\n你能帮我查查是怎么回事吗？\n\n谢谢，\n菲尔"
+	"#str_le_undgrnd_anders_email_1_email_text"	"菲尔，\n\n我没听说贮藏柜的密码发生过变动。上周珍妮那件事后，公司决定再更改一项政策我一点都不觉得奇怪。\n\n我先到处问问再联系你。\n\n罗杰\n\n----原始邮件----\n发送日期: 2145-11-18\n收件人: 罗杰·哈里斯\n\n罗杰，\n\n这里一个技术人员想从补给柜里拿点东西出来，他说密码不对。我有机会时自己去看了下。108号柜密码确实不工作了。如果他们重新设置密码，能知道的话就太好了。如果真有紧急情况，不知道我们会怎么样呢，更别提在发生安检站一样的事了。\n\n你能帮我查查是怎么回事吗？\n\n谢谢，\n菲尔"
 	"#str_le_undgrnd_anders_email_1_email_to"	"菲利普·安德斯"
 	"#str_le_undgrnd_anders_email_2_email_date"	"2145-11-10"
 	"#str_le_undgrnd_anders_email_2_email_from"	"罗伯特·汤普森"
-	"#str_le_undgrnd_anders_email_2_email_subject"	"转发: 林技师"
-	"#str_le_undgrnd_anders_email_2_email_text"	"你能相信这个鬼东西吗？他们正在试图掩盖这一切乱象。我是说，我知道我们得喝很多，但珍妮有点不正常。她……她就是表现得不如往常。这一切都是突如其来的。我不敢相信她死了。那些卫兵的反应——好像他们之前经历过了一样……然后他们装作一副都是她的错，自己是无辜的样子。\n\n肯定有路子要得到一个说法的。我们不能对不起珍妮。\n\n鲍勃\n\n----原始邮件----\n发送日期: 2145-11-08\n\n至所有次级服役人员:\n\n正如你们听闻的，珍妮·林已经与世长辞了。尽管这件发生在11月6号的悲剧被许多传言所困扰着，但我在此仍要向各位保证，联合航天正在尽一切所能，进行一次全盘深入的调查。\n\n与你们听闻的相反，林技术员似乎闯入了一个为当地安防队准备的，装有应急武器库的供应橱柜。出于未明的原因，她随后敌对起来，杀死两名安防人员。另一个勇敢的安防人员在危险的救援过程中负伤。可惜的是，林技术员也被击毙。\n\n获得额外信息之后，我会优先向你们所有人报告。同时，请在此事上配合所有UAC人员。\n\n布拉德利·马丁\n首席服务技术员"
+	"#str_le_undgrnd_anders_email_2_email_subject"	"转发: 林技术员"
+	"#str_le_undgrnd_anders_email_2_email_text"	"你能相信这个鬼东西吗？他们正在试图掩盖这一切乱象。我是说，我知道我们喝得很多，但珍妮有点不正常。她……她就是表现得不如往常。这一切都是突如其来的。我不敢相信她死了。那些卫兵的反应——好像他们之前经历过了一样……然后他们装作一副都是她的错，自己是无辜的样子。\n\n肯定有路子要得到一个说法的。我们不能对不起珍妮。\n\n鲍勃\n\n----原始邮件----\n发送日期: 2145-11-08\n\n至所有次级服役人员:\n\n正如你们听闻的，珍妮·林已经与世长辞了。尽管这件发生在11月6号的悲剧被许多传言所困扰着，但我在此仍要向各位保证，联合航天正在尽一切所能，进行一次全盘深入的调查。\n\n与你们听闻的相反，林技术员似乎闯入了一个为当地安防队准备的，装有应急武器库的供应橱柜。出于未明的原因，她随后敌对起来，杀死两名安防人员。另一个勇敢的安防人员在危险的救援过程中负伤。可惜的是，林技术员也被击毙。\n\n获得更多信息之后，我会优先向你们所有人报告。同时，请在此事上配合所有UAC人员。\n\n布拉德利·马丁\n首席服务技术员"
 	"#str_le_undgrnd_anders_email_2_email_to"	"菲利普·安德斯"
 	"#str_le_undgrnd_anders_email_3_email_date"	"2145-11-06"
 	"#str_le_undgrnd_anders_email_3_email_from"	"罗伯特·汤普森"
 	"#str_le_undgrnd_anders_email_3_email_subject"	"啤酒"
-	"#str_le_undgrnd_anders_email_3_email_text"	"菲尔，\n\n珍妮和我准备下班后去喝两杯。你想一起么？我保证不会像上次那样出岔子。第二天早上真够我受的。\n\n你决定了就告诉我。\n\n鲍勃"
+	"#str_le_undgrnd_anders_email_3_email_text"	"菲尔，\n\n珍妮和我准备在下班后去喝点啤酒。你想一起么？我保证不会像上次那样出岔子。伙计，第二天早上真够我受的。\n\n你决定了就告诉我。\n\n鲍勃"
 	"#str_le_undgrnd_anders_email_3_email_to"	"菲利普·安德斯"
 	"#str_le_undgrnd_anders_pda_fullname"	"菲利普·D.安德斯"
 	"#str_le_undgrnd_anders_pda_id"	"6436-ED"
@@ -12463,13 +12463,13 @@
 	"#str_le_undgrnd_thompson_email_0_email_to"	"罗伯特·汤普森"
 	"#str_le_undgrnd_thompson_email_1_email_date"	"2145-11-09"
 	"#str_le_undgrnd_thompson_email_1_email_from"	"布拉德利·马丁"
-	"#str_le_undgrnd_thompson_email_1_email_subject"	"林技师"
+	"#str_le_undgrnd_thompson_email_1_email_subject"	"林技术员"
 	"#str_le_undgrnd_thompson_email_1_email_text"	"至所有次级服役人员:\n\n正如你们听闻的，珍妮·林已经与世长辞了。尽管这件发生在11月6号的悲剧被许多传言所困扰着，但我在此仍要向各位保证，联合航天正在尽一切所能，进行一次全盘深入的调查。\n\n与你们听闻的相反，林技术员似乎闯入了一个为当地安防队准备的，装有应急武器库的供应橱柜。出于未明的原因，她随后敌对起来，杀死两名安防人员。另一个勇敢的安防人员在危险的救援过程中负伤。可惜的是，林技术员也被击毙。\n\n获得额外信息之后，我会优先向你们所有人报告。同时，请在此事上配合所有UAC人员。\n\n布拉德利·马丁\n首席服务技术员"
 	"#str_le_undgrnd_thompson_email_1_email_to"	"服务地下层员工室"
 	"#str_le_undgrnd_thompson_email_2_email_date"	"2145-11-06"
 	"#str_le_undgrnd_thompson_email_2_email_from"	"菲尔·安德斯"
 	"#str_le_undgrnd_thompson_email_2_email_subject"	"回复: 啤酒"
-	"#str_le_undgrnd_thompson_email_2_email_text"	"算我一个！\n\n菲尔\n----原始邮件----\n发送日期: 2145-11-06\n\n菲尔，\n\n珍妮和我准备在下班后去喝点啤酒。想要一起吗？我保证不会像上次一样失去控制的。伙计，第二天早上痛苦极了。\n\n有消息就通知我。\n\n鲍勃"
+	"#str_le_undgrnd_thompson_email_2_email_text"	"算我一个！\n\n菲尔\n----原始邮件----\n发送日期: 2145-11-06\n\n菲尔，\n\n珍妮和我准备在下班后去喝点啤酒。你想一起么？我保证不会像上次那样出岔子。伙计，第二天早上真够我受的。\n\n你决定了就告诉我。\n\n鲍勃"
 	"#str_le_undgrnd_thompson_email_2_email_to"	"罗伯特·汤普森"
 	"#str_le_undgrnd_thompson_pda_fullname"	"罗伯特·W.汤普森"
 	"#str_le_undgrnd_thompson_pda_id"	"7725-2C"

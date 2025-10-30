@@ -12471,7 +12471,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20251029)
+新游戏 (汉化v20251031)
 
 > #str_01867
 Load Game
@@ -20406,7 +20406,7 @@ Mars City is the gateway to all of Union Aerospace's Mars Base. All arriving per
 
 > #str_03503
 MARS CITY UNDERGROUND
-火星城地下区
+火星城地下
 
 > #str_03504
 ; _common/def/maps.def
@@ -30711,7 +30711,7 @@ Double Barrel
 > #str_00100207
 ; _common/def/weapon_grabber.def
 GRABBER
-爪钩
+抓取器
 
 > #str_00100208
 DOUBLE BARREL
@@ -34914,7 +34914,7 @@ TRANSFER DEST
 > #str_00200029
 ; le_enpro2:界面参数4 transfer/exit_le_enpro2.gui transfer/enter_le_underground.gui transfer/exit_le_underground.gui
 Service Sub Level
-服务地下区
+服务地下层
 
 > #str_00200030
 ; transfer/exit_le_underground.gui
@@ -35075,7 +35075,7 @@ TRANSFER SUCCESSFUL
 > #str_00200062
 ; le_underground2:界面参数1
 SUB LEVEL ACCESS
-地下层访问
+地下层通道
 
 > #str_00200063
 ; le_underground2:界面参数1
@@ -35105,7 +35105,7 @@ SUB-LEVEL SECURITY SUPERVISOR
 > #str_00200068
 ; le_underground:界面参数3
 OVERLOOK
-俯瞰
+检查
 
 > #str_00200069
 ; le_underground:界面参数4
@@ -35269,7 +35269,7 @@ Prime The Core
 > #str_00200099
 ; le_enpro2:物品目标.内容
 Prime the Auxiliary Core by using the IPL a.k.a. 'grabber gun' to release a plasma particle directly into the non-working primer tube
-使用IPL也就是“抓取者枪”将等离子粒子直接射入没有工作的原始管道。
+使用IPL也就是“抓取枪”将等离子粒子直接射入没有工作的原始管道。
 
 > #str_00200100
 ; le_enpro2:物品目标.标题 le_enpro2:物品目标完成.标题
@@ -44731,7 +44731,7 @@ Football Sunday
 Go Texas!
 
 - Andy"""
-"""芬奇和通信部门的人谈过了，很确定能在周日受到足球比赛的信号。我也准备好了许多的啤酒。脱水辣鸡翅还没有送到吗？
+"""芬奇和通信部门的人谈过了，很确定能在周日收到足球比赛的信号。我也准备好了许多的啤酒。脱水辣鸡翅还没有送到吗？
 
 上啊，德克萨斯！
 
@@ -45275,7 +45275,7 @@ You would not believe the idiots I have to work with here.  Today, one of the st
 
 嗨，哈罗德，
 
-你绝对没法理解这里和我共事的白痴。今天有个员工抢到了一把掠夺者枪，然后开始扔运营部办公室里的凳子。我等不及在季度回顾的时候骂他们中的几个了。
+你绝对没法理解这里和我共事的白痴。今天有个员工抢到了一把抓取枪，然后开始扔运营部办公室里的凳子。我等不及在季度回顾的时候骂他们中的几个了。
 
 -波尼斯"""
 
@@ -45332,7 +45332,7 @@ Mars City Administation"""
 
 鉴于最近发生的事件，我们决定把储存柜的限制等级提高到高级职员。储存柜密码已被重置。公司不想再让类似事件再次发生。我们希望这只是权宜之计。
 
-全新的完整补给柜#108已投入使用。根据上述新规定密码设置为847。如果再次发生意外事件，我们把选择权交给高级职让他们决定是否愿意冒风险派发武器补给。
+全新的完整补给柜#108已投入使用。根据上述新规定密码设置为847。如果再次发生意外事件，我们把选择权交给高级职员让他们决定是否愿意冒风险派发武器补给。
 
 莱斯利·沃特斯
 火星城管理员"""
@@ -45376,7 +45376,7 @@ Thanks,
 Phil"""
 """菲尔，
 
-我没听说贮藏柜的密码发生过变动。上周珍妮那件事后，公司决定更改政策我一点都不觉得奇怪。
+我没听说贮藏柜的密码发生过变动。上周珍妮那件事后，公司决定再更改一项政策我一点都不觉得奇怪。
 
 我先到处问问再联系你。
 
@@ -45409,7 +45409,7 @@ Robert Thompson
 
 > #str_le_undgrnd_anders_email_2_email_subject
 FW: Technician Lin
-转发: 林技师
+转发: 林技术员
 
 > #str_le_undgrnd_anders_email_2_email_text
 """Can you believe this shit? They are going to try and cover this whole mess up. I mean, I know we had a lot to drink, but something was not right with Jenny. She was... she just wasn't acting like herself. It all happened so fast. I can't believe she is gone. The way those guards reacted - it was like they had seen it before... And then they tried to act like it was all her fault. 
@@ -45431,7 +45431,7 @@ When additional information is available I will make it a priority to keep you a
 
 Bradley Martin
 Chief Service Technician"""
-"""你能相信这个鬼东西吗？他们正在试图掩盖这一切乱象。我是说，我知道我们得喝很多，但珍妮有点不正常。她……她就是表现得不如往常。这一切都是突如其来的。我不敢相信她死了。那些卫兵的反应——好像他们之前经历过了一样……然后他们装作一副都是她的错，自己是无辜的样子。
+"""你能相信这个鬼东西吗？他们正在试图掩盖这一切乱象。我是说，我知道我们喝得很多，但珍妮有点不正常。她……她就是表现得不如往常。这一切都是突如其来的。我不敢相信她死了。那些卫兵的反应——好像他们之前经历过了一样……然后他们装作一副都是她的错，自己是无辜的样子。
 
 肯定有路子要得到一个说法的。我们不能对不起珍妮。
 
@@ -45446,7 +45446,7 @@ Chief Service Technician"""
 
 与你们听闻的相反，林技术员似乎闯入了一个为当地安防队准备的，装有应急武器库的供应橱柜。出于未明的原因，她随后敌对起来，杀死两名安防人员。另一个勇敢的安防人员在危险的救援过程中负伤。可惜的是，林技术员也被击毙。
 
-获得额外信息之后，我会优先向你们所有人报告。同时，请在此事上配合所有UAC人员。
+获得更多信息之后，我会优先向你们所有人报告。同时，请在此事上配合所有UAC人员。
 
 布拉德利·马丁
 首席服务技术员"""
@@ -45477,7 +45477,7 @@ Let me know.
 Bob"""
 """菲尔，
 
-珍妮和我准备下班后去喝两杯。你想一起么？我保证不会像上次那样出岔子。第二天早上真够我受的。
+珍妮和我准备在下班后去喝点啤酒。你想一起么？我保证不会像上次那样出岔子。伙计，第二天早上真够我受的。
 
 你决定了就告诉我。
 
@@ -45555,7 +45555,7 @@ Bradley Martin
 
 > #str_le_undgrnd_thompson_email_1_email_subject
 Technician Lin
-林技师
+林技术员
 
 > #str_le_undgrnd_thompson_email_1_email_text
 """To all Service Sub-Level Staff: 
@@ -45617,9 +45617,9 @@ Bob"""
 
 菲尔，
 
-珍妮和我准备在下班后去喝点啤酒。想要一起吗？我保证不会像上次一样失去控制的。伙计，第二天早上痛苦极了。
+珍妮和我准备在下班后去喝点啤酒。你想一起么？我保证不会像上次那样出岔子。伙计，第二天早上真够我受的。
 
-有消息就通知我。
+你决定了就告诉我。
 
 鲍勃"""
 
