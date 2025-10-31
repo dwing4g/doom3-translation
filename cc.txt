@@ -7312,7 +7312,7 @@ I sent an email off to the guy with the new code. Vargas, signing off.
 
 > #cc_pda_00000000335
 This is Nasser Adil, security chief for the Exis Labs facility. Log entry November 3, 2145.
-我是纳赛尔·阿迪尔，艾克西斯实验室设施的安全主管。日志条目，2145年11月3日。
+我是纳西尔·阿迪尔，艾克西斯实验室设施的安全主管。日志条目，2145年11月3日。
 
 > #cc_pda_00000000336
 We are seeing an increasing level of random and unexplained violence by Exis staff.
@@ -7364,7 +7364,7 @@ I fear this is not the worst of our troubles, and have requested additional secu
 
 > #cc_pda_00000000345
 To assist any immediate medical need, I have resupplied Storage Cabinet 965 with the accompanying code of 428. Sergeant Nasser Adel, out.
-为协助任何紧急医疗需求，我已重新补给965号储物柜，配套密码是428。纳赛尔·阿迪尔中士，通话结束。
+为协助任何紧急医疗需求，我已重新补给965号储物柜，配套密码是428。纳西尔·阿迪尔中士，通话结束。
 
 > #cc_pda_00000000534
 """"""
@@ -7544,7 +7544,7 @@ That'll show the stupid architect. Folsom out!
 
 > #cc_pda_00000000377
 This is Bernice Tooley, Operations Coordinator stationed in Exis Labs.
-我是伯尼斯·图利，驻扎在艾克西斯实验室的运营协调员。
+我是波妮斯·图利，驻扎在艾克西斯实验室的运营协调员。
 
 > #cc_pda_00000000378
 I would like to file my third formal complaint to Central Authority about the problems with the work environment here in Exis.
@@ -7600,7 +7600,7 @@ I suggest you reprimand the individuals responsible and take adequate measures t
 
 > #cc_pda_00000000389
 Do not make me log additional complaints. Bernice Tooley, signing off.
-别让我再记录额外的投诉了。伯尼斯·图利，通话结束。
+别让我再记录额外的投诉了。波妮斯·图利，通话结束。
 
 > #cc_pda_00000000390
 Uh, I hope this thing is working. Um, something is happening here, and no one knows what's going on.
@@ -9848,7 +9848,7 @@ We had expedition teams set up a teleporter outpost in the other dimension to li
 
 > #cc_videos_00000000327
 It was at this time I began investigating the strange stories I heard over at Delta Labs.
-正是在这个时候，我开始调查我在德尔塔实验室听到的那些奇怪的故事。
+正在这个时候，我开始调查我在德尔塔实验室听到的那些奇怪的故事。
 
 > #cc_videos_00000000241
 I managed to hack undetected into Betruger's personal logs, and what I found scared me to the core.
@@ -9864,7 +9864,7 @@ He started to push experiments, regardless of the human cost.
 
 > #cc_videos_00000000332
 His log entries into the occult and how to harness evil powers were truly frightening.
-他日志中关于神秘学以及如何驾驭邪恶力量的记录，着实令人恐惧。
+他的日志中关于神秘学以及如何驾驭邪恶力量的记录，着实令人恐惧。
 
 > #cc_videos_00000000243
 The more recent logs detailed how demons, yes, demons, contacted him through his dreams, offering him unimaginable powers.
@@ -9872,7 +9872,7 @@ The more recent logs detailed how demons, yes, demons, contacted him through his
 
 > #cc_videos_00000000244
 But they demanded he find a way to help them reclaim Earth. It was then I realized that this other dimension was Hell itself.
-但他们要求他找到帮助他们夺回地球的方法。正是在那时我意识到，这个维度就是地狱本身。
+但它们要求他找到帮助它们夺回地球的方法。正在那时我意识到，这个新维度就是地狱本身。
 
 > #cc_videos_00000000329
 By the time I realized his plan, Betruger had started the invasion.

@@ -5488,7 +5488,7 @@
 // delta3/telecontrol3.gui
 	"#str_03433"	"EPR源控制在线\n传送器 - 等待目的地\n\n上个目标 - 安保平台\n\n度数/延迟追踪等待中\n贝尔态分析等待中"
 // delta4/cabinetcode.gui
-	"#str_03434"	"设置命令ID锁104"
+	"#str_03434"	"设置命令ID锁 104"
 // delta5/info.gui
 	"#str_03435"	"UAC德尔塔研究1"
 // delta5/info.gui
@@ -10412,7 +10412,7 @@
 // le_enpro1:界面参数4
 	"#str_00200033"	"罗德斯主管"
 // le_exis2:PDA物品.名 le_exis2:界面参数1
-	"#str_00200034"	"波尼斯·图雷"
+	"#str_00200034"	"波妮斯·图利"
 	"#str_00200035"	"操作协调员"
 // le_exis2:PDA物品.名
 	"#str_00200036"	"特拉维斯·福尔瑟姆"
@@ -10710,7 +10710,7 @@
 // le_exis2:地点.名
 	"#str_00200187"	"操作连接点1"
 // le_exis2:地点.名
-	"#str_00200188"	"艾克西斯中央操作"
+	"#str_00200188"	"艾克西斯中心运营部"
 // le_exis2:地点.名
 	"#str_00200189"	"定位办公室制造"
 // le_exis2:地点.名
@@ -12410,24 +12410,24 @@
 	"#str_le_exis_lebedev_pda_post"	"艾克西斯服务部门"
 	"#str_le_exis_lebedev_pda_security"	""
 	"#str_le_exis_lebedev_pda_title"	"补给主管"
-	"#str_le_exis_tooley_audio_1_audio_info"	"来自: 波尼斯·图雷\n日期: 2145-10-18\n打开并更改: 否\n入档: 是"
+	"#str_le_exis_tooley_audio_1_audio_info"	"来自: 波妮斯·图利\n日期: 2145-10-18\n打开并更改: 否\n入档: 是"
 	"#str_le_exis_tooley_audio_1_audio_name"	"针对建设员工的正式投诉（E-29）"
-	"#str_le_exis_tooley_audio_2_audio_info"	"来自: 波尼斯·图雷\n日期: 2145-11-15\n打开并更改: 否\n入档: 是"
+	"#str_le_exis_tooley_audio_2_audio_info"	"来自: 波妮斯·图利\n日期: 2145-11-15\n打开并更改: 否\n入档: 是"
 	"#str_le_exis_tooley_audio_2_audio_name"	"紧急情况"
 	"#str_le_exis_tooley_email_1_email_date"	"2145-10-24"
 	"#str_le_exis_tooley_email_1_email_from"	"埃里克·尼尔森"
 	"#str_le_exis_tooley_email_1_email_subject"	"艾克西斯员工和日程"
-	"#str_le_exis_tooley_email_1_email_text"	"图雷小姐，\n\n我刚把月度报告提交给行动数据库，以便你审阅。即使报告中提到的数字只是象征性的，我们有可能再一次地不能实现里程碑式的工作成果。这将是连续第3个月这样子了。我真不知道要如何把这些结果报告给地球上的公司总部。\n\n当前艾克西斯员工为了让工作区域完全运作，已经加班加点得快要精疲力尽了。再加了那些奇怪的事故，如果不获得更多的资源的话，我们这里可能会很快出现真正的问题。\n\n诚挚地，\n\n埃里克·尼尔森"
-	"#str_le_exis_tooley_email_1_email_to"	"波尼斯·图雷"
+	"#str_le_exis_tooley_email_1_email_text"	"图利小姐，\n\n我刚把月度报告提交给运营数据库，以便你审阅。即使报告中提到的数字只是象征性的，我们有可能再一次地不能实现里程碑式的工作成果。这将是连续第3个月这样子了。我真不知道要如何把这些结果报告给地球上的公司总部。\n\n当前艾克西斯员工为了让工作区域完全运作，已经加班加点得快要精疲力尽了。再加了那些奇怪的事故，如果不获得更多的资源的话，我们这里可能会很快出现真正的问题。\n\n诚挚地，\n\n埃里克·尼尔森"
+	"#str_le_exis_tooley_email_1_email_to"	"波妮斯·图利"
 	"#str_le_exis_tooley_email_2_email_date"	"2145-10-04"
 	"#str_le_exis_tooley_email_2_email_from"	"哈罗德·蒙奇"
 	"#str_le_exis_tooley_email_2_email_subject"	"回复: 雇员"
 	"#str_le_exis_tooley_email_2_email_text"	"波尼斯，\n\n你认为你如痴如醉？有一次我在通讯传输室抓到一群技术员在用多出来的电锯玩真人角色扮演。什么东西让他们这么入迷到干这种蠢事？你把我上个月启动的冰淇淋社区当成员工发泄的最好地方。\n\n哈罗德·蒙奇\n运营协助\n\n----原始邮件----\n发送日期: 2145-10-03\n收件人: 哈罗德·蒙奇\n\n嗨，哈罗德，\n\n你绝对没法理解这里和我共事的白痴。今天有个员工抢到了一把抓取枪，然后开始扔运营部办公室里的凳子。我等不及在季度回顾的时候骂他们中的几个了。\n\n-波尼斯"
-	"#str_le_exis_tooley_email_2_email_to"	"波尼斯·图雷"
-	"#str_le_exis_tooley_pda_fullname"	"波尼斯·F·图雷"
+	"#str_le_exis_tooley_email_2_email_to"	"波妮斯·图利"
+	"#str_le_exis_tooley_pda_fullname"	"波妮斯·F·图利"
 	"#str_le_exis_tooley_pda_id"	"3361-03"
-	"#str_le_exis_tooley_pda_name"	"波尼斯·图雷"
-	"#str_le_exis_tooley_pda_post"	"艾克西斯中央操作"
+	"#str_le_exis_tooley_pda_name"	"波妮斯·图利"
+	"#str_le_exis_tooley_pda_post"	"艾克西斯中心运营部"
 	"#str_le_exis_tooley_pda_security"	""
 	"#str_le_exis_tooley_pda_title"	"操作协调员"
 	"#str_le_undgrnd_anders_email_0_email_date"	"2145-11-13"
@@ -13227,9 +13227,9 @@
 	"#str_tablets_video_info"	"中央管理局\n日期: 45-10-05\n\n中央管理局研究档案馆"
 	"#str_tablets_video_name"	"石碑"
 	"#str_time_remaining"	"剩余时间: %d"
-	"#str_tooley_exis_pda_01_audio_info"	"来自: 波尼斯·图雷\n日期: 2145-10-18\n打开并更改: 否\n入档: 是"
+	"#str_tooley_exis_pda_01_audio_info"	"来自: 波妮斯·图利\n日期: 2145-10-18\n打开并更改: 否\n入档: 是"
 	"#str_tooley_exis_pda_01_audio_name"	"针对建设员工的正式投诉（E-29）"
-	"#str_tooley_exis_pda_02_audio_info"	"来自: 波尼斯·图雷\n日期: 2145-11-15\n打开并更改: 否\n入档: 是"
+	"#str_tooley_exis_pda_02_audio_info"	"来自: 波妮斯·图利\n日期: 2145-11-15\n打开并更改: 否\n入档: 是"
 	"#str_tooley_exis_pda_02_audio_name"	"紧急情况"
 	"#str_uacwelcome_video_info"	"创建者: 人力资源\n日期: 45-03-05\n\n需要额外的帮助请联系你的UAC代表"
 	"#str_uacwelcome_video_name"	"欢迎来到火星研究设施一号"

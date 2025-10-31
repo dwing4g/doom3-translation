@@ -20082,7 +20082,7 @@ Bell-State analysis waiting"""
 > #str_03434
 ; delta4/cabinetcode.gui
 SET CMD ID LOCKER 104
-设置命令ID锁104
+设置命令ID锁 104
 
 > #str_03435
 ; delta5/info.gui
@@ -34939,7 +34939,7 @@ Chief Rhodes
 > #str_00200034
 ; le_exis2:PDA物品.名 le_exis2:界面参数1
 Bernice Tooley
-波尼斯·图雷
+波妮斯·图利
 
 > #str_00200035
 Operations Coordinator
@@ -35711,7 +35711,7 @@ Operations Junction 1
 > #str_00200188
 ; le_exis2:地点.名
 Exis Central Operations
-艾克西斯中央操作
+艾克西斯中心运营部
 
 > #str_00200189
 ; le_exis2:地点.名
@@ -45174,7 +45174,7 @@ Supply Manager
 Date: 10-18-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 波尼斯·图雷
+"""来自: 波妮斯·图利
 日期: 2145-10-18
 打开并更改: 否
 入档: 是"""
@@ -45188,7 +45188,7 @@ Formal Complaint Against Construction Staff (E-29)
 Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 波尼斯·图雷
+"""来自: 波妮斯·图利
 日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
@@ -45219,9 +45219,9 @@ Currently the Exis staff is burnt out from doing double shifts to get the sector
 Sincerely,
 
 Eric Nelson"""
-"""图雷小姐，
+"""图利小姐，
 
-我刚把月度报告提交给行动数据库，以便你审阅。即使报告中提到的数字只是象征性的，我们有可能再一次地不能实现里程碑式的工作成果。这将是连续第3个月这样子了。我真不知道要如何把这些结果报告给地球上的公司总部。
+我刚把月度报告提交给运营数据库，以便你审阅。即使报告中提到的数字只是象征性的，我们有可能再一次地不能实现里程碑式的工作成果。这将是连续第3个月这样子了。我真不知道要如何把这些结果报告给地球上的公司总部。
 
 当前艾克西斯员工为了让工作区域完全运作，已经加班加点得快要精疲力尽了。再加了那些奇怪的事故，如果不获得更多的资源的话，我们这里可能会很快出现真正的问题。
 
@@ -45231,7 +45231,7 @@ Eric Nelson"""
 
 > #str_le_exis_tooley_email_1_email_to
 Bernice Tooley
-波尼斯·图雷
+波妮斯·图利
 
 > #str_le_exis_tooley_email_2_email_date
 10-04-2145
@@ -45281,11 +45281,11 @@ You would not believe the idiots I have to work with here.  Today, one of the st
 
 > #str_le_exis_tooley_email_2_email_to
 Bernice Tooley
-波尼斯·图雷
+波妮斯·图利
 
 > #str_le_exis_tooley_pda_fullname
 Bernice F Tooley
-波尼斯·F·图雷
+波妮斯·F·图利
 
 > #str_le_exis_tooley_pda_id
 3361-03
@@ -45293,11 +45293,11 @@ Bernice F Tooley
 
 > #str_le_exis_tooley_pda_name
 Bernice Tooley
-波尼斯·图雷
+波妮斯·图利
 
 > #str_le_exis_tooley_pda_post
 Exis Central Operations
-艾克西斯中央操作
+艾克西斯中心运营部
 
 > #str_le_exis_tooley_pda_security
 """"""
@@ -49864,7 +49864,7 @@ Time Remaining: %d
 Date: 10-18-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 波尼斯·图雷
+"""来自: 波妮斯·图利
 日期: 2145-10-18
 打开并更改: 否
 入档: 是"""
@@ -49878,7 +49878,7 @@ Formal Complaint Against Construction Staff (E-29)
 Date: 11-15-2145
 Open for Amendment: No
 Set for Archive: Yes"""
-"""来自: 波尼斯·图雷
+"""来自: 波妮斯·图利
 日期: 2145-11-15
 打开并更改: 否
 入档: 是"""
