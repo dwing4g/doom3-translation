@@ -26593,7 +26593,7 @@ Level 1 Elevator Access
 > #str_04650
 ; delta3:地点.名
 T1 Access
-T1进入权限
+T1通道
 
 > #str_04651
 ; delta3:地点.名
@@ -31702,7 +31702,7 @@ Cargo Access
 > #str_00100418
 ; erebus5:地点.位置 erebus5:界面参数7
 Research Access
-科研区进入权限
+科研区通道
 
 > #str_00100419
 ; erebus5:地点.位置
@@ -31722,7 +31722,7 @@ Upper Cargo Storage
 > #str_00100422
 ; erebus5:地点.位置
 Waste Tunnels Access
-废料通道进入权限
+废料通道入口
 
 > #str_00100423
 ; erebus5:地点.位置 erebus5:界面参数1
@@ -34532,7 +34532,7 @@ Tomb of Uumlaut
 > #str_00101009
 ; d3xpdm2:地点.位置
 Upper Access
-上层进入权限
+上层通道
 
 > #str_00101010
 ; d3xpdm2:地点.位置
@@ -42954,7 +42954,7 @@ If you need assistance, contact Sparks and Carnagey. They're doing research with
 收件人: 里欧·艾弗里
 里欧，
 
-我需要你去厄瑞玻斯综合设施的军械库检查一下库存。情况即将出现，我们都要尽可能做好准备。
+我需要你去厄瑞玻斯综合设施的军械库检查一下库存。有情况即将发生，我们需要全员戒备以防万一。
 
 如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"""
 
@@ -42978,7 +42978,7 @@ Ammunition
 """Goddamnit! We need ammo back here YESTERDAY! What the hell Leo?! Are you hoarding it all for yourself?
 
 Sparks is shitting himself like there's no tomorrow!"""
-"""该死的！我们这里早就没有弹药了！怎么回事，里欧？！你在为自己囤积这些吗？
+"""该死的！我们这里早就没有弹药了！怎么回事，里欧？！全是为你自己囤积吗？
 
 斯帕克斯已经吓瘫了，就好像活不到明天一样！"""
 
@@ -43028,7 +43028,7 @@ Report Back!
 We need you in here NOW. Not sure what the hell is going on but if it's anything like what happened last time, we're in for a world of hurt. Get back here!"""
 """肖恩，
 
-我们需要你马上过来。虽然还不清楚这是怎么回事如果好像上次那样的话，我们就完了。马上过来！"""
+我们需要你马上过来。虽然还不清楚这是怎么回事如果还是上次那样的话，我们就完了。马上过来！"""
 
 > #str_erebus5_gibson_email_1_email_to
 Sean Gibson
@@ -43064,9 +43064,9 @@ If you need assistance, contact Sparks and Carnagey. They're doing research with
 收件人: 里欧·艾弗里
 里欧，
 
-我需要你检查厄瑞玻斯综合设施武器库的库存。有情况即将发生，我们需要全员戒备以防万一。
+我需要你去厄瑞玻斯综合设施的军械库检查一下库存。有情况即将发生，我们需要全员戒备以防万一。
 
-如果你需要协助，联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"""
+如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"""
 
 > #str_erebus5_gibson_email_2_email_to
 Sean Gibson

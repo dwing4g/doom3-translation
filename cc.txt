@@ -3404,7 +3404,7 @@ That explains Betruger's obsession with the ancient civilization.
 
 > #cc_erebus5_00000000015
 Good luck. I'll be in the Phobos Labs.
-祝你好运。我会在福波斯实验室。
+祝你好运。我会在火卫一实验室。
 
 > #cc_erebus6_00000000001
 These things have kept me alive. There are more bots around, but I've sent them into the tunnels.
@@ -7636,7 +7636,7 @@ Hello, Marine? If you're hearing this, listen to me.
 
 > #cc_phobos1_00000000012
 You must get the artifact to Delta Labs by using the Phobos experimental teleporter near your position.
-你必须使用你附近福波斯实验性传送器，将神器带到德尔塔实验室。
+你必须使用你附近火卫一实验性传送器，将神器带到德尔塔实验室。
 
 > #cc_phobos1_00000000002
 I have the information from Dr. Cloud, and the only way to end this is to bring that teleporter online and transfer to Delta.
@@ -7716,7 +7716,7 @@ Good. Now take the Skytram to the reactor complex. You can access the last two s
 
 > #cc_phobos2_00000000008
 The important thing right now is getting the Phobos teleporter online.
-现在最重要的是启动福波斯传送器。
+现在最重要的是启动火卫一传送器。
 
 > #cc_phobos2_00000000021
 There are four core systems that must be shut down before I can reroute the power to the teleporter.
@@ -7820,7 +7820,7 @@ Commencing Main Reactor Shutdown Sequence.
 
 > #cc_phobos4_00000000001
 Ron Jolson, Artifact Cryptologist, Phobos Labs.
-罗恩·乔尔森，福波斯实验室神器密码学家。
+罗恩·乔尔森，火卫一实验室神器密码学家。
 
 > #cc_phobos4_00000000002
 The team and I worked a double shift to recompile last week's data extractions.
@@ -7852,7 +7852,7 @@ It'll be nice to do something new, even though this entire mission will never yi
 
 > #cc_phobos4_00000000006
 A-A-Attention, All Phobos Personnel.
-注——注意，所有福波斯人员。
+注——注意，所有火卫一人员。
 
 > #cc_phobos4_00000000007
 Warning, Life Support Shutdown Sequence Initiated.
@@ -7860,7 +7860,7 @@ Warning, Life Support Shutdown Sequence Initiated.
 
 > #cc_phobos4_00000000008
 All Personnel are to evacuate Phobos Labs immediately.
-所有人员请立即撤离福波斯实验室。
+所有人员请立即撤离火卫一实验室。
 
 > #cc_phobos4_00000000009
 Follow evacuation procedure 4.2

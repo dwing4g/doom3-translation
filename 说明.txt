@@ -17,6 +17,7 @@ Windows 7以上, 3GB以上内存, 支持OpenGL 3.3以上的显卡(9800GT以上)
 1.因为BFA增强补丁不支持WinXP系统, WinXP系统可以只安装汉化补丁, 只是不会显示语音字幕,也没有增强功能
 2.汉化补丁调大了些语音字幕的文字, 如果想看原始大小, 可以删除汉化补丁中的 base\generated\swf\hud.bswf
 3.BFA版的存档跟原版不兼容, 也不支持原版提供的成就, 有些游戏选项只能在主界面修改,进入游戏后无法修改
+4.BFA版的存档位置在: %USERPROFILE%\Saved Games\id Software\DOOM BFA\base\savegame\
 
 # 运行方法
 启动BFA增强补丁程序: DoomBFA
