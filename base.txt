@@ -32801,12 +32801,12 @@ Activate the Teleporter
 > #str_00100652
 ; phobos1/p1_allclear.gui
 ALL CLEAR
-全部完结
+一切正常
 
 > #str_00100653
 ; phobos1/p1_allclear.gui
 SYSTEMS ON-LINE
-系统上线
+系统在线
 
 > #str_00100654
 ; phobos2/p2_mcneil_ancient.gui
@@ -40507,7 +40507,7 @@ Mitchell
 Director of Security - Delta Labs"""
 """胡克先生，
 
-我们找到了你那里的锁柜的密码，输入634就行了。
+我们找到了你那里的锁柜密码，输入634就行了。
 
 如果还有问题，随时可以来联系我们。
 
@@ -41967,7 +41967,7 @@ Evans
 Director of Security - Site One"""
 """坦纳先生，
 
-我们找到了你那里的锁柜的密码，输入516就可以了。
+我们找到了你那里的锁柜密码，输入516就可以了。
 
 如果还有问题，随时可以来联系我们。
 
@@ -42861,7 +42861,7 @@ Evans
 Director of Security - Site One"""
 """吉宾斯先生，
 
-我们找到了你那里的锁柜的密码，输入937就行了。
+我们找到了你那里的锁柜密码，输入937就行了。
 
 如果还有问题，随时可以来联系我们。
 
@@ -43154,9 +43154,9 @@ When it returns, send me your status immediately."""
 ----原始邮件----
 发送日期: 2147-3-13
 收件人: 弗雷德·格罗斯曼
-记得要把哨兵机器人部署好。我们不能冒险再让任何人在下面丧生了。
+一定要部署那个机器哨兵。我们不能在那下面损失更多人了。
 
-它回来后，就立刻把你的状态发给我。"""
+它回来后，立刻向我报告情况。"""
 
 > #str_erebus6_grossman_email_1_email_to
 Fred Grossman
@@ -43178,9 +43178,9 @@ Sentry Deployment
 """Make sure you get that sentry bot deployed. We can't take any chances on losing more men down there.
 
 When it returns, send me your status immediately."""
-"""一定要部署那个机器哨兵。我们不能再损失更多人了。
+"""一定要部署那个机器哨兵。我们不能在那下面损失更多人了。
 
-它回来的时候，立刻向我报告情况。"""
+它回来后，立刻向我报告情况。"""
 
 > #str_erebus6_grossman_email_2_email_to
 Fred Grossman
@@ -43209,7 +43209,7 @@ Evans
 Director of Security - Site One"""
 """格罗斯曼先生，
 
-我们找到了你那里的锁柜的密码，输入134就行了。
+我们找到了你那里的锁柜密码，输入134就行了。
 
 如果还有问题，随时可以来联系我们。
 
@@ -47561,7 +47561,7 @@ Roberts
 Director of Security - Phobos Labs"""
 """伯纳德，
 你似乎还没有更改储存柜的密码！
-请注意，你将会为任何任何事物的遗失。
+请注意，你将会为任何事物的遗失负责。
 罗伯茨
 安全部主管——火卫一实验室"""
 

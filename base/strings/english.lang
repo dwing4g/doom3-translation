@@ -7584,7 +7584,7 @@
 // delta3:地点.名 delta5:地点.位置
 	"#str_04649"	"1层电梯通道"
 // delta3:地点.名
-	"#str_04650"	"T1进入权限"
+	"#str_04650"	"T1通道"
 // delta3:地点.名
 	"#str_04651"	"T1观察区 - 上层"
 // delta3:地点.名
@@ -9294,7 +9294,7 @@
 // erebus5:界面参数7
 	"#str_00100417"	"货物通道"
 // erebus5:地点.位置 erebus5:界面参数7
-	"#str_00100418"	"科研区进入权限"
+	"#str_00100418"	"科研区通道"
 // erebus5:地点.位置
 	"#str_00100419"	"科研区域2"
 // erebus5:地点.位置
@@ -9302,7 +9302,7 @@
 // erebus5:地点.位置
 	"#str_00100421"	"上层货物仓库"
 // erebus5:地点.位置
-	"#str_00100422"	"废料通道进入权限"
+	"#str_00100422"	"废料通道入口"
 // erebus5:地点.位置 erebus5:界面参数1
 	"#str_00100423"	"废料通道"
 // erebus5:物品目标完成.标题 erebus5:物品目标.标题 erebus5:地点.位置
@@ -9683,9 +9683,9 @@
 	"#str_00100650"	"设法用实验传送器到达德尔塔实验室"
 	"#str_00100651"	"激活传送器"
 // phobos1/p1_allclear.gui
-	"#str_00100652"	"全部完结"
+	"#str_00100652"	"一切正常"
 // phobos1/p1_allclear.gui
-	"#str_00100653"	"系统上线"
+	"#str_00100653"	"系统在线"
 // phobos2/p2_mcneil_ancient.gui
 	"#str_00100654"	"火卫一实验室研究站ID: 65-0407"
 // phobos2/p2_mcneil_ancient.gui
@@ -10254,7 +10254,7 @@
 // d3xpdm2:地点.位置
 	"#str_00101008"	"乌姆劳特之墓"
 // d3xpdm2:地点.位置
-	"#str_00101009"	"上层进入权限"
+	"#str_00101009"	"上层通道"
 // d3xpdm2:地点.位置
 	"#str_00101010"	"地下入口"
 // d3xpdm2:地点.位置
@@ -11584,7 +11584,7 @@
 	"#str_deltax_hook_email_1_email_date"	"2147-3-13"
 	"#str_deltax_hook_email_1_email_from"	"security@EC.net"
 	"#str_deltax_hook_email_1_email_subject"	"回复: 仓库锁柜"
-	"#str_deltax_hook_email_1_email_text"	"胡克先生，\n\n我们找到了你那里的锁柜的密码，输入634就行了。\n\n如果还有问题，随时可以来联系我们。\n\n米切尔\n安全主管 - 德尔塔实验室"
+	"#str_deltax_hook_email_1_email_text"	"胡克先生，\n\n我们找到了你那里的锁柜密码，输入634就行了。\n\n如果还有问题，随时可以来联系我们。\n\n米切尔\n安全主管 - 德尔塔实验室"
 	"#str_deltax_hook_email_1_email_to"	"帕特里克·胡克"
 	"#str_deltax_hook_pda_fullname"	"帕特里克·胡克"
 	"#str_deltax_hook_pda_id"	"1970-34"
@@ -11883,7 +11883,7 @@
 	"#str_erebus2_tanner_email_2_email_date"	"2147-3-13"
 	"#str_erebus2_tanner_email_2_email_from"	"security@EC.net"
 	"#str_erebus2_tanner_email_2_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus2_tanner_email_2_email_text"	"坦纳先生，\n\n我们找到了你那里的锁柜的密码，输入516就可以了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
+	"#str_erebus2_tanner_email_2_email_text"	"坦纳先生，\n\n我们找到了你那里的锁柜密码，输入516就可以了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
 	"#str_erebus2_tanner_email_2_email_to"	"马库斯·坦纳"
 	"#str_erebus2_tanner_pda_fullname"	"马库斯·H.坦纳"
 	"#str_erebus2_tanner_pda_id"	"4014-13"
@@ -12013,7 +12013,7 @@
 	"#str_erebus4_ron_email_1_email_date"	"2147-3-14"
 	"#str_erebus4_ron_email_1_email_from"	"security@EC.net"
 	"#str_erebus4_ron_email_1_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus4_ron_email_1_email_text"	"吉宾斯先生，\n\n我们找到了你那里的锁柜的密码，输入937就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
+	"#str_erebus4_ron_email_1_email_text"	"吉宾斯先生，\n\n我们找到了你那里的锁柜密码，输入937就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
 	"#str_erebus4_ron_email_1_email_to"	"罗恩·吉宾斯"
 	"#str_erebus4_ron_email_2_email_date"	"2147-3-10"
 	"#str_erebus4_ron_email_2_email_from"	"内森·G.雷诺兹"
@@ -12029,12 +12029,12 @@
 	"#str_erebus5_avery_email_1_email_date"	"2147-3-15"
 	"#str_erebus5_avery_email_1_email_from"	"伊丽莎白·麦克内尔"
 	"#str_erebus5_avery_email_1_email_subject"	"回复: 准备"
-	"#str_erebus5_avery_email_1_email_text"	"下面那边情况怎么样？那片区域安全了吗？我们的一名成员很快就会过去。确保他能得到所需的东西。\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 里欧·艾弗里\n里欧，\n\n我需要你去厄瑞玻斯综合设施的军械库检查一下库存。情况即将出现，我们都要尽可能做好准备。\n\n如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"
+	"#str_erebus5_avery_email_1_email_text"	"下面那边情况怎么样？那片区域安全了吗？我们的一名成员很快就会过去。确保他能得到所需的东西。\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 里欧·艾弗里\n里欧，\n\n我需要你去厄瑞玻斯综合设施的军械库检查一下库存。有情况即将发生，我们需要全员戒备以防万一。\n\n如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"
 	"#str_erebus5_avery_email_1_email_to"	"里欧·艾弗里"
 	"#str_erebus5_avery_email_2_email_date"	"2147-3-15"
 	"#str_erebus5_avery_email_2_email_from"	"詹姆斯·卡纳基"
 	"#str_erebus5_avery_email_2_email_subject"	"弹药"
-	"#str_erebus5_avery_email_2_email_text"	"该死的！我们这里早就没有弹药了！怎么回事，里欧？！你在为自己囤积这些吗？\n\n斯帕克斯已经吓瘫了，就好像活不到明天一样！"
+	"#str_erebus5_avery_email_2_email_text"	"该死的！我们这里早就没有弹药了！怎么回事，里欧？！全是为你自己囤积吗？\n\n斯帕克斯已经吓瘫了，就好像活不到明天一样！"
 	"#str_erebus5_avery_email_2_email_to"	"里欧·艾弗里"
 	"#str_erebus5_avery_pda_fullname"	"伦纳德·艾弗里"
 	"#str_erebus5_avery_pda_id"	"1976-84"
@@ -12045,12 +12045,12 @@
 	"#str_erebus5_gibson_email_1_email_date"	"2147-3-15"
 	"#str_erebus5_gibson_email_1_email_from"	"里欧·艾弗里"
 	"#str_erebus5_gibson_email_1_email_subject"	"快应答！"
-	"#str_erebus5_gibson_email_1_email_text"	"肖恩，\n\n我们需要你马上过来。虽然还不清楚这是怎么回事如果好像上次那样的话，我们就完了。马上过来！"
+	"#str_erebus5_gibson_email_1_email_text"	"肖恩，\n\n我们需要你马上过来。虽然还不清楚这是怎么回事如果还是上次那样的话，我们就完了。马上过来！"
 	"#str_erebus5_gibson_email_1_email_to"	"肖恩·吉布森"
 	"#str_erebus5_gibson_email_2_email_date"	"2147-3-15"
 	"#str_erebus5_gibson_email_2_email_from"	"里欧·艾弗里"
 	"#str_erebus5_gibson_email_2_email_subject"	"转发: 准备"
-	"#str_erebus5_gibson_email_2_email_text"	"我们迫切需要弹药。麦克内尔博士发来一条信息说，我们得做好遭遇来犯并且随时协助还击的准备。检查货运隧道中的补给然后迅速汇报。\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 里欧·艾弗里\n里欧，\n\n我需要你检查厄瑞玻斯综合设施武器库的库存。有情况即将发生，我们需要全员戒备以防万一。\n\n如果你需要协助，联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"
+	"#str_erebus5_gibson_email_2_email_text"	"我们迫切需要弹药。麦克内尔博士发来一条信息说，我们得做好遭遇来犯并且随时协助还击的准备。检查货运隧道中的补给然后迅速汇报。\n\n----原始邮件----\n发送日期: 2147-3-14\n收件人: 里欧·艾弗里\n里欧，\n\n我需要你去厄瑞玻斯综合设施的军械库检查一下库存。有情况即将发生，我们需要全员戒备以防万一。\n\n如果你需要帮助，请联系斯帕克斯和卡纳吉。他们正在你的综合设施内进行研究。"
 	"#str_erebus5_gibson_email_2_email_to"	"肖恩·吉布森"
 	"#str_erebus5_gibson_email_3_email_date"	"2147-3-14"
 	"#str_erebus5_gibson_email_3_email_from"	"维克托·哈尔科夫"
@@ -12066,17 +12066,17 @@
 	"#str_erebus6_grossman_email_1_email_date"	"2147-3-14"
 	"#str_erebus6_grossman_email_1_email_from"	"伊丽莎白·麦克内尔"
 	"#str_erebus6_grossman_email_1_email_subject"	"回复: 哨兵部署"
-	"#str_erebus6_grossman_email_1_email_text"	"弗雷德，\n\n我开始担心了。下面的情况怎么样？我们需要尽快进去。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 弗雷德·格罗斯曼\n记得要把哨兵机器人部署好。我们不能冒险再让任何人在下面丧生了。\n\n它回来后，就立刻把你的状态发给我。"
+	"#str_erebus6_grossman_email_1_email_text"	"弗雷德，\n\n我开始担心了。下面的情况怎么样？我们需要尽快进去。\n\n----原始邮件----\n发送日期: 2147-3-13\n收件人: 弗雷德·格罗斯曼\n一定要部署那个机器哨兵。我们不能在那下面损失更多人了。\n\n它回来后，立刻向我报告情况。"
 	"#str_erebus6_grossman_email_1_email_to"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_email_2_email_date"	"2147-3-13"
 	"#str_erebus6_grossman_email_2_email_from"	"伊丽莎白·麦克内尔"
 	"#str_erebus6_grossman_email_2_email_subject"	"哨兵部署"
-	"#str_erebus6_grossman_email_2_email_text"	"一定要部署那个机器哨兵。我们不能再损失更多人了。\n\n它回来的时候，立刻向我报告情况。"
+	"#str_erebus6_grossman_email_2_email_text"	"一定要部署那个机器哨兵。我们不能在那下面损失更多人了。\n\n它回来后，立刻向我报告情况。"
 	"#str_erebus6_grossman_email_2_email_to"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_email_3_email_date"	"2147-3-13"
 	"#str_erebus6_grossman_email_3_email_from"	"security@EC.net"
 	"#str_erebus6_grossman_email_3_email_subject"	"回复: 仓库锁柜"
-	"#str_erebus6_grossman_email_3_email_text"	"格罗斯曼先生，\n\n我们找到了你那里的锁柜的密码，输入134就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
+	"#str_erebus6_grossman_email_3_email_text"	"格罗斯曼先生，\n\n我们找到了你那里的锁柜密码，输入134就行了。\n\n如果还有问题，随时可以来联系我们。\n\n伊文斯\n安全主管 - 一号站点"
 	"#str_erebus6_grossman_email_3_email_to"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_pda_fullname"	"弗雷德·格罗斯曼"
 	"#str_erebus6_grossman_pda_id"	"1991-62"
@@ -12798,7 +12798,7 @@
 	"#str_phobos1_fresko_email_1_email_date"	"2147-1-12"
 	"#str_phobos1_fresko_email_1_email_from"	"security@EC.net"
 	"#str_phobos1_fresko_email_1_email_subject"	"回复: 仓库锁柜"
-	"#str_phobos1_fresko_email_1_email_text"	"伯纳德，\n你似乎还没有更改储存柜的密码！\n请注意，你将会为任何任何事物的遗失。\n罗伯茨\n安全部主管——火卫一实验室"
+	"#str_phobos1_fresko_email_1_email_text"	"伯纳德，\n你似乎还没有更改储存柜的密码！\n请注意，你将会为任何事物的遗失负责。\n罗伯茨\n安全部主管——火卫一实验室"
 	"#str_phobos1_fresko_email_1_email_to"	"伯纳德·弗拉斯科"
 	"#str_phobos1_fresko_email_2_email_date"	"2147-1-10"
 	"#str_phobos1_fresko_email_2_email_from"	"security@EC.net"
