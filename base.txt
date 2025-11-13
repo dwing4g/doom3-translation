@@ -25713,7 +25713,7 @@ Chamber Junction 3
 > #str_04474
 ; caverns2:地点.名
 The Gallery
-画廊
+展廊
 
 > #str_04475
 ; comm1:地点.名 comm1:地点.位置
@@ -32019,7 +32019,7 @@ Reception
 > #str_00100484
 ; phobos2:地点.位置
 Artifact Gallery
-遗物画廊
+遗物展廊
 
 > #str_00100485
 ; phobos2:地点.位置
@@ -32060,7 +32060,7 @@ Research Sector B
 > #str_00100493
 ; phobos2:界面参数1
 Gallery
-画廊
+展廊
 
 > #str_00100494
 ; phobos2:界面参数2 phobos2:界面参数1
@@ -44373,7 +44373,7 @@ Special Thanks
 Most of all, I have to thank my 'bagel-chick' Emmy! Thank you for all those nights I came home late and you were there waiting. Thank you for your love and inspiration. Thank you for being a better girlfriend than I could ever ask for!
 
 -eric"""
-"""感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。
+"""感谢安迪和弗雷德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。
 
 最重要的，我要感谢我的“煮饭婆”艾米！我为那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好女友而感谢你！
 
@@ -47696,7 +47696,7 @@ We are planning another big game this Friday here at Site One. I have already ta
 Take care,
 -VK"""
 """你好，戴维！
-我们计划这星期五在一号站点再搞一次大比赛。我已经自己邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！
+我们计划这星期五在一号站点再搞一次大比赛。我自己已经邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！
 
 保重，
 -VK"""
@@ -47787,7 +47787,7 @@ Fred Grossman
 
 > #str_phobos2_killian_email_1_email_subject
 RE: Artifact Gallery
-回复: 遗物画廊
+回复: 遗物展廊
 
 > #str_phobos2_killian_email_1_email_text
 """Seth,
@@ -47810,8 +47810,8 @@ You probably think I'm nuts but I don't care, I just don't like it here.
 Seth"""
 """赛斯，
 
-说真的，我不认为交换会使你过的好受些。这儿已经彻底失控了。我没看见什么也没听见不对劲的东西，但我发誓，肯定出了什么事。但我不能明确的指出到底是怎么了。
-我只想完成我的赶紧离开这儿。
+说真的，我不认为交换会使你过的好受些。这儿已经彻底失控了。我没看见什么也没听见不对劲的东西，但我发誓，肯定出了什么事。但我不能明确地指出到底是怎么了。
+我只想完成我的工作赶紧离开这儿。
 
 弗雷德
 
@@ -47819,9 +47819,9 @@ Seth"""
 发送日期: 2174-3-13
 收件人: 弗雷德·格罗斯曼
 
-弗莱德，
+弗雷德，
 
-我想知道跟我交换是什么感觉。我宁愿在厄瑞玻斯工作也不来这火卫一。这里令人毛骨悚然，我发誓昨晚我在工艺品展廊绝对看到了什么东西，转眼就消失了。
+我想知道跟我交换是什么感觉。我宁愿在厄瑞玻斯工作也不来这火卫一。这里令人毛骨悚然，我发誓昨晚我在遗物展廊绝对看到了什么东西，转眼就消失了。
 
 我不在乎你是不是以为我疯了，我只是不喜欢这儿。
 
@@ -47878,7 +47878,7 @@ Elizabeth McNeil
 Director of Research - Phobos Labs"""
 """基斯，
 
-我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感，如果你能保证细心看着它让它完好无损的来到我的办公室，我会不胜感激！
+我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感，如果你能保证细心看着它让它完好无损地来到我的办公室，我会不胜感激！
 
 谢谢！
 
@@ -47955,7 +47955,7 @@ Elizabeth McNeil
 
 > #str_phobos2_owens_email_1_email_subject
 Soda Consumption
-碱耗
+汽水消耗
 
 > #str_phobos2_owens_email_1_email_text
 """All,
@@ -48005,7 +48005,7 @@ Do you guys up at Phobos still get the free shipments of soda delivered? If you 
 -VK
 
 P.S.
-你们这些火卫一上面的家伙还是有免费的苏打水运输吗？你要是能带上几罐下来就太好了！"""
+你们这些火卫一上面的家伙还有免费的汽水送来吗？你要是能带上几罐下来就太好了！"""
 
 > #str_phobos2_owens_email_2_email_to
 James Owens
@@ -48086,7 +48086,7 @@ Elizabeth McNeil
 Director of Research - Phobos Labs"""
 """所有人，
 
-我要感谢那些人忽略了我之前三封关于会议室椅子的邮件，现在以所有的椅子已经被固定在地板上了。我很明确的说明了，不能骑着转椅到处跑，也不能把椅子带出会议室。同事们，请你们专业一点。我向那些没有参与恶作剧行为的人们抱歉，要怪你们只能怪那些幼稚到偷椅子的同事们。
+我要感谢那些人忽略了我之前三封关于会议室椅子的邮件，现在所有的椅子都已经被固定在地板上了。我很明确地说明了，不能骑着转椅到处跑，也不能把椅子带出会议室。同事们，请你们专业一点。我向那些没有参与恶作剧行为的人们抱歉，要怪你们只能怪那些幼稚到偷椅子的同事们。
 
 我再次为带来的不便深表歉意。
 
@@ -48119,7 +48119,7 @@ P4研究小队
 
 > #str_phobos2_owens_pda_title
 Research Officer
-研究馆员
+研究员
 
 > #str_phobos3_haag_email_1_email_date
 3-13-2147
