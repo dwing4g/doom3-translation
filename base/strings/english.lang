@@ -3202,7 +3202,7 @@
 	"#str_01863"	"选项"
 	"#str_01864"	"制作人员"
 	"#str_01865"	"退出"
-	"#str_01866"	"新游戏 (汉化v20251031)"
+	"#str_01866"	"新游戏 (汉化v20251115)"
 	"#str_01867"	"载入游戏"
 	"#str_01868"	"试玩"
 	"#str_01869"	"位置: 德尔塔"
@@ -7232,7 +7232,7 @@
 // caverns2:地点.名
 	"#str_04473"	"房间连接点3"
 // caverns2:地点.名
-	"#str_04474"	"画廊"
+	"#str_04474"	"展廊"
 // comm1:地点.名 comm1:地点.位置
 	"#str_04475"	"通讯大厅"
 // comm1:地点.名
@@ -9413,7 +9413,7 @@
 // phobos2:地点.位置
 	"#str_00100483"	"接待"
 // phobos2:地点.位置
-	"#str_00100484"	"遗物画廊"
+	"#str_00100484"	"遗物展廊"
 // phobos2:地点.位置
 	"#str_00100485"	"科研区大厅"
 // phobos2:地点.位置 phobos2:界面参数1
@@ -9427,7 +9427,7 @@
 // phobos2:界面参数1 phobos2:地点.位置
 	"#str_00100492"	"科研区域B"
 // phobos2:界面参数1
-	"#str_00100493"	"画廊"
+	"#str_00100493"	"展廊"
 // phobos2:界面参数2 phobos2:界面参数1
 	"#str_00100494"	"科研区安保部门"
 	"#str_00100495"	"研究实验室A"
@@ -12268,7 +12268,7 @@
 	"#str_id_24_email_date"	"2145-11-16"
 	"#str_id_24_email_from"	"埃里克·韦伯"
 	"#str_id_24_email_subject"	"特别感谢"
-	"#str_id_24_email_text"	"感谢安迪和福莱德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。\n\n最重要的，我要感谢我的“煮饭婆”艾米！我为那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好女友而感谢你！\n\n-埃里克"
+	"#str_id_24_email_text"	"感谢安迪和弗雷德告诉我我应该知道的事情，并让我意识到自己应该做什么。感谢妈妈和爸爸能够理解我好几个月都没有去看他们。\n\n最重要的，我要感谢我的“煮饭婆”艾米！我为那些我很晚回家你却仍然在等待的夜晚而感谢你。为了你的爱和激励而感谢你。为了你这位我做梦都没有想过能得到的最好女友而感谢你！\n\n-埃里克"
 	"#str_id_24_email_to"	"Doom玩家"
 	"#str_id_25_email_date"	"2145-11-16"
 	"#str_id_25_email_from"	"布莱恩·哈里斯"
@@ -12824,7 +12824,7 @@
 	"#str_phobos2_edens_email_1_email_date"	"2147-3-13"
 	"#str_phobos2_edens_email_1_email_from"	"维克托·哈尔科夫"
 	"#str_phobos2_edens_email_1_email_subject"	"星期五打牌！"
-	"#str_phobos2_edens_email_1_email_text"	"你好，戴维！\n我们计划这星期五在一号站点再搞一次大比赛。我已经自己邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！\n\n保重，\n-VK"
+	"#str_phobos2_edens_email_1_email_text"	"你好，戴维！\n我们计划这星期五在一号站点再搞一次大比赛。我自己已经邀请了你的朋友詹姆斯一起来。咱们对于他的研究员薪水都十分清楚！希望上个月的比赛过后咱们没有把他吓到，哈哈！你要是想参加就告诉我，兄弟！\n\n保重，\n-VK"
 	"#str_phobos2_edens_email_1_email_to"	"戴维·伊登斯"
 	"#str_phobos2_edens_email_2_email_date"	"2147-3-12"
 	"#str_phobos2_edens_email_2_email_from"	"伊丽莎白·麦克内尔"
@@ -12841,8 +12841,8 @@
 	"#str_phobos2_killian_audio_1_audio_name"	"帮助我"
 	"#str_phobos2_killian_email_1_email_date"	"2147-3-14"
 	"#str_phobos2_killian_email_1_email_from"	"弗雷德·格罗斯曼"
-	"#str_phobos2_killian_email_1_email_subject"	"回复: 遗物画廊"
-	"#str_phobos2_killian_email_1_email_text"	"赛斯，\n\n说真的，我不认为交换会使你过的好受些。这儿已经彻底失控了。我没看见什么也没听见不对劲的东西，但我发誓，肯定出了什么事。但我不能明确的指出到底是怎么了。\n我只想完成我的赶紧离开这儿。\n\n弗雷德\n\n----原始邮件----\n发送日期: 2174-3-13\n收件人: 弗雷德·格罗斯曼\n\n弗莱德，\n\n我想知道跟我交换是什么感觉。我宁愿在厄瑞玻斯工作也不来这火卫一。这里令人毛骨悚然，我发誓昨晚我在工艺品展廊绝对看到了什么东西，转眼就消失了。\n\n我不在乎你是不是以为我疯了，我只是不喜欢这儿。\n\n赛斯"
+	"#str_phobos2_killian_email_1_email_subject"	"回复: 遗物展廊"
+	"#str_phobos2_killian_email_1_email_text"	"赛斯，\n\n说真的，我不认为交换会使你过的好受些。这儿已经彻底失控了。我没看见什么也没听见不对劲的东西，但我发誓，肯定出了什么事。但我不能明确地指出到底是怎么了。\n我只想完成我的工作赶紧离开这儿。\n\n弗雷德\n\n----原始邮件----\n发送日期: 2174-3-13\n收件人: 弗雷德·格罗斯曼\n\n弗雷德，\n\n我想知道跟我交换是什么感觉。我宁愿在厄瑞玻斯工作也不来这火卫一。这里令人毛骨悚然，我发誓昨晚我在遗物展廊绝对看到了什么东西，转眼就消失了。\n\n我不在乎你是不是以为我疯了，我只是不喜欢这儿。\n\n赛斯"
 	"#str_phobos2_killian_email_1_email_to"	"赛斯·J.基里安"
 	"#str_phobos2_killian_pda_fullname"	"赛斯·J.基里安"
 	"#str_phobos2_killian_pda_id"	"2525-11"
@@ -12853,7 +12853,7 @@
 	"#str_phobos2_noordzy_email_1_email_date"	"2147-3-13"
 	"#str_phobos2_noordzy_email_1_email_from"	"伊丽莎白·麦克内尔"
 	"#str_phobos2_noordzy_email_1_email_subject"	"遗物运输"
-	"#str_phobos2_noordzy_email_1_email_text"	"基斯，\n\n我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感，如果你能保证细心看着它让它完好无损的来到我的办公室，我会不胜感激！\n\n谢谢！\n\n伊丽莎白·麦克内尔\n研究主管 - 火卫一实验室"
+	"#str_phobos2_noordzy_email_1_email_text"	"基斯，\n\n我正在期待这一周从厄瑞玻斯综合设施运来的遗物。这些东西非常敏感，如果你能保证细心看着它让它完好无损地来到我的办公室，我会不胜感激！\n\n谢谢！\n\n伊丽莎白·麦克内尔\n研究主管 - 火卫一实验室"
 	"#str_phobos2_noordzy_email_1_email_to"	"基斯·努吉"
 	"#str_phobos2_noordzy_email_2_email_date"	"2147-3-14"
 	"#str_phobos2_noordzy_email_2_email_from"	"火卫一安保部门"
@@ -12868,13 +12868,13 @@
 	"#str_phobos2_noordzy_pda_title"	"安全主管"
 	"#str_phobos2_owens_email_1_email_date"	"2147-3-13"
 	"#str_phobos2_owens_email_1_email_from"	"伊丽莎白·麦克内尔"
-	"#str_phobos2_owens_email_1_email_subject"	"碱耗"
+	"#str_phobos2_owens_email_1_email_subject"	"汽水消耗"
 	"#str_phobos2_owens_email_1_email_text"	"所有人员\n\n请对休息室中的免费汽水客气一些。UAC总部很难得的为我们研究部门的所有人提供了免费的汽水。最近，我注意到（也有人抱怨）冰箱中的汽水在刚补充好的几小时后就被喝光了。请控制自己每天只喝一到两罐，这样所有人才都有份。如果问题依旧的话，我们将被迫取消免费汽水的供给并改用自动贩卖机。\n\n谢谢合作！\n\n伊丽莎白·麦克内尔\n研究主管 - 火卫一实验室"
 	"#str_phobos2_owens_email_1_email_to"	"詹姆斯·欧文斯"
 	"#str_phobos2_owens_email_2_email_date"	"2147-3-13"
 	"#str_phobos2_owens_email_2_email_from"	"维克托·哈尔科夫"
 	"#str_phobos2_owens_email_2_email_subject"	"星期五打牌！"
-	"#str_phobos2_owens_email_2_email_text"	"你好，詹姆斯！\n我们计划这星期五在一号站点再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！\n\n-VK\n\nP.S.\n你们这些火卫一上面的家伙还是有免费的苏打水运输吗？你要是能带上几罐下来就太好了！"
+	"#str_phobos2_owens_email_2_email_text"	"你好，詹姆斯！\n我们计划这星期五在一号站点再搞一次大比赛。你要是知道怎么过来，你和你的研究员兄弟都欢迎参加。我最近听说，单轨已经修好了而且又可以正常使用了。你要是可以参加就告诉我，你来我们会很高兴的！\n\n-VK\n\nP.S.\n你们这些火卫一上面的家伙还有免费的汽水送来吗？你要是能带上几罐下来就太好了！"
 	"#str_phobos2_owens_email_2_email_to"	"詹姆斯·欧文斯"
 	"#str_phobos2_owens_email_3_email_date"	"2147-3-11"
 	"#str_phobos2_owens_email_3_email_from"	"security@pL.net"
@@ -12884,14 +12884,14 @@
 	"#str_phobos2_owens_email_4_email_date"	"2147-3-13"
 	"#str_phobos2_owens_email_4_email_from"	"伊丽莎白·麦克内尔"
 	"#str_phobos2_owens_email_4_email_subject"	"会议室椅子……"
-	"#str_phobos2_owens_email_4_email_text"	"所有人，\n\n我要感谢那些人忽略了我之前三封关于会议室椅子的邮件，现在以所有的椅子已经被固定在地板上了。我很明确的说明了，不能骑着转椅到处跑，也不能把椅子带出会议室。同事们，请你们专业一点。我向那些没有参与恶作剧行为的人们抱歉，要怪你们只能怪那些幼稚到偷椅子的同事们。\n\n我再次为带来的不便深表歉意。\n\n伊丽莎白·麦克内尔\n研究组总监 - 火卫一实验室"
+	"#str_phobos2_owens_email_4_email_text"	"所有人，\n\n我要感谢那些人忽略了我之前三封关于会议室椅子的邮件，现在所有的椅子都已经被固定在地板上了。我很明确地说明了，不能骑着转椅到处跑，也不能把椅子带出会议室。同事们，请你们专业一点。我向那些没有参与恶作剧行为的人们抱歉，要怪你们只能怪那些幼稚到偷椅子的同事们。\n\n我再次为带来的不便深表歉意。\n\n伊丽莎白·麦克内尔\n研究组总监 - 火卫一实验室"
 	"#str_phobos2_owens_email_4_email_to"	"詹姆斯·欧文斯"
 	"#str_phobos2_owens_pda_fullname"	"詹姆斯·欧文斯"
 	"#str_phobos2_owens_pda_id"	"1969-24"
 	"#str_phobos2_owens_pda_name"	"詹姆斯·欧文斯"
 	"#str_phobos2_owens_pda_post"	"火卫一实验室"
 	"#str_phobos2_owens_pda_security"	"P4研究小队"
-	"#str_phobos2_owens_pda_title"	"研究馆员"
+	"#str_phobos2_owens_pda_title"	"研究员"
 	"#str_phobos3_haag_email_1_email_date"	"2147-3-13"
 	"#str_phobos3_haag_email_1_email_from"	"凯利·加兰德"
 	"#str_phobos3_haag_email_1_email_subject"	"现在就去再融资吧！！"
