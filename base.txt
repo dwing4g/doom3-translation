@@ -12471,7 +12471,7 @@ quit
 
 > #str_01866
 New Game
-新游戏 (汉化v20251115)
+新游戏 (汉化v20251224)
 
 > #str_01867
 Load Game
@@ -39290,7 +39290,7 @@ Ben Peterson
 
 > #str_delta2a_raleigh_email_1_email_subject
 Anti psychotics shipment in today
-抗精神疾病药物鱼今天到达。
+抗精神疾病药物于今天到达。
 
 > #str_delta2a_raleigh_email_1_email_text
 """Dr Raleigh,

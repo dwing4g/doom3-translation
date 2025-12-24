@@ -11,6 +11,7 @@ Windows 7以上, 3GB以上内存, 支持OpenGL 3.3以上的显卡(9800GT以上)
   Windows Store: https://www.xbox.com/zh-CN/games/store/doom-3/9nsl68d814gc
 2.安装(解压覆盖)了BFA增强补丁, 发布在 https://github.com/MadDeCoDeR/Classic-RBDOOM-3-BFG/releases
   BFA补丁通常选择最新版本的 windows-RC-retail-x64.zip, 32位系统应选择 windows-RC-retail-x86.zip
+  如果有Classic_Edition和Standard_Edition之分,选择Standard_Edition,其中集成了64和32位各版本,只需解出所需版本
 3.然后解压覆盖此汉化补丁, 补丁和本体的base文件夹要对应
 
 # 其它说明
@@ -41,8 +42,10 @@ dr.消亡
 晨魔
 魅魔だよ
 一俩仨
+甜甜小白兔
 
 # 更新历史
+2025-12-24 修正两处译文
 2025-11-15 完成全部实测并修正一些译文
 2025-10-31 实测并修正一些译文
 2025-10-29 实测并修正一些译文,提高一些语音字幕文字大小
