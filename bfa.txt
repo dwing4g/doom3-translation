@@ -230,6 +230,10 @@ Center Camera
 Virtual Reality
 虚拟现实
 
+> #str_dlg_older_incompatible_savegame
+This save is from an older version of the game and cannot be loaded.
+此存档是旧版游戏引擎保存的，无法加载。
+
 > #str_swf_custom_game
 Mod Name
 模组名称
